@@ -27,8 +27,14 @@ async function loadNews() {
             card.style.animationDelay = `${index * 0.1}s`;
             card.style.cursor = 'pointer';
 
+            // Format time (HH:mm) from the update timestamp
+            const updateTime = data.last_updated ? data.last_updated.split(' ')[1].substring(0, 5) : '--:--';
+
             card.innerHTML = `
-                <span class="source-tag">${item.source}</span>
+                <div class="card-meta">
+                    <span class="category-tag">${item.category || '경제'}</span>
+                    <span class="time-tag">${updateTime} 업데이트</span>
+                </div>
                 <h3>${item.title}</h3>
                 <div class="summary">${item.summary || item.description || '내용을 불러오는 중...'}</div>
             `;

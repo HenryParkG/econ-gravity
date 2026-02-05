@@ -54,6 +54,7 @@ def fetch_economic_news():
                     {{
                         "title": "뉴스 제목 (마치 개별 기사처럼 매력적으로 작성)",
                         "source": "출처 (원문 출처 표기)",
+                        "category": "카테고리 (예: 금융, 테크, 시장, 정책 등 2~4글자)",
                         "summary": "목록에서 보여줄 짧은 요약 (1~2문장)",
                         "content": "AI가 재구성한 상세 리포트 내용 (markdown 형식 사용 가능)",
                         "image_prompt": "An artistic and clean digital illustration about [topic], high quality, financial aesthetic, 16:9"
