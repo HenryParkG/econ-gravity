@@ -156,28 +156,48 @@ def fetch_economic_news():
     # RE-GENERATE IMAGES FOR ALL ITEMS
     print(f"Regenerating images for {len(merged_items)} items...")
     
+    # Safe, diverse visual themes to guarantee no fallback images
+    safe_themes = [
+        "Futuristic Financial District at Night", "Glowing Blue Stock Market Graph", "Abstract Digital Network Connections", 
+        "Gold Bars and Silver Coins", "High Tech Server Room aesthetic", "Global World Map with Data Lines", 
+        "Modern Glass Skyscraper Low Angle", "Cyberpunk City Street with Neon Lights", "Minimalist White Business Desk", 
+        "Blue Architectural Blueprint Schematics", "Busy Shipping Container Port Aerial View", "Electric Vehicle Charging Station", 
+        "Green Energy Wind Turbines on a Hill", "Robotic Arm Assembly Line", "Artificial Intelligence Digital Brain",
+        "Bitcoin and Cryptocurrency Coins", "Abstract Geometric 3D Shapes", "Stock Exchange Trading Floor Blur",
+        "Rocket Launching into Space", "Drone Delivering Package", "Smart City Traffic Lights",
+        "VR Headset Man Using Interface", "Microchip Processor Macro Shot", "Solar Panels on Roof",
+        "Hydroponic Future Farm", "Molecular Structure Science", "DNA Helix Glowing",
+        "Cyber Security Padlock Concept", "Cloud Computing Data Center", "5G Network Tower",
+        "Smart Watch Wearable Tech", "Autonomous Self Driving Car", "Industrial Factory Smoke Stacks",
+        "Oil Rig in Ocean at Sunset", "Construction Crane Silhouette", "Luxury Private Jet Interior",
+        "Yacht on Blue Ocean", "Golden Bull Statue Wall Street", "Hourglass with Sand Falling",
+        "Chess Board Strategy Game", "Puzzle Pieces Fitting Together", "Lightbulb Innovation Idea",
+        "Magnifying Glass Analyzing Data", "Calculator and Financial Papers", "Credit Card Chip Macro",
+        "Shopping Cart filled with boxes", "Bar Chart Rising Upwards", "Pie Chart Interface",
+        "Globe Spinning in Space", "Network Server Cables", "Keyboard with RGB Lighting"
+    ]
+    
+    import random
+    import time
+    
     for i, item in enumerate(merged_items):
         try:
-            raw_prompt = item.get("image_prompt", "Economy business")
-            # Clean prompt: take first part, remove weird chars
-            cleaned_raw = re.split(r'[,:.]', raw_prompt)[0]
-            clean_prompt = re.sub(r'[^a-zA-Z\s]', '', cleaned_raw).strip()
-            
-            if not clean_prompt or len(clean_prompt) < 3:
-                clean_prompt = "Global Economy Technology"
-                
-            encoded_prompt = clean_prompt.replace(" ", "%20")
+            # Randomly select a safe theme
+            selected_theme = random.choice(safe_themes)
             
             # Dynamic seed + style
             dynamic_seed = random.randint(1, 9999999) + i
-            styles = ["digital art", "cinematic photo", "minimalist", "neon futuristic", "3d render", "oil painting"]
-            selected_style = random.choice(styles)
             
+            # Timestamp to bust cache
             ts = int(time.time())
-            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}%20{selected_style.replace(' ', '%20')}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true&enhance=true&t={ts}-{i}"
+            
+            # Use 'flux' model with nologo
+            encoded_prompt = selected_theme.replace(" ", "%20")
+            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true&enhance=true&t={ts}-{i}"
             
         except Exception as img_err:
-            item["image_url"] = f"https://pollinations.ai/p/news%20background?width=1024&height=576&seed={random.randint(1,1000)}&nologo=true"
+            # Absolute fallback
+            item["image_url"] = f"https://pollinations.ai/p/abstract%20digital%20art?width=1024&height=576&seed={i}&nologo=true"
 
     data = {
         "last_updated": timestamp,
