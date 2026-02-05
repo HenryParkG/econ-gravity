@@ -30,7 +30,7 @@ async function loadNews() {
             card.innerHTML = `
                 <span class="source-tag">${item.source}</span>
                 <h3>${item.title}</h3>
-                <div class="summary">${item.summary}</div>
+                <div class="summary">${item.summary || item.description || '내용을 불러오는 중...'}</div>
             `;
 
             card.onclick = () => openModal(index);
