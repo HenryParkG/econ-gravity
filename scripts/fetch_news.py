@@ -112,11 +112,13 @@ def fetch_economic_news():
                 clean_prompt = re.sub(r'[^a-zA-Z0-9\s]', '', raw_prompt)
                 encoded_prompt = clean_prompt.replace(" ", "%20")
                 
-                dynamic_seed = random.randint(1, 99999)
-                # Keep the prompt concise for the API
-                item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true"
+                dynamic_seed = random.randint(1, 999999)
+                # Adding a cache buster and more style keywords for variety
+                styles = ["digital art", "oil painting", "minimalist photorealistic", "neon futuristic", "claymation style"]
+                selected_style = random.choice(styles)
+                item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}%20{selected_style.replace(' ', '%20')}?width=1024&height=576&seed={dynamic_seed}&enhance=true&nologo=true&t={int(time.time())}"
 
-            print(f"Successfully synthesized deep reports using Gemini 3 and generated unique AI images.")
+            print(f"Successfully synthesized deep reports using Gemini 3 and generated highly unique AI images.")
             
         except Exception as e:
             print(f"Error calling Gemini API: {e}")
@@ -175,8 +177,8 @@ def fetch_economic_news():
             merged_items.append(item)
             seen_titles.add(item['title'])
 
-    # Keep only the last 50 items
-    merged_items = merged_items[:50]
+    # Keep up to 1000 items (Acting as a large-scale database)
+    merged_items = merged_items[:1000]
 
     data = {
         "last_updated": timestamp,
