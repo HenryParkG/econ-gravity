@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,18 +11,41 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;700&display=swap" rel="stylesheet">
 </head>
+
 <body>
     <header>
         <div class="container">
-            <h1>📈 Econ Gravity</h1>
-            <p id="last-updated">업데이트 중...</p>
+            <h1 class="animate-fade-in">ECON GRAVITY</h1>
+            <p id="last-updated" class="animate-fade-in">분석 중...</p>
         </div>
     </header>
 
     <main class="container">
-        <section id="news-container">
-            <div class="loading">뉴스를 불러오는 중입니다...</div>
+        <!-- AI Briefing Section -->
+        <section id="briefing-section" class="glass animate-slide-up" style="display: none;">
+            <h2>💡 오늘의 브리핑</h2>
+            <p id="briefing-content"></p>
         </section>
+
+        <!-- News Grid Section -->
+        <section id="news-container" class="news-grid">
+            <div class="loading">경제 데이터를 분석하여 리포트를 생성하고 있습니다...</div>
+        </section>
+
+        <!-- Detail Modal Section -->
+        <div id="news-modal" class="modal-overlay" style="display: none;">
+            <div class="modal-content glass animate-slide-up">
+                <button class="modal-close">&times;</button>
+                <div id="modal-body">
+                    <img id="modal-image" src="" alt="News Image" class="modal-img">
+                    <div class="modal-meta">
+                        <span id="modal-source" class="source-tag"></span>
+                    </div>
+                    <h2 id="modal-title"></h2>
+                    <div id="modal-text" class="modal-text-content"></div>
+                </div>
+            </div>
+        </div>
     </main>
 
     <footer>
@@ -32,4 +56,5 @@
 
     <script src="app.js"></script>
 </body>
+
 </html>
