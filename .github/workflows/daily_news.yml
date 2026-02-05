@@ -2,8 +2,9 @@ name: Daily Economic News Update
 
 on:
   schedule:
-    # 매일 한국 시간 오전 9시 (UTC 00:00)
-    - cron: '0 0 * * *'
+    # KST 09:00, 12:00, 15:00, 18:00, 21:00
+    # UTC 00:00, 03:00, 06:00, 09:00, 12:00
+    - cron: '0 0,3,6,9,12 * * *'
   workflow_dispatch: # 수동 실행 가능 옵션
 
 jobs:

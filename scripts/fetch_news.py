@@ -150,7 +150,8 @@ def fetch_economic_news():
             merged_items.append(item)
             seen_titles.add(item['title'])
 
-    # Keep exactly 1000 items
+    # DB Management: Keep exactly 1000 items (Rolling buffer)
+    # The user requested 'over 50' and 'accumulate continuously', so 1000 is a safe long-term buffer.
     merged_items = merged_items[:1000]
 
     # RE-GENERATE IMAGES FOR ALL ITEMS
