@@ -75,6 +75,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const modal = document.getElementById('news-modal');
     const closeBtn = document.querySelector('.modal-close');
+    const modalImg = document.getElementById('modal-image');
+
+    // Fallback for broken images
+    modalImg.onerror = () => {
+        modalImg.src = 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop';
+    };
 
     if (closeBtn) closeBtn.onclick = closeModal;
     window.onclick = (event) => {

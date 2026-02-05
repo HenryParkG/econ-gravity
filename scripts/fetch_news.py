@@ -35,6 +35,7 @@ def fetch_economic_news():
     else:
         try:
             genai.configure(api_key=api_key)
+            # Try with a specific version to avoid 404 issues in some environments
             model = genai.GenerativeModel('gemini-1.5-flash')
             
             prompt = f"""
@@ -79,12 +80,12 @@ def fetch_economic_news():
             
         except Exception as e:
             print(f"Error calling Gemini API: {e}. Using raw news fallback.")
-            briefing = "AI 브리핑을 생성하는 중 오류가 발생했습니다."
+            briefing = "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요."
             final_news = raw_news[:5]
             for item in final_news:
                 item["summary"] = "내용 요약을 불러올 수 없습니다."
-                item["content"] = f"AI 리포트 생성 중 오류가 발생했습니다: {str(e)}"
-                item["image_url"] = "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+                item["content"] = f"### AI 리포트 생성 오류\n\n죄송합니다. 현재 AI 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** {str(e)}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지, 그리고 해당 API 키에 `gemini-1.5-flash` 모델 사용 권한이 있는지 확인해 주세요."
+                item["image_url"] = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
 
     data = {
         "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
