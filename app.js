@@ -46,12 +46,19 @@ async function loadNews() {
 
 function openModal(index) {
     const item = currentNewsData[index];
-    const modal = document.getElementById('news-modal');
+    if (!item) return;
 
-    document.getElementById('modal-image').src = item.image_url;
-    document.getElementById('modal-source').textContent = item.source;
-    document.getElementById('modal-title').textContent = item.title;
-    document.getElementById('modal-text').innerHTML = item.content.replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>');
+    const modal = document.getElementById('news-modal');
+    const modalImg = document.getElementById('modal-image');
+    const modalText = document.getElementById('modal-text');
+
+    // Defensive checks for old data format
+    modalImg.src = item.image_url || 'https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop';
+    document.getElementById('modal-source').textContent = item.source || 'Unknown';
+    document.getElementById('modal-title').textContent = item.title || 'No Title';
+
+    const content = item.content || item.description || '상세 내용을 준비 중입니다.';
+    modalText.innerHTML = content.replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>');
 
     modal.style.display = 'flex';
     document.body.style.overflow = 'hidden';
