@@ -1,5 +1,7 @@
+// --- Global Variables ---
 let currentNewsData = [];
-let isArchiveLoaded = false;
+let filteredData = []; // To hold filtered list
+let currentCategory = 'all';
 
 async function loadNews() {
     try {
@@ -9,32 +11,90 @@ async function loadNews() {
         const data = await response.json();
         currentNewsData = data.items;
 
-        const container = document.getElementById('news-container');
+        // Initial filter (shows all)
+        filterNews('all');
+
         const lastUpdated = document.getElementById('last-updated');
         const briefingSection = document.getElementById('briefing-section');
         const briefingContent = document.getElementById('briefing-content');
         const loadMoreContainer = document.getElementById('load-more-container');
 
-        lastUpdated.textContent = `데이터 수집 시간: ${data.last_updated}`;
+        if (lastUpdated) lastUpdated.textContent = `최근 업데이트: ${data.last_updated}`;
 
-        if (data.briefing) {
+        if (data.briefing && briefingSection) {
             briefingSection.style.display = 'block';
             briefingContent.textContent = data.briefing;
-        }
-
-        container.innerHTML = '';
-        renderNewsItems(data.items, container);
-
-        // Show Load More button if we have full buffer
-        if (data.items.length >= 50) {
-            loadMoreContainer.style.display = 'block';
         }
 
     } catch (error) {
         console.error('Error:', error);
         document.getElementById('news-container').innerHTML = `
-            <div class="loading">현재 리포트를 불러올 수 없습니다. GitHub Secrets 설정을 확인해 주세요.</div>
+            <div class="loading">리포트를 불러오는 중 오류가 발생했습니다.</div>
         `;
+    }
+}
+
+function filterNews(category) {
+    currentCategory = category;
+
+    // Update visual state of buttons (Sidebar & Chips)
+    document.querySelectorAll('.nav-item').forEach(el => {
+        if (el.dataset.category === category) el.classList.add('active');
+        else el.classList.remove('active');
+    });
+
+    document.querySelectorAll('.chip').forEach(btn => {
+        // Simple check based on text context for chips as they just have onclick
+        // Or better, add data attributes to chips too. 
+        // For now, let's rely on the text matching logical mapping or just re-render
+    });
+
+    // Specifically for Chips:
+    const chips = document.querySelectorAll('.chip');
+    chips.forEach(chip => {
+        if (chip.textContent.includes('전체') && category === 'all') chip.classList.add('active');
+        else if (chip.textContent.includes(category)) chip.classList.add('active');
+        else chip.classList.remove('active');
+    });
+
+    const container = document.getElementById('news-container');
+    const loadMoreContainer = document.getElementById('load-more-container');
+    container.innerHTML = '';
+
+    // Filter Logic
+    if (category === 'all') {
+        filteredData = currentNewsData;
+    } else {
+        filteredData = currentNewsData.filter(item =>
+            (item.category && item.category.includes(category))
+        );
+    }
+
+    if (filteredData.length === 0) {
+        container.innerHTML = '<div class="loading">해당 카테고리의 뉴스가 없습니다.</div>';
+        if (loadMoreContainer) loadMoreContainer.style.display = 'none';
+        return;
+    }
+
+    renderNewsItems(filteredData, container);
+
+    // Show 'Load More' only if showing 'All' and we have enough items
+    // (Simplification: Load Archive is designed to append to EVERYTHING. 
+    // Filtering complex mixed lists is tricky. For now, hide Load More on filters)
+    if (loadMoreContainer) {
+        if (category === 'all' && currentNewsData.length >= 50) {
+            loadMoreContainer.style.display = 'block';
+        } else {
+            loadMoreContainer.style.display = 'none';
+        }
+    }
+
+    // Close sidebar on mobile selection
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
+    if (sidebar && sidebar.classList.contains('active')) {
+        sidebar.classList.remove('active');
+        overlay.classList.remove('active');
     }
 }
 
@@ -48,16 +108,20 @@ async function loadArchive() {
         if (!response.ok) throw new Error('아카이브를 불러올 수 없습니다.');
 
         const data = await response.json();
-        const container = document.getElementById('news-container');
 
-        // Filter out items already shown (by title) to avoid duplication on UI
+        // Deduplicate against current full list
         const currentTitles = new Set(currentNewsData.map(item => item.title));
         const newItems = data.items.filter(item => !currentTitles.has(item.title));
 
         if (newItems.length > 0) {
-            renderNewsItems(newItems, container, currentNewsData.length);
+            // Append to Global Data
             currentNewsData = currentNewsData.concat(newItems);
-            btn.style.display = 'none'; // Hide button after loading everything
+
+            // Re-render based on current filter
+            // (If user is filtering 'Tech', and we load more, we should show new Tech news)
+            filterNews(currentCategory);
+
+            btn.style.display = 'none';
         } else {
             alert("더 이상 불러올 과거 뉴스가 없습니다.");
             btn.textContent = '모든 뉴스를 불러왔습니다';
@@ -70,19 +134,16 @@ async function loadArchive() {
     }
 }
 
-function renderNewsItems(items, container, startIndex = 0) {
+function renderNewsItems(items, container) {
     items.forEach((item, index) => {
         const card = document.createElement('div');
         card.className = 'news-card animate-slide-up';
-        card.style.animationDelay = `${(index * 0.05)}s`; // Faster animation for batch load
+        card.style.animationDelay = `${Math.min(index * 0.05, 1)}s`;
         card.style.cursor = 'pointer';
 
-        // Format time (HH:mm)
         const publishedDate = item.published_at || '';
         const datePart = publishedDate.split(' ')[0] || '';
         const timePart = publishedDate.split(' ')[1] ? publishedDate.split(' ')[1].substring(0, 5) : '--:--';
-
-        // Show date if it's an old item (simple logic: if not today, show date)
         const today = new Date().toISOString().split('T')[0];
         const displayTime = datePart === today ? timePart : `${datePart} ${timePart}`;
 
@@ -95,10 +156,6 @@ function renderNewsItems(items, container, startIndex = 0) {
             <div class="summary">${item.summary || item.description || '내용을 불러오는 중...'}</div>
         `;
 
-        // Correct index mapping for modal
-        // We need the ACTUAL global index in currentNewsData, which will be updated after this render logic
-        // But for onclick, we can just bind the specific object or use relative index + offset
-        // Let's use flexible closure binding
         card.onclick = () => openModalWithItem(item);
         container.appendChild(card);
     });
@@ -130,6 +187,8 @@ function closeModal() {
     document.body.style.overflow = 'auto';
 }
 
+// ... (previous functions)
+
 document.addEventListener('DOMContentLoaded', () => {
     loadNews();
 
@@ -138,17 +197,45 @@ document.addEventListener('DOMContentLoaded', () => {
         loadMoreBtn.onclick = loadArchive;
     }
 
+    // Modal Logic
     const modal = document.getElementById('news-modal');
     const closeBtn = document.querySelector('.modal-close');
     const modalImg = document.getElementById('modal-image');
 
-    // Fallback for broken images
-    modalImg.onerror = () => {
-        modalImg.src = 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop';
-    };
+    if (modalImg) {
+        modalImg.onerror = () => {
+            modalImg.src = 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop';
+        };
+    }
 
     if (closeBtn) closeBtn.onclick = closeModal;
     window.onclick = (event) => {
         if (event.target == modal) closeModal();
     };
+
+    // Sidebar Navigation Logic
+    document.querySelectorAll('.nav-item').forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const category = e.target.closest('.nav-item').dataset.category;
+            filterNews(category);
+        });
+    });
+
+    // Mobile Menu Toggle
+    const menuBtn = document.getElementById('menu-toggle');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('sidebar-overlay');
+
+    if (menuBtn && sidebar && overlay) {
+        menuBtn.addEventListener('click', () => {
+            sidebar.classList.toggle('active');
+            overlay.classList.toggle('active');
+        });
+
+        overlay.addEventListener('click', () => {
+            sidebar.classList.remove('active');
+            overlay.classList.remove('active');
+        });
+    }
 });
