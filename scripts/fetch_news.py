@@ -119,16 +119,27 @@ def fetch_economic_news():
     now_kst = datetime.now(timezone.utc).astimezone(kst)
     timestamp = now_kst.strftime("%Y-%m-%d %H:%M:%S")
 
-    # Load existing news
-    news_file = 'data/news.json'
+    # Load existing ARCHIVE news (The Master Database)
+    archive_file = 'data/news_archive.json'
     existing_items = []
-    if os.path.exists(news_file):
+    
+    # 1. Try to load from Archive first
+    if os.path.exists(archive_file):
         try:
-            with open(news_file, 'r', encoding='utf-8') as f:
+            with open(archive_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
                 existing_items = old_data.get('items', [])
         except Exception as e:
-            print(f"Error loading existing news: {e}")
+            print(f"Error loading archive news: {e}")
+    # 2. Migration: If no archive, try loading from old news.json to migrate data
+    elif os.path.exists('data/news.json'):
+         try:
+            with open('data/news.json', 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                existing_items = old_data.get('items', [])
+            print("Migrating existing news.json to archive...")
+         except Exception as e:
+            print(f"Error loading migration news: {e}")
 
     # Add timestamp to new items
     for item in final_news:
@@ -150,15 +161,15 @@ def fetch_economic_news():
             merged_items.append(item)
             seen_titles.add(item['title'])
 
-    # DB Management: Keep exactly 1000 items (Rolling buffer)
-    # The user requested 'over 50' and 'accumulate continuously', so 1000 is a safe long-term buffer.
-    merged_items = merged_items[:1000]
+    # DB Management: Archive holds EVERYTHING (or cap at 5000 for sanity)
+    # merged_items now contains ALL history + New items
+    full_archive_items = merged_items[:5000] 
 
     # RE-GENERATE IMAGES FOR ALL ITEMS
-    print(f"Regenerating images for {len(merged_items)} items...")
+    # Important: We apply distinct images to ALL items in the archive to ensure visual variety
+    print(f"Regenerating images for {len(full_archive_items)} items...")
     
     # EMERGENCY FALLBACK: Pre-curated High-Quality Unsplash Images
-    # Guaranteed to work, no API generation failures.
     stock_images = [
         "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop", # Stock Chart
         "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop", # Stock Ticker
@@ -195,32 +206,47 @@ def fetch_economic_news():
     import random
     import time
     
-    for i, item in enumerate(merged_items):
+    for i, item in enumerate(full_archive_items):
         try:
-            # Randomly select a high-quality stock image
-            # Use 'i' to ensure adjacent items likely get different images if list > len
+            # Consistent image mapping per item index to avoid shuffling on every build if desired,
+            # or random every time. Given the history issue, let's keep it robust.
+            # Using 'i' to ensure variety.
             selected_image = stock_images[i % len(stock_images)]
             
-            # Shuffle slightly for variety across updates
+            # Simple fallback for image uniqueness in long list
             if i >= len(stock_images):
-                selected_image = random.choice(stock_images)
+                # Offset by index to create 'pseudo-random' but deterministic per build
+                rotated_index = (i + 7) % len(stock_images) 
+                selected_image = stock_images[rotated_index]
             
             item["image_url"] = selected_image
             
         except Exception as img_err:
             item["image_url"] = "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
 
-    data = {
+    # --- SAVE FILES ---
+    os.makedirs('data', exist_ok=True)
+
+    # 1. Save Archive (Full History)
+    archive_data = {
         "last_updated": timestamp,
         "briefing": briefing,
-        "items": merged_items
+        "items": full_archive_items
     }
-    
-    os.makedirs('data', exist_ok=True)
+    with open('data/news_archive.json', 'w', encoding='utf-8') as f:
+        json.dump(archive_data, f, ensure_ascii=False, indent=4)
+        
+    # 2. Save Active Feed (Top 50 Only)
+    # This keeps the main site loading very fast
+    active_data = {
+        "last_updated": timestamp,
+        "briefing": briefing,
+        "items": full_archive_items[:50]
+    }
     with open('data/news.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
+        json.dump(active_data, f, ensure_ascii=False, indent=4)
     
-    print(f"Successfully saved {len(merged_items)} news items to data/news.json")
+    print(f"Successfully saved {len(full_archive_items)} items to Archive and 50 to Active feed.")
 
 if __name__ == "__main__":
     fetch_economic_news()
