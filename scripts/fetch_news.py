@@ -1,7 +1,7 @@
 import feedparser
 import json
 import os
-import google.generativeai as genai
+from google import genai
 from datetime import datetime
 
 def fetch_economic_news():
@@ -31,12 +31,11 @@ def fetch_economic_news():
         for item in final_news:
             item["summary"] = "AI 요약을 사용하려면 GEMINI_API_KEY를 등록해 주세요."
             item["content"] = "GitHub 레포지토리의 Secrets에 GEMINI_API_KEY가 등록되지 않았습니다. API 키를 등록하면 AI가 기사를 분석하여 이 자리에 심층 리포트를 작성해 드립니다."
-            item["image_url"] = "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            item["image_url"] = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
     else:
         try:
-            genai.configure(api_key=api_key)
-            # Switching to Gemini 2.0 Flash as per user request for latest version
-            model = genai.GenerativeModel('gemini-2.0-flash')
+            # Using the new google-genai SDK as per documentation
+            client = genai.Client(api_key=api_key)
             
             prompt = f"""
             다음은 오늘 수집된 주요 경제 뉴스 목록입니다:
@@ -64,7 +63,12 @@ def fetch_economic_news():
             }}
             """
             
-            response = model.generate_content(prompt)
+            # Using the new SDK's generation method and Gemini 3 Flash Preview model
+            response = client.models.generate_content(
+                model='gemini-3-flash-preview',
+                contents=prompt
+            )
+            
             content = response.text.replace('```json', '').replace('```', '').strip()
             result = json.loads(content)
             
@@ -76,17 +80,16 @@ def fetch_economic_news():
                 img_prompt = item.get("image_prompt", "Business economy digital art").replace(" ", "%20")
                 item["image_url"] = f"https://pollinations.ai/p/{img_prompt}?width=1024&height=576&seed=42&model=flux&nologo=true"
 
-            print(f"Successfully synthesized deep reports and generated AI images.")
+            print(f"Successfully synthesized deep reports using Gemini 3 and generated AI images.")
             
         except Exception as e:
             print(f"Error calling Gemini API: {e}")
             
-            # Diagnostic: List available models to help debug 404
+            # Diagnostic: List models if possible (new SDK has different method)
             try:
                 print("--- Available Models Diagnostic ---")
-                for m in genai.list_models():
-                    if 'generateContent' in m.supported_generation_methods:
-                        print(f"Available Model: {m.name}")
+                for m in client.models.list():
+                    print(f"Available Model: {m.name}")
                 print("-----------------------------------")
             except Exception as list_err:
                 print(f"Could not list models: {list_err}")
@@ -96,7 +99,7 @@ def fetch_economic_news():
             final_news = raw_news[:5]
             for item in final_news:
                 item["summary"] = "내용 요약을 불러올 수 없습니다."
-                item["content"] = f"### AI 리포트 생성 오류\n\n죄송합니다. 현재 AI 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** {str(e)}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지, 그리고 해당 API 키에 `gemini-1.5-flash` 모델 사용 권한이 있는지 확인해 주세요."
+                item["content"] = f"### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** {str(e)}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요."
                 item["image_url"] = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
 
     data = {
@@ -105,10 +108,7 @@ def fetch_economic_news():
         "items": final_news
     }
     
-    # Ensure data directory exists
     os.makedirs('data', exist_ok=True)
-    
-    # Save to JSON
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     

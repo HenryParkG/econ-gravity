@@ -22,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser --upgrade google-generativeai
+          pip install feedparser google-genai
 
       - name: Fetch news
         env:
