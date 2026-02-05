@@ -1,46 +1,46 @@
 {
-    "last_updated": "2026-02-05 05:52:35",
-    "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다.",
+    "last_updated": "2026-02-05 05:56:31",
+    "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요.",
     "items": [
         {
-            "title": "‘미 경제 막후 실세’ 드러켄밀러 쿠팡 주식 2100억원어치 보유 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00NGUtMW9IN2FLUXNjWFU1N1BXdGlmMU9waU16RkM3Sy1WZmxqeE9RWGs0eUN4SUw5ZkdZaWxMMFJESXFRNVN3cnlNWDFvQ3NGOEtCNEFUcTg5WngtU1M0ZmYycXNQdkZ0UkhzX2Rmbw?oc=5",
-            "source": "한겨레",
+            "title": "[뉴스 속 경제] 금·은값 폭락‥혼돈의 금융시장 왜? - MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIYkhmTDZwQWJSRTEyNThuT08yX1liaUlQcUY2WFl1TGtpWWRLX1Nxc2VjSlljYWdJV252RFo3TnI2emluUTlqa0hXZjk5bzZySW5xUkZvUGRTb01pakREZjdHaC1IWkxGZ19vWHFteEdVNXJtRlppZEhn0gF6QVVfeXFMTnJtM0hrNWNrdVROazkwdWtWY2lpanlKQ1RwY2RhNFkzVEd3OEF1THlQMlgtVVpVbGxKRmtJcUo3QzB1Z2gyS0NwQnJLSTR1djEybGdXcl84d3Z3VG1kdVlaR1NNZGt2T0VaTFlUR2VfMVd5MVp6QWpXLWc?oc=5",
+            "source": "MBC 뉴스",
             "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "‘美 경제 실세’ 드러켄밀러, 쿠팡 주식 2100억원대 보유 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzbmZCbE5qV3VuTWExRzVKZjhsaC1PQUMxdkpHeS1FZktqdEwzRk4wbzlTMHNmV0k2X0RiVVZveXdHdkYyOERRQzY5eFJNRU0?oc=5",
-            "source": "v.daum.net",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "美 정계 또 등장한 쿠팡…'막후 경제실세' 1000억대 지분 투자 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94aU1XZnVwcW1XcU5VQ1k0WTBkNDFVRjYtY0dTSEs1N2RuNUNraEsyY0JNZUQxMy1OMmV2c3BvaW84ZlpHWFB4YTVTQXVUMzZKeUxFUXFxUmhqcVJqNFJPRkJiNTlnVl80?oc=5",
-            "source": "머니투데이",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 AI 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지, 그리고 해당 API 키에 `gemini-1.5-flash` 모델 사용 권한이 있는지 확인해 주세요.",
+            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제포커스] ‘킹 달러’를 흔드는 트럼프 - 조선일보",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG5ORHlHYnV5ck1HekFua3ZHemlLbXcxNXRZYzRJYlRaUC1wYm03dGllb3BOakVZNmg5eS1yNmhNM0l5N3Vyeno2YjNubUVvWGVhMlZYU1diQUp6Nk5WZWZHV01YYm5WZWJfa0RBX0EwZmxXUVZKYklqVTZiUlJXVE5Cck1BVTlfQ1BYRtIBoAFBVV95cUxPSmxwT0llWld1a213V3FueE96dzB6YnZ3ZVNhb0p4bmRmbVlBWVRqR2NkNnp3QUNyaDV3VFFpOWxFUjBLU245WlB2N0lQaTMzSnpHQlVjS2p5OUJCYndhSzVjSVZPMk8yenFGYkN0eGhNU1ZNX0piY0ZCY1Vfb3lLRFpBaG15Z1dKNFAxVm0xRWJOYjNzYWFDQUFyaHA4aTZC?oc=5",
             "source": "조선일보",
             "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 AI 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지, 그리고 해당 API 키에 `gemini-1.5-flash` 모델 사용 권한이 있는지 확인해 주세요.",
+            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "다시 덮친 관세 공포… 국가경제 ‘원팀’ 뭉쳐야[기고] - 문화일보",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iVlloaWJXT0kzWHU0R1NtdmEyZlg0R1NpamZJMGFYejNRY3daNUhhbXFGRHBHdUlMaUI1cFlTTEpyVlB0dUR2bHN2aGhqbHVY?oc=5",
             "source": "문화일보",
             "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 AI 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지, 그리고 해당 API 키에 `gemini-1.5-flash` 모델 사용 권한이 있는지 확인해 주세요.",
+            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "강성진 신임 한국경제학회장 \"경제정책, 이념 벗어나 시스템으로\" - 네이트",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjWjdTTzBqMXkwUDlUOG94Yzk5elo0TmN4c3V6WUcwUHVPRDI2T0RhOU5ra3BDTi0wUXFSdFNtZG1xRnhZelNxVUJ0U01BcmhoT2lsNUhZUmJOdjRyMUViS0NzOXdTSEprWm12MXFn?oc=5",
+            "source": "네이트",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 AI 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지, 그리고 해당 API 키에 `gemini-1.5-flash` 모델 사용 권한이 있는지 확인해 주세요.",
+            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "李 \"경제 생태계, 메뚜기 토끼 있어야 호랑이도 건강\" - 노컷뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOc0Vwd2tweG53WFhxNzJ1NjZ1X0E4eVJlS0V0eTRPazYtcmUtcDZBZERPUTNSX0tYSVo0Q1pZVkRFZE5KM2xtQ3NySWxRZnRZRFE?oc=5",
+            "source": "노컷뉴스",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 AI 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지, 그리고 해당 API 키에 `gemini-1.5-flash` 모델 사용 권한이 있는지 확인해 주세요.",
+            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
         }
     ]
 }
