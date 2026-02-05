@@ -102,24 +102,52 @@ def fetch_economic_news():
             if not success:
                 raise Exception("All attempted AI models failed or were overloaded.")
             
-            # Add image URL generation using Pollinations API
-            import random
-            import re
-            for i, item in enumerate(final_news):
-                # Simplify and clean prompt for URL safety
-                raw_prompt = item.get("image_prompt", "Economy business")
-                # Remove technical suffixes that AI might include
-                cleaned_raw = raw_prompt.split(',')[0] # Take first part or first few keywords
-                clean_prompt = re.sub(r'[^a-zA-Z\s]', '', cleaned_raw).strip()
-                encoded_prompt = clean_prompt.replace(" ", "%20")
-                
-                dynamic_seed = random.randint(1, 999999)
-                # Adding a cache buster and more style keywords for variety
-                styles = ["digital art", "oil painting", "minimalist photorealistic", "neon futuristic", "claymation style"]
-                selected_style = random.choice(styles)
-                item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}%20{selected_style.replace(' ', '%20')}?width=1024&height=576&seed={dynamic_seed}&enhance=true&nologo=true&t={int(time.time())}"
+    # Keep up to 1000 items (Acting as a large-scale database)
+    merged_items = merged_items[:1000]
 
-            print(f"Successfully synthesized deep reports using Gemini 3 and generated highly unique AI images.")
+    # RE-GENERATE IMAGES FOR ALL ITEMS (New + Archive)
+    # This ensures that even old items get the benefit of new image logic and variety fixes.
+    import random
+    import re
+    import time
+    
+    print(f"Regenerating images for {len(merged_items)} items...")
+    
+    for i, item in enumerate(merged_items):
+        try:
+            # Simplify and clean prompt for URL safety
+            raw_prompt = item.get("image_prompt", "Economy business news")
+            
+            # Remove technical suffixes that AI might include
+            # Split by common delimiters to get the main subject
+            cleaned_raw = re.split(r'[,:.]', raw_prompt)[0]
+            
+            # Remove non-alphabet characters to be super safe
+            clean_prompt = re.sub(r'[^a-zA-Z\s]', '', cleaned_raw).strip()
+            
+            # Fallback if prompt becomes empty
+            if not clean_prompt or len(clean_prompt) < 3:
+                clean_prompt = "Global Economy Technology"
+                
+            encoded_prompt = clean_prompt.replace(" ", "%20")
+            
+            # Dynamic seed and style for variety
+            dynamic_seed = random.randint(1, 9999999) + i  # Add index to seed to ensure uniqueness even in same loop
+            styles = ["digital art", "cinematic photo", "minimalist", "neon futuristic", "3d render", "oil painting"]
+            selected_style = getattr(random, 'choice')(styles) # safe random choice
+            
+            # Timestamp to bust cache
+            ts = int(time.time())
+            
+            # Use 'turbo' model for speed, add nologo
+            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}%20{selected_style.replace(' ', '%20')}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true&enhance=true&t={ts}-{i}"
+            
+        except Exception as img_err:
+            print(f"Error generating image for item {i}: {img_err}")
+            # Fallback to a safe random image if efficient generation fails
+            item["image_url"] = f"https://pollinations.ai/p/news%20background?width=1024&height=576&seed={random.randint(1,1000)}&nologo=true"
+
+    data = {
             
         except Exception as e:
             print(f"Error calling Gemini API: {e}")
