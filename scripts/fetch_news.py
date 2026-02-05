@@ -156,25 +156,39 @@ def fetch_economic_news():
     # RE-GENERATE IMAGES FOR ALL ITEMS
     print(f"Regenerating images for {len(merged_items)} items...")
     
-    # Safe, diverse visual themes to guarantee no fallback images
-    safe_themes = [
-        "Futuristic Financial District at Night", "Glowing Blue Stock Market Graph", "Abstract Digital Network Connections", 
-        "Gold Bars and Silver Coins", "High Tech Server Room aesthetic", "Global World Map with Data Lines", 
-        "Modern Glass Skyscraper Low Angle", "Cyberpunk City Street with Neon Lights", "Minimalist White Business Desk", 
-        "Blue Architectural Blueprint Schematics", "Busy Shipping Container Port Aerial View", "Electric Vehicle Charging Station", 
-        "Green Energy Wind Turbines on a Hill", "Robotic Arm Assembly Line", "Artificial Intelligence Digital Brain",
-        "Bitcoin and Cryptocurrency Coins", "Abstract Geometric 3D Shapes", "Stock Exchange Trading Floor Blur",
-        "Rocket Launching into Space", "Drone Delivering Package", "Smart City Traffic Lights",
-        "VR Headset Man Using Interface", "Microchip Processor Macro Shot", "Solar Panels on Roof",
-        "Hydroponic Future Farm", "Molecular Structure Science", "DNA Helix Glowing",
-        "Cyber Security Padlock Concept", "Cloud Computing Data Center", "5G Network Tower",
-        "Smart Watch Wearable Tech", "Autonomous Self Driving Car", "Industrial Factory Smoke Stacks",
-        "Oil Rig in Ocean at Sunset", "Construction Crane Silhouette", "Luxury Private Jet Interior",
-        "Yacht on Blue Ocean", "Golden Bull Statue Wall Street", "Hourglass with Sand Falling",
-        "Chess Board Strategy Game", "Puzzle Pieces Fitting Together", "Lightbulb Innovation Idea",
-        "Magnifying Glass Analyzing Data", "Calculator and Financial Papers", "Credit Card Chip Macro",
-        "Shopping Cart filled with boxes", "Bar Chart Rising Upwards", "Pie Chart Interface",
-        "Globe Spinning in Space", "Network Server Cables", "Keyboard with RGB Lighting"
+    # EMERGENCY FALLBACK: Pre-curated High-Quality Unsplash Images
+    # Guaranteed to work, no API generation failures.
+    stock_images = [
+        "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop", # Stock Chart
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop", # Stock Ticker
+        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop", # Data Screen
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop", # Chip
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop", # Laptop Graph
+        "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop", # Money
+        "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop", # Bitcoin
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop", # Abstract News
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop", # Skyscraper
+        "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1024&auto=format&fit=crop", # Teamwork
+        "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop", # Meeting
+        "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop", # Handshake
+        "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop", # Money Hands
+        "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop", # Crypto Art
+        "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop", # Blockchain
+        "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1024&auto=format&fit=crop", # Bitcoin Gold
+        "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop", # Oil Rig
+        "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop", # Code Screen
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop", # Globe
+        "https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?q=80&w=1024&auto=format&fit=crop", # Laptop
+        "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop", # Digital Art
+        "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop", # Luxury Car
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop", # Analysis
+        "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop", # Data Cloud
+        "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop", # Ethereum
+        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1024&auto=format&fit=crop", # NFT
+        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop", # Cyberpunk
+        "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?q=80&w=1024&auto=format&fit=crop", # Code Matrix
+        "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop", # Money Stack
+        "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"  # Stock App
     ]
     
     import random
@@ -182,22 +196,18 @@ def fetch_economic_news():
     
     for i, item in enumerate(merged_items):
         try:
-            # Randomly select a safe theme
-            selected_theme = random.choice(safe_themes)
+            # Randomly select a high-quality stock image
+            # Use 'i' to ensure adjacent items likely get different images if list > len
+            selected_image = stock_images[i % len(stock_images)]
             
-            # Dynamic seed + style
-            dynamic_seed = random.randint(1, 9999999) + i
+            # Shuffle slightly for variety across updates
+            if i >= len(stock_images):
+                selected_image = random.choice(stock_images)
             
-            # Timestamp to bust cache
-            ts = int(time.time())
-            
-            # Use 'turbo' model for speed and reliability, remove enhance to avoid timeouts
-            encoded_prompt = selected_theme.replace(" ", "%20")
-            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}?width=1024&height=576&seed={dynamic_seed}&model=turbo&nologo=true&t={ts}-{i}"
+            item["image_url"] = selected_image
             
         except Exception as img_err:
-            # Absolute fallback
-            item["image_url"] = f"https://pollinations.ai/p/abstract%20digital%20art?width=1024&height=576&seed={i}&nologo=true"
+            item["image_url"] = "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
 
     data = {
         "last_updated": timestamp,
