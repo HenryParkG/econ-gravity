@@ -98,8 +98,26 @@ function filterNews(category) {
     }
 }
 
+
+// ... (loadNews and filterNews remain the same) ...
+
 async function loadArchive() {
     const btn = document.getElementById('load-more-btn');
+    const BATCH_SIZE = 20; // Number of items to show per click
+
+    // 1. If buffer has items, just render the next batch
+    if (archiveBuffer.length > 0) {
+        renderNextBatch(btn, BATCH_SIZE);
+        return;
+    }
+
+    // 2. If already fetched but buffer empty, it means we really have nothing left
+    if (isArchiveFetched && archiveBuffer.length === 0) {
+        btn.style.display = 'none';
+        return;
+    }
+
+    // 3. First time fetching archive
     btn.textContent = '불러오는 중...';
     btn.disabled = true;
 
@@ -109,19 +127,17 @@ async function loadArchive() {
 
         const data = await response.json();
 
-        // Deduplicate against current full list
+        // Deduplicate against current displayed list
         const currentTitles = new Set(currentNewsData.map(item => item.title));
-        const newItems = data.items.filter(item => !currentTitles.has(item.title));
 
-        if (newItems.length > 0) {
-            // Append to Global Data
-            currentNewsData = currentNewsData.concat(newItems);
+        // Store ONLY new items in the buffer
+        archiveBuffer = data.items.filter(item => !currentTitles.has(item.title));
+        isArchiveFetched = true;
 
-            // Re-render based on current filter
-            // (If user is filtering 'Tech', and we load more, we should show new Tech news)
-            filterNews(currentCategory);
-
-            btn.style.display = 'none';
+        if (archiveBuffer.length > 0) {
+            btn.disabled = false;
+            btn.textContent = '지난 뉴스 더 보기'; // Reset text
+            renderNextBatch(btn, BATCH_SIZE);
         } else {
             alert("더 이상 불러올 과거 뉴스가 없습니다.");
             btn.textContent = '모든 뉴스를 불러왔습니다';
@@ -131,6 +147,37 @@ async function loadArchive() {
         console.error('Archive Error:', error);
         btn.textContent = '실패 (다시 시도)';
         btn.disabled = false;
+    }
+}
+
+function renderNextBatch(btn, batchSize) {
+    const container = document.getElementById('news-container');
+
+    // Take a slice from the buffer
+    const batch = archiveBuffer.splice(0, batchSize);
+
+    if (batch.length > 0) {
+        // Append to global data source (so filters work on them later)
+        currentNewsData = currentNewsData.concat(batch);
+
+        // Render this batch to DOM
+        renderNewsItems(batch, container);
+
+        // If user was filtering, we might need to re-apply filter to hide non-matching items from this new batch
+        // But simply calling filterNews(currentCategory) re-renders EVERYTHING which mocks the point of batching?
+        // No, current renderNewsItems appends. 
+        // Best approach: Just render. Then if category is NOT all, hide the ones that don't match.
+        // Actually simpler: re-run filter logic if category != all
+        if (currentCategory !== 'all') {
+            filterNews(currentCategory);
+        }
+    }
+
+    // Check if we need to hide button
+    if (archiveBuffer.length === 0) {
+        btn.textContent = '모든 뉴스를 불러왔습니다';
+        btn.disabled = true;
+        setTimeout(() => { btn.style.display = 'none'; }, 2000);
     }
 }
 
