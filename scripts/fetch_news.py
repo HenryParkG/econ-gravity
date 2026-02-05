@@ -99,9 +99,6 @@ def fetch_economic_news():
                         time.sleep(2)
                     continue
             
-            if not success:
-                raise Exception("All attempted AI models failed or were overloaded.")
-            
     # Keep up to 1000 items (Acting as a large-scale database)
     merged_items = merged_items[:1000]
 
@@ -148,9 +145,6 @@ def fetch_economic_news():
             item["image_url"] = f"https://pollinations.ai/p/news%20background?width=1024&height=576&seed={random.randint(1,1000)}&nologo=true"
 
     data = {
-            
-        except Exception as e:
-            print(f"Error calling Gemini API: {e}")
             
             # Diagnostic: List models if possible (new SDK has different method)
             try:
