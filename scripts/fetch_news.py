@@ -2,7 +2,10 @@ import feedparser
 import json
 import os
 from google import genai
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+import random
+import re
+import time
 
 def fetch_economic_news():
     # Google News RSS for "경제" (Economy) in Korean
@@ -30,11 +33,11 @@ def fetch_economic_news():
         final_news = raw_news[:5]
         for item in final_news:
             item["summary"] = "AI 요약을 사용하려면 GEMINI_API_KEY를 등록해 주세요."
-            item["content"] = "GitHub 레포지토리의 Secrets에 GEMINI_API_KEY가 등록되지 않았습니다. API 키를 등록하면 AI가 기사를 분석하여 이 자리에 심층 리포트를 작성해 드립니다."
-            item["image_url"] = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            item["content"] = "GitHub 레포지토리의 Secrets에 GEMINI_API_KEY가 등록되지 않았습니다."
+            item["image_prompt"] = "Economy business news"
     else:
         try:
-            # Using the new google-genai SDK as per documentation
+            # Using the new google-genai SDK
             client = genai.Client(api_key=api_key)
             
             prompt = f"""
@@ -43,29 +46,27 @@ def fetch_economic_news():
             
             1. 위 기사들을 종합하여 오늘의 경제 흐름을 보여주는 '오늘의 한 줄 브리핑(briefing)'을 2~3문장으로 작성해줘.
             2. 가장 중요도가 높은 뉴스 5개를 엄선해서 'items' 목록으로 정리해줘.
-            3. 각 뉴스 아이템은 단순 요약이 아니라, 전문 경제 뉴스 리포터가 작성한 것처럼 상세하고 알찬 기사 내용(content)으로 재구성해줘. (최소 3~4문단 이상)
+            3. 각 뉴스 아이템은 상세하고 알찬 기사 내용(content)으로 재구성해줘. (최소 3~4문단 이상)
             4. 각 뉴스의 주제와 분위기를 나타내는 3~5개의 구체적인 영어 키워드(image_prompt)를 작성해줘. (예: 'Stock market, dynamic graph, blue neon, professional')
             
-            반드시 다음과 같은 JSON 형식으로만 응답해줘. 다른 말은 절대 하지 마.
+            반드시 다음과 같은 JSON 형식으로만 응답해줘.
             형식:
             {{
-                "briefing": "오늘의 전체적인 경제 흐름 요약 및 브리핑",
+                "briefing": "오늘의 전체적인 경제 흐름 요약",
                 "items": [
                     {{
-                        "title": "뉴스 제목 (마치 개별 기사처럼 매력적으로 작성)",
-                        "source": "출처 (원문 출처 표기)",
+                        "title": "뉴스 제목",
+                        "source": "출처",
                         "category": "카테고리 (예: 금융, 테크, 시장, 정책 등 2~4글자)",
-                        "summary": "목록에서 보여줄 짧은 요약 (1~2문장)",
-                        "content": "AI가 재구성한 상세 리포트 내용 (markdown 형식 사용 가능)",
-                        "image_prompt": "An artistic and clean digital illustration about [topic], high quality, financial aesthetic, 16:9"
-                    }},
-                    ...
+                        "summary": "짧은 요약",
+                        "content": "상세 리포트 내용",
+                        "image_prompt": "Clean English Keywords"
+                    }}
                 ]
             }}
             """
             
-            # Failover logic: Try Gemini 3 first, then fallback to other versions if overloaded
-            # Including Pro and 8B versions for maximum fallback coverage
+            # Failover logic: Try Gemini 3 first, then fallback
             models_to_try = [
                 'gemini-3-flash-preview', 
                 'gemini-3-pro-preview', 
@@ -75,7 +76,6 @@ def fetch_economic_news():
                 'gemini-1.5-flash-8b'
             ]
             success = False
-            import time
             
             for model_name in models_to_try:
                 try:
@@ -99,77 +99,27 @@ def fetch_economic_news():
                         time.sleep(2)
                     continue
             
-    # Keep up to 1000 items (Acting as a large-scale database)
-    merged_items = merged_items[:1000]
-
-    # RE-GENERATE IMAGES FOR ALL ITEMS (New + Archive)
-    # This ensures that even old items get the benefit of new image logic and variety fixes.
-    import random
-    import re
-    import time
-    
-    print(f"Regenerating images for {len(merged_items)} items...")
-    
-    for i, item in enumerate(merged_items):
-        try:
-            # Simplify and clean prompt for URL safety
-            raw_prompt = item.get("image_prompt", "Economy business news")
+            if not success:
+                raise Exception("All attempted AI models failed or were overloaded.")
             
-            # Remove technical suffixes that AI might include
-            # Split by common delimiters to get the main subject
-            cleaned_raw = re.split(r'[,:.]', raw_prompt)[0]
-            
-            # Remove non-alphabet characters to be super safe
-            clean_prompt = re.sub(r'[^a-zA-Z\s]', '', cleaned_raw).strip()
-            
-            # Fallback if prompt becomes empty
-            if not clean_prompt or len(clean_prompt) < 3:
-                clean_prompt = "Global Economy Technology"
-                
-            encoded_prompt = clean_prompt.replace(" ", "%20")
-            
-            # Dynamic seed and style for variety
-            dynamic_seed = random.randint(1, 9999999) + i  # Add index to seed to ensure uniqueness even in same loop
-            styles = ["digital art", "cinematic photo", "minimalist", "neon futuristic", "3d render", "oil painting"]
-            selected_style = getattr(random, 'choice')(styles) # safe random choice
-            
-            # Timestamp to bust cache
-            ts = int(time.time())
-            
-            # Use 'turbo' model for speed, add nologo
-            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}%20{selected_style.replace(' ', '%20')}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true&enhance=true&t={ts}-{i}"
-            
-        except Exception as img_err:
-            print(f"Error generating image for item {i}: {img_err}")
-            # Fallback to a safe random image if efficient generation fails
-            item["image_url"] = f"https://pollinations.ai/p/news%20background?width=1024&height=576&seed={random.randint(1,1000)}&nologo=true"
-
-    data = {
-            
-            # Diagnostic: List models if possible (new SDK has different method)
-            try:
-                print("--- Available Models Diagnostic ---")
-                for m in client.models.list():
-                    print(f"Available Model: {m.name}")
-                print("-----------------------------------")
-            except Exception as list_err:
-                print(f"Could not list models: {list_err}")
-
+        except Exception as e:
+            print(f"Error calling Gemini API: {e}")
             print("Using raw news fallback.")
             briefing = "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요."
             final_news = raw_news[:5]
             for item in final_news:
                 item["summary"] = "내용 요약을 불러올 수 없습니다."
-                item["content"] = f"### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** {str(e)}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요."
-                item["image_url"] = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+                item["content"] = f"### AI 리포트 생성 오류\n\n오류 상세: {str(e)}"
+                item["image_prompt"] = "Global Economy Technology"
 
-    # KST (UTC+9) adjustment for GitHub Actions environment
-    from datetime import timezone, timedelta
+    # --- GLOBAL DATA ACCUMULATION & IMAGE REGENERATION ---
+    
+    # KST (UTC+9) adjustment
     kst = timezone(timedelta(hours=9))
     now_kst = datetime.now(timezone.utc).astimezone(kst)
     timestamp = now_kst.strftime("%Y-%m-%d %H:%M:%S")
 
-    # News accumulation logic
+    # Load existing news
     news_file = 'data/news.json'
     existing_items = []
     if os.path.exists(news_file):
@@ -200,8 +150,34 @@ def fetch_economic_news():
             merged_items.append(item)
             seen_titles.add(item['title'])
 
-    # Keep up to 1000 items (Acting as a large-scale database)
+    # Keep exactly 1000 items
     merged_items = merged_items[:1000]
+
+    # RE-GENERATE IMAGES FOR ALL ITEMS
+    print(f"Regenerating images for {len(merged_items)} items...")
+    
+    for i, item in enumerate(merged_items):
+        try:
+            raw_prompt = item.get("image_prompt", "Economy business")
+            # Clean prompt: take first part, remove weird chars
+            cleaned_raw = re.split(r'[,:.]', raw_prompt)[0]
+            clean_prompt = re.sub(r'[^a-zA-Z\s]', '', cleaned_raw).strip()
+            
+            if not clean_prompt or len(clean_prompt) < 3:
+                clean_prompt = "Global Economy Technology"
+                
+            encoded_prompt = clean_prompt.replace(" ", "%20")
+            
+            # Dynamic seed + style
+            dynamic_seed = random.randint(1, 9999999) + i
+            styles = ["digital art", "cinematic photo", "minimalist", "neon futuristic", "3d render", "oil painting"]
+            selected_style = random.choice(styles)
+            
+            ts = int(time.time())
+            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}%20{selected_style.replace(' ', '%20')}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true&enhance=true&t={ts}-{i}"
+            
+        except Exception as img_err:
+            item["image_url"] = f"https://pollinations.ai/p/news%20background?width=1024&height=576&seed={random.randint(1,1000)}&nologo=true"
 
     data = {
         "last_updated": timestamp,
@@ -213,7 +189,7 @@ def fetch_economic_news():
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     
-    print(f"Successfully saved {len(final_news)} news items to data/news.json")
+    print(f"Successfully saved {len(merged_items)} news items to data/news.json")
 
 if __name__ == "__main__":
     fetch_economic_news()
