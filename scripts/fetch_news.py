@@ -79,7 +79,19 @@ def fetch_economic_news():
             print(f"Successfully synthesized deep reports and generated AI images.")
             
         except Exception as e:
-            print(f"Error calling Gemini API: {e}. Using raw news fallback.")
+            print(f"Error calling Gemini API: {e}")
+            
+            # Diagnostic: List available models to help debug 404
+            try:
+                print("--- Available Models Diagnostic ---")
+                for m in genai.list_models():
+                    if 'generateContent' in m.supported_generation_methods:
+                        print(f"Available Model: {m.name}")
+                print("-----------------------------------")
+            except Exception as list_err:
+                print(f"Could not list models: {list_err}")
+
+            print("Using raw news fallback.")
             briefing = "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요."
             final_news = raw_news[:5]
             for item in final_news:
