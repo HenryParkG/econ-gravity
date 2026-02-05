@@ -63,17 +63,31 @@ def fetch_economic_news():
             }}
             """
             
-            # Using the new SDK's generation method and Gemini 3 Flash Preview model
-            response = client.models.generate_content(
-                model='gemini-3-flash-preview',
-                contents=prompt
-            )
+            # Failover logic: Try Gemini 3 first, then fallback to 2.0 or 1.5 if overloaded
+            models_to_try = ['gemini-3-flash-preview', 'gemini-2.0-flash', 'gemini-1.5-flash']
+            success = False
             
-            content = response.text.replace('```json', '').replace('```', '').strip()
-            result = json.loads(content)
+            for model_name in models_to_try:
+                try:
+                    print(f"Attempting news synthesis with {model_name}...")
+                    response = client.models.generate_content(
+                        model=model_name,
+                        contents=prompt
+                    )
+                    content = response.text.replace('```json', '').replace('```', '').strip()
+                    result = json.loads(content)
+                    
+                    briefing = result.get("briefing", "오늘의 경제 동향을 분석 중입니다.")
+                    final_news = result.get("items", [])
+                    success = True
+                    print(f"Successfully synthesized news using {model_name}.")
+                    break
+                except Exception as model_err:
+                    print(f"Model {model_name} failed: {model_err}")
+                    continue
             
-            briefing = result.get("briefing", "오늘의 경제 동향을 분석 중입니다.")
-            final_news = result.get("items", [])
+            if not success:
+                raise Exception("All attempted AI models failed or were overloaded.")
             
             # Add image URL generation using Pollinations API
             import random
