@@ -142,11 +142,46 @@ def fetch_economic_news():
     from datetime import timezone, timedelta
     kst = timezone(timedelta(hours=9))
     now_kst = datetime.now(timezone.utc).astimezone(kst)
+    timestamp = now_kst.strftime("%Y-%m-%d %H:%M:%S")
+
+    # News accumulation logic
+    news_file = 'data/news.json'
+    existing_items = []
+    if os.path.exists(news_file):
+        try:
+            with open(news_file, 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                existing_items = old_data.get('items', [])
+        except Exception as e:
+            print(f"Error loading existing news: {e}")
+
+    # Add timestamp to new items
+    for item in final_news:
+        item["published_at"] = timestamp
+
+    # Merge and remove duplicates (by title)
+    seen_titles = set()
+    merged_items = []
+    
+    # Add new items first (keep newest at top)
+    for item in final_news:
+        if item['title'] not in seen_titles:
+            merged_items.append(item)
+            seen_titles.add(item['title'])
+            
+    # Add old items
+    for item in existing_items:
+        if item['title'] not in seen_titles:
+            merged_items.append(item)
+            seen_titles.add(item['title'])
+
+    # Keep only the last 50 items
+    merged_items = merged_items[:50]
 
     data = {
-        "last_updated": now_kst.strftime("%Y-%m-%d %H:%M:%S"),
+        "last_updated": timestamp,
         "briefing": briefing,
-        "items": final_news
+        "items": merged_items
     }
     
     os.makedirs('data', exist_ok=True)

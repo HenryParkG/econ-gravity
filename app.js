@@ -27,8 +27,9 @@ async function loadNews() {
             card.style.animationDelay = `${index * 0.1}s`;
             card.style.cursor = 'pointer';
 
-            // Format time (HH:mm) from the update timestamp
-            const updateTime = data.last_updated ? data.last_updated.split(' ')[1].substring(0, 5) : '--:--';
+            // Format time (HH:mm) from the item's own timestamp or global last_updated
+            const rawTime = item.published_at || data.last_updated || '';
+            const updateTime = rawTime ? rawTime.split(' ')[1].substring(0, 5) : '--:--';
 
             card.innerHTML = `
                 <div class="card-meta">
