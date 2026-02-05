@@ -64,9 +64,18 @@ def fetch_economic_news():
             }}
             """
             
-            # Failover logic: Try Gemini 3 first, then fallback to 2.0 or 1.5 if overloaded
-            models_to_try = ['gemini-3-flash-preview', 'gemini-2.0-flash', 'gemini-1.5-flash']
+            # Failover logic: Try Gemini 3 first, then fallback to other versions if overloaded
+            # Including Pro and 8B versions for maximum fallback coverage
+            models_to_try = [
+                'gemini-3-flash-preview', 
+                'gemini-3-pro-preview', 
+                'gemini-2.0-flash', 
+                'gemini-1.5-pro', 
+                'gemini-1.5-flash', 
+                'gemini-1.5-flash-8b'
+            ]
             success = False
+            import time
             
             for model_name in models_to_try:
                 try:
@@ -85,6 +94,9 @@ def fetch_economic_news():
                     break
                 except Exception as model_err:
                     print(f"Model {model_name} failed: {model_err}")
+                    if "503" in str(model_err) or "overloaded" in str(model_err).lower():
+                        print("Server overloaded, waiting 2 seconds before next model...")
+                        time.sleep(2)
                     continue
             
             if not success:
