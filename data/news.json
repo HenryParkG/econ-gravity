@@ -1,51 +1,51 @@
 {
-    "last_updated": "2026-02-05 15:30:26",
-    "briefing": "오늘의 경제 시장은 금과 은 등 안전자산의 가격 폭락으로 인한 금융시장의 변동성 확대와 더불어, 미국의 실물 경제 둔화 신호가 겹치며 불확실성이 커진 모습입니다. 반면 한국 경제는 반도체 업황 회복에 힘입어 글로벌 투자은행들의 성장률 전망치가 상향 조정되는 긍정적인 신호와 트럼프발 외환 시장의 변화가 동시에 감지되고 있습니다.",
+    "last_updated": "2026-02-05 15:34:44",
+    "briefing": "오늘의 경제 시장은 반도체 업황 회복에 따른 국내 경제 성장률 상향 전망과 글로벌 투자 거물의 한국 기업 베팅이라는 긍정적 신호가 나타났습니다. 하지만 미국 기술주 급락과 트럼프 전 대통령 발(發) 관세 및 환율 변동성 리스크가 공존하며 시장의 긴장감이 고조되는 양면적인 흐름을 보이고 있습니다.",
     "items": [
         {
-            "title": "금·은값 동반 폭락, 안전자산의 배신인가? 혼돈의 금융시장 긴급 진단",
-            "source": "MBC 뉴스",
-            "category": "금융",
-            "summary": "글로벌 금융시장에서 안전자산으로 꼽히던 금과 은 가격이 급락하며 투자자들에게 큰 충격을 주고 있습니다.",
-            "content": "최근 고공행진을 이어가던 국제 금값과 은값이 가파른 하락세를 보이며 금융시장이 술렁이고 있습니다. 전문가들은 이번 폭락의 원인을 복합적으로 분석하고 있습니다. 우선, 예상보다 강한 미국의 경제 지표가 발표되면서 연준의 금리 인하 기대감이 약화되었고, 이에 따라 달러화가 강세를 보인 것이 금속 가격에 하향 압력을 가한 것으로 보입니다.\n\n또한, 그동안 과열되었던 시장의 차익 실현 매물이 한꺼번에 쏟아져 나온 것도 변동성을 키운 요인입니다. 특히 은의 경우 산업용 수요에 대한 불안감까지 겹치며 금보다 더 큰 낙폭을 기록했습니다. 이는 단순한 가격 조정을 넘어 금융시장 전반의 리스크 선호 심리가 변화하고 있음을 시사합니다.\n\n투자자들은 이번 사태를 통해 '안전자산은 언제나 안전하다'는 믿음이 깨질 수 있음을 경계해야 합니다. 현재의 혼돈은 미 대선을 앞둔 정치적 불확실성과 지정학적 리스크가 맞물려 있어, 당분간 변동성 장세가 지속될 것으로 전망됩니다. 시장 관계자들은 자산 포트폴리오의 재점검이 필요한 시점이라고 조언합니다.",
-            "image_prompt": "A cinematic shot of falling gold bars and silver coins amidst a dark, digital financial screen with dramatic downward red trend lines.",
-            "image_url": "https://pollinations.ai/p/A%20cinematic%20shot%20of%20falling%20gold%20bars%20and%20silver%20coins%20amidst%20a%20dark,%20digital%20financial%20screen%20with%20dramatic%20downward%20red%20trend%20lines.?width=1024&height=576&seed=5749&model=flux&nologo=true"
+            "title": "‘월가의 전설’ 드러켄밀러, 쿠팡에 2100억 통 큰 베팅… 한국 이커머스 잠재력 증명",
+            "source": "머니투데이 / v.daum.net",
+            "category": "금융/투자",
+            "summary": "미국 경제의 막후 실세로 불리는 스탠리 드러켄밀러가 쿠팡 주식 약 2,100억 원어치를 보유한 것으로 확인되며 시장의 이목이 집중되고 있습니다.",
+            "content": "미국 헤지펀드 업계의 살아있는 전설로 통하는 스탠리 드러켄밀러 듀케인 패밀리 오피스 회장이 한국의 이커머스 거인 쿠팡(Coupang)의 주요 주주로 부상했습니다. 최근 공시 자료에 따르면 드러켄밀러는 약 1억 5,000만 달러(한화 약 2,100억 원) 규모의 쿠팡 지분을 보유하고 있는 것으로 나타났습니다. 이는 글로벌 거물 투자자가 한국 시장의 성장 동력과 쿠팡의 수익 모델에 대해 강력한 확신을 가지고 있음을 시사합니다.\n\n드러켄밀러는 조지 소로스와 함께 영국의 파운드화를 굴복시킨 인물로 유명하며, 그의 투자 행보는 전 세계 기관 투자자들의 이정표가 되곤 합니다. 업계에서는 이번 투자가 단순한 단기 차익 실현이 아닌, 쿠팡이 보여준 물류 혁신과 멤버십 생태계의 공고함을 높게 평가한 장기적 포석이라고 분석하고 있습니다. 특히 쿠팡이 최근 흑자 전환에 성공하며 실적 안정성을 증명한 시점과 맞물려 그 의미가 더욱 큽니다.\n\n이번 소식은 국내 증시 전반에도 긍정적인 심리를 전파하고 있습니다. 글로벌 자산 운용사들이 한국 테크 기업들을 다시금 주목하는 계기가 될 수 있기 때문입니다. 전문가들은 \"드러켄밀러 같은 실세가 움직였다는 것은 한국 기업들의 밸류에이션 재평가(Re-rating) 가능성을 열어주는 신호탄\"이라고 평가하고 있습니다.",
+            "image_prompt": "Wall Street legend investor, Coupang logo, golden coins and digital stock chart, professional financial aesthetic, 16:9",
+            "image_url": "https://pollinations.ai/p/Wall%20Street%20legend%20investor%20Coupang%20logo%20golden%20coins%20and%20digital%20stock%20chart%20professional%20financial%20aesthetic%20169?width=1024&height=576&seed=39944&model=flux&nologo=true"
         },
         {
-            "title": "'킹 달러' 위협하는 트럼프 리스크, 글로벌 외환시장 긴장감 고조",
-            "source": "조선일보",
-            "category": "시장",
-            "summary": "도널드 트럼프 전 대통령이 달러 약세를 유도하겠다는 의지를 내비치면서 강달러 기조에 변화의 바람이 불고 있습니다.",
-            "content": "미국 대선 정국이 가열되는 가운데, 트럼프 전 대통령의 경제 정책 방향이 외환시장의 핵심 변수로 떠올랐습니다. 그는 최근 인터뷰 등을 통해 현재의 달러 가치가 지나치게 높다고 지적하며, 미국 제조업의 경쟁력을 높이기 위해 달러 약세가 필요하다는 입장을 견지하고 있습니다. 이는 바이든 정부의 '강달러' 기조와 정면으로 배치되는 대목입니다.\n\n만약 트럼프가 재집권에 성공하여 인위적인 달러 약세를 유도할 경우, 한국을 비롯한 수출 중심 국가들은 비상이 걸릴 수밖에 없습니다. 원/달러 환율이 급격히 하락하면 수출 기업들의 가격 경쟁력이 약화되고 수익성이 악화될 우려가 크기 때문입니다. 하지만 반대로 수입 물가 안정에는 기여할 수 있다는 양면성도 존재합니다.\n\n시장 전문가들은 '트럼프 리스크'가 단순한 정치적 수사가 아니라 실제 정책으로 구현될 가능성에 무게를 두고 있습니다. 글로벌 통화 패권의 흐름이 바뀔 수 있는 중대한 변곡점에서 기업과 정부는 시나리오별 대응책을 마련해야 할 시점입니다.",
-            "image_prompt": "A conceptual illustration of a giant US dollar symbol being pulled by contrasting political forces against a backdrop of a global trading floor.",
-            "image_url": "https://pollinations.ai/p/A%20conceptual%20illustration%20of%20a%20giant%20US%20dollar%20symbol%20being%20pulled%20by%20contrasting%20political%20forces%20against%20a%20backdrop%20of%20a%20global%20trading%20floor.?width=1024&height=576&seed=907&model=flux&nologo=true"
+            "title": "반도체 훈풍에 경제 성장 가속도… 글로벌 IB, 한국 성장률 ‘줄상향’",
+            "source": "시사저널 / v.daum.net",
+            "category": "거시경제",
+            "summary": "반도체 수출 회복세가 뚜렷해지면서 씨티은행을 비롯한 주요 투자은행들이 한국의 올해 경제성장률 전망치를 잇따라 높여 잡고 있습니다.",
+            "content": "침체 우려가 깊었던 한국 경제에 반도체발 온기가 확산되고 있습니다. 글로벌 투자은행(IB)인 씨티(Citi)는 한국의 올해 실질 국내총생산(GDP) 성장률 전망치를 기존 2.2%에서 2.4%로 전격 상향 조정했습니다. 이는 삼성전자와 SK하이닉스를 중심으로 한 반도체 수출 실적이 예상치를 크게 웃돌며 국가 전체 경제의 하방 경직성을 확보했기 때문으로 풀이됩니다.\n\n단순히 수출 지표만 좋아진 것이 아니라, 반도체 업황의 부활이 관련 후방 산업과 기업 설비 투자로 전이되고 있다는 점이 고무적입니다. 주요 IB들은 인공지능(AI) 열풍에 따른 고대역폭메모리(HBM) 수요 폭발이 내년까지 한국 경제의 핵심 엔진 역할을 할 것으로 보고 있습니다. 이러한 흐름은 가계 부채와 고물가로 위축된 내수 시장의 부진을 상당 부분 상쇄하고 있습니다.\n\n하지만 전문가들은 성장의 질적 측면에 주목해야 한다고 조언합니다. 반도체 편중 현상이 심화될 경우 대외 변수에 따른 변동성이 커질 수 있기 때문입니다. 정부와 기업은 이번 반도체 사이클을 기회로 삼아 신성장 동력을 확보하고 체질 개선에 박차를 가해야 하는 과제를 안고 있습니다.",
+            "image_prompt": "Semiconductor chip glowing with blue light, upward arrow graph, South Korean flag subtle background, high-tech economy, 16:9",
+            "image_url": "https://pollinations.ai/p/Semiconductor%20chip%20glowing%20with%20blue%20light%20upward%20arrow%20graph%20South%20Korean%20flag%20subtle%20background%20hightech%20economy%20169?width=1024&height=576&seed=23916&model=flux&nologo=true"
         },
         {
-            "title": "반도체가 견인하는 한국 경제, 글로벌 IB들 성장률 전망 일제히 상향",
-            "source": "시사저널",
-            "category": "테크",
-            "summary": "반도체 수출 호조에 힘입어 주요 글로벌 투자은행들이 한국의 올해 경제성장률 전망치를 잇따라 높여 잡고 있습니다.",
-            "content": "한국 경제의 대들보인 반도체 산업이 다시 살아나면서 국가 경제 전체에 활기가 돌고 있습니다. 삼성전자와 SK하이닉스를 필두로 한 메모리 반도체 수출이 AI 열풍에 힘입어 기록적인 수치를 달성하자, 골드만삭스, JP모건 등 주요 글로벌 투자은행(IB)들은 한국의 GDP 성장률 전망치를 기존보다 0.2~0.4%포인트 상향 조정했습니다.\n\n특히 고대역폭메모리(HBM) 등 고부가가치 제품의 수요 폭발은 한국 반도체 기업들의 이익 구조를 개선시켰으며, 이는 설비 투자 확대와 고용 창출로 이어지는 선순환 구조를 만들고 있습니다. 정부 역시 이러한 흐름을 타기 위해 반도체 메가 클러스터 구축 등 전폭적인 지원을 아끼지 않고 있습니다.\n\n다만, 반도체 외의 내수 소비나 건설 경기 등은 여전히 회복세가 더디다는 점이 한계로 지적됩니다. 전문가들은 '반도체 쏠림' 현상을 경계하면서도, 반도체가 만들어낸 온기가 경제 전반으로 확산될 수 있도록 세심한 정책적 뒷받침이 필요하다고 입을 모으고 있습니다.",
-            "image_prompt": "A high-tech digital visualization of glowing semiconductor wafers with rising stock charts and the South Korean flag integrated into the circuitry.",
-            "image_url": "https://pollinations.ai/p/A%20high-tech%20digital%20visualization%20of%20glowing%20semiconductor%20wafers%20with%20rising%20stock%20charts%20and%20the%20South%20Korean%20flag%20integrated%20into%20the%20circuitry.?width=1024&height=576&seed=6639&model=flux&nologo=true"
+            "title": "미국 기술주 ‘쑥대밭’… AMD 17% 폭락에 글로벌 반도체 벨트 긴장감 고조",
+            "source": "헤럴드경제",
+            "category": "글로벌 증시",
+            "summary": "기대를 모았던 미국 빅테크 기업들의 실적 발표 이후 기술주 중심의 투매가 발생하며 나스닥 시장이 휘청거리고 있습니다.",
+            "content": "미국 뉴욕 증시에서 기술주들이 동반 폭락하며 투자자들에게 충격을 주고 있습니다. 특히 AI 가속기 시장의 강자인 AMD의 주가가 하루 만에 17% 가까이 급락하면서 반도체 업종 전반에 대한 고점 논란이 재점화되었습니다. 이는 시장의 기대치가 지나치게 높았던 상황에서 발표된 실적 가이던스가 투자자들의 눈높이를 충족시키지 못했기 때문으로 분석됩니다.\n\n이번 하락은 엔비디아와 마이크로소프트 등 그동안 AI 붐을 주도해온 대장주들에게도 영향을 미치고 있습니다. 'AI 거품론'이 다시 고개를 들면서 고평가된 밸류에이션을 정당화할 만한 확실한 수익 모델을 보여주지 못하는 기업들을 중심으로 매도세가 거세지고 있습니다. 이는 국내 반도체 기업들의 주가에도 하방 압력으로 작용할 가능성이 큽니다.\n\n증시 전문가들은 이번 조정이 건강한 숨 고르기일지, 아니면 대세 하락의 전조일지를 두고 팽팽한 의견 대립을 보이고 있습니다. 당분간 미국 연준의 금리 결정과 빅테크들의 추가 실적 발표가 이어지는 만큼, 변동성에 대비한 보수적인 접근이 필요한 시점입니다.",
+            "image_prompt": "Stock market crash, red digital numbers falling, AMD logo in dark background, dramatic financial crisis atmosphere, 16:9",
+            "image_url": "https://pollinations.ai/p/Stock%20market%20crash%20red%20digital%20numbers%20falling%20AMD%20logo%20in%20dark%20background%20dramatic%20financial%20crisis%20atmosphere%20169?width=1024&height=576&seed=76170&model=flux&nologo=true"
         },
         {
-            "title": "미국 실물경제의 경고등? 트럭 판매 둔화가 시사하는 경기 조정 가능성",
-            "source": "연합인포맥스",
-            "category": "시장",
-            "summary": "경기 선행지표로 통하는 미국 대형 트럭 판매량이 급감하며 실물 경제의 침체 전조가 아니냐는 우려가 나옵니다.",
-            "content": "미국 경제의 혈관을 담당하는 트럭 운송업계에 비상이 걸렸습니다. 최근 발표된 데이터에 따르면 미국 내 대형 트럭 판매량이 눈에 띄게 둔화되었는데, 이는 보통 물동량 감소와 직결되어 실물 경기 위축의 강력한 신호로 해석됩니다. 소비자들이 지갑을 닫기 시작하면서 기업들의 재고 운송 수요가 줄어든 결과라는 분석입니다.\n\n역사적으로 트럭 판매량 추이는 미국 GDP 성장률과 매우 높은 상관관계를 보여왔습니다. 판매 둔화가 심화될 경우 하반기 미국 경제의 연착륙 시나리오에 차질이 생길 수 있습니다. 특히 고금리 장기화로 인해 할부 금융 부담이 커진 것도 트럭 구매를 망설이게 하는 요인으로 작용하고 있습니다.\n\n이는 단순히 미국의 문제에 그치지 않습니다. 글로벌 최대 소비 시장인 미국의 수요 둔화는 한국을 포함한 주요 수출국들에게 즉각적인 타격을 줄 수 있습니다. 투자자들은 기술주 중심의 화려한 증시 이면에 숨겨진 실물 경제의 경고음에 귀를 기울여야 할 때입니다.",
-            "image_prompt": "A vast logistics hub with rows of stagnant semi-trucks under a moody, overcast sky with a translucent declining economic graph overlay.",
-            "image_url": "https://pollinations.ai/p/A%20vast%20logistics%20hub%20with%20rows%20of%20stagnant%20semi-trucks%20under%20a%20moody,%20overcast%20sky%20with%20a%20translucent%20declining%20economic%20graph%20overlay.?width=1024&height=576&seed=7972&model=flux&nologo=true"
+            "title": "파리 올림픽은 ‘비즈니스 현장’… 이재용 회장의 ‘스포츠 외교’와 초격차 네트워킹",
+            "source": "서울신문",
+            "category": "기업/경영",
+            "summary": "삼성전자 이재용 회장이 파리 올림픽 현장을 찾아 글로벌 정·재계 인사들과 교류하며 미래 산업 협력을 도모합니다.",
+            "content": "삼성전자 이재용 회장이 2024 파리 올림픽을 계기로 광폭 행보를 보이고 있습니다. 이번 방문은 단순한 경기 관람을 넘어, 전 세계 주요 경제 리더들이 집결하는 올림픽 현장을 비즈니스 네트워킹의 장으로 활용하려는 전략적 선택입니다. 이 회장은 현지에서 글로벌 IT 기업 CEO 및 각국 정부 고위 관계자들과 만나 AI, 반도체, 6G 통신 등 미래 핵심 기술 협력 방안을 논의할 것으로 알려졌습니다.\n\n삼성은 올림픽 공식 후원사로서 갤럭시 브랜드를 세계 시장에 알리는 동시에, 이 회장의 전방위적인 '민간 외교관' 역할에 큰 기대를 걸고 있습니다. 특히 최근 급변하는 글로벌 공급망 재편 속에서 유럽 내 협력 모델을 강화하고 파트너십을 공고히 하는 것이 이번 출장의 주된 목표 중 하나입니다.\n\n재계에서는 이 회장의 이러한 행보가 삼성전자의 글로벌 위상을 높이는 것은 물론, 한국 경제의 민간 외교 역량을 한 차원 끌어올리는 효과가 있다고 평가합니다. 치열한 기술 패권 전쟁 속에서 총수가 직접 발로 뛰는 현장 경영이 어떠한 성과로 이어질지 귀추가 주목됩니다.",
+            "image_prompt": "Lee Jae-yong business meeting, Eiffel Tower background, Paris Olympics rings, professional corporate diplomacy, 16:9",
+            "image_url": "https://pollinations.ai/p/Lee%20Jaeyong%20business%20meeting%20Eiffel%20Tower%20background%20Paris%20Olympics%20rings%20professional%20corporate%20diplomacy%20169?width=1024&height=576&seed=42495&model=flux&nologo=true"
         },
         {
-            "title": "시진핑·트럼프, 전화 회담으로 탐색전… 경제 협력과 갈등 사이 '줄타기'",
-            "source": "글로벌이코노믹",
-            "category": "정책",
-            "summary": "미중 양국의 최고 지도층이 소통에 나서며 경제 협력 가능성을 논의했지만, 안보와 기술 패권 갈등은 여전한 과제로 남았습니다.",
-            "content": "지정학적 긴장이 지속되는 가운데 시진핑 중국 국가주석과 트럼프 전 대통령(또는 미 지도부) 간의 소통 시도가 포착되며 이목을 집중시키고 있습니다. 이번 회담의 핵심은 경제 협력의 물꼬를 트는 동시에 대만 문제와 무기 판매 등 민감한 안보 이슈에 대한 서로의 입장을 재확인하는 데 있었습니다.\n\n중국 측은 미국의 경제 제재와 관세 압박에 대해 유감을 표명하며 '상호 존중'에 기반한 경제적 동반자 관계를 강조했습니다. 반면 미국 측은 불공정 무역 관행을 시정해야 한다는 기존의 강경한 입장을 고수하면서도, 글로벌 공급망 안정을 위해 최소한의 대화 채널은 유지하겠다는 전략을 보이고 있습니다.\n\n이러한 거대 양국의 움직임은 한국 경제에 중대한 영향을 미칩니다. 미중 갈등이 격화될수록 한국은 '선택의 기로'에 서게 되며, 공급망 다변화라는 어려운 숙제를 안게 됩니다. 향후 전개될 양국의 협상 결과가 글로벌 통상 환경의 판도를 결정할 핵심 열쇠가 될 전망입니다.",
-            "image_prompt": "Two powerful world leaders in a symbolic silhouette across a glowing digital world map, with trade icons and diplomatic seals in high quality.",
-            "image_url": "https://pollinations.ai/p/Two%20powerful%20world%20leaders%20in%20a%20symbolic%20silhouette%20across%20a%20glowing%20digital%20world%20map,%20with%20trade%20icons%20and%20diplomatic%20seals%20in%20high%20quality.?width=1024&height=576&seed=3183&model=flux&nologo=true"
+            "title": "흔들리는 ‘킹 달러’와 관세 공포… 트럼프 리스크에 국가 경제 ‘비상’",
+            "source": "조선일보 / 문화일보",
+            "category": "경제정책",
+            "summary": "트럼프 전 대통령의 재집권 가능성이 부각되면서 관세 장벽 강화와 달러화 가치 변동이 한국 수출 경제의 새로운 위협 요인으로 부상했습니다.",
+            "content": "미국 대선 정국이 요동치면서 '트럼프 리스크'가 한국 경제의 최대 변수로 떠올랐습니다. 도널드 트럼프 전 대통령은 강력한 보호무역주의를 예고하며 모든 수입품에 대한 보편적 관세 부과를 주장하고 있습니다. 특히 '킹 달러(달러 강세)'가 미국 제조업의 경쟁력을 해친다고 비판하며 인위적인 달러 약세 유도 가능성까지 시사해 외환 시장에 파장을 일으키고 있습니다.\n\n수출 비중이 높은 한국 경제 입장에서 관세 인상은 곧 가격 경쟁력 하락으로 직결됩니다. 자동차와 반도체 등 핵심 수출 품목이 직접적인 타격을 입을 수 있다는 우려가 나옵니다. 또한, 환율 변동성이 극심해질 경우 기업들의 채산성 악화와 외환시장 불안정성이 심화될 수밖에 없습니다.\n\n정부와 학계에서는 민·관이 협력하여 시나리오별 대응 전략을 마련해야 한다는 목소리가 높습니다. 단순히 지켜보는 단계를 넘어, 미국 내 로비 활동 강화와 수출 다변화, 그리고 공급망 내재화 등 근본적인 체질 개선이 시급한 상황입니다. 글로벌 정치 지형의 변화가 경제 전쟁으로 번지는 양상을 보이고 있습니다.",
+            "image_prompt": "Trump profile silhouette, US dollar bills, massive shipping containers with chains, protectionism theme, 16:9",
+            "image_url": "https://pollinations.ai/p/Trump%20profile%20silhouette%20US%20dollar%20bills%20massive%20shipping%20containers%20with%20chains%20protectionism%20theme%20169?width=1024&height=576&seed=38570&model=flux&nologo=true"
         }
     ]
 }
