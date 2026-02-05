@@ -191,9 +191,9 @@ def fetch_economic_news():
             # Timestamp to bust cache
             ts = int(time.time())
             
-            # Use 'flux' model with nologo
+            # Use 'turbo' model for speed and reliability, remove enhance to avoid timeouts
             encoded_prompt = selected_theme.replace(" ", "%20")
-            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true&enhance=true&t={ts}-{i}"
+            item["image_url"] = f"https://pollinations.ai/p/{encoded_prompt}?width=1024&height=576&seed={dynamic_seed}&model=turbo&nologo=true&t={ts}-{i}"
             
         except Exception as img_err:
             # Absolute fallback
