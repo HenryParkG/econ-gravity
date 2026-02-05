@@ -44,7 +44,7 @@ def fetch_economic_news():
             1. 위 기사들을 종합하여 오늘의 경제 흐름을 보여주는 '오늘의 한 줄 브리핑(briefing)'을 2~3문장으로 작성해줘.
             2. 가장 중요도가 높은 뉴스 5개를 엄선해서 'items' 목록으로 정리해줘.
             3. 각 뉴스 아이템은 단순 요약이 아니라, 전문 경제 뉴스 리포터가 작성한 것처럼 상세하고 알찬 기사 내용(content)으로 재구성해줘. (최소 3~4문단 이상)
-            4. 각 뉴스의 주제를 잘 나타내는 AI 이미지 생성을 위한 영어 프롬프트(image_prompt)를 1문장의 영어로 작성해줘.
+            4. 각 뉴스의 주제와 분위기를 아주 구체적으로 묘사하는 AI 이미지 생성을 위한 영어 프롬프트(image_prompt)를 1문장의 영어로 작성해줘. (예: 단순히 'economy'가 아니라 'A high-tech digital visualization of stock market trends with neon blue lines and global map background'와 같이 구체적으로)
             
             반드시 다음과 같은 JSON 형식으로만 응답해줘. 다른 말은 절대 하지 마.
             형식:
@@ -76,11 +76,14 @@ def fetch_economic_news():
             final_news = result.get("items", [])
             
             # Add image URL generation using Pollinations API
-            for item in final_news:
+            import random
+            for i, item in enumerate(final_news):
+                # Requesting more descriptive prompts from Gemini and using variety in seeds
                 img_prompt = item.get("image_prompt", "Business economy digital art").replace(" ", "%20")
-                item["image_url"] = f"https://pollinations.ai/p/{img_prompt}?width=1024&height=576&seed=42&model=flux&nologo=true"
+                dynamic_seed = random.randint(1, 10000)
+                item["image_url"] = f"https://pollinations.ai/p/{img_prompt}?width=1024&height=576&seed={dynamic_seed}&model=flux&nologo=true"
 
-            print(f"Successfully synthesized deep reports using Gemini 3 and generated AI images.")
+            print(f"Successfully synthesized deep reports using Gemini 3 and generated unique AI images.")
             
         except Exception as e:
             print(f"Error calling Gemini API: {e}")
