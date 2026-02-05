@@ -35,8 +35,8 @@ def fetch_economic_news():
     else:
         try:
             genai.configure(api_key=api_key)
-            # Try with a specific version to avoid 404 issues in some environments
-            model = genai.GenerativeModel('gemini-1.5-flash')
+            # Switching to Gemini 2.0 Flash as per user request for latest version
+            model = genai.GenerativeModel('gemini-2.0-flash')
             
             prompt = f"""
             다음은 오늘 수집된 주요 경제 뉴스 목록입니다:
