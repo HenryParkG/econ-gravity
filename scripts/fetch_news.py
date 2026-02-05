@@ -107,9 +107,10 @@ def fetch_economic_news():
             import re
             for i, item in enumerate(final_news):
                 # Simplify and clean prompt for URL safety
-                raw_prompt = item.get("image_prompt", "Economy business report")
-                # Remove special characters and limit length
-                clean_prompt = re.sub(r'[^a-zA-Z0-9\s]', '', raw_prompt)
+                raw_prompt = item.get("image_prompt", "Economy business")
+                # Remove technical suffixes that AI might include
+                cleaned_raw = raw_prompt.split(',')[0] # Take first part or first few keywords
+                clean_prompt = re.sub(r'[^a-zA-Z\s]', '', cleaned_raw).strip()
                 encoded_prompt = clean_prompt.replace(" ", "%20")
                 
                 dynamic_seed = random.randint(1, 999999)
