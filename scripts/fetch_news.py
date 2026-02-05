@@ -102,8 +102,13 @@ def fetch_economic_news():
                 item["content"] = f"### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** {str(e)}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요."
                 item["image_url"] = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
 
+    # KST (UTC+9) adjustment for GitHub Actions environment
+    from datetime import timezone, timedelta
+    kst = timezone(timedelta(hours=9))
+    now_kst = datetime.now(timezone.utc).astimezone(kst)
+
     data = {
-        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "last_updated": now_kst.strftime("%Y-%m-%d %H:%M:%S"),
         "briefing": briefing,
         "items": final_news
     }
