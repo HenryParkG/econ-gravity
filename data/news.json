@@ -1,46 +1,46 @@
 {
-    "last_updated": "2026-02-05 15:18:31",
-    "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요.",
+    "last_updated": "2026-02-05 15:21:44",
+    "briefing": "오늘의 경제는 반도체 업황 회복에 따른 한국 경제 성장률의 긍정적 전망과 함께, 금·은값 폭락 및 '트럼프 리스크'로 인한 글로벌 금융시장의 불확실성이 공존하고 있습니다. 특히 세대 간 소득 격차 심화라는 내부적 과제와 미·중 관계 및 관세 공포라는 외부적 변수가 맞물리며 변동성이 커지는 흐름을 보이고 있습니다.",
     "items": [
         {
-            "title": "‘美 경제 실세’ 드러켄밀러, 쿠팡 주식 2100억원대 보유 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzbmZCbE5qV3VuTWExRzVKZjhsaC1PQUMxdkpHeS1FZktqdEwzRk4wbzlTMHNmV0k2X0RiVVZveXdHdkYyOERRQzY5eFJNRU0?oc=5",
-            "source": "v.daum.net",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "반도체 훈풍 탄 한국 경제, 글로벌 투자은행(IB)들 성장률 전망치 잇따라 상향",
+            "source": "시사저널",
+            "summary": "반도체 수출 호조에 힘입어 주요 글로벌 투자은행들이 한국의 올해 경제 성장률 전망치를 상향 조정하며 낙관론을 펼치고 있습니다.",
+            "content": "최근 반도체 경기가 가파른 회복세를 보이면서 한국 경제 전반에 온기가 확산되고 있습니다. 삼성전자와 SK하이닉스를 필두로 한 메모리 반도체 수출이 역대급 실적을 기록하자, 글로벌 주요 투자은행(IB)들은 한국의 올해 GDP 성장률 전망치를 기존보다 높게 수정 발표하고 있습니다. 이는 반도체가 한국 경제의 강력한 견인차 역할을 하고 있음을 재확인시켜주는 지표입니다.\n\n특히 인공지능(AI) 열풍으로 인한 고대역폭메모리(HBM) 수요 폭증이 한국 반도체 기업들에게 호재로 작용하고 있습니다. 이에 따라 수출 실적뿐만 아니라 설비 투자와 고용 시장에도 긍정적인 파급 효과가 나타나고 있으며, 정부와 한국은행 역시 이러한 흐름을 주시하며 하반기 경제 정책의 방향타를 고심하고 있는 상황입니다.\n\n다만, 반도체 착시 현상에 대한 경계의 목소리도 나옵니다. 특정 산업에 대한 의존도가 지나치게 높을 경우, 향후 글로벌 경기 변동이나 공급망 이슈 발생 시 경제 전체가 흔들릴 수 있다는 지적입니다. 따라서 반도체 외에도 이차전지, 바이오, 모빌리티 등 차세대 성장 동력의 고른 발전이 균형 잡힌 경제 성장을 위해 필수적이라는 분석이 힘을 얻고 있습니다.\n\n종합적으로 볼 때, 현재 한국 경제는 반도체라는 강력한 엔진을 장착하고 회복의 궤도에 올라선 것으로 보입니다. 전문가들은 이번 성장률 상향 조정이 단기적인 현상에 그치지 않기 위해서는 규제 혁신과 기술 초격차 유지를 위한 정부 차원의 전략적 지원이 지속되어야 한다고 조언합니다.",
+            "image_prompt": "A futuristic semiconductor chip glowing with golden light over a rising 3D bar graph representing South Korea's economic growth, high-tech aesthetic, 16:9.",
+            "image_url": "https://pollinations.ai/p/A%20futuristic%20semiconductor%20chip%20glowing%20with%20golden%20light%20over%20a%20rising%203D%20bar%20graph%20representing%20South%20Korea's%20economic%20growth,%20high-tech%20aesthetic,%2016:9.?width=1024&height=576&seed=2111&model=flux&nologo=true"
         },
         {
-            "title": "‘미 경제 막후 실세’ 드러켄밀러 쿠팡 주식 2100억원어치 보유 - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00NGUtMW9IN2FLUXNjWFU1N1BXdGlmMU9waU16RkM3Sy1WZmxqeE9RWGs0eUN4SUw5ZkdZaWxMMFJESXFRNVN3cnlNWDFvQ3NGOEtCNEFUcTg5WngtU1M0ZmYycXNQdkZ0UkhzX2Rmbw?oc=5",
-            "source": "한겨레",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "'킹 달러' 뒤흔드는 트럼프의 입, 글로벌 무역 전쟁 및 관세 공포 재점화",
+            "source": "조선일보 / 문화일보",
+            "summary": "도널드 트럼프 전 대통령의 달러 약세 선호 발언과 보편적 관세 도입 예고가 글로벌 금융시장과 한국 수출 기업들에 비상을 걸었습니다.",
+            "content": "미국 대선 정국이 심화되면서 '트럼프 리스크'가 다시금 세계 경제의 핵심 변수로 부상했습니다. 도널드 트럼프 전 대통령은 최근 인터뷰를 통해 강력한 달러화 가치가 미국 수출 경쟁력을 약화시킨다며 '약달러' 유도 가능성을 시사했습니다. 이는 지난 몇 년간 지속된 '킹 달러' 기조를 정면으로 부정하는 것으로, 환율 시장에 큰 혼란을 야기하고 있습니다.\n\n더욱 우려되는 지점은 그가 내세운 '보편적 기본 관세' 정책입니다. 모든 수입품에 대해 일률적으로 고율의 관세를 부과하겠다는 구상은 수출 의존도가 높은 한국 경제에 치명적인 타격이 될 수 있습니다. 자동차, 반도체, 철강 등 주요 산업군에서는 이미 트럼프 재집권 시나리오에 대비한 비상 경영 체제 가동을 검토 중인 것으로 알려졌습니다.\n\n정부와 민간 경제 전문가들은 이러한 보호무역주의 강화 움직임에 대해 '원팀' 대응의 필요성을 강조하고 있습니다. 개별 기업의 대응을 넘어 국가 차원의 통상 전략을 전면 재점검하고, 미국 현지 투자 확대나 공급망 다변화를 통해 잠재적인 피해를 최소화해야 한다는 목소리가 높습니다.\n\n결국 '트럼프표 경제 정책'은 글로벌 공급망의 재편과 환율 변동성 확대를 예고하고 있습니다. 이는 한국 경제에 위기이자 동시에 기회가 될 수 있는 만큼, 정교한 외교적 수사와 실리 위주의 통상 정책이 그 어느 때보다 중요한 시점입니다.",
+            "image_prompt": "A dramatic conceptual illustration showing a large US dollar sign being hit by lightning with a background of giant cargo ships and a world map, symbolizing global trade tension, cinematic lighting, 16:9.",
+            "image_url": "https://pollinations.ai/p/A%20dramatic%20conceptual%20illustration%20showing%20a%20large%20US%20dollar%20sign%20being%20hit%20by%20lightning%20with%20a%20background%20of%20giant%20cargo%20ships%20and%20a%20world%20map,%20symbolizing%20global%20trade%20tension,%20cinematic%20lighting,%2016:9.?width=1024&height=576&seed=7227&model=flux&nologo=true"
         },
         {
-            "title": "美 정계 또 등장한 쿠팡…'막후 경제실세' 1000억대 지분 투자 - 머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94aU1XZnVwcW1XcU5VQ1k0WTBkNDFVRjYtY0dTSEs1N2RuNUNraEsyY0JNZUQxMy1OMmV2c3BvaW84ZlpHWFB4YTVTQXVUMzZKeUxFUXFxUmhqcVJqNFJPRkJiNTlnVl80?oc=5",
-            "source": "머니투데이",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "안전 자산의 배신? 금·은값 동반 폭락에 글로벌 투자자들 '패닉'",
+            "source": "MBC 뉴스",
+            "summary": "영원한 안전 자산으로 여겨지던 금과 은 가격이 갑작스럽게 폭락하면서 금융시장에 혼돈이 가중되고 있습니다.",
+            "content": "최근까지 사상 최고치를 경신하며 고공행진을 이어가던 국제 금값과 은값이 가파른 하락세로 돌아서며 투자자들에게 충격을 주고 있습니다. 전통적인 위험 회피 수단이었던 귀금속 가격의 하락은 미 연준의 금리 인하 시점 불확실성과 최근의 달러 가치 변동이 복합적으로 작용한 결과로 분석됩니다.\n\n시장에서는 이번 폭락을 두고 일시적인 차익 실현 매물 출회라는 시각과, 안전 자산에 대한 선호도가 약화되는 구조적 변화의 시작이라는 시각이 엇갈리고 있습니다. 특히 은의 경우 산업용 수요 위축 우려까지 겹치면서 금보다 더 큰 폭의 하락세를 보이고 있어, 원자재 시장 전반에 대한 불안감을 키우고 있습니다.\n\n이러한 현상은 개인 투자자뿐만 아니라 대규모 자산을 운용하는 기관들에게도 당혹스러운 결과입니다. 포트폴리오의 안정성을 위해 금을 보유했던 자산가들은 급격한 가격 변동성에 대응하기 위해 자산 재배분에 나서고 있으며, 이는 주식과 채권 시장의 변동성을 다시 자극하는 연쇄 반응을 일으키고 있습니다.\n\n금융 전문가들은 당분간 금과 은 시장의 변동성이 클 것으로 예상하며, 섣부른 추격 매수나 과도한 비중 확대를 경계해야 한다고 조언합니다. 글로벌 거시 경제 지표와 미 대선 향방을 살피며 자산 배분의 유연성을 확보하는 것이 필요한 시기입니다.",
+            "image_prompt": "Elegant gold and silver bars melting into a digital liquid background with red downward trend lines and a dark, moody trading floor atmosphere, 16:9.",
+            "image_url": "https://pollinations.ai/p/Elegant%20gold%20and%20silver%20bars%20melting%20into%20a%20digital%20liquid%20background%20with%20red%20downward%20trend%20lines%20and%20a%20dark,%20moody%20trading%20floor%20atmosphere,%2016:9.?width=1024&height=576&seed=7327&model=flux&nologo=true"
         },
         {
-            "title": "[경제포커스] ‘킹 달러’를 흔드는 트럼프 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG5ORHlHYnV5ck1HekFua3ZHemlLbXcxNXRZYzRJYlRaUC1wYm03dGllb3BOakVZNmg5eS1yNmhNM0l5N3Vyeno2YjNubUVvWGVhMlZYU1diQUp6Nk5WZWZHV01YYm5WZWJfa0RBX0EwZmxXUVZKYklqVTZiUlJXVE5Cck1BVTlfQ1BYRtIBoAFBVV95cUxPSmxwT0llWld1a213V3FueE96dzB6YnZ3ZVNhb0p4bmRmbVlBWVRqR2NkNnp3QUNyaDV3VFFpOWxFUjBLU245WlB2N0lQaTMzSnpHQlVjS2p5OUJCYndhSzVjSVZPMk8yenFGYkN0eGhNU1ZNX0piY0ZCY1Vfb3lLRFpBaG15Z1dKNFAxVm0xRWJOYjNzYWFDQUFyaHA4aTZC?oc=5",
-            "source": "조선일보",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "부장님은 웃고 아들은 운다? 40대 소득 늘 때 청년층은 '제자리걸음'",
+            "source": "매일경제",
+            "summary": "세대 간 소득 격차가 역대급으로 벌어지면서 소비 위축과 저출생 문제를 심화시키는 경제적 장애물로 부상하고 있습니다.",
+            "content": "한국 사회의 허리 역할을 하는 40대 가장들의 소득과 자산 가치는 큰 폭으로 상승한 반면, 사회에 첫발을 내딛는 청년층의 소득 성장은 둔화되고 있다는 충격적인 통계가 발표되었습니다. 자료에 따르면 40대 소득이 18% 증가하는 동안 청년층은 단 5% 증가에 그쳐, 부모 세대와 자녀 세대 간의 경제적 불균형이 심화되고 있음을 보여줍니다.\n\n이러한 소득 격차는 단순히 숫자의 문제를 넘어 사회 구조적인 문제로 번지고 있습니다. 자산 형성이 늦어진 청년들은 결혼과 출산을 포기하거나 미루게 되고, 이는 장기적으로 한국 경제의 생산 가능 인구 감소와 내수 시장 침체로 이어지는 악순환을 초래합니다. 고소득을 올리는 기성세대 역시 자녀 지원에 비용을 쏟으며 노후 준비에 차질을 빚는 등 세대 전체가 고통받는 구조입니다.\n\n정부는 청년 일자리 창출과 주거 안정 등 다양한 대책을 내놓고 있지만, 시장의 반응은 냉담합니다. 양질의 일자리가 수도권과 대기업에 쏠려 있는 상황에서 근본적인 산업 구조 개편 없이는 이러한 격차를 해소하기 어렵다는 지적이 지배적입니다.\n\n전문가들은 청년층에 대한 직접적인 지원도 중요하지만, 노동 시장의 이중 구조를 타파하고 신구 세대 간의 공정한 기회 배분이 이뤄질 수 있는 정책적 결단이 시급하다고 입을 모읍니다. 세대 간 갈등이 경제적 원인에서 비롯되는 만큼, 이를 해결하기 위한 사회적 합의가 절실한 시점입니다.",
+            "image_prompt": "A conceptual digital art piece showing a split perspective: a prosperous modern office setting on one side and a minimalist, struggling young person's room on the other, soft lighting, financial disparity theme, 16:9.",
+            "image_url": "https://pollinations.ai/p/A%20conceptual%20digital%20art%20piece%20showing%20a%20split%20perspective:%20a%20prosperous%20modern%20office%20setting%20on%20one%20side%20and%20a%20minimalist,%20struggling%20young%20person's%20room%20on%20the%20other,%20soft%20lighting,%20financial%20disparity%20theme,%2016:9.?width=1024&height=576&seed=7809&model=flux&nologo=true"
         },
         {
-            "title": "다시 덮친 관세 공포… 국가경제 ‘원팀’ 뭉쳐야[기고] - 문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iVlloaWJXT0kzWHU0R1NtdmEyZlg0R1NpamZJMGFYejNRY3daNUhhbXFGRHBHdUlMaUI1cFlTTEpyVlB0dUR2bHN2aGhqbHVY?oc=5",
-            "source": "문화일보",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "이재용 회장의 '파리 스포츠 외교', 삼성의 글로벌 네트워크 복원 신호탄",
+            "source": "서울신문",
+            "summary": "2년 만에 올림픽 현장을 찾은 이재용 삼성전자 회장이 글로벌 경제·산업계 거물들과 회동하며 미래 먹거리 확보를 위한 광폭 행보를 보이고 있습니다.",
+            "content": "이재용 삼성전자 회장이 파리 올림픽을 계기로 '스포츠 외교' 전면에 나섰습니다. 이 회장의 이번 방문은 단순한 관람을 넘어, 올림픽이라는 거대한 글로벌 무대를 활용해 세계 주요 기업 CEO 및 정·관계 인사들과 긴밀한 네트워크를 다지기 위한 전략적 행보로 풀이됩니다.\n\n현지 보고에 따르면 이 회장은 프랑스 정재계 인사들은 물론, 글로벌 빅테크 기업들의 수장들과 비공식 만남을 이어가며 반도체, AI, 6G 등 삼성의 미래 핵심 사업에 대한 협력 방안을 논의 중인 것으로 알려졌습니다. 올림픽은 전 세계의 시선이 집중되는 만큼, 삼성의 브랜드 가치를 높이고 기술 리더십을 과시하기에 최적의 장소라는 판단입니다.\n\n특히 이번 행보는 삼성이 직면한 글로벌 공급망 재편과 기술 경쟁 심화라는 파고를 넘기 위한 '민간 외교관' 역할의 연장선에 있습니다. 총수가 직접 발로 뛰며 파트너십을 구축하는 것은 급변하는 글로벌 경영 환경에서 의사결정의 속도를 높이고 실질적인 비즈니스 성과를 창출하는 데 큰 동력이 됩니다.\n\n재계에서는 이 회장의 이번 파리 방문이 삼성전자의 글로벌 시장 지배력을 공고히 하고, 새로운 성장 동력을 발굴하는 중요한 변곡점이 될 것으로 기대하고 있습니다. 'K-삼성'의 위상을 전 세계에 다시 한번 각인시키는 계기가 될지 주목됩니다.",
+            "image_prompt": "A high-end digital illustration of the Eiffel Tower integrated with circuit board patterns and a stylized handshake silhouette in the foreground, professional and global business aesthetic, 16:9.",
+            "image_url": "https://pollinations.ai/p/A%20high-end%20digital%20illustration%20of%20the%20Eiffel%20Tower%20integrated%20with%20circuit%20board%20patterns%20and%20a%20stylized%20handshake%20silhouette%20in%20the%20foreground,%20professional%20and%20global%20business%20aesthetic,%2016:9.?width=1024&height=576&seed=5235&model=flux&nologo=true"
         }
     ]
 }
