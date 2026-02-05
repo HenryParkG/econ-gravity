@@ -1,36 +1,46 @@
 {
-    "last_updated": "2026-02-05 05:47:10",
+    "last_updated": "2026-02-05 05:52:35",
     "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다.",
     "items": [
         {
             "title": "‘미 경제 막후 실세’ 드러켄밀러 쿠팡 주식 2100억원어치 보유 - 한겨레",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00NGUtMW9IN2FLUXNjWFU1N1BXdGlmMU9waU16RkM3Sy1WZmxqeE9RWGs0eUN4SUw5ZkdZaWxMMFJESXFRNVN3cnlNWDFvQ3NGOEtCNEFUcTg5WngtU1M0ZmYycXNQdkZ0UkhzX2Rmbw?oc=5",
             "source": "한겨레",
-            "description": "내용 요약을 불러올 수 없습니다."
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘美 경제 실세’ 드러켄밀러, 쿠팡 주식 2100억원대 보유 - v.daum.net",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzbmZCbE5qV3VuTWExRzVKZjhsaC1PQUMxdkpHeS1FZktqdEwzRk4wbzlTMHNmV0k2X0RiVVZveXdHdkYyOERRQzY5eFJNRU0?oc=5",
             "source": "v.daum.net",
-            "description": "내용 요약을 불러올 수 없습니다."
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美 정계 또 등장한 쿠팡…'막후 경제실세' 1000억대 지분 투자 - 머니투데이",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94aU1XZnVwcW1XcU5VQ1k0WTBkNDFVRjYtY0dTSEs1N2RuNUNraEsyY0JNZUQxMy1OMmV2c3BvaW84ZlpHWFB4YTVTQXVUMzZKeUxFUXFxUmhqcVJqNFJPRkJiNTlnVl80?oc=5",
             "source": "머니투데이",
-            "description": "내용 요약을 불러올 수 없습니다."
-        },
-        {
-            "title": "정부 “코스피 급락은 단기 차익 실현 영향…실물경제·금융시장 견조” - 한겨레",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVWJhSDBaWHVkQ1NiOGdjVHg1WU5EZEgyeVJsVU5fVVFXalBkY0hsUDI0WU1LZjR0RVNBNk55LW1ZQTQyMnBTbDN2QlZqc2pRbk9taVR5SVVVWWVOZUNoQWljeWFMN0JfcnZnbDZ4RWs0QQ?oc=5",
-            "source": "한겨레",
-            "description": "내용 요약을 불러올 수 없습니다."
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제포커스] ‘킹 달러’를 흔드는 트럼프 - 조선일보",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG5ORHlHYnV5ck1HekFua3ZHemlLbXcxNXRZYzRJYlRaUC1wYm03dGllb3BOakVZNmg5eS1yNmhNM0l5N3Vyeno2YjNubUVvWGVhMlZYU1diQUp6Nk5WZWZHV01YYm5WZWJfa0RBX0EwZmxXUVZKYklqVTZiUlJXVE5Cck1BVTlfQ1BYRtIBoAFBVV95cUxPSmxwT0llWld1a213V3FueE96dzB6YnZ3ZVNhb0p4bmRmbVlBWVRqR2NkNnp3QUNyaDV3VFFpOWxFUjBLU245WlB2N0lQaTMzSnpHQlVjS2p5OUJCYndhSzVjSVZPMk8yenFGYkN0eGhNU1ZNX0piY0ZCY1Vfb3lLRFpBaG15Z1dKNFAxVm0xRWJOYjNzYWFDQUFyaHA4aTZC?oc=5",
             "source": "조선일보",
-            "description": "내용 요약을 불러올 수 없습니다."
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "다시 덮친 관세 공포… 국가경제 ‘원팀’ 뭉쳐야[기고] - 문화일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iVlloaWJXT0kzWHU0R1NtdmEyZlg0R1NpamZJMGFYejNRY3daNUhhbXFGRHBHdUlMaUI1cFlTTEpyVlB0dUR2bHN2aGhqbHVY?oc=5",
+            "source": "문화일보",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "AI 리포트 생성 중 오류가 발생했습니다: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
         }
     ]
 }
