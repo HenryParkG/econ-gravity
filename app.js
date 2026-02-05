@@ -2,7 +2,7 @@ let currentNewsData = [];
 
 async function loadNews() {
     try {
-        const response = await fetch('data/news.json');
+        const response = await fetch('data/news.json?t=' + new Date().getTime());
         if (!response.ok) throw new Error('데이터를 불러올 수 없습니다.');
 
         const data = await response.json();
