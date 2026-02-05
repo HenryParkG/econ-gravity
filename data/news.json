@@ -1,46 +1,51 @@
 {
-    "last_updated": "2026-02-05 15:37:12",
-    "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요.",
+    "last_updated": "2026-02-05 15:43:26",
+    "briefing": "오늘의 경제 시장은 반도체 업황 회복에 따른 국내 경제성장률 전망 상향 조정과 글로벌 '큰 손'들의 한국 기업 투자 소식이 긍정적인 신호를 보내고 있습니다. 다만, 미국 대선 정국과 맞물린 '트럼프 리스크'가 달러화 가치와 관세 정책에 변동성을 더하고 있어 대외 환경의 불확실성에 대비하는 신중한 태도가 요구되는 시점입니다.",
     "items": [
         {
-            "title": "[뉴스 속 경제] 금·은값 폭락‥혼돈의 금융시장 왜? - MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIYkhmTDZwQWJSRTEyNThuT08yX1liaUlQcUY2WFl1TGtpWWRLX1Nxc2VjSlljYWdJV252RFo3TnI2emluUTlqa0hXZjk5bzZySW5xUkZvUGRTb01pakREZjdHaC1IWkxGZ19vWHFteEdVNXJtRlppZEhn0gF6QVVfeXFMTnJtM0hrNWNrdVROazkwdWtWY2lpanlKQ1RwY2RhNFkzVEd3OEF1THlQMlgtVVpVbGxKRmtJcUo3QzB1Z2gyS0NwQnJLSTR1djEybGdXcl84d3Z3VG1kdVlaR1NNZGt2T0VaTFlUR2VfMVd5MVp6QWpXLWc?oc=5",
-            "source": "MBC 뉴스",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** All attempted AI models failed or were overloaded.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "‘미 경제 실세’ 드러켄밀러, 쿠팡에 2100억 통 큰 베팅… K-커머스 저력 입증",
+            "source": "머니투데이",
+            "category": "금융",
+            "summary": "월가의 전설적인 투자자 스탠리 드러켄밀러가 쿠팡 주식을 대량 보유한 것으로 밝혀지며 한국 이커머스 시장에 대한 낙관론이 확산되고 있습니다.",
+            "content": "월가의 전설적인 투자자이자 조지 소로스의 오른팔로 알려진 스탠리 드러켄밀러가 이끄는 듀케인 패밀리 오피스가 쿠팡 지분을 대거 확보하며 시장의 이목을 집중시키고 있습니다. 최근 공개된 13F 보고서에 따르면, 드러켄밀러는 약 2,100억 원(1억 5,000만 달러) 상당의 쿠팡 주식을 보유하고 있는 것으로 나타났습니다. 이는 단순한 투자를 넘어 한국 내수 시장의 지배력을 확보한 쿠팡의 비즈니스 모델에 대한 강력한 신뢰를 보여주는 대목입니다.\n\n전문가들은 이번 투자가 쿠팡의 독보적인 물류 인프라와 수익성 개선 흐름에 주목한 결과라고 분석합니다. 특히 알리익스프레스, 테무 등 중국 이커머스의 공세 속에서도 쿠팡이 유료 멤버십 강화와 로켓배송의 효율성을 통해 방어력을 입증했다는 점이 '스마트 머니'의 유입을 이끈 것으로 보입니다. 이번 소식으로 인해 글로벌 투자자들 사이에서 한국 기술주 및 플랫폼 기업에 대한 재평가가 이뤄질 가능성도 제기됩니다.\n\n하지만 일각에서는 글로벌 거시 경제의 불확실성이 여전한 만큼, 특정 투자자의 행보를 맹목적으로 추종하기보다는 쿠팡의 장기적인 영업이익률 추이와 공정거래위원회의 규제 리스크 등을 종합적으로 고려해야 한다고 조언합니다. 그럼에도 불구하고 세계적 거물의 포트폴리오에 쿠팡이 당당히 이름을 올렸다는 사실은 국내 자본 시장에 적지 않은 훈풍으로 작용할 전망입니다.",
+            "image_prompt": "Wall Street investor, luxury office, Coupang delivery box, stock market charts, golden coins, professional digital art, 16:9",
+            "image_url": "https://pollinations.ai/p/Wall%20Street%20investor%20luxury%20office%20Coupang%20delivery%20box%20stock%20market%20charts%20golden%20coins%20professional%20digital%20art%20169?width=1024&height=576&seed=2012&model=flux&nologo=true"
         },
         {
-            "title": "2년만에 올림픽으로 ‘스포츠 외교’ 나서는 이재용…현지 경제·산업 인사 회동 가능성 - 서울신문",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJM2VuM3RXb0o1QnRkalNYVDhyS0lkdEliSjRPbWpmeFkweGxleTIwTU1KS1NlcWFRVV9Bbkt2aVpCRGZQVG05aW1zNEFrU1FYeHdFbGttMW1uWVFZNXp2a2dCNTMtY1FZVUw5SmEzYWo0dHBOWmF3QmR4TQ?oc=5",
-            "source": "서울신문",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** All attempted AI models failed or were overloaded.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "반도체 훈풍 탄 한국 경제, IB들 성장률 전망치 2.4%로 줄상향",
+            "source": "시사저널",
+            "category": "시장",
+            "summary": "반도체 수출 회복세가 뚜렷해지면서 씨티 등 주요 투자은행들이 한국의 경제성장률 전망치를 잇따라 상향 조정하고 있습니다.",
+            "content": "침체 우려가 깊었던 한국 경제가 반도체 수출의 폭발적인 반등에 힘입어 빠른 회복 궤도에 진입하고 있습니다. 글로벌 투자은행(IB)인 씨티(Citi)는 한국의 올해 경제성장률 전망치를 기존 2.2%에서 2.4%로 대폭 상향 조정했습니다. 이는 인공지능(AI) 수요 급증으로 인한 고대역폭메모리(HBM) 등 고부가가치 반도체 판매가 실적을 견인하고 있기 때문입니다.\n\n실제로 최근 발표된 수출 지표를 보면 반도체가 전체 수출의 '버팀목' 역할을 톡톡히 하고 있습니다. 반도체 가동률이 상승하면서 생산 현장의 활기가 도는 것은 물론, 관련 기업들의 실적 개선이 코스피 시장의 상승 동력으로도 작용하고 있습니다. IB들은 한국의 제조업 경쟁력이 글로벌 공급망 재편 과정에서도 견고하게 유지되고 있다는 점을 높게 평가하며, 하반기에는 내수 소비만 살아난다면 전방위적인 경제 활력이 나타날 것으로 내다봤습니다.\n\n다만, 경제 지표의 개선이 체감 경기로 이어지기까지는 시차가 존재할 것으로 보입니다. 고물가와 고금리 여파로 가계의 실질 소득이 정체된 상황에서 수출 중심의 성장이 가계 부문으로 얼마나 빠르게 전이될지가 관건입니다. 정부와 관계 기관은 이 같은 성장 흐름을 공고히 하기 위해 반도체 클러스터 지원 등 산업 경쟁력 강화에 총력을 기울일 방침입니다.",
+            "image_prompt": "Semiconductor chip close-up, glowing blue circuits, ascending arrows, South Korea skyline, high-tech aesthetic, 16:9",
+            "image_url": "https://pollinations.ai/p/Semiconductor%20chip%20closeup%20glowing%20blue%20circuits%20ascending%20arrows%20South%20Korea%20skyline%20hightech%20aesthetic%20169?width=1024&height=576&seed=25328&model=flux&nologo=true"
         },
         {
-            "title": "[경제포커스] ‘킹 달러’를 흔드는 트럼프 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG5ORHlHYnV5ck1HekFua3ZHemlLbXcxNXRZYzRJYlRaUC1wYm03dGllb3BOakVZNmg5eS1yNmhNM0l5N3Vyeno2YjNubUVvWGVhMlZYU1diQUp6Nk5WZWZHV01YYm5WZWJfa0RBX0EwZmxXUVZKYklqVTZiUlJXVE5Cck1BVTlfQ1BYRtIBoAFBVV95cUxPSmxwT0llWld1a213V3FueE96dzB6YnZ3ZVNhb0p4bmRmbVlBWVRqR2NkNnp3QUNyaDV3VFFpOWxFUjBLU245WlB2N0lQaTMzSnpHQlVjS2p5OUJCYndhSzVjSVZPMk8yenFGYkN0eGhNU1ZNX0piY0ZCY1Vfb3lLRFpBaG15Z1dKNFAxVm0xRWJOYjNzYWFDQUFyaHA4aTZC?oc=5",
+            "title": "다시 돌아온 '트럼프 리스크'… 약달러와 관세 공포에 흔들리는 환율",
             "source": "조선일보",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** All attempted AI models failed or were overloaded.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "category": "금융",
+            "summary": "미국 대선 후보인 도널드 트럼프 전 대통령의 정책 행보가 '킹달러'의 위상을 흔들며 국내 환율 시장의 변동성을 키우고 있습니다.",
+            "content": "미국 대선이 다가오면서 이른바 '트럼프 리스크'가 글로벌 금융 시장의 최대 변수로 떠오르고 있습니다. 도널드 트럼프 전 대통령이 강력한 보호무역주의와 더불어 미국 수출 경쟁력 강화를 위한 '약달러' 선호 정책을 시사하면서, 한동안 이어졌던 달러 강세 기조가 흔들리고 있습니다. 이는 원/달러 환율의 급격한 변동을 초래해 국내 수출 기업들의 수익성 계산을 복잡하게 만들고 있습니다.\n\n특히 관세 정책에 대한 우려가 깊습니다. 모든 수입품에 대해 보편적 기본 관세를 부과하겠다는 트럼프의 공약이 현실화될 경우, 자동차와 철강 등 대미 수출 비중이 높은 국내 주력 산업은 직접적인 타격을 입을 수밖에 없습니다. 전문가들은 '원팀' 체제로 대응해야 한다며 정부와 기업이 긴밀히 협력해 시나리오별 대응 방안을 마련해야 한다고 입을 모읍니다.\n\n외환 시장의 변동성은 외국인 투자자들의 자금 유출입에도 큰 영향을 미칩니다. 원화 가치가 불안정해질 경우 국내 증시에 투입된 자금이 빠져나갈 우려가 있어, 금융당국은 환율 모니터링을 강화하고 시장 안정화 조치를 검토하고 있습니다. 미 대선 결과에 따라 글로벌 경제 질서가 재편될 수 있는 만큼, 우리 경제의 기민한 대응 능력이 어느 때보다 절실한 시점입니다.",
+            "image_prompt": "US Dollar vs Korean Won, burning flags, Trump profile silhouette, trading graphs, dramatic lighting, 16:9",
+            "image_url": "https://pollinations.ai/p/US%20Dollar%20vs%20Korean%20Won%20burning%20flags%20Trump%20profile%20silhouette%20trading%20graphs%20dramatic%20lighting%20169?width=1024&height=576&seed=58912&model=flux&nologo=true"
         },
         {
-            "title": "다시 덮친 관세 공포… 국가경제 ‘원팀’ 뭉쳐야[기고] - 문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iVlloaWJXT0kzWHU0R1NtdmEyZlg0R1NpamZJMGFYejNRY3daNUhhbXFGRHBHdUlMaUI1cFlTTEpyVlB0dUR2bHN2aGhqbHVY?oc=5",
-            "source": "문화일보",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** All attempted AI models failed or were overloaded.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "이재용 회장, 파리 올림픽서 '스포츠 외교' 재개… 글로벌 비즈니스 네트워크 강화",
+            "source": "서울신문",
+            "category": "테크",
+            "summary": "이재용 삼성전자 회장이 파리 올림픽을 계기로 글로벌 경제계 인사들과 회동하며 미래 산업을 위한 네트워크 확장에 나섭니다.",
+            "content": "이재용 삼성전자 회장이 약 2년 만에 올림픽 현장을 직접 방문해 글로벌 '스포츠 외교' 행보를 재개합니다. 이번 파리 방문의 핵심은 단순한 경기 관람을 넘어, 전 세계에서 모인 정·재계 실세들과의 비즈니스 미팅에 있습니다. 이 회장은 파리 현지에서 글로벌 테크 기업 CEO 및 주요 경제 인사들과 만나 인공지능(AI), 반도체, 바이오 등 차세대 성장 동력에 대한 협력 방안을 논의할 것으로 알려졌습니다.\n\n삼성은 오랜 기간 올림픽 공식 후원사로서 글로벌 브랜드 가치를 높여왔습니다. 특히 이번 파리 올림픽은 폴더블폰 신제품인 '갤럭시 Z 폴드6·플립6'의 글로벌 마케팅 격전지가 될 전망이어서 이 회장의 방문이 갖는 상징성이 큽니다. 현지 관계자들에 따르면 이 회장은 프랑스 정부 고위 관계자 및 유럽 내 주요 파트너사들과의 오찬 및 만찬을 통해 삼성의 기술력을 홍보하고 전략적 파트너십을 다질 계획입니다.\n\n재계에서는 이 회장의 이 같은 행보가 삼성의 사법 리스크 완화 이후 본격적인 글로벌 현장 경영의 신호탄이 될 것으로 보고 있습니다. 급변하는 글로벌 공급망과 기술 패권 경쟁 속에서 총수의 '톱티어 네트워크'는 기업의 생존과 직결되는 핵심 자산인 만큼, 이번 파리 행보가 어떤 구체적인 사업 성과로 이어질지 업계의 시선이 집중되고 있습니다.",
+            "image_prompt": "Lee Jae-yong portrait, Eiffel Tower background, Olympic rings, handshake icon, corporate leadership style, 16:9",
+            "image_url": "https://pollinations.ai/p/Lee%20Jaeyong%20portrait%20Eiffel%20Tower%20background%20Olympic%20rings%20handshake%20icon%20corporate%20leadership%20style%20169?width=1024&height=576&seed=83451&model=flux&nologo=true"
         },
         {
-            "title": "제주도-상공회의소, 경제 발전 도민토론회 9일 개최 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DeGZ6c0RQb1NLSURDbTZ1MFFUZW5rWUR6eU53dWY4SGdDRVRpRGoxa2pCdTBJMHNVbHctemJfc0F4S09Yb1RkRXZqakJsX0tockp5VDB2OXJLczTSAWBBVV95cUxNTXN0R2ZCNHRHQnU5dE1udmU5cjdiQ0lfUjRlX3hkQ0hfLXJhQTlyQlFhRW9oaERRTGtVQXE0X3g0bklzOEI4Sk1VWHNrY2lQYnRfYUVYLXVlV2U0TThGa2U?oc=5",
-            "source": "연합뉴스",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n죄송합니다. 현재 Gemini 3 서비스를 일시적으로 사용할 수 없어 상세 리포트를 생성하지 못했습니다.\n\n**오류 상세:** All attempted AI models failed or were overloaded.\n\n**조치 방법:** GitHub Secrets에 `GEMINI_API_KEY`가 올바르게 등록되어 있는지 확인해 주세요.",
-            "image_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop"
+            "title": "비거주 '똘똘한 한 채' 혜택 축소 검토… 부동산 세제 개편안에 촉각",
+            "source": "네이트",
+            "category": "정책",
+            "summary": "정부가 실거주하지 않는 고가 1주택자에 대한 장기보유특별공제 혜택을 절반으로 줄이는 방안을 검토하며 부동산 시장에 긴장감이 감돌고 있습니다.",
+            "content": "정부가 부동산 시장 왜곡을 막기 위해 실거주가 동반되지 않은 고가 1주택자에 대한 세제 혜택을 대폭 축소하는 카드를 만지고 있습니다. 현재 논의 중인 개편안의 핵심은 '비거주 1주택자'의 장기보유특별공제(장특공제) 혜택을 현재의 절반 수준으로 낮추는 것입니다. 이는 실거주 목적이 아닌 투자 목적으로 강남 등 상급지의 이른바 '똘똘한 한 채'를 보유하는 행태를 억제하겠다는 의지로 풀이됩니다.\n\n그동안 1주택자는 거주 여부와 상관없이 보유 기간에 따라 최대 80%의 양도소득세 공제 혜택을 받아왔습니다. 하지만 이번 개편안이 시행되면 거주하지 않고 보유만 한 경우에는 공제율이 크게 낮아져 세금 부담이 수억 원 이상 늘어날 수 있습니다. 시장에서는 서울 서초, 강남 등 핵심 지역의 매물 출회 여부에 주목하고 있으나, 일각에서는 오히려 '보유세 강화'가 매물 잠김 현상을 심화시킬 수 있다는 우려도 제기합니다.\n\n부동산 전문가들은 이번 정책이 실수요자 중심의 시장 질서를 확립하는 데 기여할 수 있다고 보면서도, 급격한 세부담 변화가 전세금 전가나 거래 절벽 등으로 이어지지 않도록 세심한 속도 조절이 필요하다고 조언합니다. 기획재정부의 세법 개정안 발표가 임박한 가운데, 다주택자뿐만 아니라 상급지 갈아타기를 준비하는 1주택자들의 셈법도 복잡해지고 있습니다.",
+            "image_prompt": "Modern luxury apartment, tax documents, hourglass, calculator, real estate concept, clean architectural style, 16:9",
+            "image_url": "https://pollinations.ai/p/Modern%20luxury%20apartment%20tax%20documents%20hourglass%20calculator%20real%20estate%20concept%20clean%20architectural%20style%20169?width=1024&height=576&seed=4540&model=flux&nologo=true"
         }
     ]
 }
