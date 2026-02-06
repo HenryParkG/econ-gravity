@@ -6,6 +6,77 @@ from datetime import datetime, timezone, timedelta
 import random
 import re
 import time
+import yfinance as yf
+
+def fetch_market_indices():
+    """
+    Fetches key market indices using yfinance.
+    Returns a list of dicts: [{'name': 'KOSPI', 'value': '2,500.12', 'change': '+1.2%'}]
+    """
+    print("Fetching market indices...")
+    tickers = {
+        'KOSPI': '^KS11',
+        'KOSDAQ': '^KQ11',
+        'USD/KRW': 'KRW=X',
+        'NASDAQ': '^IXIC',
+        'S&P 500': '^GSPC'
+        # 'Bitcoin': 'BTC-USD'
+    }
+    
+    indices_data = []
+    
+    for name, symbol in tickers.items():
+        try:
+            ticker = yf.Ticker(symbol)
+            # Get fast info
+            info = ticker.fast_info
+            
+            # fast_info might not have everything, fallback to history
+            current_price = 0.0
+            previous_close = 0.0
+            
+            # yfinance approach for indices often works best with history
+            hist = ticker.history(period="5d")
+            if not hist.empty:
+                current_price = hist['Close'].iloc[-1]
+                # If market is open, last price. If closed, still last price.
+                # To get change, we need previous close.
+                if len(hist) >= 2:
+                    previous_close = hist['Close'].iloc[-2]
+                else: 
+                     previous_close = current_price # No history means 0 change
+            
+            # For currency, logic is similar
+            
+            if current_price == 0:
+                 continue
+                 
+            # Calculate Change
+            change_val = float(current_price - previous_close)
+            change_pct = float((change_val / previous_close) * 100)
+            
+            # Formatting
+            sign = ""
+            if change_val > 0: sign = "▲"
+            elif change_val < 0: sign = "▼"
+            else: sign = "-"
+            
+            formatted_price = f"{current_price:,.2f}"
+            formatted_change = f"{sign} {abs(change_pct):.2f}%"
+            
+            indices_data.append({
+                "name": name,
+                "value": formatted_price,
+                "change": formatted_change,
+                "is_up": bool(change_val > 0),
+                "is_down": bool(change_val < 0)
+            })
+            
+        except Exception as e:
+            print(f"Failed to fetch {name}: {e}")
+            continue
+            
+    return indices_data
 
 def fetch_economic_news():
     # Google News RSS for "경제" (Economy) in Korean
@@ -354,11 +425,15 @@ def fetch_economic_news():
     with open('data/news_archive.json', 'w', encoding='utf-8') as f:
         json.dump(archive_data, f, ensure_ascii=False, indent=4)
         
+    # 1.5 Fetch Market Indices
+    market_indices = fetch_market_indices()
+
     # 2. Save Active Feed (Top 50 Only)
     # This keeps the main site loading very fast
     active_data = {
         "last_updated": timestamp,
         "briefing": briefing,
+        "indices": market_indices, # New field
         "items": full_archive_items[:50]
     }
     with open('data/news.json', 'w', encoding='utf-8') as f:

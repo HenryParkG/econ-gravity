@@ -24,6 +24,61 @@ async function loadNews() {
         if (data.briefing && briefingSection) {
             briefingSection.style.display = 'block';
             briefingContent.textContent = data.briefing;
+
+            // TTS Logic
+            const ttsBtn = document.getElementById('tts-btn');
+            if (ttsBtn) {
+                ttsBtn.onclick = () => {
+                    if ('speechSynthesis' in window) {
+                        if (window.speechSynthesis.speaking) {
+                            window.speechSynthesis.cancel();
+                            ttsBtn.classList.remove('tts-playing');
+                            ttsBtn.textContent = '🔈 듣기';
+                        } else {
+                            const utterance = new SpeechSynthesisUtterance(data.briefing);
+                            utterance.lang = 'ko-KR';
+                            utterance.rate = 1.0;
+                            utterance.pitch = 1.0;
+
+                            utterance.onend = () => {
+                                ttsBtn.classList.remove('tts-playing');
+                            };
+
+                            window.speechSynthesis.speak(utterance);
+                            ttsBtn.classList.add('tts-playing');
+                            ttsBtn.textContent = '🔊 중지';
+                        }
+                    } else {
+                        alert('이 브라우저는 음성 합성을 지원하지 않습니다.');
+                    }
+                };
+            }
+        }
+
+        // Ticker Logic
+        if (data.indices && data.indices.length > 0) {
+            const tickerContainer = document.getElementById('ticker-container');
+            const tickerContent = document.getElementById('ticker-content');
+
+            if (tickerContainer && tickerContent) {
+                tickerContainer.style.display = 'block';
+                // Adjust header padding for ticker
+                // const isMobile = window.innerWidth <= 768;
+                // if (!isMobile) document.querySelector('header').style.paddingTop = '100px'; 
+
+                tickerContent.innerHTML = data.indices.map(idx => `
+                    <div class="ticker-item">
+                        <span class="ticker-name">${idx.name}</span>
+                        <span class="ticker-value">${idx.value}</span>
+                        <span class="ticker-change ${idx.is_up ? 'up' : 'down'}">${idx.change}</span>
+                    </div>
+                `).join('');
+
+                // Duplicate for smooth loop if not enough items
+                if (data.indices.length < 10) {
+                    tickerContent.innerHTML += tickerContent.innerHTML + tickerContent.innerHTML;
+                }
+            }
         }
 
     } catch (error) {

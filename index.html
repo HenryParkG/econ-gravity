@@ -23,6 +23,13 @@
             <button id="theme-toggle" class="theme-btn" aria-label="Toggle Dark Mode">🌙</button>
         </div>
 
+        <!-- Ticker Markup (Hidden by default, shown via JS) -->
+        <div id="ticker-container" class="ticker-wrap" style="display:none;">
+            <div class="ticker" id="ticker-content">
+                <!-- Items will be injected here -->
+            </div>
+        </div>
+
         <!-- Sidebar Navigation -->
         <nav id="sidebar" class="sidebar glass">
             <div class="sidebar-header">
@@ -64,7 +71,11 @@
             <main class="container">
                 <!-- AI Briefing Section -->
                 <section id="briefing-section" class="glass animate-slide-up" style="display: none;">
-                    <h2>💡 오늘의 브리핑</h2>
+                    <div
+                        style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                        <h2 style="margin-bottom:0;">💡 오늘의 브리핑</h2>
+                        <button id="tts-btn" class="tts-btn" aria-label="Listen to briefing">🔈 듣기</button>
+                    </div>
                     <p id="briefing-content"></p>
                 </section>
 
