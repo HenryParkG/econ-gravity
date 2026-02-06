@@ -169,38 +169,80 @@ def fetch_economic_news():
     # Important: We apply distinct images to ALL items in the archive to ensure visual variety
     print(f"Regenerating images for {len(full_archive_items)} items...")
     
-    # EMERGENCY FALLBACK: Pre-curated High-Quality Unsplash Images
+    # EMERGENCY FALLBACK: Pre-curated High-Quality Unsplash Images (Expanded 60+)
     stock_images = [
+        # --- Finance & Stock Market ---
         "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop", # Stock Chart
-        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop", # Stock Ticker
-        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop", # Data Screen
-        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop", # Chip
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop", # Laptop Graph
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop", # Ticker
         "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop", # Money
-        "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop", # Bitcoin
-        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop", # Abstract News
+        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop", # Data Screen
+        "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop", # Money Hands
+        "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop", # Cash Stack
+        "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop", # Investing App
+        "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop", # Oil & Commodities
+        "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop", # Bitcoin Concept
+        "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop", # Currency
+        
+        # --- Business & Corporate ---
         "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop", # Skyscraper
-        "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1024&auto=format&fit=crop", # Teamwork
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop", # Business Suit
         "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop", # Meeting
         "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop", # Handshake
-        "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop", # Money Hands
-        "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop", # Crypto Art
-        "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop", # Blockchain
-        "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1024&auto=format&fit=crop", # Bitcoin Gold
-        "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop", # Oil Rig
-        "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop", # Code Screen
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop", # Globe
-        "https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?q=80&w=1024&auto=format&fit=crop", # Laptop
-        "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop", # Digital Art
+        "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop", # Modern Office
+        "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop", # Office Work
+        
+        # --- Tech & Innovation ---
+        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop", # Global Network
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop", # AI Chip
+        "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop", # Coding
+        "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop", # Robot AI
+        "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop", # Data Server
+        "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop", # Analytics
+        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop", # Cybersecurity
+        
+        # --- Real Estate & Construction ---
+        "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop", # Real Estate
+        "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop", # Modern Home
+        "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop", # Construction
+        "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop", # City Building
+        
+        # --- Global Trade & Logistics ---
+        "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop", # Cargo Ship
+        "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop", # Shipping Containers
+        "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop", # Logistics Plane
+        
+        # --- Lifestyle & Consumption ---
+        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop", # Shopping/Analysis
         "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop", # Luxury Car
-        "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop", # Analysis
-        "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop", # Data Cloud
+        "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop", # Payment
+        
+        # --- Abstract & Artistic ---
+        "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop", # News
+        "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop", # Texture
+        "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop", # Working
+        "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop", # Digital Blue
+        
+        # --- Additional Variety ---
+        "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop", # Graph
         "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop", # Ethereum
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1024&auto=format&fit=crop", # NFT
-        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop", # Cyberpunk
-        "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?q=80&w=1024&auto=format&fit=crop", # Code Matrix
-        "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop", # Money Stack
-        "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"  # Stock App
+        "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop", # NFT Art
+        "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop", # Chains
+        "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop", # Network
+        "https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?q=80&w=1024&auto=format&fit=crop", # Laptop Code
+        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1024&auto=format&fit=crop", # Cyber Market
+        "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?q=80&w=1024&auto=format&fit=crop", # Work
+        "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop", # Desk
+        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1024&auto=format&fit=crop", # Office Laugh
+        "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop", # Happy Team
+        "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1024&auto=format&fit=crop", # Co-working
+        "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop", # Metaverse
+        "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1024&auto=format&fit=crop", # AI Brain
+        "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?q=80&w=1024&auto=format&fit=crop", # Bitcoin Ripple
+        "https://images.unsplash.com/photo-1614028674026-a65e31bfd27c?q=80&w=1024&auto=format&fit=crop", # Stock Green
+        "https://images.unsplash.com/photo-1534951009808-766178b47a8e?q=80&w=1024&auto=format&fit=crop", # Financial Newspaper
+        "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=1024&auto=format&fit=crop", # Sales Graph
+        "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop", # Cash
+        "https://images.unsplash.com/photo-1580048914979-3c868daee4d7?q=80&w=1024&auto=format&fit=crop", # House Model
     ]
     
     import random
