@@ -218,7 +218,11 @@ function openModalWithItem(item) {
 
     // Defensive checks for old data format
     modalImg.src = item.image_url || 'https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop';
-    document.getElementById('modal-source').textContent = item.source || 'Unknown';
+
+    // User Request: Show Date instead of Source
+    const dateStr = item.published_at || new Date().toISOString().replace('T', ' ').substring(0, 16);
+    document.getElementById('modal-source').textContent = dateStr; // Now showing Date
+
     document.getElementById('modal-title').textContent = item.title || 'No Title';
 
     const content = item.content || item.description || '상세 내용을 준비 중입니다.';
