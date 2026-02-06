@@ -256,9 +256,15 @@ function renderNewsItems(items, container) {
         const imageUrl = item.image_url || 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop';
 
         // UNIFIED STRUCTURE: Image Top, Content Bottom
-        // This ensures the Hero card (index 0) looks and behaves exactly like the others, just bigger/wider.
+        // Using <img> tag instead of background-image for robust error handling
         card.innerHTML = `
-            <div class="news-image-mobile" style="background-image: url('${imageUrl}'); height: ${index === 0 ? '300px' : '160px'}; width: 100%; background-size: cover; background-position: center; border-radius: 12px; margin-bottom: 20px;"></div>
+            <div class="news-image-wrapper" style="height: ${index === 0 ? '300px' : '160px'}; width: 100%; margin-bottom: 20px; overflow: hidden; border-radius: 12px; background-color: #f0f0f0;">
+                <img src="${imageUrl}" 
+                     alt="${item.title}" 
+                     class="news-image-mobile" 
+                     style="width: 100%; height: 100%; object-fit: cover; display: block;"
+                     onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop';">
+            </div>
             <div class="news-content">
                 <div class="card-meta">
                     <span class="category-tag">${item.category || '경제'}</span>
