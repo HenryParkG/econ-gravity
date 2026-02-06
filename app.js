@@ -236,6 +236,20 @@ function renderNextBatch(btn, batchSize) {
     }
 }
 
+// Fallback Images (Curated High-Quality Finance/Tech)
+const fallbackImages = [
+    "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop", // Stock Chart
+    "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop", // Ticker
+    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop", // Skyscraper
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop", // Global Network
+    "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop", // AI Chip
+    "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop", // Real Estate
+    "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop", // Cargo Ship
+    "https://images.unsplash.com/photo-1534951009808-766178b47a8e?q=80&w=1024&auto=format&fit=crop", // Financial Newspaper
+    "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop", // Ethereum
+    "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop", // Network
+];
+
 function renderNewsItems(items, container) {
     items.forEach((item, index) => {
         const card = document.createElement('div');
@@ -243,7 +257,7 @@ function renderNewsItems(items, container) {
         card.style.animationDelay = `${Math.min(index * 0.05, 1)}s`;
         card.style.cursor = 'pointer';
 
-        // Add hero-card class to first item for grid sizing, but keep internal structure unified
+        // Add hero-card class to first item for grid sizing
         if (index === 0) card.classList.add('hero-card');
 
         const publishedDate = item.published_at || '';
@@ -252,18 +266,19 @@ function renderNewsItems(items, container) {
         const today = new Date().toISOString().split('T')[0];
         const displayTime = datePart === today ? timePart : `${datePart} ${timePart}`;
 
-        // Default Image (Fallback) - Stock Market Ticker (Safe)
-        const imageUrl = item.image_url || 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop';
+        // Select a random fallback image for this card (deterministic per render)
+        const randomFallback = fallbackImages[Math.floor(Math.random() * fallbackImages.length)];
+        const imageUrl = item.image_url || randomFallback;
 
         // UNIFIED STRUCTURE: Image Top, Content Bottom
-        // Using <img> tag instead of background-image for robust error handling
+        // Using <img> tag with randomized fallback on error
         card.innerHTML = `
             <div class="news-image-wrapper" style="height: ${index === 0 ? '300px' : '160px'}; width: 100%; margin-bottom: 20px; overflow: hidden; border-radius: 12px; background-color: #f0f0f0;">
                 <img src="${imageUrl}" 
                      alt="${item.title}" 
                      class="news-image-mobile" 
                      style="width: 100%; height: 100%; object-fit: cover; display: block;"
-                     onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop';">
+                     onerror="this.onerror=null; this.src='${randomFallback}';">
             </div>
             <div class="news-content">
                 <div class="card-meta">

@@ -1,12 +1,75 @@
 import feedparser
 import json
 import os
+import base64
+import io
+import shutil
+from PIL import Image
 from google import genai
+from google.genai import types
 from datetime import datetime, timezone, timedelta
 import random
 import re
 import time
 import yfinance as yf
+import hashlib
+import time
+
+# --- Image Generation Helpers ---
+def cleanup_old_images(image_dir="data/news_images", retention_days=7):
+    """Deletes images older than retention_days."""
+    if not os.path.exists(image_dir):
+        os.makedirs(image_dir)
+        return
+
+    now = datetime.now()
+    cutoff = now - timedelta(days=retention_days)
+    
+    print(f"🧹 Cleaning up images older than {cutoff.date()}...")
+    
+    count = 0
+    for filename in os.listdir(image_dir):
+        if filename.endswith(".jpg"):
+            filepath = os.path.join(image_dir, filename)
+            # Check modification time
+            mtime = datetime.fromtimestamp(os.path.getmtime(filepath))
+            if mtime < cutoff:
+                try:
+                    os.remove(filepath)
+                    count += 1
+                except Exception as e:
+                    print(f"Error deleting {filename}: {e}")
+    print(f"✅ Deleted {count} old images.")
+
+def generate_news_image(client, prompt, output_path):
+    """Generates an image using Imagen 3 and saves it."""
+    try:
+        print(f"🎨 Generating AI Image: {prompt[:40]}...")
+        result = client.models.generate_image(
+            model='imagen-3.0-generate-002',
+            prompt=prompt + ", photorealistic, 4k, cinematic lighting, professional financial photography, no text",
+            config=types.GenerateImageConfig(
+                number_of_images=1,
+                aspect_ratio="16:9",
+                safety_filter_level="BLOCK_ONLY_HIGH",
+                person_generation="ALLOW_ADULT",
+            )
+        )
+        
+        if result.generated_images:
+            image_bytes = result.generated_images[0].image.image_bytes
+            img = Image.open(io.BytesIO(image_bytes))
+            # Ensure safe save
+            if not os.path.exists(os.path.dirname(output_path)):
+                os.makedirs(os.path.dirname(output_path))
+            img.save(output_path, "JPEG", quality=85)
+            print(f"✅ Image saved to {output_path}")
+            return True
+            
+    except Exception as e:
+        print(f"❌ Image Gen Error: {e}")
+        return False
+    return False
 
 def fetch_market_indices():
     """
@@ -315,25 +378,68 @@ def fetch_economic_news():
         "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop", # Cash
         "https://images.unsplash.com/photo-1580048914979-3c868daee4d7?q=80&w=1024&auto=format&fit=crop", # House Model
     ]
+    # --- Image Generation & Assignment Logic ---
+    print(f"Processing images for {len(full_archive_items)} items...")
     
-    # Imports removed to fix UnboundLocalError (global imports used)
-    
+    # Ensure directory exists
+    if not os.path.exists("data/news_images"):
+        os.makedirs("data/news_images")
+
     for i, item in enumerate(full_archive_items):
         try:
-            # Consistent image mapping per item index to avoid shuffling on every build if desired,
-            # or random every time. Given the history issue, let's keep it robust.
-            # Using 'i' to ensure variety.
-            selected_image = stock_images[i % len(stock_images)]
+            # 1. Deterministic Fallback (for old/failed cases)
+            fallback_image = stock_images[i % len(stock_images)]
             
             # Simple fallback for image uniqueness in long list
             if i >= len(stock_images):
-                # Offset by index to create 'pseudo-random' but deterministic per build
                 rotated_index = (i + 7) % len(stock_images) 
-                selected_image = stock_images[rotated_index]
+                fallback_image = stock_images[rotated_index]
             
-            item["image_url"] = selected_image
+            # 2. Check Age & Existence
+            # Generate unique filename based on link (stable id)
+            link_hash = hashlib.md5((item.get('link', '') + item.get('title', '')).encode('utf-8')).hexdigest()
+            img_filename = f"news_{link_hash}.jpg"
+            img_path_rel = f"data/news_images/{img_filename}"
+            img_path_abs = os.path.join(os.getcwd(), img_path_rel)
+            
+            # Default to fallback first
+            item["image_url"] = fallback_image # Default (will be overwritten if AI succeeds or exists)
+
+            # Check if image already exists (cache hit)
+            if os.path.exists(img_path_abs):
+                item["image_url"] = f"./{img_path_rel}" # Use relative path for frontend
+                # print(f"  [Cache] Used existing image for: {item['title'][:20]}...")
+                continue
+                
+            # If not exists, should we generate? (Only if fresh)
+            is_fresh = False
+            try:
+                # Parse '2024-05-20 14:00' format
+                pub_date = datetime.strptime(item.get('published_at', ''), '%Y-%m-%d %H:%M')
+                if (datetime.now() - pub_date).days < 7:
+                    is_fresh = True
+            except:
+                # If date parse fails, assume fresh to be safe or old? 
+                # RSS items usually fresh. Lite items might be fresh. 
+                # Let's assume fresh if it's in the top 10 items?
+                if i < 10: is_fresh = True
+            
+            if is_fresh:
+                # 3. Generate New AI Image
+                prompt = item.get('image_prompt') or item.get('title', 'Economic news')
+                success = generate_news_image(client, prompt, img_path_abs)
+                
+                if success:
+                    item["image_url"] = f"./{img_path_rel}"
+                    time.sleep(2) # Be nice to API limits
+                else:
+                    # Keep fallback
+                    pass
+            
+            # If not fresh and not exists -> It was cleaned up or is old. Use fallback. (Already set)
             
         except Exception as img_err:
+            print(f"Error processing image for item {i}: {img_err}")
             item["image_url"] = "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
 
     # --- ARCHIVING LOGIC (Monthly Migration) ---
