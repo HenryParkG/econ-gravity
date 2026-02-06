@@ -290,6 +290,33 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // Theme Toggle Logic
+    const themeToggle = document.getElementById('theme-toggle');
+    const html = document.documentElement;
+    const body = document.body;
+
+    // Check saved theme
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    if (savedTheme === 'light') {
+        body.setAttribute('data-theme', 'light');
+        if (themeToggle) themeToggle.textContent = '☀️';
+    }
+
+    if (themeToggle) {
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = body.getAttribute('data-theme');
+            if (currentTheme === 'light') {
+                body.removeAttribute('data-theme');
+                themeToggle.textContent = '🌙';
+                localStorage.setItem('theme', 'dark');
+            } else {
+                body.setAttribute('data-theme', 'light');
+                themeToggle.textContent = '☀️';
+                localStorage.setItem('theme', 'light');
+            }
+        });
+    }
+
     // Sidebar: Archive Toggle Logic
     const archiveToggle = document.getElementById('archive-toggle');
     const archiveList = document.getElementById('archive-list');
