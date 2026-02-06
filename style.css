@@ -629,13 +629,9 @@ header p {
 @media (min-width: 769px) {
     .news-card:first-child {
         grid-column: 1 / -1;
-        display: grid;
-        grid-template-columns: 1.2fr 0.8fr;
-        gap: 32px;
-        align-items: center;
-        background: linear-gradient(135deg, var(--glass-bg) 0%, rgba(56, 189, 248, 0.05) 100%);
-        min-height: 300px;
-        /* Force some height */
+        /* Unified Layout: We use the same stacked layout as others, but wider */
+        /* display: grid; removed to allow standard block layout */
+        min-height: 400px;
     }
 
     .news-card:first-child h3 {

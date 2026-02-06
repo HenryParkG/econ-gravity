@@ -243,6 +243,9 @@ function renderNewsItems(items, container) {
         card.style.animationDelay = `${Math.min(index * 0.05, 1)}s`;
         card.style.cursor = 'pointer';
 
+        // Add hero-card class to first item for grid sizing, but keep internal structure unified
+        if (index === 0) card.classList.add('hero-card');
+
         const publishedDate = item.published_at || '';
         const datePart = publishedDate.split(' ')[0] || '';
         const timePart = publishedDate.split(' ')[1] ? publishedDate.split(' ')[1].substring(0, 5) : '--:--';
@@ -252,8 +255,10 @@ function renderNewsItems(items, container) {
         // Default Image (Fallback)
         const imageUrl = item.image_url || 'https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop';
 
-        // Content Wrapper
-        const contentHtml = `
+        // UNIFIED STRUCTURE: Image Top, Content Bottom
+        // This ensures the Hero card (index 0) looks and behaves exactly like the others, just bigger/wider.
+        card.innerHTML = `
+            <div class="news-image-mobile" style="background-image: url('${imageUrl}'); height: ${index === 0 ? '300px' : '160px'}; width: 100%; background-size: cover; background-position: center; border-radius: 12px; margin-bottom: 20px;"></div>
             <div class="news-content">
                 <div class="card-meta">
                     <span class="category-tag">${item.category || '경제'}</span>
@@ -263,34 +268,6 @@ function renderNewsItems(items, container) {
                 <div class="summary">${item.summary || item.description || '내용을 불러오는 중...'}</div>
             </div>
         `;
-
-        // Image Wrapper
-        const imageHtml = `
-            <div class="news-image" style="background-image: url('${imageUrl}');"></div>
-        `;
-
-        // Hero Card (Index 0) gets special layout via CSS Grid (Text Left, Image Right)
-        // Standard Cards get: Image Top (if we style it) or just appended.
-        // To support the CSS grid of .news-card:first-child (1.2fr 0.8fr), we need exactly two children.
-
-        if (index === 0) {
-            card.innerHTML = contentHtml + imageHtml;
-        } else {
-            // For standard cards, let's put image on top? Or background? 
-            // Current CSS for standard card is simple padding. 
-            // Let's add the image as a banner on top.
-            // But checking style.css, .news-card has padding 28px. Image inside would be padded. 
-            // Let's make it simple: standard cards also get the image but maybe we hide it or style it small?
-            // User wants "Rich Aesthetics". Image is crucial. 
-            // Let's inject it.
-            card.innerHTML = `
-                <div class="news-image-mobile" style="background-image: url('${imageUrl}'); height: 160px; width: 100%; background-size: cover; background-position: center; border-radius: 12px; margin-bottom: 20px;"></div>
-                ${contentHtml}
-             `;
-            // Note: The Hero styling in CSS applies to :first-child. 
-            // If I use different HTML structure for first-child, that matches the CSS expectation.
-            // Standard cards: I added an inline styled div for image. 
-        }
 
         card.onclick = () => openModalWithItem(item);
         container.appendChild(card);
