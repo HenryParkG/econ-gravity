@@ -300,16 +300,23 @@ function openModalWithItem(item) {
     const content = item.content || item.description || '상세 내용을 준비 중입니다.';
     let formattedContent = content.replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>');
 
-    // Add Source and Link
+    // Add Source and Link (Conditioned)
     formattedContent += `
         <br><br>
         <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--glass-border); font-size: 0.9rem; color: var(--text-secondary);">
             <strong>출처:</strong> ${item.source || 'Unknown'} <br>
-            <a href="${item.link}" target="_blank" style="color: var(--accent-color); text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
+    `;
+
+    if (item.link && item.link.startsWith('http')) {
+        formattedContent += `
+            <a href="${item.link}" target="_blank" style="color: var(--accent-color); text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 4px; margin-top: 8px; pointer-events: auto;">
                 🔗 원문 기사 보러가기
             </a>
         </div>
-    `;
+        `;
+    } else {
+        formattedContent += `</div>`;
+    }
 
     modalText.innerHTML = formattedContent;
 

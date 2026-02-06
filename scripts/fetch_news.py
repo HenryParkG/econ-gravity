@@ -137,13 +137,13 @@ def fetch_economic_news():
             }}
             """
             
-            # Failover logic: Try Gemini 3 first, then fallback
+            # Failover logic: Try Gemini 3 first, then fallback to 2.0 and 1.5
             models_to_try = [
+                'gemini-2.0-flash-exp', # Highly reliable experimental model
+                'gemini-1.5-flash',     # Stable and fast
+                'gemini-1.5-pro',       # High capability
                 'gemini-3-flash-preview', 
-                'gemini-3-pro-preview', 
-                'gemini-2.0-flash', 
-                'gemini-1.5-pro', 
-                'gemini-1.5-flash', 
+                'gemini-3-pro-preview',
                 'gemini-1.5-flash-8b'
             ]
             success = False
