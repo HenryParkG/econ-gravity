@@ -345,6 +345,48 @@ header p {
     color: var(--accent-color);
 }
 
+/* --- Sidebar Sub-menu (Archives) --- */
+.sub-menu {
+    list-style: none;
+    padding-left: 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.sub-menu.open {
+    max-height: 500px;
+    /* Arbitrary large height */
+    transition: max-height 0.5s ease-in;
+}
+
+.sub-menu li a {
+    display: block;
+    padding: 8px 12px;
+    color: #64748b;
+    text-decoration: none;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    transition: all 0.2s;
+}
+
+.sub-menu li a:hover,
+.sub-menu li a.active {
+    color: var(--accent-color);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.toggle-icon {
+    float: right;
+    font-size: 0.8rem;
+    transition: transform 0.3s;
+}
+
+.nav-item.active .toggle-icon,
+.nav-item[aria-expanded="true"] .toggle-icon {
+    transform: rotate(180deg);
+}
+
 .sidebar-footer {
     font-size: 0.8rem;
     color: #64748b;

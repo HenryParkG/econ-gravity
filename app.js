@@ -285,4 +285,127 @@ document.addEventListener('DOMContentLoaded', () => {
             overlay.classList.remove('active');
         });
     }
+
+    // Sidebar: Archive Toggle Logic
+    const archiveToggle = document.getElementById('archive-toggle');
+    const archiveList = document.getElementById('archive-list');
+
+    if (archiveToggle && archiveList) {
+        // Toggle Menu
+        archiveToggle.addEventListener('click', (e) => {
+            e.preventDefault();
+            archiveList.classList.toggle('open');
+            const isExpanded = archiveList.classList.contains('open');
+            archiveToggle.setAttribute('aria-expanded', isExpanded);
+
+            // Load index only once on first open
+            if (isExpanded && archiveList.children.length === 0) {
+                loadArchiveIndex();
+            }
+        });
+    }
+
+    // Function to load Archive Index
+    async function loadArchiveIndex() {
+        const archiveList = document.getElementById('archive-list');
+        archiveList.innerHTML = '<li style="padding:10px; color:#666;">로딩 중...</li>';
+
+        try {
+            const response = await fetch('data/archive_index.json?t=' + new Date().getTime());
+            if (!response.ok) {
+                if (response.status === 404) {
+                    archiveList.innerHTML = '<li style="padding:10px; color:#666;">아직 아카이브가 없습니다.</li>';
+                    return;
+                }
+                throw new Error('Index fetch failed');
+            }
+
+            const indexData = await response.json();
+            archiveList.innerHTML = '';
+
+            if (indexData.length === 0) {
+                archiveList.innerHTML = '<li style="padding:10px; color:#666;">저장된 과거 뉴스가 없습니다.</li>';
+                return;
+            }
+
+            indexData.forEach(month => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.href = '#';
+                a.textContent = month.name; // e.g., "2026년 2월"
+                a.dataset.id = month.id;    // e.g., "2026_02"
+
+                a.onclick = (e) => {
+                    e.preventDefault();
+                    // Load specific month
+                    loadArchiveMonth(month.id, month.name);
+
+                    // Update UI active state
+                    document.querySelectorAll('.sub-menu a').forEach(el => el.classList.remove('active'));
+                    e.target.classList.add('active');
+
+                    // Close mobile sidebar if open
+                    const sidebar = document.getElementById('sidebar');
+                    const overlay = document.getElementById('sidebar-overlay');
+                    if (sidebar && sidebar.classList.contains('active')) {
+                        sidebar.classList.remove('active');
+                        overlay.classList.remove('active');
+                    }
+                };
+
+                li.appendChild(a);
+                archiveList.appendChild(li);
+            });
+
+        } catch (error) {
+            console.error(error);
+            archiveList.innerHTML = '<li style="padding:10px; color:#666;">불러오기 실패</li>';
+        }
+    }
+
+    // Function to Load Specific Month Archive
+    window.loadArchiveMonth = async function (monthId, monthName) {
+        const container = document.getElementById('news-container');
+        const loadMore = document.getElementById('load-more-btn');
+        const chipContainer = document.querySelector('.category-filter');
+
+        // UI Reset
+        container.innerHTML = '<div class="loading">📦 아카이브를 불러오는 중입니다...</div>';
+        if (loadMore) loadMore.style.display = 'none'; // Hide load more in archive mode
+
+        // Highlight logic
+        // Reset top filter chips
+        if (chipContainer) {
+            // Optional: maybe add a title saying "Archive: 2026 Feb"
+        }
+
+        try {
+            const response = await fetch(`data/archive_${monthId}.json`);
+            if (!response.ok) throw new Error("File not found");
+
+            const data = await response.json();
+            currentNewsData = data.items; // Replace global data
+
+            // Render All
+            container.innerHTML = '';
+            if (!currentNewsData || currentNewsData.length === 0) {
+                container.innerHTML = `<div class="loading">${monthName}에 저장된 뉴스가 없습니다.</div>`;
+                return;
+            }
+
+            renderNewsItems(currentNewsData, container);
+
+            // Add a header/notice
+            const notice = document.createElement('div');
+            notice.style.gridColumn = "1 / -1";
+            notice.style.padding = "20px";
+            notice.style.textAlign = "center";
+            notice.style.color = "#94a3b8";
+            notice.innerHTML = `📅 <b>${monthName}</b>의 뉴스 아카이브입니다.`;
+            container.insertBefore(notice, container.firstChild);
+
+        } catch (e) {
+            container.innerHTML = `<div class="loading">아카이브 파일을 찾을 수 없습니다.<br>(${monthId})</div>`;
+        }
+    };
 });
