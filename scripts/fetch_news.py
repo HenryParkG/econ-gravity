@@ -366,5 +366,34 @@ def fetch_economic_news():
     
     print(f"Successfully saved {len(full_archive_items)} items to Archive and 50 to Active feed.")
 
+    # 3. Generate Archive Index for Frontend
+    print("Generating archive index...")
+    # List all archive_YYYY_MM.json files
+    archive_files = [f for f in os.listdir('data') if f.startswith('archive_') and f.endswith('.json') and f != 'archive_index.json']
+    
+    archive_index = []
+    for f in archive_files:
+        # Expected format: archive_2024_02.json
+        try:
+            # Remove prefix/suffix
+            base = f.replace('archive_', '').replace('.json', '')
+            parts = base.split('_')
+            if len(parts) == 2:
+                year, month = parts
+                archive_index.append({
+                    "id": f"{year}_{month}",      # ID used for fetching file
+                    "name": f"{year}년 {month}월", # Display Name
+                    "filename": f
+                })
+        except Exception as e:
+            print(f"Skipping malformed archive file: {f}")
+            continue
+            
+    # Sort by ID descending (newest month first)
+    archive_index.sort(key=lambda x: x['id'], reverse=True)
+    
+    with open('data/archive_index.json', 'w', encoding='utf-8') as f:
+        json.dump(archive_index, f, ensure_ascii=False, indent=4)
+
 if __name__ == "__main__":
     fetch_economic_news()
