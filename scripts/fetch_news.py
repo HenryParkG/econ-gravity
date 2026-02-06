@@ -299,7 +299,7 @@ def fetch_economic_news():
         "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop", # NFT Art
         "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop", # Chains
         "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop", # Network
-        "https://images.unsplash.com/photo-1512756290469-ec264b7fbf87?q=80&w=1024&auto=format&fit=crop", # Laptop Code
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop", # Business Analysis (Replaces Laptop Code)
         "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1024&auto=format&fit=crop", # Cyber Market
         "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?q=80&w=1024&auto=format&fit=crop", # Work
         "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop", # Desk

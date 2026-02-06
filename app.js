@@ -292,7 +292,20 @@ function openModalWithItem(item) {
     document.getElementById('modal-title').textContent = item.title || 'No Title';
 
     const content = item.content || item.description || '상세 내용을 준비 중입니다.';
-    modalText.innerHTML = content.replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>');
+    let formattedContent = content.replace(/\n\n/g, '</p><p>').replace(/\n/g, '<br>');
+
+    // Add Source and Link
+    formattedContent += `
+        <br><br>
+        <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--glass-border); font-size: 0.9rem; color: var(--text-secondary);">
+            <strong>출처:</strong> ${item.source || 'Unknown'} <br>
+            <a href="${item.link}" target="_blank" style="color: var(--accent-color); text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 4px;">
+                🔗 원문 기사 보러가기
+            </a>
+        </div>
+    `;
+
+    modalText.innerHTML = formattedContent;
 
     modal.style.display = 'flex';
     document.body.style.overflow = 'hidden';
