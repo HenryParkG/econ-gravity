@@ -299,13 +299,13 @@ def fetch_economic_news():
         "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop", # NFT Art
         "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop", # Chains
         "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop", # Network
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop", # Business Analysis (Replaces Laptop Code)
-        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1024&auto=format&fit=crop", # Cyber Market
-        "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?q=80&w=1024&auto=format&fit=crop", # Work
-        "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop", # Desk
-        "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1024&auto=format&fit=crop", # Office Laugh
+        "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop", # Stock Chart (Safe Substitute for broken link)
+        "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop", # Data Server Substitute
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop", # Skyscraper Substitute
+        "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop", # Desk (Keep if safe, but replacing to be sure) -> Replaced with Building
+        "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop", # Real Estate Substitute
         "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop", # Happy Team
-        "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=1024&auto=format&fit=crop", # Co-working
+        "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop", # Office Work Substitute
         "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop", # Metaverse
         "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1024&auto=format&fit=crop", # AI Brain
         "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?q=80&w=1024&auto=format&fit=crop", # Bitcoin Ripple

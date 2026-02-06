@@ -252,8 +252,8 @@ function renderNewsItems(items, container) {
         const today = new Date().toISOString().split('T')[0];
         const displayTime = datePart === today ? timePart : `${datePart} ${timePart}`;
 
-        // Default Image (Fallback)
-        const imageUrl = item.image_url || 'https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop';
+        // Default Image (Fallback) - Stock Market Ticker (Safe)
+        const imageUrl = item.image_url || 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop';
 
         // UNIFIED STRUCTURE: Image Top, Content Bottom
         // This ensures the Hero card (index 0) looks and behaves exactly like the others, just bigger/wider.
@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (modalImg) {
         modalImg.onerror = () => {
-            modalImg.src = 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1024&auto=format&fit=crop';
+            modalImg.src = 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop';
         };
     }
 
