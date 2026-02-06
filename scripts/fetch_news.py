@@ -266,10 +266,86 @@ def fetch_economic_news():
         except Exception as img_err:
             item["image_url"] = "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
 
+    # --- ARCHIVING LOGIC (Monthly Migration) ---
+    # Move items older than 30 days to separate monthly files
+    # This prevents news_archive.json from growing infinitely
+    
+    current_time = datetime.now()
+    cutoff_date = current_time - timedelta(days=30)
+    
+    active_archive_items = []
+    monthly_migration_buffer = {} # { "2024_02": [items], "2024_01": [items] }
+    
+    print(f"Checking for items older than {cutoff_date.strftime('%Y-%m-%d')} for archiving...")
+    
+    for item in full_archive_items:
+        try:
+            # Parse published_at (format: "YYYY-MM-DD HH:MM:SS")
+            # If format fails, keep in active archive to be safe
+            p_date_str = item.get("published_at", "")
+            p_date = datetime.strptime(p_date_str, "%Y-%m-%d %H:%M:%S")
+            
+            if p_date < cutoff_date:
+                # To be archived
+                month_key = p_date.strftime("%Y_%m") # e.g., "2024_02"
+                if month_key not in monthly_migration_buffer:
+                    monthly_migration_buffer[month_key] = []
+                monthly_migration_buffer[month_key].append(item)
+            else:
+                # Keep in active archive
+                active_archive_items.append(item)
+                
+        except Exception as e:
+            # Date parsing error or other issue -> Keep in active
+            active_archive_items.append(item)
+            
+    # Process Migration Buffer
+    for month_key, items_to_move in monthly_migration_buffer.items():
+        if not items_to_move:
+            continue
+            
+        archive_filename = f'data/archive_{month_key}.json'
+        # Load existing if any
+        existing_monthly_items = []
+        if os.path.exists(archive_filename):
+            try:
+                with open(archive_filename, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    existing_monthly_items = data.get('items', [])
+            except:
+                pass
+        
+        # Merge and Deduplicate
+        # (Though technically old items shouldn't overlap much with *existing* monthly archive unless re-run)
+        # Using dictionary for deduplication by title
+        archive_map = {itm['title']: itm for itm in existing_monthly_items}
+        for itm in items_to_move:
+            archive_map[itm['title']] = itm
+            
+        final_monthly_items = list(archive_map.values())
+        
+        # Sort by date (descending)
+        try:
+            final_monthly_items.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+        except:
+            pass
+            
+        print(f"  -> Moving {len(items_to_move)} items to {archive_filename}")
+        
+        with open(archive_filename, 'w', encoding='utf-8') as f:
+            json.dump({
+                "last_updated": timestamp,
+                "items": final_monthly_items
+            }, f, ensure_ascii=False, indent=4)
+
+    # Update full_archive_items to only contain active items
+    print(f"Archiving complete. Active Archive size: {len(full_archive_items)} -> {len(active_archive_items)}")
+    full_archive_items = active_archive_items
+
     # --- SAVE FILES ---
     os.makedirs('data', exist_ok=True)
 
-    # 1. Save Archive (Full History)
+    # 1. Save Archive (Active History - Last 30 Days)
     archive_data = {
         "last_updated": timestamp,
         "briefing": briefing,
