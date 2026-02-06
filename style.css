@@ -688,3 +688,27 @@ header p {
         opacity: 1;
     }
 }
+
+/* --- New Image Styles --- */
+.news-image {
+    width: 100%;
+    height: 100%;
+    min-height: 280px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 16px;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.news-card:hover .news-image {
+    transform: scale(1.02);
+}
+
+.news-image-mobile {
+    /* Styles for standard card images (inline styles were used but class is better if we move it) */
+    /* Note: app.js currently uses inline styles for this specific element to ensure height, 
+       but we can reinforce it here or rely on inline. 
+       Let's leave app.js inline for now as it's explicit, but usually cleaner here. 
+       But for consistency with the plan, I will just add the class if needed or empty. */
+}
