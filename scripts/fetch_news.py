@@ -316,8 +316,7 @@ def fetch_economic_news():
         "https://images.unsplash.com/photo-1580048914979-3c868daee4d7?q=80&w=1024&auto=format&fit=crop", # House Model
     ]
     
-    import random
-    import time
+    # Imports removed to fix UnboundLocalError (global imports used)
     
     for i, item in enumerate(full_archive_items):
         try:
