@@ -57,8 +57,8 @@
    ├── index.html                        # 메인 페이지 구조
    ├── style.css                         # 디자인 스타일 시트
    ├── app.js                            # 프론트엔드 로직 (필터, 모달, 더보기 등)
-   ├── privacy.html                      # 개인정보처리방침
-   └── terms.html                        # 이용약관
+   ├── pages/privacy.html                # 개인정보처리방침
+   └── pages/terms.html                  # 이용약관
 
 6. 향후 유지보수 포인트
    - 이미지 리스트를 바꾸고 싶다면 `fetch_news.py` 내 `stock_images` 리스트 수정.
