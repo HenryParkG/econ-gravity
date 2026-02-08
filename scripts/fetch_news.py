@@ -209,32 +209,46 @@ def fetch_economic_news():
                 'gemini-3-pro-preview',
                 'gemini-1.5-flash-8b'
             ]
+            # High-level Retry Logic for "All models failed"
+            max_attempts = 3
+            current_attempt = 0
             success = False
             
-            for model_name in models_to_try:
-                try:
-                    print(f"Attempting news synthesis with {model_name}...")
-                    response = client.models.generate_content(
-                        model=model_name,
-                        contents=prompt
-                    )
-                    content = response.text.replace('```json', '').replace('```', '').strip()
-                    result = json.loads(content)
+            while current_attempt < max_attempts and not success:
+                current_attempt += 1
+                if current_attempt > 1:
+                    print(f"⚠️ Retry attempt {current_attempt}/{max_attempts} after failure...")
+                    time.sleep(5) # Cool-off period
+                
+                for model_name in models_to_try:
+                    try:
+                        print(f"Attempting news synthesis with {model_name} (Attempt {current_attempt})...")
+                        response = client.models.generate_content(
+                            model=model_name,
+                            contents=prompt
+                        )
+                        raw_content = response.text.replace('```json', '').replace('```', '').strip()
+                        # Clean up potential leading/trailing non-json chars just in case
+                        if '{' in raw_content:
+                            raw_content = raw_content[raw_content.find('{'):raw_content.rfind('}')+1]
+                        
+                        result = json.loads(raw_content)
+                        
+                        briefing = result.get("briefing", "오늘의 경제 동향을 분석 중입니다.")
+                        final_news = result.get("items", [])
+                        success = True
+                        print(f"✅ Successfully synthesized news using {model_name}.")
+                        break # Break inner model loop
                     
-                    briefing = result.get("briefing", "오늘의 경제 동향을 분석 중입니다.")
-                    final_news = result.get("items", [])
-                    success = True
-                    print(f"Successfully synthesized news using {model_name}.")
-                    break
-                except Exception as model_err:
-                    print(f"Model {model_name} failed: {model_err}")
-                    if "503" in str(model_err) or "overloaded" in str(model_err).lower():
-                        print("Server overloaded, waiting 2 seconds before next model...")
-                        time.sleep(2)
-                    continue
+                    except Exception as model_err:
+                        print(f"❌ Model {model_name} failed: {model_err}")
+                        if "503" in str(model_err) or "overloaded" in str(model_err).lower():
+                            print("Server overloaded, waiting 2 seconds before next model...")
+                            time.sleep(2)
+                        continue # Try next model
             
             if not success:
-                raise Exception("All attempted AI models failed or were overloaded.")
+                raise Exception("All attempted AI models failed or were overloaded after multiple retries.")
             
         except Exception as e:
             print(f"Error calling Gemini API: {e}")
