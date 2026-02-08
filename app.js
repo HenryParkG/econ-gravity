@@ -266,8 +266,17 @@ function renderNewsItems(items, container) {
         const today = new Date().toISOString().split('T')[0];
         const displayTime = datePart === today ? timePart : `${datePart} ${timePart}`;
 
-        // Select a random fallback image for this card (deterministic per render)
-        const randomFallback = fallbackImages[Math.floor(Math.random() * fallbackImages.length)];
+        // Select a deterministic fallback image based on title hash
+        // This ensures the same article always gets the same fallback image even on refresh
+        let hash = 0;
+        const titleForHash = item.title || 'default';
+        for (let i = 0; i < titleForHash.length; i++) {
+            hash = (hash << 5) - hash + titleForHash.charCodeAt(i);
+            hash |= 0; // Convert to 32bit integer
+        }
+        const safeIndex = Math.abs(hash) % fallbackImages.length;
+        const randomFallback = fallbackImages[safeIndex];
+
         const imageUrl = item.image_url || randomFallback;
 
         // UNIFIED STRUCTURE: Image Top, Content Bottom
