@@ -327,19 +327,22 @@ function openModalWithItem(item) {
     // Add Source and Link (Conditioned)
     formattedContent += `
         <br><br>
-        <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--glass-border); font-size: 0.9rem; color: var(--text-secondary);">
-            <strong>출처:</strong> ${item.source || 'Unknown'} <br>
+        <div style="margin-top: 20px; padding-top: 15px; border-top: 1px dashed var(--glass-border); font-size: 0.85rem; color: var(--text-secondary); line-height: 1.5;">
     `;
 
     if (item.link && item.link.startsWith('http')) {
         formattedContent += `
-            <a href="${item.link}" target="_blank" style="color: var(--accent-color); text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 4px; margin-top: 8px; pointer-events: auto;">
-                🔗 원문 기사 보러가기
-            </a>
+            <strong>출처:</strong> <a href="${item.link}" target="_blank" style="color: var(--accent-color); text-decoration: underline; font-weight: 500;">${item.source || '해당 언론사'}</a><br>
+            <span style="font-size: 0.8rem; opacity: 0.8;">※ 본 내용은 AI(Gemini)에 의해 자동 수집 및 요약되었습니다. 원문 기사의 저작권은 출처 언론사에 있으며, 자세한 내용은 
+            <a href="${item.link}" target="_blank" style="color: var(--accent-color); font-weight: 600; text-decoration: none;">[🔗 원문 기사 보러가기]</a>를 클릭하여 주시기 바랍니다.</span>
         </div>
         `;
     } else {
-        formattedContent += `</div>`;
+        formattedContent += `
+            <strong>출처:</strong> ${item.source || 'Unknown'}<br>
+            <span style="font-size: 0.8rem; opacity: 0.8;">※ 본 내용은 AI에 의해 자동 요약되었습니다. 저작권은 원 출처 언론사에 있습니다.</span>
+        </div>
+        `;
     }
 
     modalText.innerHTML = formattedContent;
