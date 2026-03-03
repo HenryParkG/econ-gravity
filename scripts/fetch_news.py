@@ -182,6 +182,7 @@ def fetch_economic_news():
             2. 가장 중요도가 높은 뉴스 5개를 엄선해서 'items' 목록으로 정리해줘.
             3. 각 뉴스 아이템은 상세하고 알찬 기사 내용(content)으로 재구성해줘. (최소 3~4문단 이상)
             4. 각 뉴스의 주제와 분위기를 나타내는 3~5개의 구체적인 영어 키워드(image_prompt)를 작성해줘. (예: 'Stock market, dynamic graph, blue neon, professional')
+            5. 각 뉴스 아이템에는 반드시 원본 데이터(raw_news)에 있던 정확한 원문 기사 링크 URL(link)을 포함해줘.
             
             반드시 다음과 같은 JSON 형식으로만 응답해줘.
             형식:
@@ -191,6 +192,7 @@ def fetch_economic_news():
                     {{
                         "title": "뉴스 제목",
                         "source": "출처",
+                        "link": "https://... (원본 기사 URL 그대로 유지)",
                         "category": "카테고리 (예: 금융, 테크, 시장, 정책 등 2~4글자)",
                         "summary": "짧은 요약",
                         "content": "상세 리포트 내용",
