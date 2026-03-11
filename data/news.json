@@ -1,25 +1,25 @@
 {
-    "last_updated": "2026-03-11 15:50:34",
-    "briefing": "오늘의 경제는 중동 분쟁 확산에 따른 고유가 및 환율 변동성 증대로 인해 정부와 지자체가 일제히 비상경제 체제에 돌입하며 위기 대응에 나섰습니다. 한편, 글로벌 시장에서는 반도체 공급망 위기설과 더불어 AI 투자 거품에 대한 석학의 경고가 겹치며 기술 집약적 산업 전반에 긴장감이 감도는 흐름을 보이고 있습니다.",
+    "last_updated": "2026-03-11 18:40:34",
+    "briefing": "중동 정세 불안에 따른 유가 및 환율 변동성 확대에 대응하기 위해 정부가 비상경제점검회의를 소집하고 석유 최고가격제 검토 등 민생 안정 대책 마련에 나섰습니다. 동시에 반도체와 순환경제, 수소경제 등 국가 미래 경쟁력을 좌우할 핵심 산업의 공급망 안보를 강화하고 대규모 기술 투자를 본격화하는 흐름을 보이고 있습니다.",
     "indices": [
         {
             "name": "KOSPI",
-            "value": "5,610.56",
-            "change": "▲ 1.41%",
+            "value": "5,609.95",
+            "change": "▲ 1.40%",
             "is_up": true,
             "is_down": false
         },
         {
             "name": "KOSDAQ",
-            "value": "1,136.94",
+            "value": "1,136.83",
             "change": "▼ 0.07%",
             "is_up": false,
             "is_down": true
         },
         {
             "name": "USD/KRW",
-            "value": "1,466.30",
-            "change": "▲ 0.12%",
+            "value": "1,474.20",
+            "change": "▲ 0.66%",
             "is_up": true,
             "is_down": false
         },
@@ -40,6 +40,61 @@
     ],
     "items": [
         {
+            "title": "이 대통령, 중동 상황 비상경제회의 주재…유가·환율 대책 논의",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQ0hWQUpiamltVHRKZmJXSGNaelZ6UU9raG1ESVVFc3ZzT0ZnOG56UHhJbDJ6dVlHc3gySktjOUUzRGMwSlVHc1BSQndGVEh5QkdHbUxBMUFmLTjSAWBBVV95cUxQT0RDTWwxX3pUeDYxdXBMZzlHMHMxcDBaTC0xWlhnNEp2NFVfRGkxVTU0TEVUNHFTRmhNOVdrem5fYlRWYnJHbHZtRFAyNDJpYXR4TE9yYzdKWlRKY0tPclQ?oc=5",
+            "category": "정책",
+            "summary": "중동발 리스크로 인한 경제 불확실성에 대응해 유가 및 환율 안정화 방안을 논의했습니다.",
+            "content": "최근 중동 지역의 지정학적 긴장이 고조됨에 따라 정부는 긴급 비상경제점검회의를 소집하고 국내 경제에 미칠 파급력을 정밀 점검했습니다. 특히 국제 유가의 급등이 국내 물가 상승으로 이어지지 않도록 석유 최고가격제 도입을 포함한 강도 높은 수급 안정화 대책을 신속히 검토할 것을 주문했습니다.\n\n환율과 증시 등 금융시장의 변동성 확대에 대해서도 면밀한 모니터링이 강조되었습니다. 외환 시장의 과도한 쏠림 현상을 방지하고, 필요한 경우 시장 안정화 조치를 즉각 시행할 수 있는 비상 대응 체계를 가동하기로 했습니다.\n\n이번 회의는 대외 리스크가 민생 경제로착륙하지 않도록 선제적인 방어벽을 치는 데 목적이 있습니다. 정부는 에너지 수급뿐만 아니라 수출입 물류망 차질 여부까지 종합적으로 살펴 우리 경제의 기초 체력을 유지하겠다는 강력한 의지를 표명했습니다.",
+            "image_prompt": "Middle East crisis, oil barrel, currency volatility, government meeting, economy strategy",
+            "published_at": "2026-03-11 18:40:34",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"이거 없으면 반도체 못 만든다\"…삼전·하이닉스 공급망 '초비상'",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITXFia1FzajV1XzlYeXd4T0Q1N2JqMU5OdHplckNNSVB0am95VHdDQnIzU0F6bXRDQ2FWZ3FCQnRHZkFOSllURDBudHdCSzl0NkMydTQ0czBWQdIBVEFVX3lxTE5NQ1pLZVI3RlhxanBNZFd5c2JwcWxzS19jTlJNcjgxUS14eFgtaWUzYXFRRzlEUEFESnRPRG5td3plSHpBQVA3NVF2VU5sU2dOWVZVMA?oc=5",
+            "category": "테크",
+            "summary": "반도체 제조 필수 소재의 수급 불안으로 삼성전자와 SK하이닉스 등 국내 기업의 긴장감이 높아지고 있습니다.",
+            "content": "글로벌 공급망 재편과 국가 간 자원 무기화가 심화되면서 국내 반도체 산업의 핵심 소재 확보에 빨간불이 켜졌습니다. 삼성전자와 SK하이닉스 등 주요 기업들은 특정 국가 의존도가 높은 필수 원자재의 공급 중단 가능성에 대비해 대체선 확보와 재고 비축에 총력을 기울이고 있습니다.\n\n반도체 공정의 미세화가 진행될수록 투입되는 소재의 순도와 안정성이 중요해지는데, 현재 위기를 겪고 있는 소재는 대체가 사실상 불가능한 품목으로 알려져 우려를 더하고 있습니다. 공급망의 작은 균열이 생산 라인 전체의 중단으로 이어질 수 있는 일촉즉발의 상황입니다.\n\n정부와 산업계는 '경제 안보' 차원에서 공급망 다변화를 추진하고 있지만, 단기간 내 가시적인 성과를 내기에는 물리적 한계가 존재합니다. 전문가들은 민관 협력을 통해 국산화 기술 개발에 박차를 가하고 외교적 노력을 병행하여 리스크를 분산해야 한다고 지적하고 있습니다.",
+            "image_prompt": "Semiconductor wafer, high-tech clean room, industrial supply chain, microchip, technical emergency",
+            "published_at": "2026-03-11 18:40:34",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "'K-순환경제 리본 프로젝트' 예타 통과⋯2540억 투입해 폐자원 기술 확보",
+            "source": "이투데이",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5dGc3SmppbjVxWGtsMm1valkzMFQ5aENZVXdEamh2eFJ0ZWVpbWt2LWJJU1B1bUd2X2FqeEgwbDNZQmY5QXBQY2stRmhrcHNvTFl6RA?oc=5",
+            "category": "산업",
+            "summary": "7년간 2,540억 원을 투입해 폐자원을 고품질 원료로 재활용하는 기술 개발이 본격화됩니다.",
+            "content": "정부가 추진하는 'K-순환경제 리본(RE-Born) 프로젝트'가 예비타당성 조사를 통과하며 자원 재활용 기술 자립화에 시동을 걸었습니다. 2031년까지 약 2,540억 원의 예산이 투입되는 이 사업은 폐플라스틱, 폐배터리 등에서 핵심 전략 소재를 추출하는 고도화된 기술 개발을 목표로 합니다.\n\n단순한 재활용을 넘어 폐기물을 고품질의 순환 원료로 전환함으로써 탄소 중립 실현과 자원 안보라는 두 마리 토끼를 잡겠다는 전략입니다. 특히 수입 의존도가 높은 희토류와 유가금속의 재자원화는 글로벌 자원 전쟁 시대에 강력한 경쟁력이 될 것으로 기대됩니다.\n\n이 프로젝트를 통해 우리나라는 저탄소 경제 체제로의 전환을 가속화하고, 관련 분야의 유망 중소·중견 기업들을 육성하여 새로운 일자리 창출과 수출 기회 확대를 도모할 계획입니다. 지속 가능한 성장을 위한 친환경 기술 생태계 조성이 이번 사업의 핵심입니다.",
+            "image_prompt": "Circular economy, green recycling symbol, industrial technology, eco-friendly energy, sustainable growth",
+            "published_at": "2026-03-11 18:40:34",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "청와대 '경제안보 정책자문위 간담회' 개최…에너지·공급망 등 점검",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05MW50NFRzQWxrNEdNU3I0YndJNnB6VzdCdHVpSnBYUk1JTUdrRjlmOEtVR0FYNERzS044NjVmMlBaVVkxNVV1amRIOU1RYWs?oc=5",
+            "category": "정책",
+            "summary": "글로벌 경제 환경 변화에 대응하기 위해 에너지와 공급망을 중심으로 정책 대응력을 강화합니다.",
+            "content": "대통령실은 경제안보 정책자문위원회 간담회를 열고 급변하는 글로벌 통상 환경과 안보 상황에 따른 정책 대응 방안을 논의했습니다. 미·중 갈등 지속과 우크라이나 전쟁 장기화 등 지정학적 리스크가 상수로 자리 잡은 만큼, 에너지와 원자재 공급망 안정화가 최우선 과제로 꼽혔습니다.\n\n자문위는 주요국들이 자국 우선주의 정책을 강화하는 추세에 맞춰, 우리나라도 경제와 안보를 통합적으로 고려하는 대전환이 필요하다고 조언했습니다. 기술 유출 방지와 핵심 광물의 안정적 수급을 위한 민관 합동 컨트롤타워 기능 강화가 구체적으로 논의되었습니다.\n\n정부는 이번 간담회에서 제시된 전문가들의 의견을 바탕으로 글로벌 경제 안보 환경 변화를 면밀히 분석하고, 선제적인 정책 대응 체계를 구축할 방침입니다. 이는 외부 충격에 흔들리지 않는 견고한 경제 구조를 만들겠다는 의지의 표현입니다.",
+            "image_prompt": "Global map network, digital security shield, international trade, strategy meeting, economic stability",
+            "published_at": "2026-03-11 18:40:34",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "정태호 의원 “수소경제 지금이 분기점… 민간 투자 유도할 정책 확신 필요”",
+            "source": "에너지데일리",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWaXRnV3B5NmI2Mk1NbUdsRVJnR2VCY1FuVm04djFqNUdWNk9rRExwRnduUEFvU2R3TWNsQU5vc0NRemlzYkxQcF9XZHlsOHJUZFNLZzRsLVk0MWZBd0s2RVRIaDRTVlR1QVNNanpyNEY?oc=5",
+            "category": "시장",
+            "summary": "수소경제 활성화를 위해 정부의 명확한 정책 시그널과 민간 투자를 유인할 제도적 뒷받침이 강조되었습니다.",
+            "content": "탄소 중립의 핵심 에너지원으로 주목받는 수소경제가 성장이냐 정체냐의 중대한 기로에 서 있습니다. 정치권과 산업계에서는 수소 산업의 생태계를 안착시키기 위해 정부가 더욱 명확하고 일관된 정책 로드맵을 제시해야 한다는 목소리가 커지고 있습니다.\n\n특히 수소 생산부터 저장, 운송, 활용에 이르는 전 주기에 걸쳐 민간 기업들이 과감하게 투자할 수 있도록 보조금 지원과 규제 완화 등 파격적인 인센티브가 필요하다는 지적입니다. 현재 초기 단계인 수소 시장을 활성화하기 위해서는 공공 부문의 마중물 역할이 무엇보다 중요합니다.\n\n수소경제가 우리 산업의 새로운 성장 동력으로 자리 잡기 위해서는 관련 법안의 신속한 처리와 함께 수소 기반 인프라 확충이 병행되어야 합니다. 미래 에너지 패권 경쟁에서 뒤처지지 않기 위한 국가적 차원의 전략적 결단이 요구되는 시점입니다.",
+            "image_prompt": "Hydrogen energy station, clean fuel cell, futuristic blue energy, industrial investment, green environment",
+            "published_at": "2026-03-11 18:40:34",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "李대통령, 중동상황 비상경제회의…유가·환율·증시 대책 논의",
             "source": "연합뉴스",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FQ0hWQUpiamltVHRKZmJXSGNaelZ6UU9raG1ESVVFc3ZzT0ZnOG56UHhJbDJ6dVlHc3gySktjOUUzRGMwSlVHc1BSQndGVEh5QkdHbUxBMUFmLTjSAWBBVV95cUxQT0RDTWwxX3pUeDYxdXBMZzlHMHMxcDBaTC0xWlhnNEp2NFVfRGkxVTU0TEVUNHFTRmhNOVdrem5fYlRWYnJHbHZtRFAyNDJpYXR4TE9yYzdKWlRKY0tPclQ?oc=5",
@@ -48,7 +103,7 @@
             "content": "정부는 최근 격화되고 있는 중동 분쟁 상황이 국내 경제에 미칠 파급 효과를 최소화하기 위해 대통령 주재 비상경제회의를 긴급 소집했습니다. 이번 회의의 핵심은 급등하는 국제 유가와 요동치는 환율, 그리고 이에 반응하는 증시 변동성에 대한 선제적 대응입니다. 정부는 에너지 수급 상황을 실시간으로 점검하고, 유가 급등 시 국민의 유류비 부담을 덜어줄 수 있는 다각적인 방안을 검토하기로 했습니다.\n\n특히 외환시장의 투기적 수요를 억제하고 환율 안정을 도모하기 위한 시장 모니터링 강화를 지시했습니다. 중동발 지정학적 리스크가 공급망 전반에 미칠 영향을 분석하여 수출입 기업들의 피해를 방지하기 위한 물류 지원 대책도 논의되었습니다. 이는 글로벌 불확실성이 커지는 상황에서 국내 실물 경제가 위축되지 않도록 방어벽을 치는 조치로 풀이됩니다.\n\n또한 대통령은 시장의 심리적 불안을 해소하는 것이 급선무임을 강조하며, 관계 부처 간의 긴밀한 협력을 통해 위기 관리 능력을 극대화할 것을 주문했습니다. 금융당국은 필요 시 증시 안정화 기금 운용 등 가용한 모든 정책 수단을 동원할 준비를 마쳤으며, 민생 경제에 직결되는 물가 안정을 최우선 과제로 삼겠다고 밝혔습니다.",
             "image_prompt": "Emergency meeting, Middle East crisis map, Oil barrel silhouettes, Stock market chart falling, Formal office setting",
             "published_at": "2026-03-11 15:50:34",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“AI 투자는 거품, 붕괴 땐 거시경제 충격”...‘노벨상’ 스티글리츠의 경고",
@@ -59,7 +114,7 @@
             "content": "노벨 경제학상 수상자인 조셉 스티글리츠 교수가 최근의 AI 산업 투자 열풍에 대해 강력한 경고의 메시지를 던졌습니다. 그는 현재 AI 시장이 과거 닷컴 버블과 유사한 양상을 보이고 있으며, 실제 생산성 향상 속도에 비해 과도한 자본이 쏠리고 있다고 진단했습니다. 스티글리츠 교수는 이러한 거품이 터질 경우 기술 섹터를 넘어 글로벌 거시경제 전반에 심각한 타격을 줄 수 있음을 우려했습니다.\n\n그는 AI 기술의 잠재력은 인정하면서도, 기업들이 단기적인 주가 부양을 위해 AI를 마케팅 도구로 활용하는 행태를 비판했습니다. 실질적인 비즈니스 모델이나 수익성 검증 없이 쏟아지는 막대한 투자는 결국 자원 배분의 왜곡을 초래하고, 이는 장기적인 경제 성장의 발목을 잡을 수 있다는 논리입니다. 특히 고금리 기조가 유지되는 상황에서 과잉 투자의 대가는 더욱 가혹할 것이라고 덧붙였습니다.\n\n스티글리츠 교수는 정부와 규제 당국이 AI 기술의 독점 현상을 경계하고, 거품 붕괴 시 발생할 수 있는 금융 시스템의 위험을 사전에 점검해야 한다고 강조했습니다. 이는 현재 전 세계가 열광하고 있는 AI 기술 혁신 이면에 숨겨진 경제적 리스크를 정면으로 조명한 것으로, 향후 빅테크 기업들에 대한 투자 심리에 상당한 영향을 미칠 것으로 예상됩니다.",
             "image_prompt": "Artificial Intelligence bubble, Soap bubble with microchips inside, Fragile economy, Golden brain explosion, Blue digital background",
             "published_at": "2026-03-11 15:50:34",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"이거 없으면 반도체 못 만든다\"…삼전·하이닉스 '초비상' [강해령의 테크앤더시티]",
@@ -70,7 +125,7 @@
             "content": "삼성전자와 SK하이닉스가 반도체 생산의 필수 소재 수급 불균형으로 인해 비상 경영 체제에 들어갔습니다. 특정 국가나 업체에 의존도가 높은 핵심 소재의 공급망이 지정학적 리스크나 생산 시설 문제로 흔들리면서, 세계 최고의 반도체 제조 역량을 갖춘 우리 기업들도 생산 차질 가능성을 우려해야 하는 상황에 놓인 것입니다. 특히 차세대 공정에 필수적인 특수 가스와 감광액 등의 재고 확보가 시급한 과제로 떠올랐습니다.\n\n이번 사태는 반도체 산업이 단순한 기술 경쟁을 넘어 국가 대항전 형태의 공급망 전쟁으로 변모했음을 보여줍니다. 원자재 가격 상승과 물류난이 겹치면서 소재 조달 비용이 급증하고 있으며, 이는 결국 반도체 제품 가격 인상과 IT 전방 산업의 인플레이션 압박으로 이어질 수 있습니다. 기업들은 공급망 다변화와 국산화율 제고를 위해 막대한 자금을 투입하고 있으나, 단기간에 안정적인 대체선을 확보하기는 쉽지 않은 상황입니다.\n\n전문가들은 이러한 공급망 리스크가 한국 반도체 산업의 고질적인 약점임을 지적하며, 정부 차원의 강력한 지원과 소재·부품·장비(소부장) 생태계 강화가 필수적이라고 조언합니다. 반도체 패권 다툼 속에서 살아남기 위해서는 제조 공정의 효율화뿐만 아니라, 기초 소재부터 완제품까지 이어지는 수직 계열화된 안정망 구축이 어느 때보다 중요한 시점입니다.",
             "image_prompt": "Semiconductor wafer under microscopic lens, Supply chain chains, Silicon chips, Industrial factory alert, High-tech neon lighting",
             "published_at": "2026-03-11 15:50:34",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "정부, 경제관계장관회의 비상체제 전환..“추경 포함 모든 수단 동원”",
@@ -81,7 +136,7 @@
             "content": "정부가 경제관계장관회의를 비상체제로 운영하기로 결정하며 대대적인 경기 방어에 나섰습니다. 이는 중동발 지정학적 리스크와 글로벌 경기 둔화 우려가 예상보다 깊어짐에 따라, 기존의 정책 기조로는 대응에 한계가 있다는 판단에 따른 것입니다. 정부는 필요하다면 추가경정예산(추경) 편성을 포함해 가용한 모든 재정·금융 수단을 동원하여 실물 경제 하락을 막겠다는 강한 의지를 표명했습니다.\n\n비상체제 하에서 각 경제 부처는 매주 시장 상황을 정밀 점검하고 신속한 의사결정 체계를 가동하게 됩니다. 특히 물가 안정과 고용 유지를 최우선 목표로 설정하고, 수출 기업들의 애로사항을 즉각 해결할 수 있는 현장 밀착형 지원 대책을 강화할 방침입니다. 또한 금리 인상기에 취약한 소상공인과 가계 부채 부실화를 막기 위한 선별적 금융 지원책도 함께 논의되고 있습니다.\n\n정부의 이러한 적극적인 행보는 시장에 안정적인 신호를 보내기 위한 전략이기도 합니다. 하지만 재정 건전성에 대한 우려와 함께 추경 편성이 인플레이션을 자극할 수 있다는 지적도 나오고 있어, 향후 정책 집행 과정에서 세밀한 조율이 필요할 것으로 보입니다. 위기 극복을 위한 정부의 속도감 있는 조치가 실제 경기 회복으로 이어질지 주목됩니다.",
             "image_prompt": "Government officials meeting, Emergency red light, Korean currency symbols, Strategy map, Professional and urgent atmosphere",
             "published_at": "2026-03-11 15:50:34",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "서울시, 중동사태 비상경제회의…중소기업에 1천억 융자지원",
@@ -92,7 +147,7 @@
             "content": "서울시가 중동 분쟁으로 인한 글로벌 경제 불확실성에 대응해 지역 민생 경제를 지키기 위한 긴급 처방을 내놨습니다. 시는 비상경제회의를 개최하고, 원자재 가격 상승과 유가 급등으로 경영난을 겪고 있는 관내 중소기업과 소상공인을 위해 총 1,000억 원 규모의 긴급 융자 지원을 실시하기로 결정했습니다. 이는 외부 충격에 취약한 영세 사업자들의 자금 경색을 방지하기 위한 선제적인 조치입니다.\n\n이번 지원책은 낮은 금리의 특별 융자뿐만 아니라 보증 한도 확대와 상환 유예 등의 내용을 담고 있습니다. 특히 수출입 중단이나 물류비 급등으로 직접적인 피해를 입은 기업들을 우선적으로 지원하며, 업종별 맞춤형 상담 센터를 운영해 실질적인 도움을 줄 예정입니다. 서울시는 이번 자금 지원이 중소상공인들에게 가뭄의 단비와 같은 역할을 하여 폐업 위기를 넘기는 데 기여할 것으로 기대하고 있습니다.\n\n오세훈 서울시장은 현장의 목소리를 청취하며 필요 시 추가적인 지원 규모 확대를 검토하겠다고 밝혔습니다. 지자체 차원의 이러한 발 빠른 대응은 중앙 정부의 거시적 대책과 시너지를 일으켜, 불안정한 국제 정세 속에서도 지역 경제의 기초 체력을 유지하는 데 중요한 버팀목이 될 전망입니다.",
             "image_prompt": "Seoul city skyline at night, Handing over money bags, Small business storefront, Financial relief icons, Professional illustration",
             "published_at": "2026-03-11 15:50:34",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "기름값 폭등에 美 물가 ‘경고등’…항공·농가·유통 줄줄이 타격",
@@ -103,7 +158,7 @@
             "content": "국제 유가가 가파르게 상승하면서 미국을 비롯한 글로벌 경제에 인플레이션 경고등이 켜졌습니다. 에너지 가격의 상승은 단순히 주유소 기름값 상승에 그치지 않고, 항공 운송료, 농기계 가동 비용, 제품 유통 단가 등을 연쇄적으로 끌어올리며 소비자 물가에 막대한 압박을 가하고 있습니다.\n\n항공 업계는 연료비 급증으로 인해 운임 인상이 불가피한 상황이며, 이는 여행 및 물류 수요 감소로 이어질 수 있다는 우려가 나옵니다. 농가 역시 비료 가격 상승과 트랙터 등 기계 가동 비용 증가로 인해 식료품 가격 인상이 예고되고 있어, 소위 '에너지발 애그리플레이션'의 가능성까지 제기되고 있는 상황입니다.\n\n유통 업계도 비상입니다. 배송 차량의 연료비 부담이 커지면서 최종 소비자에게 전달되는 라스트 마일 배송 비용이 상승하고 있으며, 이는 대형 유통 업체들의 수익성 악화로 직결되고 있습니다. 결과적으로 고유가가 전 산업계의 비용 구조를 뒤흔들고 있는 셈입니다.\n\n전문가들은 이러한 에너지 쇼크가 글로벌 소비 심리를 위축시키고 경기 침체를 가속화할 수 있다고 경고합니다. 특히 미국의 금리 정책에도 영향을 미쳐 시장의 불확실성을 증폭시킬 것으로 보여, 향후 유가 흐름에 전 세계의 이목이 집중되고 있습니다.",
             "image_prompt": "Gasoline pump nozzle, rising red arrows, cargo plane, farm field, inflation concept, cinematic lighting",
             "published_at": "2026-03-11 13:43:07",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"이거 없으면 반도체 못 만든다\"…삼전·하이닉스 '초비상'",
@@ -114,7 +169,7 @@
             "content": "글로벌 공급망 마비와 지정학적 위기가 겹치면서 삼성전자와 SK하이닉스의 반도체 생산에 차질이 우려되는 '초비상' 상황이 전개되고 있습니다. 반도체 미세 공정에 필수적인 특수 가스 및 핵심 소재들의 재고가 바닥을 보이고 있어, 이를 대체하거나 확보하기 위한 기업들의 필사적인 노력이 이어지고 있습니다.\n\n특히 특정 국가에 대한 의존도가 높은 희귀 가스류의 수급이 끊길 경우, 수조 원대 설비가 멈춰 설 수도 있다는 공포가 확산되고 있습니다. 반도체 생산 라인은 한번 가동을 멈추면 재가동까지 막대한 시간과 비용이 소모되기 때문에, 소재 확보 여부는 곧 기업의 생존과 직결되는 문제입니다.\n\n삼성전자와 SK하이닉스는 구매팀을 전 세계로 파견하여 대체 공급선을 찾고 있으며, 정부 또한 외교 채널을 가동해 핵심 소재의 우선 공급을 요청하고 있습니다. 하지만 전 세계적으로 반도체 소재 확보 경쟁이 치열해지면서 단기간에 해결책을 찾기가 쉽지 않은 실정입니다.\n\n이번 사태는 반도체 강국인 한국의 취약한 소재 자급률을 다시 한번 드러냈습니다. 전문가들은 장기적으로 핵심 소재의 국산화와 공급망 다변화를 가속화하지 않으면, 외부 변수에 의한 'K-반도체'의 위기는 반복될 수밖에 없다고 지적합니다.",
             "image_prompt": "Semiconductor wafer, neon laboratory, microscopic view, industrial pipes, high-tech blue glow",
             "published_at": "2026-03-11 13:43:07",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘노벨상 수상자의 경고’ 세계 증시 찬물?…“美 경제 ‘AI 거품’에 떠받쳐지고 있어”",
@@ -125,7 +180,7 @@
             "content": "최근 전 세계 증시를 이끌어온 인공지능(AI) 열풍에 대해 노벨 경제학상 수상자가 강한 우려의 목소리를 냈습니다. 현재의 주가 상승이 기업의 실적이나 가치보다는 미래에 대한 과도한 낙관론, 즉 'AI 거품'에 의해 지탱되고 있다는 분석입니다. 이 경고는 최고조에 달했던 시장 분위기에 찬물을 끼얹었습니다.\n\n수상자는 과거 '닷컴 버블'을 예로 들며, 기술의 혁신성 자체는 인정하되 그 기술이 실제 수익으로 연결되기까지는 상당한 시간이 걸린다는 점을 강조했습니다. 현재 많은 기업이 AI 관련 언급만으로 주가가 폭등하는 현상은 전형적인 시장 과열의 징후라는 지적입니다.\n\n특히 미국 경제 지표가 견고해 보임에도 불구하고, 그 이면에는 AI 관련 거대 기술주들에 의한 쏠림 현상이 심각하다고 분석했습니다. 만약 AI에 대한 기대감이 실망감으로 바뀔 경우, 이를 떠받치던 증시는 물론 실물 경제 전반으로 충격이 확산될 수 있다는 시나리오를 제시했습니다.\n\n이러한 비관적 전망에 대해 시장은 엇갈린 반응을 보이고 있으나, 고금리와 고물가가 지속되는 상황에서 밸류에이션 부담이 커진 것은 사실입니다. 투자자들 사이에서는 수익 모델이 확실한 기업 위주로 포트폴리오를 재편해야 한다는 자성의 목소리도 힘을 얻고 있습니다.",
             "image_prompt": "Floating digital bubbles, stock market board, brain and circuit concept, broken glass effect, dark background",
             "published_at": "2026-03-11 13:43:07",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[유가 100달러] 물가·환율·금리 '3高'…한국경제 'S 불안' 고개",
@@ -136,7 +191,7 @@
             "content": "국제 유가가 배럴당 100달러 선을 위협하면서 한국 경제 전반에 스태그플레이션(경기 침체 속 물가 상승)의 그림자가 짙어지고 있습니다. 에너지 수입 의존도가 높은 한국 구조상 유가 상승은 물가 압박뿐만 아니라 생산 비용 증가로 이어져 기업의 채산성을 악화시키는 원인이 됩니다.\n\n동시에 달러 대비 원화 환율이 치솟으며 수입 물가를 추가로 자극하고 있으며, 이를 억제하기 위한 고금리 기조 유지는 가계와 기업의 이자 부담을 가중시키고 있습니다. 이러한 '3고(高)' 현상은 내수 소비 위축과 투자 감소라는 악순환을 초래할 위험이 큽니다.\n\n시장 전문가들 사이에서는 이미 'S(Stagflation)의 공포'가 현실화되고 있다는 분석이 나옵니다. 수출 효자 품목인 반도체와 자동차 부문에서도 물류비 증가와 원자재 가격 상승으로 인해 글로벌 경쟁력 약화가 우려되는 상황입니다. 소비자들의 실질 소득 감소로 인해 체감 경기는 더욱 빠르게 냉각되고 있습니다.\n\n정부와 중앙은행은 물가 안정과 경기 부양 사이에서 어려운 선택의 기로에 서 있습니다. 단기적인 경기 부양책보다는 구조적인 체질 개선과 공급망 다변화를 통해 외부 충격에 강한 경제 구조를 만드는 것이 시급하다는 지적이 힘을 얻고 있습니다.",
             "image_prompt": "Red arrows pointing upwards, oil pump silhouette, currency symbols KRW USD, dramatic stormy sky background, economic recession graph",
             "published_at": "2026-03-11 10:49:02",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제 6단체 “대미투자특별법 특위 통과 환영…한미 경제협력 확대”",
@@ -147,7 +202,7 @@
             "content": "한국경영자총협회 등 경제 6단체는 대미투자특별법이 국회 특별위원회를 통과한 것에 대해 일제히 환영의 뜻을 밝혔습니다. 이번 법안은 미국 시장에 진출하거나 현지 투자를 진행하는 한국 기업들에게 세제 혜택과 규제 완화 등 실질적인 지원을 제공하는 내용을 담고 있어 대외 경쟁력 제고에 큰 도움이 될 전망입니다.\n\n경제계는 이번 법안 통과가 한미 경제 동맹을 한 단계 격상시키는 계기가 될 것으로 보고 있습니다. 반도체, 배터리, 전기차 등 미래 핵심 산업 분야에서 양국 기업 간의 전략적 파트너십이 더욱 공고해질 것으로 기대되며, 이는 곧 글로벌 공급망 재편 과정에서 한국의 입지를 강화하는 결과로 이어질 것입니다.\n\n특히 중소·중견 기업들의 미국 진출 문턱이 낮아질 것이라는 기대감도 큽니다. 법안에 포함된 다양한 지원책들이 국내 기업들의 해외 시장 점유율 확대로 이어지고, 이를 통해 창출된 부가 다시 국내 투자와 고용으로 선순환되는 구조를 만드는 것이 주요 목표입니다.\n\n앞으로 남은 입법 절차의 신속한 마무리와 함께 정부 차원의 세부 실행 방안 마련이 중요합니다. 경제 단체들은 기업들이 글로벌 통상 환경의 변화에 민첩하게 대응할 수 있도록 정부와의 긴밀한 소통을 이어가겠다는 의지를 표명했습니다.",
             "image_prompt": "Handshake between Korean and American businessmen, national flags integrated, modern factory background, document with official seal, blue and gold color scheme",
             "published_at": "2026-03-11 10:49:02",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "오세훈 \"잠실 스포츠·MICE 595조 경제효과…첫 민간투자 모델\"",
@@ -158,7 +213,7 @@
             "content": "서울시가 잠실 종합운동장 일대를 세계적인 스포츠·MICE(기업회의·포상관광·컨벤션·전시) 거점으로 탈바꿈시키는 대규모 프로젝트를 본격화합니다. 오세훈 서울시장은 이번 사업이 약 595조 원의 경제적 파급 효과를 가져올 것이라고 강조하며, 서울의 도시 경쟁력을 획기적으로 높일 '민간 투자 모델'의 정석을 보여주겠다고 밝혔습니다.\n\n이번 프로젝트는 첨단 기술과 스포츠, 비즈니스가 결합된 융복합 공간을 조성하는 데 초점을 맞추고 있습니다. 대형 전시 컨벤션 시설뿐만 아니라 최신식 야구장, 다목적 스포츠 시설, 그리고 한강 변과 연계된 수변 휴식 공간 등이 포함되어 서울의 새로운 랜드마크로 자리 잡을 예정입니다.\n\n특히 정부 재정 투입 대신 민간 자본을 활용하는 민간투자사업(BTO) 방식을 채택하여 공공성과 효율성을 동시에 잡겠다는 전략입니다. 이는 향후 대규모 도시 개발 사업의 이정표가 될 것으로 보이며, 수천 명의 직접 고용 창출과 관광객 유치를 통해 지역 경제 활성화에 기여할 것으로 기대됩니다.\n\n단순한 건축물 조성을 넘어 스마트 시티 기술이 집약된 미래형 공간을 지향합니다. 사물인터넷(IoT)과 AI를 활용한 시설 관리 시스템이 도입되어 방문객들에게 최상의 편의를 제공하며, 지속 가능한 성장을 위한 친환경 공법도 적극 적용될 계획입니다.",
             "image_prompt": "Futuristic architectural rendering of Jamsil MICE complex, city lights, Han river at night, high-tech stadium, 3D hologram city model",
             "published_at": "2026-03-11 10:49:02",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "현대경제연구원, '슈퍼세이프'로 산업재해 안전관리 혁신",
@@ -169,7 +224,7 @@
             "content": "현대경제연구원이 산업 현장의 고질적인 문제인 산업재해를 예방하고 중대재해처벌법에 선제적으로 대응하기 위한 안전 관리 솔루션 '슈퍼세이프(Super Safe)'를 선보였습니다. 이 솔루션은 기업들이 체계적이고 디지털화된 방식으로 안전 보건 시스템을 구축할 수 있도록 돕는 혁신적인 플랫폼입니다.\n\n'슈퍼세이프'는 실시간 현장 모니터링, 위험성 평가, 사고 이력 분석 등 안전 관리 전 과정을 데이터 기반으로 관리합니다. 기존의 수동적인 안전 점검 방식에서 벗어나 AI와 빅데이터 분석을 통해 잠재적 위험 요소를 사전에 예측하고 차단하는 것이 핵심입니다. 이를 통해 기업은 사고 발생 가능성을 획기적으로 낮출 수 있습니다.\n\n중대재해처벌법 시행 이후 안전 경영에 대한 기업들의 부담이 커진 가운데, 이번 솔루션은 합리적인 비용으로 고도화된 안전 시스템을 도입하려는 중소·중견 기업들에게 큰 호응을 얻을 것으로 보입니다. 법적 준수 사항을 자동으로 체크하고 기록해주는 기능은 기업의 리스크 관리에 핵심적인 역할을 할 것입니다.\n\n현대경제연구원은 이번 출시를 시작으로 산업 현장의 안전 문화를 확산시키고, ESG(환경·사회·지배구조) 경영의 핵심 요소인 안전 보건 부문의 표준을 제시하겠다는 포부입니다. 디지털 전환을 통한 안전한 일터 만들기가 기업 경쟁력의 새로운 척도가 되고 있습니다.",
             "image_prompt": "Worker wearing VR safety helmet, digital shield icon, factory security dashboard, bright futuristic interface, safety orange and blue accents",
             "published_at": "2026-03-11 10:49:02",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "지난해 1인당 국민소득 3만6855달러…대만·日에 추월당했다",
@@ -180,7 +235,7 @@
             "content": "지난해 한국의 1인당 국민총소득(GNI)이 3만6855달러를 기록하며 수치상으로는 소폭 상승했으나, 실질적으로는 대만과 일본에 추월당하는 수모를 겪었습니다. 이는 원화 가치 하락에 따른 환율 효과가 크게 작용했지만, 보다 근본적으로는 한국 경제의 역동성이 떨어지고 있다는 지표로 읽힙니다.\n\n한국 경제는 12년째 '3만 달러의 함정'에 빠져 박스권 성장을 거듭하고 있습니다. 반면 대만은 반도체 산업을 중심으로 한 강력한 수출 드라이브와 정부의 전폭적인 지원을 통해 소득 수준을 빠르게 끌어올렸습니다. 일본 또한 오랜 경기 침체를 벗어나 엔저를 바탕으로 한 수출 회복과 증시 호황으로 반등에 성공하며 한국과의 격차를 다시 벌렸습니다.\n\n경제 전문가들은 한국이 선진국 반열에 안착하기 위해서는 잠재성장률을 높일 수 있는 구조 개혁이 절실하다고 입을 모읍니다. 저출산·고령화로 인한 노동 인구 감소와 신산업 규제 등이 성장의 발목을 잡고 있는 상황에서, 단순한 수치 비교를 넘어 질적인 경제 체질 개선이 필요한 시점입니다.",
             "image_prompt": "South Korea vs Japan and Taiwan flag icons, bar chart showing GNI, golden coins, slowing engine conceptual art",
             "published_at": "2026-03-10 21:55:52",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이곳 막히면 세계 경제 숨막힌다, 호르무즈 못잖은 ‘초크포인트’",
@@ -191,7 +246,7 @@
             "content": "이란과 이스라엘의 직접 충돌 양상이 벌어지면서 전 세계 에너지 운송의 6분의 1을 담당하는 호르무즈 해협의 위기감이 최고조에 달하고 있습니다. 이곳은 막히는 순간 글로벌 원유 공급이 중단되는 이른바 '초크포인트(Chokepoint)'로, 물리적 충돌이 현실화될 경우 세계 경제는 통제 불능의 인플레이션에 직면하게 됩니다.\n\n특히 한국을 포함한 아시아 국가들은 중동산 원유 의존도가 미국에 비해 압도적으로 높아 피해 규모가 훨씬 클 것으로 예상됩니다. 해상 운송로가 차단되면 원유뿐만 아니라 주요 원자재와 소비재의 물류 비용이 기하급수적으로 상승하며, 이는 전방위적인 생산 원가 상승으로 이어져 글로벌 공급망의 붕괴를 초래할 수 있습니다.\n\n전략 분석가들은 이란이 호르무즈 해협을 무기화할 경우, 단순한 에너지 위기를 넘어 글로벌 해상 물류 지도 자체가 바뀔 수 있다고 경고합니다. 기업들은 우회 항로 확보에 나섰지만 비용과 시간 측면에서 한계가 뚜렷해, 지정학적 리스크 관리가 기업 생존의 핵심 변수로 떠오르고 있습니다.",
             "image_prompt": "Cargo ship in narrow strait, digital map of Middle East, orange heat map of trade routes, maritime security, industrial",
             "published_at": "2026-03-10 21:55:52",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "빵값 내렸는데 다음은 라면 차례?…식품업계 '초비상'",
@@ -202,7 +257,7 @@
             "content": "최근 정부의 압박과 여론을 의식해 일부 빵 제품 가격이 인하되었으나, 라면을 비롯한 다른 필수 식품군으로 인하 흐름이 확산될지는 불투명합니다. 오히려 식품 기업들은 국제 밀 가격 변동과 고환율에 따른 원료 수입 단가 상승으로 인해 수익성이 악화되는 '진퇴양난'의 상황에 처해 있습니다.\n\n특히 서민 음식의 대명사인 라면업계는 정부의 가격 안정화 기조와 제조 원가 상승 사이에서 심각한 고민에 빠졌습니다. 유가 상승으로 인한 운송비 부담과 인건비 상승 등 고정비 지출은 갈수록 늘어나는 반면, 가격 인상은 사회적 저항이 커 눈치를 볼 수밖에 없는 형편입니다.\n\n소비자들의 체감 물가 부담도 극에 달하고 있습니다. 가공식품 가격이 외식 물가까지 끌어올리면서 가계 실질 소득이 감소하고 있으며, 이는 다시 내수 시장 위축으로 이어지는 악순환을 낳고 있습니다. 식품업계는 원가 절감을 위한 고육책을 짜내고 있지만, 대외 변수의 불확실성이 워낙 커 당분간 긴장 상태가 지속될 전망입니다.",
             "image_prompt": "Supermarket shelf, price tags being changed, ramen bowl and bread, close-up of shopping cart, financial pressure",
             "published_at": "2026-03-10 21:55:52",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 분쟁에 따른 글로벌 경제 '초크포인트' 위기 및 호르무즈 해협 긴장",
@@ -213,7 +268,7 @@
             "content": "최근 중동 지역의 군사적 긴장감이 최고조에 달하면서 세계 경제의 젖줄인 호르무즈 해협의 '초크포인트(병목 지점)' 위기가 가시화되고 있습니다. 호르무즈 해협은 전 세계 해상 원유 수송량의 약 20%가 통과하는 핵심 요충지로, 이곳이 봉쇄되거나 분쟁에 휘말릴 경우 국제 유가는 배럴당 100달러를 상회할 것이라는 비관적인 전망이 나오고 있습니다.\n\n경제 전문가들은 이번 사태가 단순히 에너지 가격 상승에 그치지 않고, 글로벌 공급망 전체에 막대한 타격을 줄 것으로 경고하고 있습니다. 특히 이란의 참전 여부에 따라 핵 확산 문제와 한반도 안보 지형까지 영향을 받을 수 있다는 분석이 제기되며, 이는 전 세계 금융 시장의 불확실성을 증폭시키는 핵심 요인이 되고 있습니다.\n\n국내 경제 역시 에너지 수입 의존도가 높은 특성상 직접적인 사정권에 들어와 있습니다. 수입 물가 상승은 국내 소비자 물가를 자극하고, 이는 결국 한국은행의 금리 결정 기조에도 압박을 가하게 될 것입니다. 정부와 관계 기관은 해상 운송 경로 우회 및 에너지 수급 다변화 등 시나리오별 대응책 마련에 착수했습니다.\n\n결국 이번 중동 사태의 향방은 향후 글로벌 인플레이션의 종식 여부를 결정지을 분수령이 될 전망입니다. 시장은 이란의 대응 수위와 미 서방 국가들의 중재 노력에 촉각을 곤두지우고 있으며, 당분간 안전 자산 선호 현상과 원자재 가격의 변동성은 불가피할 것으로 보입니다.",
             "image_prompt": "Global oil supply chain, Hormuz Strait, cargo ship, geopolitical tension, world map, cinematic lightning",
             "published_at": "2026-03-10 18:41:24",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국 경제 12년째 '3만 달러 함정'… 저성장 늪과 대만과의 격차 확대",
@@ -224,7 +279,7 @@
             "content": "한국 경제가 1인당 국민총소득(GNI) 3만 달러 시대를 연 이후 12년째 4만 달러의 벽을 넘지 못하고 정체기에 빠졌습니다. 이는 과거 급속한 성장을 이루었던 시기와 대조적인 모습으로, 인구 구조의 변화와 산업 경쟁력 약화, 그리고 최근의 고환율 현상이 복합적으로 작용한 결과로 풀이됩니다. 특히 경쟁국인 대만이 반도체 산업의 호황을 바탕으로 한국의 성장률을 크게 앞지르면서 상대적 박탈감도 커지고 있습니다.\n\n통계에 따르면 한국의 성장률은 최근 몇 년간 잠재성장률 하회 수준을 기록하고 있으며, 이는 구조적인 저성장 국면에 진입했음을 시사합니다. 원-달러 환율의 급등은 달러 표시 소득을 감소시켜 국민소득 수치를 낮추는 직접적인 원인이 되고 있으며, 내수 부진과 수출 경쟁력 약화라는 이중고를 겪고 있는 상황입니다.\n\n전문가들은 '3만 달러 함정'을 탈출하기 위해서는 노동 시장 개혁과 규제 혁파를 통한 신산업 육성이 시급하다고 지적합니다. 단순히 지표상의 성장이 아니라 국민들이 체감할 수 있는 실질 소득 증대를 위해서는 고부가가치 서비스업 활성화와 기술 혁신이 뒷받침되어야 한다는 목소리가 높습니다.\n\n만약 현재의 저성장 기조를 반전시키지 못한다면 한국 경제는 일본식 장기 불황의 전철을 밟을 수 있다는 우려가 나옵니다. 이번 정부의 하반기 경제 정책 기조가 잠재 성장률을 끌어올리는 구조 개혁에 얼마나 집중될지가 향후 10년의 한국 경제 향방을 결정지을 중요한 열쇠가 될 것입니다.",
             "image_prompt": "Economic growth chart, South Korean won, financial stagnation, skyscraper silhouette, sunset, professional style",
             "published_at": "2026-03-10 18:41:24",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국제 유가 100달러 돌파 우려에 '3고' 현상 심화… 스태그플레이션 공포",
@@ -235,7 +290,7 @@
             "content": "국제 유가가 배럴당 100달러 선을 위협하면서 한국 경제에 '스태그플레이션(Stagflation)'의 먹구름이 짙게 드리우고 있습니다. 물가는 치솟고 환율과 금리마저 높은 수준을 유지하는 '3고' 현상이 기업의 생산 비용을 높이고 가계의 가처분 소득을 줄이면서 소비 위축으로 이어지는 악순환이 반복되고 있습니다. 연합뉴스 보도에 따르면, 시장에서는 이미 'S(Stagflation)의 공포'가 고개를 들고 있습니다.\n\n가장 큰 문제는 물가 통제의 어려움입니다. 에너지 가격 상승은 공공요금 인상 압박으로 이어지며 물가 상방 압력을 지속시키고 있습니다. 이에 따라 한국은행은 기준금리 인하 시점을 고심하고 있으나, 환율 불안과 가계부채 문제로 인해 정책 선택의 폭이 극도로 좁아진 상태입니다. 고금리 기조의 장기화는 영세 자영업자와 중소기업의 이자 부담을 가중시키고 있습니다.\n\n외환 시장 또한 요동치고 있습니다. 원-달러 환율이 심리적 저항선을 위협하며 외국인 자금 유출에 대한 우려를 낳고 있으며, 이는 코스피와 코스닥 등 증시의 변동성을 키우는 요인이 됩니다. 수출 기업들은 환율 상승으로 인한 가격 경쟁력 확보를 기대하기도 하지만, 원자재 수입 단가 상승폭이 더 커 실익이 줄어드는 형편입니다.\n\n정부는 비상경제장관회의를 통해 물가 관리와 민생 안정을 최우선 과제로 내세웠습니다. 유류세 인하 연장 등 가용한 정책 수단을 총동원하고 있으나, 대외 변수에 의한 충격이 큰 만큼 단기간 내에 경기 회복세를 체감하기는 어려울 것이라는 관측이 지배적입니다.",
             "image_prompt": "Rising red arrow, oil barrel, dollar symbol, interest rate percentage, financial crisis, dark background",
             "published_at": "2026-03-10 18:41:24",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제 6단체, '대미투자특별법' 통과 환영… 한미 경제협력 강화 기대",
@@ -246,7 +301,7 @@
             "content": "대한상공회의소, 한국경영자총협회 등 경제 6단체는 최근 미 의회 특위를 통과한 '대미투자특별법'에 대해 일제히 환영의 뜻을 밝혔습니다. 이 법안은 미국에 대규모 투자를 진행 중인 한국 기업들에게 세제 혜택과 규제 완화를 제공하는 내용을 담고 있어, 삼성전자, 현대자동차, SK온 등 현지 공장을 설립 중인 국내 대기업들의 사업 환경이 개선될 것으로 기대됩니다.\n\n경제계는 이번 법안 통과가 한미 경제 협력의 범위를 첨단 기술과 공급망 분야로까지 확대하는 중요한 계기가 될 것으로 보고 있습니다. 특히 반도체, 배터리 등 전략 산업 분야에서 한국 기업들의 입지가 강화됨으로써 글로벌 시장 점유율 확대와 기술 주도권 확보에 긍정적인 영향을 미칠 것으로 분석됩니다.\n\n정부 역시 이번 법안 통과를 계기로 대미 통상 외교를 더욱 강화할 방침입니다. 미 대선을 앞두고 자국 우선주의 정책이 강화되는 흐름 속에서, 한국 기업들이 차별받지 않고 안정적인 경영 활동을 이어갈 수 있도록 제도적 보장책을 확보했다는 점에 큰 의미를 두고 있습니다.\n\n앞으로 한미 양국은 공급망 재편 과정에서 파트너십을 더욱 공고히 할 것으로 보입니다. 다만, 미국의 정책 변화에 따른 불확실성이 상존하는 만큼 우리 기업들은 유연한 대응 전략을 수립해야 하며, 국내 산업의 공동화 현상을 방지하기 위한 국내 투자 유인책 병행도 과제로 남아 있습니다.",
             "image_prompt": "US Korea flags, handshake, semiconductor factory, international trade, professional cooperation, high-tech",
             "published_at": "2026-03-10 18:41:24",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "울산·대구시 등 지자체, '중동 사태 대응 비상경제 TF' 가동",
@@ -257,7 +312,7 @@
             "content": "울산광역시와 대구광역시를 비롯한 주요 지자체들이 중동 사태로 인한 지역 경제의 불확실성을 해소하기 위해 '비상경제 대응 TF'를 전격 가동했습니다. 울산시는 특히 석유화학 및 자동차 산업 비중이 높은 지역 특성상 유가 상승과 물류 차질이 지역 생산에 막대한 지장을 줄 수 있다는 판단 아래 통상 지원과 수급 상황 점검을 대폭 강화하기로 했습니다.\n\n대구시 또한 민생 경제 대책 회의를 열고 지역 내 수출입 기업들의 피해 상황을 실시간으로 모니터링하기 시작했습니다. 원자재 가격 상승으로 고통받는 중소기업들에게 정책 자금을 우선 배정하고, 중동 지역 수출 판로가 막힌 기업들을 대상으로 대체 시장 발굴을 지원하는 등 실질적인 구제책 마련에 집중하고 있습니다.\n\n이러한 지자체들의 움직임은 중앙 정부의 대응과 발맞추어 지역 경제의 하단이 무너지지 않도록 방어막을 치는 역할을 합니다. 특히 현장 밀착형 행정을 통해 기업들의 애로사항을 즉각 수렴하고, 지방비 투입을 통한 물가 안정 대책을 수립함으로써 시민들의 불안감을 해소하는 데 주력하고 있습니다.\n\n전문가들은 글로벌 위기 상황일수록 지자체와 중앙 정부 간의 긴밀한 정보 공유와 협력이 중요하다고 강조합니다. 중동 사태가 장기화될 가능성에 대비하여 지역별 맞춤형 공급망 관리 체계를 구축하고, 내수 활성화를 위한 지역 화폐 및 소비 촉진 캠페인을 병행하는 등의 입체적인 대응이 필요한 시점입니다.",
             "image_prompt": "Emergency meeting, control tower, digital dashboard, government office, industrial city, organized",
             "published_at": "2026-03-10 18:41:24",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "올 경제전망 갈아엎을 ‘美 - 이란 전쟁’… 한달간 지속땐 세계성장률 급락 불가피",
@@ -268,7 +323,7 @@
             "content": "미국과 이란 간의 군사적 충돌이 본격화되면서 전 세계 경제 전망에 비상이 걸렸습니다. 전문가들은 이번 전쟁이 한 달 이상 지속될 경우, 국제 유가 급등과 공급망 마비로 인해 세계 경제 성장률이 급격히 둔화될 것으로 내다보고 있습니다. 특히 이란이 호르무즈 해협 등 주요 해상 통로를 봉쇄하거나 경제적 타격을 입히는 '지구전'으로 맞불을 놓을 경우 그 파급력은 상상을 초월할 것으로 보입니다.\n\n이란은 경제적 요충지인 하르그섬 등을 방어하며 장기적인 경제 타격을 준비하고 있으며, 이에 대응해 미국은 지상군 투입 카드까지 만지작거리며 긴장이 고조되고 있습니다. 이러한 중동 사태는 단순한 지역 갈등을 넘어 핵 확산 및 한반도 안보 문제와도 직결될 수 있다는 분석이 나옵니다. 글로벌 금융시장은 이러한 불확실성에 민감하게 반응하고 있습니다.\n\n우리 정부와 정치권도 발 빠르게 움직이고 있습니다. 국민의힘은 '중동사태 경제대응' TF를 발족하여 에너지 수급과 물가 파급 효과를 실시간으로 점검하기 시작했습니다. 만약 전쟁이 장기화되어 예비비가 소진될 경우 재정 운용에도 큰 차질이 빚어질 수 있다는 경고가 나오고 있어, 정부의 치밀한 리스크 관리가 어느 때보다 절실한 시점입니다.",
             "image_prompt": "Middle East war, oil refinery flames, global map, economic crisis, dramatic dark atmosphere",
             "published_at": "2026-03-10 15:44:42",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제 포커스] 국민소득 12년째 3만달러대… 저성장 늪에 빠진 한국",
@@ -279,7 +334,7 @@
             "content": "대한민국 경제의 성장 엔진이 급격히 식어가고 있다는 지표가 잇따르고 있습니다. 한국의 1인당 국민소득은 지난 12년 동안 3만 달러 대를 벗어나지 못하고 있으며, 이는 한국 경제가 이른바 '중진국 함정'과 유사한 고소득 국가의 '저성장 늪'에 빠졌음을 시사합니다. 한때 한강의 기적이라 불리던 역동성이 사라지고 잠재성장률이 0%대로 추락할 수 있다는 비관론이 대두되고 있습니다.\n\n김세직 KDI 원장은 현재와 같은 구조가 지속될 경우 2029년이 한국 경제 성장의 정점이 되는 '피크 코리아'를 맞이할 것이라고 경고했습니다. 그는 인구 감소와 고령화, 그리고 혁신의 부재가 이러한 위기를 가속화하고 있다고 분석하며, 이를 타개하기 위한 파격적인 해법으로 '전 국민 아이디어 등록제'를 제안하기도 했습니다. 이는 창의적 아이디어를 경제적 자산으로 변모시켜 성장 동력을 되찾아야 한다는 취지입니다.\n\n전문가들은 노동시장 개혁과 규제 완화 없이는 현재의 저성장 기조를 깨뜨리기 어렵다고 입을 모읍니다. 특히 반도체 등 특정 산업에 편중된 수출 구조를 다변화하고, 서비스업의 생산성을 높이는 구조조정이 시급한 과제로 떠올랐습니다. 12년째 이어진 3만 달러 시대의 정체를 끝내기 위한 국가적 차원의 전략 수정이 요구되는 시점입니다.",
             "image_prompt": "Stagnant city skyline, downward arrow graph, 30,000 dollar sign, South Korea flag, professional and serious tone",
             "published_at": "2026-03-10 15:44:42",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"국내 외국인투자로 경제안보 리스크…투자 안보 심사 강화해야\"",
@@ -290,7 +345,7 @@
             "content": "글로벌 공급망 재편과 기술 패권 경쟁이 심화되면서, 외국인 투자를 바라보는 시각이 단순한 자본 유입을 넘어 '경제 안보'의 관점으로 급격히 선회하고 있습니다. 최근 연합뉴스와 아시아경제 등 주요 외신 및 국내 언론들은 외국인 투자가 확대됨에 따라 국가 전략 기술 보호를 위한 투자 안보 심사를 대폭 강화해야 한다는 목소리를 전하고 있습니다.\n\n과거에는 외국인 투자 유치가 경제 활성화의 핵심 지표로 여겨졌으나, 이제는 적대적 자본이나 경쟁 국가로의 핵심 기술 유출 통로가 될 수 있다는 우려가 커지고 있습니다. 특히 반도체, 이차전지, 바이오 등 국가 첨단 전략 산업 분야에서의 M&A나 지분 투자가 안보에 미치는 영향력을 면밀히 평가해야 한다는 지적입니다. 브릿지경제는 '전략기술 보호가 곧 경제안보'라는 점을 명확히 하며 심사 기준의 구체화를 촉구했습니다.\n\n이에 따라 정부는 외국인 투자 촉진법 등 관련 법령을 정비하여 안보 심사 대상을 확대하고 심사 절차를 정교화하는 방안을 검토 중입니다. 이는 주요국들이 자국 기술 보호를 위해 투자 장벽을 높이는 '경제적 요새화' 흐름과 맥을 같이 합니다. 투자 유치와 기술 보호라는 두 마리 토끼를 잡기 위한 정교한 정책 설계가 필요한 상황입니다.",
             "image_prompt": "Digital shield, data protection, international investment, global trade, high-tech security scan",
             "published_at": "2026-03-10 15:44:42",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"빨리 끝날 것\" 트럼프 한 마디에…삼전·닉스 '급반등'",
@@ -301,7 +356,7 @@
             "content": "불안정하던 국내 증시가 정치적 발언 하나에 요동치고 있습니다. 중동 사태로 인해 하락세를 면치 못하던 삼성전자와 SK하이닉스 등 반도체 대장주들이 도널드 트럼프 전 대통령의 \"전쟁이 빨리 끝날 것\"이라는 발언에 힘입어 급반등에 성공했습니다. 이는 시장이 지정학적 리스크의 해소를 얼마나 간절히 기다리고 있는지를 여실히 보여주는 사례입니다.\n\n하지만 반등의 기쁨 뒤에는 여전한 물가 압박이 도사리고 있습니다. 중동 사태로 인한 유가 불안은 식품 업계에도 영향을 미치고 있습니다. 최근 빵값이 인하되었음에도 불구하고, 유류비와 물류비 상승 압박으로 인해 다음은 라면 차례가 아니냐는 우려가 나오며 식품 업계는 '초비상' 상태입니다. 소비자들은 생활 물가 상승에 대한 불안감을 감추지 못하고 있습니다.\n\n부천시 등 지자체들도 중동 발 경제 불안에 대응하기 위해 유가와 물가 안정, 그리고 지역 기업 지원책 마련에 총력을 기울이고 있습니다. 정부는 예비비를 투입해 정유사 손실을 보전하는 방안을 검토 중이지만, 전쟁이 장기화될 경우 재정 '펑크'가 발생할 수 있다는 경고도 나오고 있어 시장의 낙관론과 신중론이 팽팽하게 맞서고 있는 형국입니다.",
             "image_prompt": "Semiconductor wafer, stock market graph rising, gold and green, high tech industry, trading floor energy",
             "published_at": "2026-03-10 15:44:42",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 전쟁 경제 충격파…당사자 미국보다 아시아·유럽 더 아프다",
@@ -312,7 +367,7 @@
             "content": "최근 중동 지역에서 고조되고 있는 전쟁의 위협이 세계 경제에 심각한 충격파를 던지고 있습니다. 특히 호르무즈 해협과 같은 주요 에너지 수송로가 봉쇄될 가능성이 제기되면서, '초크포인트(choke point)'가 막힐 경우 세계 경제가 숨막히는 상황에 처할 수 있다는 경고가 잇따르고 있습니다. 전문가들은 이번 사태가 장기화될 경우 국제 유가가 배럴당 100달러를 돌파할 수 있다고 내다보고 있습니다.\n\n이러한 경제적 충격은 에너지 자립도가 비교적 높은 미국보다 아시아와 유럽 국가들에 더 가혹하게 작용할 전망입니다. 아시아 국가들은 원유 수입 의존도가 매우 높아 유가 상승이 즉각적인 물가 상승과 경상수지 악화로 이어지기 때문입니다. 특히 한국과 일본 등 제조업 중심의 국가들은 원가 상승으로 인한 수출 경쟁력 약화가 우려되는 상황입니다.\n\n글로벌 경제 전문가들은 만약 이란이 전쟁에 직접 개입하고 호르무즈 해협이 폐쇄된다면, 세계 경제 성장률이 급락하는 것은 불가피하다고 분석합니다. 이는 단순히 에너지 가격의 문제를 넘어 전 세계적인 공급망 재편과 물류비용의 폭발적 증가를 야기할 수 있는 심각한 사안으로 다뤄지고 있습니다.\n\n결국 이번 중동 사태의 향방에 따라 올해 하반기 및 내년 세계 경제 전망이 완전히 뒤바뀔 수 있다는 관측이 지배적입니다. 각국 정부는 비상 에너지 수급 계획을 점검하고 있으며, 시장은 일촉즉발의 중동 상황을 예의주시하며 높은 변동성을 보이고 있습니다.",
             "image_prompt": "Middle East conflict, oil tanker, global supply chain, dark cinematic atmosphere, sunset horizon",
             "published_at": "2026-03-10 13:30:00",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘노벨상’ 스티글리츠 “AI 투자 열풍은 ‘거품’···붕괴 땐 거시경제에 심각한 악영향”",
@@ -323,7 +378,7 @@
             "content": "노벨 경제학상 수상자인 조셉 스티글리츠 컬럼비아대 교수가 최근 전 세계를 휩쓸고 있는 생성형 AI 투자 열풍을 '전형적인 거품'이라고 규정하며 강력한 경고 메시지를 던졌습니다. 그는 현재 AI 기술에 대한 기대감이 실제 생산성 향상 속도보다 과도하게 앞서 나가고 있다고 분석했습니다.\n\n스티글리츠 교수는 과거 '닷컴 버블' 사례를 언급하며, 기술적 혁신이 존재하더라도 과도한 투기적 자본이 몰릴 경우 결국 거품은 붕괴될 수밖에 없음을 강조했습니다. 특히 거품이 꺼지는 과정에서 금융 시장의 혼란뿐만 아니라 고용 시장과 소비 위축 등 거시경제 전반에 심각한 악영향을 미칠 수 있다고 설명했습니다.\n\n물론 AI 기술이 장기적으로 인류의 삶을 바꿀 잠재력이 있다는 점은 인정하면서도, 현재의 주가 산정 방식이나 투자 규모는 합리적인 수준을 벗어났다는 것이 그의 시각입니다. 그는 투자자들이 기술의 환상에 매몰되기보다 실제 수익 창출 구조와 경제적 실질 가치를 냉정하게 따져봐야 한다고 조언했습니다.",
             "image_prompt": "Digital bubble popping, artificial intelligence chip, binary code, financial crisis representation",
             "published_at": "2026-03-10 10:49:23",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "與 중동사태 경제대응TF 첫 회의…한정애 \"물가 조속히 대응\"",
@@ -334,7 +389,7 @@
             "content": "정부와 여당이 중동발 지정학적 리스크에 선제적으로 대응하기 위해 '중동사태 경제대응 TF'를 구성하고 첫 회의를 개최했습니다. 이번 TF는 유가 상승이 국내 장바구니 물가에 미치는 영향을 차단하고 에너지 수급 안정을 도모하는 데 초점을 맞추고 있습니다.\n\n한정애 TF 위원장을 비롯한 참석자들은 유가 상승분이 국내 석유류 가격에 과도하게 반영되지 않도록 현장 점검을 강화하기로 했습니다. 또한, 필요시 유류세 인하 폭 조정이나 에너지 바우처 확대 등 서민 부담을 경감할 수 있는 실질적인 지원책을 조속히 마련할 방침입니다.\n\n야권 역시 별도의 TF를 통해 물가 감시 체계를 가동하는 등 정치권 전체가 민생 경제 보호를 최우선 과제로 삼고 있습니다. 이는 대외 변수가 대내 경제의 뇌관이 되지 않도록 여야가 긴밀히 움직이고 있음을 보여주며, 향후 추경 편성이나 예비비 집행 등 재정적 지원 가능성도 열려 있는 상태입니다.",
             "image_prompt": "Government meeting hall, economic officials, professional discussion, South Korea flags",
             "published_at": "2026-03-10 10:49:23",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "예비비 8,000억으로 정유사 손실보전... 전쟁 장기화되면 재정 '펑크' 우려",
@@ -345,7 +400,7 @@
             "content": "정부가 고유가 상황을 방어하기 위해 약 8,000억 원 규모의 예비비를 투입하여 정유사들의 손실을 보전하고 유가 안정을 꾀하려 한다는 소식이 전해졌습니다. 이는 민생 물가 안정을 위한 고육지책이지만, 동시에 국가 재정의 건전성에 대한 우려를 낳고 있습니다.\n\n전쟁이 장기화되어 유가가 지속적으로 고공행진을 할 경우, 일시적인 예비비 투입만으로는 한계가 명확하기 때문입니다. 추가적인 재정 투입이 불가피해질 경우 올해 정부가 세운 재정 계획에 '구멍'이 날 수 있으며, 이는 국채 발행 부담이나 타 분야 예산 삭감으로 이어질 가능성이 있습니다.\n\n기획재정부 등 관계 부처는 현재 상황을 면밀히 모니터링하며 재정 집행의 효율성을 극대화하겠다는 입장입니다. 하지만 유가 등 대외 변수는 정부의 통제 범위를 벗어난 경우가 많아, 보다 유연하고 입체적인 재정 운용 전략이 요구되는 시점입니다.",
             "image_prompt": "Government budget document, golden coins, oil refinery background, financial stress",
             "published_at": "2026-03-10 10:49:23",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "부자들은 연회비 100만원 쓸 때…\"세금 환급만 기다려요\" - 한국경제",
@@ -355,7 +410,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-03-09 22:01:59",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[정부 주요 일정] 경제·사회부처 주간 일정 (3월 9일 ~ 3월 13일) - 이투데이",
@@ -365,7 +420,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-03-09 22:01:59",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "유가 급등에 경제 빨간불…정부·국회·경기도 대응 총력 - v.daum.net",
@@ -375,7 +430,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-03-09 22:01:59",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동상황 관련 비상경제점검 회의 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
@@ -385,7 +440,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-03-09 22:01:59",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李대통령, 중동상황 비상경제회의…유가·환율·증시 대책 논의 - 연합뉴스",
@@ -395,7 +450,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-03-09 22:01:59",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "유가 100달러 돌파 세계 경제 흔들…\"빅테크가 안전자산\"",
@@ -406,7 +461,7 @@
             "content": "중동 지역의 긴장 고조로 인해 국제 유가가 배럴당 100달러를 돌파할 가능성이 커지면서 글로벌 경제 전반에 먹구름이 끼고 있습니다. 유가 상승은 에너지 비용 증가를 초래하여 인플레이션을 자극하고, 이는 다시 금리 인하 시점을 늦추는 악순환을 만들 수 있다는 우려가 확산되고 있습니다.\n\n이러한 불확실성 속에서 투자자들의 자금 흐름에 변화가 감지되고 있습니다. 과거에는 금이나 달러가 독보적인 안전자산으로 꼽혔으나, 최근 시장은 막대한 현금 동원력과 시장 지배력을 갖춘 대형 IT 기업, 즉 '빅테크'를 새로운 피난처로 인식하는 경향이 뚜렷해지고 있습니다.\n\n전문가들은 유가 급등이 실물 경제에는 타격을 주지만, 클라우드와 AI 등 플랫폼 기반의 수익 구조를 가진 빅테크 기업들은 상대적으로 에너지 비용의 직접적인 영향에서 자유롭다고 분석합니다. 이에 따라 변동성이 큰 장세에서 기술주로의 쏠림 현상은 당분간 지속될 전망입니다.",
             "image_prompt": "Crude oil barrel, $100 mark, Big Tech logos, golden shield, global stock market chart",
             "published_at": "2026-03-09 18:47:10",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘노벨상’ 스티글리츠 “AI 투자 열풍은 ‘거품’···붕괴 땐 거시경제 심각한 악영향”",
@@ -417,7 +472,7 @@
             "content": "노벨 경제학상 수상자인 조지프 스티글리츠 컬럼비아대 교수가 최근 전 세계를 휩쓸고 있는 인공지능(AI) 투자 열풍에 대해 강력한 경고 메시지를 던졌습니다. 그는 현재의 상황을 과거 '닷컴 버블'과 유사한 수준의 거품으로 진단하며, 시장의 과도한 낙관론을 경계해야 한다고 주장했습니다.\n\n스티글리츠 교수는 AI가 혁신적인 기술임은 분명하지만, 현재 형성된 자산 가치는 실제 기술이 창출하는 생산성 향상 속도에 비해 지나치게 앞서 나가고 있다고 지적했습니다. 만약 이 거품이 일시에 붕괴될 경우, 금융 시스템 전반에 충격을 주어 거시경제에 심각한 타격을 입힐 수 있다는 분석입니다.\n\n특히 그는 AI 기술이 가져올 고용 시장의 변화와 소득 불평등 심화 가능성도 함께 언급했습니다. 기술의 발전이 경제 성장을 이끌기보다는 부의 집중을 가속화할 수 있다는 점을 우려하며, 정부 차원의 적절한 규제와 안전장치 마련이 시급하다고 강조했습니다.",
             "image_prompt": "AI brain bubble popping, financial graph crashing, Nobel laureate portrait, futuristic tech background",
             "published_at": "2026-03-09 18:47:10",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "신용·미수에 마통까지 끌어모은 개미들 … 강제청산 '공포'에 韓 경제 뇌관 부상",
@@ -428,7 +483,7 @@
             "content": "최근 국내 주식 시장의 변동성이 확대되면서 이른바 '빚투(빚내서 투자)'에 나섰던 개인 투자자들의 시름이 깊어지고 있습니다. 신용융자와 미수거래는 물론 마이너스 통장까지 동원해 주식을 매수한 투자자들이 주가 하락 시 담보 비율을 유지하지 못해 발생하는 '강제청산'의 공포에 직면해 있습니다.\n\n증권업계에 따르면 반대매매 물량이 쏟아질 경우 주가를 추가로 하락시키는 하방 압력으로 작용하여 시장 전체의 투매를 유도하는 악순환이 발생할 수 있습니다. 이는 개인의 자산 손실을 넘어 가계 부채 문제와 맞물리며 한국 경제의 잠재적 '뇌관'으로 떠오르고 있습니다.\n\n금융 당국은 시장 모니터링을 강화하고 있으나, 레버리지를 활용한 투자가 워낙 광범위하게 퍼져 있어 대응이 쉽지 않은 상황입니다. 투자 전문가들은 변동성 장세에서는 무엇보다 리스크 관리가 최우선이며, 감당 가능한 범위 내에서의 투자가 절실하다고 조언하고 있습니다.",
             "image_prompt": "Red stock chart, magnifying glass on debt, worried investor silhouette, breaking chain",
             "published_at": "2026-03-09 18:47:10",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李 대통령 \"최악 상황 염두…석유 최고가격제 과감히 시행\"",
@@ -439,7 +494,7 @@
             "content": "정부는 중동 정세불안에 따른 유가 급등 사태를 국가 경제의 비상 상황으로 규정하고, 가용한 모든 정책 수단을 동원하기로 했습니다. 특히 유가 상승 폭이 시장의 자율적 통제 범위를 벗어날 경우를 대비해 '석유 최고가격제' 시행이라는 파격적인 카드까지 검토 중인 것으로 알려졌습니다.\n\n대통령 주재 비상경제회의에서 논의된 이번 대책은 고유가가 물가에 미치는 영향을 최소화하고 서민 경제의 부담을 덜어주기 위한 선제적 조치입니다. 정부는 석유 수급 상황을 실시간으로 점검하며, 필요시 유류세 추가 인하와 더불어 가격 상한선을 직접 규제하는 방안을 과감히 실행하겠다는 의지를 밝혔습니다.\n\n하지만 일각에서는 가격 통제가 시장 왜곡을 초래하거나 공급 부족 사태를 심화시킬 수 있다는 우려도 제기됩니다. 정부는 이러한 부작용을 최소화하면서도 민생 안정을 도모할 수 있는 정교한 시행령을 마련하는 데 집중할 계획입니다.",
             "image_prompt": "Blue House briefing room, gasoline pump nozzle, price control lock, national emergency",
             "published_at": "2026-03-09 18:47:10",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "전남도·경북도 등 지자체, '중동사태' 비상경제 대책 TF 가동",
@@ -450,7 +505,7 @@
             "content": "중동 정세 불안이 장기화 조짐을 보임에 따라 전라남도와 경상북도 등 주요 지방자치단체들이 지역 경제 타격을 최소화하기 위한 비상 체제에 돌입했습니다. 각 지자체는 부단체장을 단장으로 하는 '비상경제 대책 TF'를 구성하고 산업 전반에 걸친 모니터링을 강화하고 있습니다.\n\n지자체들은 특히 유가 상승에 민감한 농어업 분야와 운송업계를 대상으로 한 지원 대책 마련에 분주합니다. 면세유 지원 확대나 물류비 보조 등 실질적인 도움을 줄 수 있는 방안들이 우선적으로 검토되고 있으며, 지역 내 중소 수출 기업들의 원자재 수급 상황도 집중 점검 대상입니다.\n\n또한, 지역 물가 안정을 위해 합동 점검반을 편성하고 개인 서비스 요금의 과도한 인상을 억제하는 캠페인도 병행합니다. 지방 정부는 중앙 정부와의 긴밀한 협조 체계를 유지하면서, 지역별 특성에 맞는 맞춤형 위기 대응 매뉴얼을 실행해 나갈 방침입니다.",
             "image_prompt": "Local government office, collaboration meeting, map of Korea, industry support icons",
             "published_at": "2026-03-09 18:47:10",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'스태그플레이션' 경고등…\"이란전, 美 경제 주저앉힐 수도\"",
@@ -461,7 +516,7 @@
             "content": "중동에서의 군사적 갈등이 전면전으로 치달을 경우, 미국 경제는 물론 전 세계 경제가 심각한 침체에 빠질 수 있다는 경고가 나왔습니다. 특히 이란과의 충돌은 호르무즈 해협 봉쇄 등 에너지 공급로 차단으로 이어져 국제 유가를 통제 불능 상태로 만들 가능성이 큽니다.\n\n미국 경제는 현재 인플레이션을 잡기 위한 고금리 정책을 유지하고 있는 상황에서, 에너지 가격 폭등이라는 추가 악재를 만나게 되면 소비 위축과 생산 중단이라는 이중고에 직면하게 됩니다. 이는 단순한 경기 둔화가 아닌, 1970년대식 장기 스태그플레이션의 재림이 될 수 있다는 우려를 낳고 있습니다.\n\n금융 시장의 전문가들은 안전 자산으로의 자금 쏠림 현상이 가속화될 것으로 보고 있습니다. 주식과 같은 위험 자산에서 자금이 이탈하여 달러나 금, 혹은 최근 '디지털 금'으로 불리는 일부 대형 기술주로 자산이 이동하는 양상이 뚜렷해지고 있습니다.\n\n결국 글로벌 공급망의 취약성과 에너지 안보의 중요성이 다시 한번 부각되고 있습니다. 세계 경제의 불확실성이 그 어느 때보다 높은 상황에서, 각국 중앙은행들의 통화 정책 기조 또한 한층 복잡한 계산을 요구받게 되었습니다.",
             "image_prompt": "World economy gears grinding, Middle East fire, US Dollar symbol, factory silhouette with smoke, oil waves",
             "published_at": "2026-03-09 15:59:19",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'나홀로 7% 뛰었다'…코스피 폭락 와중에 급등한 '이 종목'",
@@ -472,7 +527,7 @@
             "content": "코스피 지수가 대외 악재로 인해 크게 휘청이는 가운데, 시장 전체의 흐름과는 정반대로 급등세를 보이는 종목들이 나타나고 있습니다. 주로 에너지 관련주나 지정학적 위기 수혜주들이 거래량을 동반하며 강한 상승 동력을 보여주고 있습니다.\n\n특히 정유주와 천연가스 관련 업체들은 유가 급등에 따른 마진 개선 기대감으로 투자자들의 매수세가 집중되었습니다. 시장이 전반적으로 위축될 때마다 반복되는 이른바 '테마성 순환매' 현상이지만, 이번에는 실질적인 에너지 가격 상승이 뒷받침되고 있다는 점에서 변동성이 더욱 크게 나타나고 있습니다.\n\n한편, 전문가들은 이러한 종목별 차별화 장세 속에서 섣부른 추격 매수에 주의해야 한다고 조언합니다. 대외 변수에 따라 하루아침에 급락세로 돌아설 수 있는 만큼, 펀더멘털을 고려하지 않은 투기성 자금 유입은 개인 투자자들에게 큰 손실을 입힐 수 있다는 지적입니다.\n\n또한 최근 다시 늘어나고 있는 '빚투(신용거래융자)'에 대해서도 경고의 목소리가 높습니다. 변동성이 극대화된 국면에서 레버리지를 활용한 투자는 강제 청산 위험을 높여 시장 전체의 하락 압력을 가중시키는 요인이 될 수 있기 때문입니다.",
             "image_prompt": "Stock market ticker, one glowing green line up, falling red background, digital stock numbers, dynamic financial chart",
             "published_at": "2026-03-09 15:59:19",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국회수소경제포럼, 대한민국 수소경제 민간투자 지속·확대 정책토론회 개최",
@@ -483,7 +538,7 @@
             "content": "국제 유가 불안이 가중되면서 화석 연료를 대체할 수 있는 수소 경제로의 전환이 더욱 시급한 과제로 떠오르고 있습니다. 국회와 산업계는 수소 경제에 대한 민간 투자를 유도하고 관련 산업 생태계를 확장하기 위한 정책적 돌파구 마련에 나섰습니다.\n\n이번 토론회에서는 수소 생산부터 저장, 운송, 활용에 이르는 밸류체인 전반에 걸친 규제 혁신과 세제 혜택 방안이 중점적으로 논의되었습니다. 특히 대규모 인프라 구축에 필요한 초기 자본 부담을 줄여주기 위한 정부의 적극적인 금융 지원책이 필요하다는 목소리가 컸습니다.\n\n수소는 에너지 자립도를 높이고 탄소 중립을 실현할 수 있는 핵심 수단으로 평가받습니다. 최근의 중동 위기는 특정 에너지원에 대한 의존도를 낮추는 것이 국가 안보와 직결된다는 사실을 다시금 일깨워주었으며, 이는 수소 경제 활성화의 당위성을 강화하는 계기가 되고 있습니다.\n\n앞으로 정부와 국회는 민간의 창의성과 투자가 수소 산업으로 원활하게 흘러 들어갈 수 있도록 법적 기반을 공고히 하고, 글로벌 수소 시장에서의 주도권을 확보하기 위한 범국가적 전략을 추진할 계획입니다.",
             "image_prompt": "Futuristic hydrogen station, blue glowing pipes, clean energy concept, green city background, high-tech industrial facility",
             "published_at": "2026-03-09 15:59:19",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李 대통령, “석유제품 최고가격제 도입”…중동 위기 경제 대응 주문",
@@ -494,7 +549,7 @@
             "content": "이명박 대통령은 최근 긴급 비상경제대책회의를 주재하고 중동 지역의 긴장 고조에 따른 국내 경제 파급 효과를 최소화하기 위한 전방위적 대응을 지시했습니다. 특히 국민 생활과 직결된 기름값 안정을 위해 필요할 경우 '석유제품 최고가격제'를 도입하는 방안을 검토하라고 주문하며 강력한 물가 안정 의지를 표명했습니다.\n\n정부는 중동 사태가 실물 경제로 전이되는 것을 막기 위해 유가뿐만 아니라 환율과 증시 등 금융 시장 전반에 대한 모니터링을 강화하기로 했습니다. 이번 조치는 고유가가 지속될 경우 산업계 전반의 비용 부담이 감내할 수 없는 수준에 이를 수 있다는 위기감에서 비롯된 것으로 분석됩니다.\n\n또한 대통령은 민간 부문의 에너지 절약 참여를 독려하는 한편, 수급 차질이 발생하지 않도록 원유 비축 물량 관리 및 대체 수입선 확보에도 만전을 기할 것을 당부했습니다. 정부는 이번 사태를 국가적인 비상상황으로 간주하고 부처 간 협력을 통해 시나리오별 대응 방안을 즉각 시행할 방침입니다.",
             "image_prompt": "Presidential emergency meeting, government policy, oil price cap, economic control, professional atmosphere",
             "published_at": "2026-03-09 13:50:01",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "정청래, 경제 상황 엄중.. \"환율 안정 3법 19일 본회의 통과 목표\"",
@@ -505,7 +560,7 @@
             "content": "국회 법사위 소속 정청래 의원은 현재의 경제 상황을 매우 엄중하게 인식하고 있으며, 외환 시장의 투기적 요소를 차단하고 원화 가치를 방어하기 위한 법안 처리에 집중하겠다고 밝혔습니다. 이번 '환율 안정 3법'은 외환 보유고의 효율적 운용과 시장 모니터링 강화, 그리고 비상시 시장 개입의 법적 근거를 명확히 하는 내용을 담고 있습니다.\n\n최근 환율이 급격히 상승하면서 수입 물가 부담이 커지고 외국인 자본 유출 우려가 제기되자, 입법을 통해 시장에 안정 시그널을 주겠다는 의도로 풀이됩니다. 정 의원은 오는 19일 본회의 통과를 목표로 야당과의 협의를 마칠 계획입니다.\n\n정치권이 경제 현안에 대해 신속하게 대응하는 것은 시장의 불안 심리를 잠재우는 데 기여할 것으로 보입니다. 다만, 전문가들은 법안 통과뿐만 아니라 실질적인 외환 수급 대책과 거시 경제 지표 관리도 병행되어야만 환율 안정의 실효성을 거둘 수 있다고 지적합니다.",
             "image_prompt": "National Assembly building, currency exchange symbols, stability, legal document, formal style",
             "published_at": "2026-03-09 13:50:01",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "원·달러 환율 1500원 돌파 위기…한국은행 “시장 안정 조치” 경고",
@@ -516,7 +571,7 @@
             "content": "최근 외환시장에서 원·달러 환율이 급격한 오름세를 보이며 심리적 저항선인 1500원 돌파를 코앞에 두고 있습니다. 오늘 환율은 전일 대비 16.6원 급등한 1493원에 거래를 시작하며 시장에 충격을 안겼습니다. 이는 글로벌 달러 강세와 더불어 중동 지역의 지정학적 리스크가 고조됨에 따라 안전자산 선호 심리가 극대화된 결과로 풀이됩니다.\n\n이에 대해 한국은행은 현재의 금리와 환율 움직임이 우리 경제의 기초 체력인 '펀더멘털'과 괴리되어 있다고 판단하고 있습니다. 한은 관계자는 시장의 변동성이 과도하다고 판단될 경우 적절한 시장 안정화 조치를 취할 것이라며 강한 구두 개입 메시지를 전달했습니다. 투기적 수요를 억제하고 환율 안정을 도모하겠다는 의지로 보입니다.\n\n정치권에서도 환율 안정을 위한 법적 장치 마련에 속도를 내고 있습니다. 정청래 의원은 고환율과 고유가가 겹친 엄중한 경제 상황을 타개하기 위해 '환율안정 3법'을 조속히 처리해야 한다고 강조했습니다. 외환 시장의 불안이 수입 물가 상승으로 이어져 국내 서민 경제에 타격을 주는 것을 막기 위한 입법적 대응이 가시화될 전망입니다.\n\n전문가들은 환율 1500원 시대가 현실화될 경우 제조업의 원가 부담 가중과 자본 유출 가속화 등 심각한 경제 위기가 도래할 수 있다고 경고합니다. 당분간 미국 연준의 금리 정책과 중동의 전쟁 상황에 따라 환율 변동성이 지속될 것으로 보이는 만큼, 기업과 가계의 철저한 리스크 관리가 요구되는 시점입니다.",
             "image_prompt": "Currency exchange, 1500 Won bill, Financial stress, Red arrow down, Stock market ticker",
             "published_at": "2026-03-09 10:56:17",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 리스크에 '비상경제회의' 소집…고유가·고환율 대책 논의",
@@ -527,59 +582,6 @@
             "content": "이란과 이스라엘 간의 긴장이 고조되면서 국제 유가가 요동치자 정부가 긴급 대응 체제에 돌입했습니다. 대통령 주재로 열린 비상경제회의에서는 중동 사태가 국내 경제에 미칠 파급 효과를 면밀히 점검하고, 증시 안정과 환율 및 물가 관리 대책을 집중적으로 논의했습니다. 특히 에너지 수급 불균형에 따른 국내 유가 상승 압박이 가장 큰 현안으로 다뤄졌습니다.\n\n현재 국내 휘발유 및 경유 가격은 국제 유가 상승분을 반영하며 가파른 오름세를 보이고 있습니다. 특히 일부 지역에서는 경유 가격이 휘발유 가격을 역전하는 기현상까지 나타나며 물류 비용 증가에 따른 전반적인 물가 상승 우려가 커지고 있습니다. 정부는 유류세 인하 폭 조정이나 에너지 수급 다변화 등 가능한 모든 정책 수단을 검토하고 있습니다.\n\n또한, 중동 불안은 국내 금융시장에도 직격탄을 날리고 있습니다. 외국인 투자자들이 안전자산으로 이탈하면서 증시가 위축되고 원화 가치가 하락하는 복합 위기 상황입니다. 회의에서는 시장 모니터링 강도를 높이고, 필요시 증시 안정 펀드 가동 등 비상 계획(Contingency Plan)을 단계별로 시행하기로 의견을 모았습니다.\n\n정부 관계자는 \"중동 상황은 대외 의존도가 높은 한국 경제에 가장 치명적인 변수 중 하나\"라며, 국민 생활과 직결된 물가와 에너지를 최우선으로 보호하겠다는 방침을 밝혔습니다. 지정학적 리스크가 장기화될 가능성에 대비해 민관 합동 비상 대응 팀을 상설 운영하는 방안도 검토 중입니다.",
             "image_prompt": "Oil refinery, Middle East conflict, Emergency meeting, Burning flame, Global economy crisis",
             "published_at": "2026-03-09 10:56:17",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "트럼프의 귀환과 경제 '딜'…쿠바 압박 및 중국의 선택",
-            "source": "마켓인/글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKMjhfTXRuc2tIZFhWcHB1TjNwZnhDTkJ1MWhLSGRPTy10SC1Od0p1R0VxajFkYXFOdkZsSVVpWVJpUWVVNHYwUHgwaU1NZzY3SFJfdExJcE1VOFBkeklKMTFpS3VRQVJKZU41UEVNRU16YnM?oc=5",
-            "category": "시장",
-            "summary": "트럼프 전 대통령이 쿠바와 경제 협상을 추진하는 가운데, 중국은 미국과의 경제 안정을 위해 이란과의 거리두기를 고민하고 있습니다.",
-            "content": "도널드 트럼프 전 대통령의 대외 정책 기조가 다시금 글로벌 경제의 핵심 변수로 부상하고 있습니다. 트럼프 측은 과거의 군사적 압박 대신 실리 중심의 '경제 딜'을 통해 쿠바와의 관계를 재설정하려는 움직임을 보이고 있습니다. 이는 경제적 제재와 협상을 병행하여 미국 중심의 경제 질서를 공고히 하려는 전략으로 분석됩니다.\n\n이러한 트럼프의 행보는 중국 시진핑 국가주석에게도 커다란 선택의 기로를 제시하고 있습니다. 트럼프의 방중을 앞두고 중국은 오랜 우방인 이란과의 밀착 관계를 유지할지, 아니면 미국과의 경제적 안정을 위해 일정한 거리를 둘지 고심하고 있습니다. 전문가들은 중국이 자국 경제의 연착륙을 위해 미국과의 무역 갈등을 완화하는 방향으로 선회할 가능성이 높다고 보고 있습니다.\n\n미국과 중국의 이러한 전략적 움직임은 글로벌 공급망에도 큰 영향을 미칠 전망입니다. 특히 반도체와 핵심 광물을 둘러싼 패권 다툼 속에서 각국이 자국 이익을 극대화하기 위한 합종연횡을 지속하고 있습니다. 한국 경제 역시 이러한 미·중 관계의 변화에 따라 수출 전략을 재점검해야 하는 과제를 안게 되었습니다.\n\n결국 '트럼프 리스크'와 '트럼프 찬스'가 공존하는 국면에서 우리 정부와 기업들은 기민한 외교·경제 전략이 필요합니다. 미국의 자국 우선주의 정책이 강화될수록 대미 수출 비중이 높은 우리 기업들은 관세 및 비관세 장벽에 대비한 선제적 대응책 마련에 박차를 가해야 할 것입니다.",
-            "image_prompt": "Donald Trump, Xi Jinping, International trade, Strategic handshake, World map background",
-            "published_at": "2026-03-09 10:56:17",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "고환율·고유가 시대의 직격탄…한국 경제 '골병' 든다",
-            "source": "스트레이트뉴스",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1md0lOdjMxdkxjbGVna3VnZ2ZqNnEyNzR6ZnM1SVo1VGdtNlFCcm1mMEZjWkI4a0JKR3FGMmxTaDBuRENwR1JTMVZSaWtMVlByYWZqSF9pOUdtTjcwQW4xLURRZTJUY2dXWnV0clo5cVY4MUHSAXdBVV95cUxNbnlGZzRhejBDNmRMcDVGeVhaUHYwaVRtM05JbUNnUF8tRlBSUlR6UE5BOGdQMG04WWdPbmRvSktzdU43bHhkQXJyR2pNZFdjOHpXeXBZdE5HN1lrVjBMNk9zbnNSLTFaZnhWYW80SEtvVFJIdUZTQQ?oc=5",
-            "category": "금융",
-            "summary": "고환율과 고유가가 지속되면서 국내 제조업과 자영업자들이 한계 상황에 내몰리고 있습니다.",
-            "content": "한국 경제가 고환율, 고유가, 고금리라는 '3고(高)' 현상의 늪에 빠져 깊은 신음 소리를 내고 있습니다. 원자재 가격 상승과 수입 단가 급등은 기업들의 수익성을 극도로 악화시키고 있으며, 이는 곧 가계의 가처분 소득 감소와 소비 위축으로 이어지는 악순환을 만들고 있습니다. 특히 에너지 소비가 많은 제조업 분야의 타격이 가장 심각한 수준입니다.\n\n실물 경제의 지표인 전통 시장과 골목 상권에서도 위기감은 고조되고 있습니다. 물가 상승으로 인해 소비자들의 지갑은 닫혔고, 원가 상승분을 가격에 반영하지 못한 소상공인들은 폐업 위기에 직면해 있습니다. 정부의 각종 지원책에도 불구하고 기초 체력이 약해진 지역 경제는 회복의 기미를 보이지 않고 있어 '골병이 들었다'는 표현이 나올 정도입니다.\n\n반면, 자산가들은 연회비 100만 원 이상의 프리미엄 카드를 사용하며 소비를 지속하는 등 경제적 양극화 현상도 심화되고 있습니다. 일반 서민들이 세금 환급 한 푼에 목을 매는 사이, 부유층의 소비 패턴은 경기 불황의 영향을 비껴가고 있어 사회적 박탈감마저 커지는 상황입니다.\n\n경제 전문가들은 현재의 위기가 단순한 경기 순환의 문제가 아닌, 구조적인 침체로 이어질 수 있다고 우려합니다. 내수 진작을 위한 획기적인 정책 전환과 함께, 고물가 상황에서 서민들의 생계를 보호할 수 있는 정교한 사회안전망 확충이 시급하다는 지적이 나옵니다.",
-            "image_prompt": "Korean market, Inflation, Economic struggle, High prices, Empty wallet",
-            "published_at": "2026-03-09 10:56:17",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "주간 경제 전망: TSMC 매출 발표와 삼성전자·하이닉스의 향방",
-            "source": "Investing.com 한국어",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtbTRyZHRUT3BsVURUaFdpUW5SZVlaT09td00xN1hhTkRrYWpUMzBwWnJKd29jeXNreVhRM0VaQV8zU0VpLUdoeURoeXlCbEJEdXU4MEFwSDJ5UXp4NU9SNHRLNm9zMl96UjR3T1RMZ0U?oc=5",
-            "category": "테크",
-            "summary": "글로벌 반도체 대장주 TSMC의 실적 발표를 앞두고 삼성전자와 SK하이닉스 등 국내 반도체주의 동반 강세 여부가 주목됩니다.",
-            "content": "이번 주 금융시장의 눈은 글로벌 반도체 위탁생산(파운드리) 1위 기업인 대만 TSMC의 2월 매출 발표에 쏠려 있습니다. AI(인공지능) 열풍으로 인해 고성능 반도체 수요가 폭증하는 가운데, TSMC의 실적은 전 세계 반도체 업황을 가늠할 수 있는 바로미터가 될 전망입니다. 만약 TSMC가 시장의 기대를 상회하는 실적을 내놓는다면, 국내 반도체 거물인 삼성전자와 SK하이닉스에도 강력한 호재로 작용할 가능성이 큽니다.\n\n삼성전자와 SK하이닉스는 최근 HBM(고대역폭 메모리) 기술력을 바탕으로 시장 점유율 확대를 꾀하고 있습니다. 글로벌 빅테크 기업들의 AI 서버 투자 확대가 지속되면서, 메모리 반도체 가격 역시 바닥을 찍고 반등하는 추세입니다. 이번 주 TSMC의 실적 결과에 따라 국내 반도체 대장주들이 증시 전체를 견인할 수 있을지가 관전 포인트입니다.\n\n다만, 고환율 상황은 반도체 업계에 양날의 검으로 작용하고 있습니다. 수출 대금 결제 시 환차익을 기대할 수 있다는 장점이 있는 반면, 원자재 수입 비용 상승과 해외 생산 시설 운영비 증가는 부담이 될 수 있기 때문입니다. 기술적 우위를 지키기 위한 대규모 시설 투자와 연구개발(R&D) 비용 관리도 중요한 변수입니다.\n\n시장 관계자들은 반도체 업황의 회복세가 뚜렷하지만, 지정학적 리스크로 인한 공급망 불안이 여전히 상존한다고 분석합니다. 투자자들은 TSMC의 실적 수치뿐만 아니라 향후 가이던스(전망치)에 담긴 업황 시그널을 면밀히 분석하여 투자 전략을 세워야 할 것입니다.",
-            "image_prompt": "Semiconductor chip, TSMC logo, High-tech factory, Stock chart, Blue neon light",
-            "published_at": "2026-03-09 10:56:17",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "日 아카자와 경제산업상, 미국에 “일본은 관세 10%로 유지” 요구 - 조선일보",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGVIdUg0NkMyNVI3OW5xeGp2cUlRV2p4QU5BS2FONEdqeXZLWG0tdkpoM0p3UGwzNzJTLTlua0w5eDRiQU5NdTFEaFpjT0ZOZGt2UVFsZHh5TktISFA3TG01WF9KMm53eE5Ud2Zja0NwYUNoRWhyVm50VkF1TXFqbEFhLVM5RXFweGJBelNiRlBQYVNnZjRrZFBSVzlpd9IBsgFBVV95cUxOaU5GZjByUGpzWWxwUmV3MmxJMU5qMFFuLWdCcTdUallSMFpuYjNnVTZmR2tuUm80X0E1Qzl5aXJlTXVmY1VsS3FZQkNNV0MtX1EwbmRqdTdrek9YWldZQTdzMUJkazZVaDlfbjdmaVpISF9VQlJXUWx2bmt4YUgxS1BEYnA2cE1STHV6bDFaUW90dFlRdHRCb3lWNzQwdWNhS0NoTk5WVVExX29TZlIzMnZR?oc=5",
-            "source": "조선일보",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-03-08 21:43:06",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "30년 만의 기름값 통제 카드…\"3만원만 넣고 버티자\" 눈치싸움 시작된 주유소[르포] - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OTWRUdlZ0MXQzb1lwTEg2cFB0bFNQN1l3WWhfTFJzQXJEWnI2X2JEMGpBakx3bzAtYVQzS29IMjgzcE54UUJNY2Focmh6RDQ?oc=5",
-            "source": "v.daum.net",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-03-08 21:43:06",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
