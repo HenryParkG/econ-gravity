@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-23 19:00:27",
-    "briefing": "중동 전쟁 장기화 우려로 인해 환율이 1,500원을 돌파하고 국가 부도 위험 지표인 CDS 프리미엄이 급등하는 등 경제 비상 상황이 고조되고 있습니다. 이에 정부는 한국은행 총재 후보자를 지명하고 비상 경제 TF를 가동하는 등 시장 안정화와 미래 성장 동력인 AI 산업 육성을 위한 총력전에 나섰습니다.",
+    "last_updated": "2026-03-23 22:01:59",
+    "briefing": "중동 분쟁 장기화 우려로 인한 고환율(1,517원)과 증시 변동성 확대가 국내 실물 경제에 상당한 압박을 가하고 있습니다. 이에 정부는 비상경제대응본부를 가동하여 에너지 및 수출입 상황을 실시간 점검하며 위기 관리에 총력을 기울이는 모습입니다.",
     "indices": [
         {
             "name": "KOSPI",
@@ -18,10 +18,10 @@
         },
         {
             "name": "USD/KRW",
-            "value": "1,514.29",
-            "change": "▲ 1.64%",
-            "is_up": true,
-            "is_down": false
+            "value": "1,487.55",
+            "change": "▼ 0.15%",
+            "is_up": false,
+            "is_down": true
         },
         {
             "name": "NASDAQ",
@@ -40,6 +40,61 @@
     ],
     "items": [
         {
+            "title": "환율 1517원 돌파… 17년 만에 최고치 기록하며 실물 경제 비상",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81NWJqT1pLVG5KSjNZQS14aldHRU00UVRUZm10d0d2U1I3Wm41T2VRdUZ4bjhtM1lJckpOX1phaWNVYmZjSnpFTC1VcUhsekFLek50N0hZRkViQdIBVEFVX3lxTE00eXJid3NxMmotZ1pYQ3lYRkIyaEdSdlpPSzN6bGVTY0V6d3g0c0ppSWZwUEtlcFV0cTJUd2Rfek9TSlkyZHFra3hSU2lEQjRXbmVMbw?oc=5",
+            "category": "금융",
+            "summary": "원·달러 환율이 1,517원을 돌파하며 금융위기 이후 최고치를 기록, 경제 전반에 긴장감이 고조되고 있습니다.",
+            "content": "원·달러 환율이 심리적 마지노선을 넘어 1,517원선까지 치솟으며 17년 만에 최고치를 경신했습니다. 이는 글로벌 금융위기 당시와 맞먹는 수준으로, 중동 지역의 지정학적 리스크 심화와 미국 달러화의 강세가 맞물린 결과로 풀이됩니다. 환율 급등은 수입 물가 상승을 유발하여 국내 인플레이션 압력을 다시 높이는 직접적인 원인이 되고 있습니다.\n\n외환 시장 전문가들은 당분간 환율 변동성이 극심할 것으로 내다보고 있습니다. 특히 에너지 수입 의존도가 높은 한국 경제 구조상, 고환율은 무역 수지 악화와 기업들의 생산 비용 증대로 이어질 가능성이 큽니다. 이는 결국 소비자 물가 상승으로 전이되어 가계의 실질 소득을 감소시키는 악순환을 초래할 수 있습니다.\n\n정부와 외환 당국은 시장 상황을 예의주시하며 미세조정(Smoothing Operation) 가능성을 시사하고 있습니다. 그러나 글로벌 거시경제 환경이 불투명한 상황에서 단순한 시장 개입만으로는 환율을 방어하기에 한계가 있다는 지적도 나옵니다. 자본 유출 우려에 대한 선제적인 리스크 관리와 더불어 외환 보유고의 효율적 운용이 그 어느 때보다 절실한 시점입니다.",
+            "image_prompt": "Currency exchange, 1517 Won, economic crisis, rising graph, red arrows, dramatic lighting",
+            "published_at": "2026-03-23 22:01:59",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "정부, 중동 전쟁 여파에 '비상경제대응본부' 전격 가동",
+            "source": "MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Rm93WUVFT2gybTh5bDFkOGxETGJxOFJsZ05ydzVRYWh5RW9HV1ViOHNqNlJrVHA4RGFJZnRXRXcwZzd3YTktSlhhOHlKbFFPSDI2ZnV3bUFPMzBOcFdjSFhzVHRGaFpQQ1QycnFsQmxtRmNVSGN1VtIBeEFVX3lxTE1yZVYyUFg0SEZ5bVcwNnJoOFUtWE15dU1ybllxd0JNR015czd4NkdSMVUxdU1tTTgtc3hSZHEzYjFpN1d2VmE3Z0pMUkk0azFNQW5CdmpqTU1KSWQ5NE1vdlVhVS02M2hxNG1DRS01Qjlja0o2aFhfbg?oc=5",
+            "category": "정책",
+            "summary": "중동 분쟁 장기화에 대비해 범부처 비상체계가 가동되었으며, 국무총리는 방중 일정을 취소하고 국내 상황 진두지휘에 나섰습니다.",
+            "content": "중동 지역의 전쟁이 장기화 조짐을 보임에 따라 우리 정부가 범부처 차원의 '비상경제대응본부'를 출범시켰습니다. 김부겸 국무총리는 예정되어 있던 중국 방문 일정을 전격 취소하고, 국내에서 직접 비상 경제 상황을 진두지휘하기로 결정했습니다. 이는 현재의 대외 여건이 우리 경제에 미칠 영향이 심각하다는 판단에 따른 긴급 조치입니다.\n\n새롭게 가동되는 비상경제대응본부는 에너지 수급, 수출입 물류, 금융 시장 변동성 등 3대 핵심 분야를 집중 점검할 예정입니다. 특히 호르무즈 해협의 긴장이 고조될 경우 원유 도입에 차질이 생길 수 있다는 우려에 따라 대체 수입선 확보 및 비축유 방출 검토 등 시나리오별 대응책을 마련하고 있습니다.\n\n정부는 이번 위기를 '복합적 위기'로 규정하고 민관 합동 점검 체계를 상설화하기로 했습니다. 단순히 시장 지표를 모니터링하는 수준을 넘어, 현장 기업들의 애로사항을 즉각 반영할 수 있는 소통 채널을 강화할 방침입니다. 또한, 국제 공조를 통해 글로벌 공급망 교란에 따른 충격을 최소화하는 데 주력할 것으로 보입니다.",
+            "image_prompt": "Emergency meeting room, government officials, strategic map, monitors, serious atmosphere, professional blue tones",
+            "published_at": "2026-03-23 22:01:59",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "한은 총재 후보에 신현송 BIS 국장 지명… 글로벌 감각 기대",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SOFVSQWxhOG5zS0U3VUtxZXJKT015QjFyb09jSWd5RUkyZVBqOS1DOXNEZU5DSVlIcF9COGNVUmJIVW44WnZZaEg2QnlhSFRVcE04WlY4a3M4YjDSAWBBVV95cUxNMlR0MDVhckM2M3JRaldQWjVaM3RhcnJWQldnZW4wcXFvU0lLWC1HZkNCZ3o5d0Y3SjBMSXpZc0dKbXBUdzBsbFpCZU1CS25hVnVCaDRjZGJOcVNCeWY1ODI?oc=5",
+            "category": "금융",
+            "summary": "국제결제은행(BIS)의 신현송 국장이 한국은행 총재 후보로 지명되며 통화 정책의 전문성 강화가 기대됩니다.",
+            "content": "신현송 국제결제은행(BIS) 통화경제국장이 차기 한국은행 총재 후보자로 지명되었습니다. 신 후보자는 국제 금융계에서 이론과 실무를 겸비한 세계적인 경제학자로 평가받는 인물입니다. 특히 이창용 현 총재가 직접 \"나보다 능력 있는 분\"이라고 언급할 만큼 신뢰가 두터워, 한은의 독립성과 전문성을 한층 높일 것이라는 기대감이 커지고 있습니다.\n\n현재 한국 경제는 고물가와 가계부채, 그리고 급변하는 환율 상황 속에서 매우 정교한 통화 정책을 필요로 하고 있습니다. 신 후보자가 그동안 BIS에서 쌓아온 글로벌 거시경제 흐름에 대한 통찰력이 국내 기준금리 결정 및 외환 시장 안정화 전략에 어떻게 녹아들지가 시장의 최대 관심사입니다.\n\n금융권에서는 신 후보자의 지명을 두고 한은이 글로벌 트렌드에 발맞춘 선제적인 정책 대응을 강화하겠다는 신호로 해석하고 있습니다. 향후 인사청문회를 거쳐 정식 취임하게 되면, 미 연준(Fed)의 통화 정책 기조 변화에 대응하여 한국판 '통화 정책 가이드라인'을 어떻게 재설계할지 귀추가 주목됩니다.",
+            "image_prompt": "Bank of Korea building, professional economist portrait, global finance icons, blue professional background",
+            "published_at": "2026-03-23 22:01:59",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "롤러코스피의 습격… 변동성에 멍드는 개인 투자자들",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTElpZ1NRREk4Z05QZWZGd0NYMnZMUU9EeUV4OU52bjFjTUNBYjh4VDhQY2xKV193a0JOek9Dc2k1c0NIYkVmVWl1UV9NUG8?oc=5",
+            "category": "시장",
+            "summary": "급등과 급락을 반복하는 코스피 시장에서 과열 논란과 저평가 기대로 전문가들의 의견이 엇갈리고 있습니다.",
+            "content": "코스피 지수가 하루에도 수십 포인트씩 오르내리는 '롤러코스터' 장세를 보이며 투자자들의 혼란이 가중되고 있습니다. 최근 증시는 대외적인 지정학적 리스크와 내부적인 실적 우려가 맞물리며 방향성을 잃은 모습입니다. 특히 특정 테마주로의 쏠림 현상과 급격한 자금 유출입이 반복되면서 시장의 체력이 급격히 저하되었다는 우려가 나옵니다.\n\n일부 전문가들은 현재 코스피가 기업 가치 대비 지나치게 저평가된 '바닥권'이라고 주장하며 매수 시점임을 강조합니다. 반면, 고금리 상황이 지속되고 기업들의 이익 전망치가 하향 조정되는 상황에서 현재의 반등은 일시적인 현상일 뿐, 추가 하락 가능성을 열어두어야 한다는 신중론도 팽팽히 맞서고 있습니다.\n\n개인 투자자들은 이러한 극심한 변동성 속에서 막대한 손실을 입고 있습니다. 시장의 변동성을 측정하는 공포지수(VIX)가 상승하고 있어 투자 심리는 더욱 위축될 것으로 보입니다. 전문가들은 무분별한 추격 매수보다는 철저히 실적 중심의 우량주 위주로 포트폴리오를 재편하고 리스크 관리에 집중해야 한다고 조언합니다.",
+            "image_prompt": "Stock market graph, roller coaster track, digital screen, financial chaos, green and red neon lights",
+            "published_at": "2026-03-23 22:01:59",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "중동 분쟁 여파로 인도의 삼중고… 글로벌 공급망 위기 확산",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwMDJkajJDOTBoTmVaZ3V6UDhaR3dZeTctWXRCaW8xNVIwcDVnQ3lNZXk1T3dOcUtiMUFMbEQtR0lFODVtYjdDR0RvcnZIR2tZVGpPd1BsWGpyZ9IBX0FVX3lxTE9Mc1IzX09NdjVqMWNVUkZXMlRzUFh6NzJfOGVoYWZQUnpOUkFkRlV0ZzBXMm16b2ZhV3dydktmWVJzSmk2b2M4bWpleG5TOEhLRng2SjhFbVZETkpmeXlZ?oc=5",
+            "category": "시장",
+            "summary": "에너지 가격 상승과 외환 위기, 수출 부진까지 겹친 인도 경제의 위기가 글로벌 시장의 새로운 불안 요소로 떠오르고 있습니다.",
+            "content": "중동 전쟁의 불길이 인도 경제로 번지고 있습니다. 세계 최대의 에너지 소비국 중 하나인 인도는 최근 국제 유가 급등으로 인해 막대한 무역 적자를 기록하고 있으며, 이로 인한 '에너지·수출·외환'의 삼중고에 직면해 있습니다. 인도의 위기는 단순히 한 국가의 문제를 넘어 신흥국 전반의 자금 이탈을 가속화할 수 있다는 점에서 우려가 큽니다.\n\n인도 루피화의 가치는 연일 최저치를 기록하고 있으며, 외환 보유고 역시 빠르게 소진되고 있습니다. 이는 수입 물가 상승으로 이어져 인도 내부의 민생 경제를 직접적으로 타격하고 있습니다. 특히 중동 지역을 거치는 수출 항로가 위협받으면서 인도의 주력 수출 품목들의 물류비용이 폭등하고 있는 상황입니다.\n\n글로벌 경제 전문가들은 인도의 상황이 한국을 포함한 다른 신흥국들에게 시사하는 바가 크다고 지적합니다. 공급망의 다변화가 이루어지지 않은 상태에서 발생하는 지정학적 충격이 얼마나 치명적인지를 보여주는 사례이기 때문입니다. 우리 정부와 기업들도 인도의 위기 전개 과정을 모니터링하며 글로벌 공급망 리스크에 대한 대비책을 재점검해야 할 시점입니다.",
+            "image_prompt": "India economy, oil barrels, currency symbols, cargo ship, dark stormy clouds, global map",
+            "published_at": "2026-03-23 22:01:59",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "중동 전쟁발 경제 위기 고조, 韓 CDS 프리미엄 26% 급등 및 '삼중고' 직면",
             "source": "서울경제신문, 경향신문",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CSkVFQlo0WWlVMTROY3F1R2FRQVVEZS11OFVreEI1OFUwekt5STBGTW45SkJSbkxMRGg3Rmx5eTljckxIQlNEaEhrNjFvXzRscHfSAVNBVV95cUxOSkJkdUZpTk1PX0JKQmlPRGdCTUpsdk1RcUdhOUxWyGVUQTJFaDNVenkxdXhwUU9oMm0tdEtrZ0NYTzhlSW1jOHZmd0owX1FwcEVHbw?oc=5",
@@ -48,7 +103,7 @@
             "content": "중동 지역의 전쟁이 장기화 조짐을 보이면서 한국 경제에 먹구름이 짙게 드리우고 있습니다. 최근 한국의 신용부도스왑(CDS) 프리미엄이 26%나 급등하며 대외 신인도에 경고등이 켜졌습니다. CDS 프리미엄의 상승은 국가의 부도 위험이 높아졌음을 의미하며, 이는 국제 금융 시장에서 한국의 자금 조달 비용 상승으로 이어질 수 있습니다.\n\n경제 전문가들은 현재 상황을 에너지 가격 상승, 수출 둔화, 외환 시장 불안이라는 '삼중고'로 정의하고 있습니다. 중동발 유가 불안은 국내 물가 상승을 압박하고 있으며, 글로벌 공급망 차질로 인해 주요 수출 품목의 경쟁력이 약화될 우려가 커지고 있습니다. 특히 인도를 비롯한 신흥국들의 경제 지표도 동반 악화되면서 세계 경제 전반의 침체 가능성이 제기되고 있습니다.\n\n정부는 이러한 위기 상황을 타개하기 위해 25조 원 규모의 '전쟁 추경' 편성 논의에 착수했습니다. 이번 추경은 경제적 약자와 지방 경제, 그리고 전쟁으로 직접적인 피해를 입은 업체들을 두텁게 지원하는 데 초점을 맞출 것으로 보입니다. 시장에서는 정부의 신속한 대응이 시장의 불안 심리를 얼마나 잠재울 수 있을지 주목하고 있습니다.",
             "image_prompt": "Middle East conflict, global economic crisis, financial risk graph, red emergency light, oil barrels",
             "published_at": "2026-03-23 19:00:27",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이 대통령, 차기 한국은행 총재 후보에 신현송 BIS 국장 지명",
@@ -59,7 +114,7 @@
             "content": "정부는 공석인 한국은행 총재 자리에 국제결제은행(BIS)의 신현송 통화경제국장을 지명했습니다. 신 후보자는 국제 금융 무대에서 깊은 통찰력을 보여온 인물로, 현재의 복합적인 경제 위기 상황에서 한국의 통화 정책을 이끌 적임자로 평가받고 있습니다. 그의 지명은 대외 불확실성이 큰 시기에 시장의 신뢰를 확보하려는 정부의 의지가 반영된 것으로 풀이됩니다.\n\n신 후보자는 그동안 글로벌 금융 위기 분석과 거시 건전성 정책 분야에서 세계적인 권위를 인정받아 왔습니다. 한은 총재로서 그의 최우선 과제는 치솟는 환율과 물가를 잡는 동시에, 위축된 국내 경기를 부양해야 하는 고차방정식을 푸는 것이 될 것입니다. 특히 한미 금리 격차 해소와 가계부채 관리 등 산적한 현안들이 그를 기다리고 있습니다.\n\n금융권에서는 신 후보자의 지명을 환영하는 분위기입니다. 글로벌 네트워크가 탄탄한 인사가 한은을 맡게 됨으로써 주요국 중앙은행과의 공조가 더욱 원활해질 것으로 기대하고 있습니다. 향후 국회 인사청문회 과정에서 그가 제시할 구체적인 통화 정책의 방향성에 모든 시장 참여자들의 이목이 쏠리고 있습니다.",
             "image_prompt": "Central bank governor, professional portrait, financial policy, global finance building, stable economy architecture",
             "published_at": "2026-03-23 19:00:27",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "김민석 총리 “경제 상황 비상… 내일 대통령 긴급 메시지 발표”",
@@ -70,7 +125,7 @@
             "content": "김민석 국무총리는 긴급 기자회견을 통해 현재 대한민국 경제가 처한 상황이 '참으로 비상한 국면'이라고 진단했습니다. 중동 전쟁의 여파가 예상을 뛰어넘어 국내 실물 경제와 금융 시장 전반에 심각한 타격을 주고 있다는 분석입니다. 이에 따라 정부는 모든 부처를 비상 경제 체제로 전환하고 상황을 실시간으로 점검하고 있습니다.\n\n내일 발표될 대통령의 메시지에는 민생 안정과 시장 질서 확립을 위한 고강도 대책이 포함될 예정입니다. 유가 담합에 대한 압수수색 등 시장 교란 행위에 대한 엄단 의지와 함께, 고물가와 고금리로 고통받는 서민들을 위한 직접적인 지원책이 담길 것으로 보입니다. 정부는 심리적 방어선을 구축하여 시장의 과도한 불안 확산을 막는 데 주력하고 있습니다.\n\n지자체 차원의 움직임도 분주합니다. 원주시는 중동 상황 대응 비상경제 TF를 가동하여 지역 물가 안정에 나섰으며, 다른 지자체들도 지역 경제 활성화를 위한 '세일 페스타'나 '야간 경제 정책' 등을 적극적으로 검토하고 있습니다. 국가와 지방정부가 협력하여 이번 위기를 정면 돌파하겠다는 강력한 의지를 보이고 있습니다.",
             "image_prompt": "Government briefing room, national flag, economic emergency meeting, leadership speech, official press conference",
             "published_at": "2026-03-23 19:00:27",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "환율 1,517원 돌파 및 유가 담합 압수수색… 시장 불안 확산",
@@ -81,7 +136,7 @@
             "content": "원/달러 환율이 심리적 마지노선을 위협하며 1,517원까지 치솟았습니다. 이는 수입 물가 상승으로 직결되어 안 그래도 높은 국내 소비자 물가를 더욱 자극하는 요인이 되고 있습니다. 외환 당국은 시장의 투기적 수요를 억제하기 위해 미세 조정(Smoothing Operation)에 나섰지만, 글로벌 달러 강세 흐름을 막기에는 역부족인 상황입니다.\n\n환율 폭등과 함께 에너지 가격 부담도 커지고 있습니다. 특히 정부는 정유사들의 유가 담합 의혹에 대해 대대적인 압수수색에 나서는 등 단호한 조치를 취하고 있습니다. 외부적인 요인으로 유가가 오르는 것은 불가피하더라도, 내부적인 부당 행위로 인해 국민들의 고통이 가중되는 것을 막겠다는 취지입니다. 검찰과 공정거래위원회의 합동 조사가 전방위적으로 확대될 전망입니다.\n\n기업들은 비상 경영 체제에 돌입했습니다. 환차손 우려가 커진 수입 업체들은 결제 대금 확보에 비상이 걸렸고, 에너지 소비가 많은 제조업체들은 원가 상승 압박을 견디기 위해 안간힘을 쓰고 있습니다. 전문가들은 환율과 유가가 안정될 때까지 당분간 보수적인 자금 운용과 리스크 관리가 필수적이라고 조언하고 있습니다.",
             "image_prompt": "Currency exchange board, high dollar rate, oil pump jack, legal investigation, financial stress",
             "published_at": "2026-03-23 19:00:27",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "AI 네이티브 코리아의 미래, 신성장 동력 확보 박차",
@@ -92,7 +147,7 @@
             "content": "단기적인 경제 위기 속에서도 한국 경제의 미래를 밝힐 인공지능(AI) 산업에 대한 관심은 더욱 뜨거워지고 있습니다. 주요 경제 매체들은 'AI 네이티브 코리아'라는 슬로건 아래, 모든 산업 분야에 AI를 이식하여 생산성을 비약적으로 높여야 한다고 강조하고 있습니다. 이는 현재의 저성장 구조를 탈피할 수 있는 유일한 탈출구로 평가받고 있습니다.\n\n정부와 민간은 AI 인프라 구축과 인재 양성에 대규모 투자를 약속하고 있습니다. 제조업 현장에서는 AI를 활용한 공정 최적화가 이뤄지고 있으며, 금융권에서는 AI 기반의 알짜 투자 정보 제공이 활발해지고 있습니다. 특히 노사 간의 첨예한 갈등 과제인 주 52시간제 등도 AI 기술을 통한 업무 효율화로 해결의 실마리를 찾을 수 있을지 주목됩니다.\n\n부산연구원 등 지역 연구기관들도 AI와 연계한 야간 경제 정책 등 새로운 성장 동력 발굴에 힘을 쏟고 있습니다. 위기 상황일수록 기술 혁신을 통해 기초 체력을 길러야 한다는 공감대가 형성되고 있는 것입니다. 한국이 AI 시대를 선도하는 국가로 도약하기 위해서는 규제 혁신과 선제적인 정책 제언이 뒷받침되어야 할 시점입니다.",
             "image_prompt": "AI technology, futuristic Korea city, digital neural network, innovation growth, high-tech industry",
             "published_at": "2026-03-23 19:00:27",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "신현송 BIS 국장, 신임 한국은행 총재 후보자 지명",
@@ -103,7 +158,7 @@
             "content": "이 대통령은 차기 한국은행 총재 후보자로 신현송 국제결산은행(BIS) 통화경제국장을 지명했습니다. 신 후보자는 국제금융과 거시경제 분야에서 세계적인 권위를 인정받는 석학으로, 실무와 이론을 겸비한 인물로 평가받습니다. 이번 인사는 최근 급변하는 글로벌 금융 환경 속에서 한국의 통화 정책을 안정적으로 이끌 적임자를 배치하려는 의도로 풀이됩니다.\n\n신 후보자는 과거 청와대 국제경제보좌관 등을 역임하며 정책 현장을 경험한 바 있으며, BIS에서의 경험을 바탕으로 주요국 중앙은행과의 긴밀한 네트워크를 보유하고 있다는 점이 강점입니다. 시장에서는 그의 지명이 한미 금리 격차와 환율 불안정 등 산적한 과제를 해결하는 데 긍정적인 신호가 될 것으로 기대하고 있습니다.\n\n특히 고물가와 고금리가 지속되는 상황에서 신 후보자가 보여줄 통화 긴축 기조의 향방에 관심이 쏠리고 있습니다. 전문가들은 그가 시장과의 소통을 강화하면서도 데이터에 기반한 정교한 통화 정책을 펼칠 것으로 내다보고 있습니다. 국회 인사청문회 절차를 거쳐 임명될 경우, 향후 4년간 한국의 기준금리 및 금융 안정 정책의 키를 쥐게 됩니다.\n\n이번 지명은 한국 경제의 기초 체력을 강화하고 대외 신인도를 높이는 데 초점이 맞춰져 있습니다. 국제 금융 시장의 메커니즘을 누구보다 잘 이해하는 인물인 만큼, 원화 가치 안정과 자본 유출 방지를 위한 다각적인 전략이 나올 것으로 예상됩니다.",
             "image_prompt": "Bank of Korea, global finance expert, monetary policy, professional portrait, sophisticated office",
             "published_at": "2026-03-23 16:06:47",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "환율 1,510원 돌파, 금융위기 이후 17년 만에 최고치",
@@ -114,7 +169,7 @@
             "content": "원·달러 환율이 1,500원 선을 넘어 1,510원까지 돌파하며 시장에 큰 충격을 주고 있습니다. 이는 지난 2008년 글로벌 금융위기 이후 약 17년 만에 가장 높은 수준으로, 우리 경제의 대외 건전성에 대한 우려를 증폭시키고 있습니다. 달러 강세 현상과 함께 국내 경제의 성장 둔화 우려가 겹치며 원화 약세가 가속화되는 모습입니다.\n\n환율 상승의 주요 원인으로는 미국의 고금리 유지 기조와 중동 지역의 지정학적 불안이 꼽힙니다. 안전 자산인 달러에 대한 수요가 폭증하면서 신흥국 통화인 원화 가치가 급격히 하락하고 있는 것입니다. 수입 물가 상승으로 인한 인플레이션 압박이 거세지면서 서민 경제의 부담 또한 가중되고 있습니다.\n\n정부와 외환 당국은 시장 모니터링을 강화하며 필요시 구두 개입과 실개입을 포함한 '3대 극약처방'을 검토하고 있습니다. 1,500원대 환율이 '뉴노멀'이 될 수 있다는 공포가 확산됨에 따라, 기업들은 수출 가격 경쟁력 확보보다는 원자재 가격 상승에 따른 수익성 악화를 더 우려하는 분위기입니다.\n\n외환 시장 전문가들은 당분간 환율 변동성이 극심할 것으로 전망하며, 심리적 저지선이 무너진 상태에서 추가 상승 가능성도 배제할 수 없다고 경고합니다. 자본 유출 방지를 위한 금리 정책과의 조화로운 대응이 절실한 시점입니다.",
             "image_prompt": "Currency exchange rate graph, skyrocketing line, 1500 won, financial crisis concept, red arrows",
             "published_at": "2026-03-23 16:06:47",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "서울시, 중동발 경제불안에 비상대책 가동…오세훈 \"총력 대응\"",
@@ -125,7 +180,7 @@
             "content": "서울시가 중동 지역의 군사적 긴장 고조로 인한 경제 불안에 대응하기 위해 위기 대응 수준을 전격 격상했습니다. 오세훈 서울시장은 긴급 대책 회의를 소집하고 \"가용한 모든 수단을 총동원해 시민 경제를 지키겠다\"고 천명했습니다. 이번 조치는 유가 급등과 공급망 차질이 서울의 민생 경제에 미칠 타격을 최소화하기 위한 선제적 대응입니다.\n\n주요 대책으로는 원가 상승으로 고통받는 기업들을 위한 물류비 지원과 중소상공인 대상 특별 자금 지원이 포함되었습니다. 특히 에너지 위기가 심화될 경우를 대비해 공공 부문 차량 5부제 실시와 에너지 절약 캠페인 확산을 검토하고 있습니다. 물가 안정을 위한 현장 점검반 가동도 본격화될 예정입니다.\n\n오 시장은 공급망 교란이 물가 상승으로 이어지는 고리를 끊기 위해 유통 구조 개선과 공공요금 안정화에도 주력할 것을 지시했습니다. 서울시는 상황실을 24시간 가동하며 유가 및 환율 동향이 시내 물가와 고용에 미치는 영향을 실시간으로 분석하고 있습니다.\n\n시민들은 이번 비상경제대책 가동을 통해 불확실한 대외 여건 속에서도 일상 경제가 안정되기를 희망하고 있습니다. 서울시의 선제적 움직임이 지자체 차원의 위기 관리 모델이 될 수 있을지 귀추가 주목됩니다.",
             "image_prompt": "Emergency meeting room, city map, economic crisis control, futuristic digital dashboard, leadership",
             "published_at": "2026-03-23 16:06:47",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동발 오일쇼크와 중국발 쓰나미, 한국 경제 '이중고'",
@@ -136,7 +191,7 @@
             "content": "한국 경제가 중동발 오일쇼크 가능성과 중국발 공급 과잉(쓰나미)이라는 거대한 두 개의 파도에 직면했습니다. 중동의 긴장 상태는 국제 유가를 자극하여 에너지 의존도가 높은 국내 산업 구조에 치명적인 비용 상승을 초래하고 있습니다. 이는 단순한 비용 문제를 넘어 전반적인 생산 위축으로 이어질 수 있다는 경고가 나옵니다.\n\n동시에 중국은 내수 부진을 타개하기 위해 저가 밀어내기 수출을 강화하며 '중국발 공급 쓰나미'를 일으키고 있습니다. 반도체, 석유화학, 철강 등 한국의 주력 수출 품목들이 중국의 저가 공세에 밀려 글로벌 시장 점유율을 위협받는 상황입니다. 이러한 이중고는 한국 기업들의 마진 구조를 급격히 악화시키고 있습니다.\n\n전문가들은 이러한 복합 위기가 단기간에 해소되기 어려울 것으로 보고 있습니다. 공급망의 다변화와 함께 고부가가치 산업으로의 빠른 전환만이 생존 전략이라는 분석입니다. 정부 차원에서도 수출 판로 개척과 원자재 수급 안정화를 위한 외교적·정책적 총력이 필요한 시점입니다.\n\n이러한 대외 환경 악화는 국내 내수 침체와 맞물려 경제 성장률 전망치를 하향 조정하게 만드는 요인이 되고 있습니다. 기업들은 비상 경영 체제로 전환하며 투자 우선순위를 재검토하는 등 생존을 위한 자구책 마련에 분주합니다.",
             "image_prompt": "Industrial harbor, oil barrels, massive wave, global trade conflict, dark dramatic sky",
             "published_at": "2026-03-23 16:06:47",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "양극화 심화…'K자형' 넘어 'E자형' 분화 우려",
@@ -147,7 +202,7 @@
             "content": "코로나19 이후 나타났던 불평등한 회복세인 'K자형' 성장을 지나, 이제는 경제 주체 간의 격차가 완전히 고착화되는 'E자형(Extreme Polarized)' 분화가 우려되고 있습니다. 이는 상위 계층과 하위 계층, 또는 우량 기업과 한계 기업 간의 거리가 좁혀지지 않은 채 서로 다른 궤적을 그리며 멀어지는 현상을 의미합니다.\n\n고물가와 고금리가 지속되면서 자산가와 대기업은 이자 수익이나 탄탄한 자금력을 바탕으로 버티고 있으나, 서민층과 소상공인은 빚더미에 앉으며 파산 위기로 내몰리고 있습니다. 경제 전문가들은 이러한 격차가 단순히 소득의 차이를 넘어 교육, 기회, 정보의 격차로 전이되어 사회 구조적 갈등을 유발할 수 있다고 지적합니다.\n\n특히 정보통신기술(ICT)을 활용한 신산업과 전통적인 제조업 간의 온도 차이도 뚜렷합니다. 혁신 동력을 가진 기업들은 글로벌 시장에서 승승장구하는 반면, 변화에 적응하지 못한 중소기업들은 도태되는 '산업적 E자형' 현상도 관찰됩니다. 이는 국가 전체의 성장 잠재력을 갉아먹는 요인이 됩니다.\n\n정부는 이러한 양극화 해소를 위해 맞춤형 금융 지원과 고용 안전망 확충을 추진하고 있지만, 시장의 흐름을 되돌리기에는 역부족이라는 평이 많습니다. 지속 가능한 성장을 위해서는 취약 계층의 자생력을 높이는 구조 개혁이 시급하다는 목소리가 커지고 있습니다.",
             "image_prompt": "Wealth gap chart, distinct social classes, glowing arrow up and dim arrow down, split background",
             "published_at": "2026-03-23 16:06:47",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국은행 총재 후보에 신현송 BIS 통화경제국장 지명",
@@ -158,7 +213,7 @@
             "content": "이명박 대통령은 차기 한국은행 총재 후보자로 신현송 국제결제은행(BIS) 통화경제국장을 지명했습니다. 신 후보자는 국제 금융 무대에서 높은 명성을 쌓아온 인물로, 글로벌 금융 위기 이후 통화 정책과 거시 건전성 분야에서 독보적인 전문성을 인정받아 왔습니다.\n\n이번 지명은 한국 경제의 글로벌 위상을 높이고, 급변하는 국제 금융 환경에 기민하게 대응하려는 정부의 의지가 반영된 것으로 풀이됩니다. 특히 중앙은행의 독립성과 더불어 국제 협력 역량이 강조되는 시점에서 적임자라는 평가가 지배적입니다.\n\n시장에서는 신 후보자가 취임할 경우, 물가 안정과 금융 시장 안정을 조화롭게 운영할 것으로 기대하고 있습니다. 향후 국회 인사청문회를 거쳐 정식 취임하게 되면, 한국은행의 통화 정책 기조에 어떤 변화를 가져올지 금융권의 이목이 집중되고 있습니다.",
             "image_prompt": "Central Bank, Professional Economist, Monetary Policy, Global Finance, Sophisticated Office",
             "published_at": "2026-03-23 14:01:09",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "유가 180달러 우려... 중동발 에너지 쇼크에 글로벌 경제 비상",
@@ -169,7 +224,7 @@
             "content": "중동 지역의 지정학적 갈등이 심화되면서 국제 유가가 배럴당 180달러까지 치솟을 수 있다는 비관적인 전망이 나오고 있습니다. 이란의 원유 수출 중단 우려와 호르무즈 해협 봉쇄 가능성이 제기되면서 에너지 시장의 불확실성이 극에 달한 상황입니다.\n\n미국을 비롯한 주요국들은 이번 사태가 세계 경제를 초토화할 수 있는 '에너지 쇼크'로 이어질 것을 경계하며 긴급 대응책 마련에 분주합니다. 유가 급등은 생산 원가 상승과 소비 위축으로 이어져 글로벌 스태그플레이션 공포를 확산시키고 있습니다.\n\n특히 원유 수입 의존도가 높은 한국 경제에는 치명적인 영향을 미칠 수 있습니다. 정부와 관련 업계는 비축유 점검과 수입선 다변화 등 최악의 시나리오를 가정한 대비책 마련에 총력을 기울이고 있으며, 전쟁의 확산 여부에 촉각을 곤두세우고 있습니다.",
             "image_prompt": "Oil Barrel, Middle East Map, Global Economic Crisis, Red Warning Light, Energy Market",
             "published_at": "2026-03-23 14:01:09",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "서울시, 중동발 경제불안 대응 격상… 물가 관리체계 가동",
@@ -180,7 +235,7 @@
             "content": "서울시는 중동발 지정학적 리스크가 국내 경제로 전이되는 것을 차단하기 위해 비상 경제 대응 체계를 가동했습니다. 오세훈 서울시장은 긴급 대책 회의를 통해 시민들의 장바구니 물가 부담을 최소화할 수 있는 전방위적인 관리 체계를 즉시 시행하라고 주문했습니다.\n\n주요 대책으로는 어려움을 겪는 중소기업과 소상공인을 위한 지방세 세제 유예, 자금 지원 확대 등이 포함되었습니다. 또한 국제 유가 상승에 따른 교통비 부담을 완화하기 위해 대중교통 이용 활성화 방안과 에너지 절감 캠페인을 병행할 계획입니다.\n\n서울시는 물가대책 상황실을 통해 주요 생필품의 가격 동향을 실시간 모니터링하고, 부당한 가격 인상 시도가 없는지 철저히 점검할 예정입니다. 지방정부 차원에서 할 수 있는 모든 수단을 총동원해 민생 경제의 충격을 흡수하겠다는 강력한 의지를 표명했습니다.",
             "image_prompt": "City Mayor Meeting, Economic Stability, Price Control, Seoul Cityscape, Public Policy",
             "published_at": "2026-03-23 14:01:09",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "서울 초·중 60곳에 ‘학교세무사’ 위촉... 세금·경제교육 강화",
@@ -191,7 +246,7 @@
             "content": "서울시교육청은 자라나는 청소년들이 올바른 경제 관념을 가질 수 있도록 관내 초·중학교 60곳에 '학교세무사'를 위촉하고 경제 교육을 강화하기로 했습니다. 이번 프로그램은 복잡한 세금 제도와 경제 원리를 학생들의 눈높이에 맞춰 쉽게 설명하기 위해 기획되었습니다.\n\n학교세무사들은 일일 강사로 나서 세금이 우리 사회에서 수행하는 역할과 민주 시민으로서의 납세 의무, 그리고 합리적인 소비와 저축 생활에 대해 강의합니다. 단순 이론 위주가 아닌 실제 사례 중심의 교육을 통해 학생들의 흥미를 유발할 것으로 기대됩니다.\n\n교육청 관계자는 금융 문맹을 탈출하고 건전한 경제 주체로 성장하기 위해서는 조기 교육이 무엇보다 중요하다고 강조했습니다. 이번 사업의 성과를 바탕으로 향후 참여 학교를 확대하고 교육 콘텐츠를 더욱 고도화해 나갈 방침입니다.",
             "image_prompt": "Classroom Education, Tax Advisor, Students Learning, Financial Literacy, Concept Art",
             "published_at": "2026-03-23 14:01:09",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중국, '100㎢ 자유공역' 비행 시험장 개장... 저고도 경제 육성",
@@ -202,7 +257,7 @@
             "content": "중국이 미래 신성장 동력으로 꼽히는 '저고도 경제(Low-altitude Economy)'를 본격적으로 육성하기 위해 100㎢ 규모의 자유공역 비행 시험장을 개장했습니다. 이는 드론, 도심항공교통(UAM) 등 저고도 비행체의 시험 비행과 기술 개발을 전폭적으로 지원하기 위한 인프라 구축의 일환입니다.\n\n해당 시험장에서는 다양한 기상 조건과 돌발 상황을 가정한 비행 테스트가 가능하며, 관련 기업들은 규제에서 비교적 자유로운 환경에서 혁신적인 기술을 실험할 수 있게 되었습니다. 중국 정부는 이를 통해 배송, 방제, 관광 등 다양한 분야에서 저고도 비행 산업의 생태계를 조성할 계획입니다.\n\n전문가들은 중국의 이러한 공격적인 투자가 글로벌 드론 및 차세대 모빌리티 시장에서 주도권을 확보하기 위한 전략으로 분석하고 있습니다. 저고도 경제가 활성화될 경우 물류 혁명과 더불어 새로운 일자리 창출 등 막대한 경제적 파급 효과가 예상됩니다.",
             "image_prompt": "Advanced Drones, Future Mobility, Flying Taxis, High-tech Testing Site, Innovation",
             "published_at": "2026-03-23 14:01:09",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이 대통령, 한국은행 총재 후보자에 신현송 BIS 통화경제국장 지명",
@@ -213,7 +268,7 @@
             "content": "신현송 국제결제은행(BIS) 통화경제국장이 신임 한국은행 총재 후보자로 지명되었습니다. 신 후보자는 국제 금융 및 거시경제 분야에서 세계적인 석학으로 평가받는 인물로, 학문적 깊이와 실무 감각을 동시에 갖춘 전문가로 알려져 있습니다.\n\n이번 인사는 글로벌 경제 변동성이 커지는 시점에서 한국의 통화 정책 신뢰도를 높이고 국제 공조를 강화하려는 의지로 풀이됩니다. BIS에서의 풍부한 경험을 바탕으로 한국의 금리 결정 및 물가 안정 전략에 새로운 변화를 불러일으킬 것이라는 기대가 모아지고 있습니다.\n\n주요 외신과 국제 금융 기구들은 이번 지명에 대해 즉각적인 환영의 뜻을 내비쳤습니다. 특히 BIS 측은 신 국장을 '훌륭한 후보'라고 치켜세우며, 그의 전문성이 한국 경제 발전에 크게 기여할 것이라고 축하 메시지를 전했습니다.\n\n앞으로 진행될 인사청문회에서는 현재 한국이 직면한 가계부채 문제와 고물가 상황에 대한 신 후보자의 구체적인 해법이 집중적으로 논의될 전망입니다. 시장은 신임 총재 체제 하에서 한은의 독립성과 정책 방향성이 어떻게 정립될지 예의주시하고 있습니다.",
             "image_prompt": "Central bank building, professional economist portrait, global finance charts, blue tones, authoritative",
             "published_at": "2026-03-23 11:01:34",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[주간뉴욕증시]트럼프 '최후통첩'…전쟁·경제지표 영향 촉각",
@@ -224,7 +279,7 @@
             "content": "뉴욕 증시가 중동 지역의 군사적 긴장 고조와 도널드 트럼프 전 대통령의 강력한 정치적 발언으로 인해 극심한 변동성을 보이고 있습니다. 특히 유전 및 가스전 파괴로 인한 공급망 훼손 우려가 시장 전반에 하방 압력으로 작용하고 있습니다.\n\n트럼프 전 대통령은 최근 경제 정책과 관련된 '최후통첩' 성격의 발언을 쏟아내며 시장 참여자들의 심리를 위축시키고 있습니다. 이는 차기 대선을 앞둔 정치적 행보로 풀이되지만, 글로벌 무역 질서에 미칠 파장이 크다는 분석이 지배적입니다.\n\n투자자들은 다가오는 경제 지표 발표에 촉각을 곤두세우고 있습니다. 고용 지표와 소비자 물가 지수가 연준의 금리 향방을 결정할 핵심 변수로 작용하고 있는 상황에서, 지정학적 위험이라는 돌발 변수가 추가되어 투자 심리는 얼어붙은 상태입니다.\n\n시장 전문가들은 당분간 안전 자산으로의 자금 쏠림 현상이 지속될 수 있다고 경고합니다. 국제 유가 급등과 금리 인하 지연 가능성이 겹치면서, 뉴욕 증시의 랠리가 멈추고 본격적인 조정 국면에 진입할 수 있다는 신중론이 확산되고 있습니다.",
             "image_prompt": "Wall Street sign, military tension background, stock market crash graph, dramatic fire and oil, cinematic",
             "published_at": "2026-03-23 11:01:34",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제][속보] 3월 1~20일 수출 533억 달러...한 달 만에 또 '최대 기록'",
@@ -235,7 +290,7 @@
             "content": "대한민국의 수출 성적표가 다시 한번 기록적인 수치를 달성했습니다. 관세청 통계에 따르면 3월 1일부터 20일까지의 수출액이 533억 달러를 돌파하며, 한 달 만에 기존의 최대 기록을 갈아치우는 기염을 토했습니다.\n\n이러한 성과는 주력 수출 품목인 반도체와 자동차 부문의 수요 회복이 결정적인 역할을 한 것으로 분석됩니다. 글로벌 IT 경기 회복세에 힘입어 메모리 반도체 단가가 상승하고, 친환경차를 중심으로 한 자동차 수출이 견고하게 유지되면서 수출 실적을 견인했습니다.\n\n수출 증가세는 한국 경제의 펀더멘털이 강화되고 있음을 보여주는 긍정적인 신호입니다. 내수 부진 우려 속에서도 수출이 버팀목 역할을 해주면서 연간 경제 성장률 목표 달성 가능성도 한층 높아졌습니다.\n\n다만 수입액 또한 동시에 증가하고 있어 무역 수지 흑자 폭에 대한 관찰이 필요합니다. 고유가와 원자재 가격 상승이 수입 비용을 높이고 있는 만큼, 수출 양적 성장과 더불어 수익성을 확보하는 질적 성장이 향후 과제로 꼽힙니다.",
             "image_prompt": "Container ship port, high-tech semiconductor chips, rising arrow graph, bright logistics environment",
             "published_at": "2026-03-23 11:01:34",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "나라 빚 6500조 넘었다...GDP 2.5배 ‘빚 의존 경제’ 경고음",
@@ -246,7 +301,7 @@
             "content": "대한민국의 총 국가 부채가 6,500조 원을 돌파하며 역대 최고 수준에 도달했습니다. 이는 국내총생산(GDP) 규모의 2.5배에 달하는 수치로, 한국 경제가 지나치게 빚에 의존하고 있다는 비판과 우려가 제기되고 있습니다.\n\n부채의 급증은 정부 부채뿐만 아니라 가계와 기업 부채가 동시에 늘어난 결과입니다. 고금리 상황이 지속됨에도 불구하고 부동산 대출과 기업 운용 자금 수요가 줄지 않으면서, 전체적인 경제 시스템의 금융 리스크가 임계점에 다다르고 있다는 지적입니다.\n\n재정 전문가들은 이러한 '빚 의존 경제' 구조가 지속될 경우 국가 신인도 하락은 물론, 미래 세대에 막대한 세금 부담을 지우게 될 것이라고 경고합니다. 특히 금리 변동에 취약한 구조적 한계로 인해 외부 충격 발생 시 경제 전반이 무너질 수 있다는 시나리오도 나오고 있습니다.\n\n정부는 긴축 재정과 효율적인 예산 집행을 통해 부채 속도를 조절하겠다고 밝혔으나, 경기 부양을 위한 재정 지출 요구와 충돌하고 있어 해법 마련이 쉽지 않은 상황입니다. 부채 관리를 위한 근본적인 구조 개혁이 시급하다는 목소리가 힘을 얻고 있습니다.",
             "image_prompt": "Huge pile of coins, hourglass with sand, national flag in shadow, heavy chains on currency symbol",
             "published_at": "2026-03-23 11:01:34",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "서울시, 중동 상황 대응 비상경제대책 회의",
@@ -257,7 +312,7 @@
             "content": "서울시가 중동 지역의 긴박한 사태 변화에 대응하기 위해 긴급 비상경제대책 회의를 개최했습니다. 오세훈 서울시장을 주재로 한 이번 회의에서는 유가 급등과 물가 상승이 서울 시민의 삶에 미칠 직접적인 영향을 집중 점검했습니다.\n\n시는 에너지 가격 상승으로 인한 대중교통 운임 압박과 생필품 물가 불안을 최소화하기 위한 다각적인 지원 방안을 논의했습니다. 특히 소상공인과 취약계층이 에너지 가격 폭등으로 인해 입을 타격을 방지하기 위한 선제적인 보호책 마련이 논의되었습니다.\n\n또한 공급망 교란에 대비하여 주요 자재와 생필품의 수급 상황을 실시간으로 모니터링하는 전담반을 가동하기로 했습니다. 이는 글로벌 리스크가 지역 경제로 전이되는 것을 차단하려는 지방자치단체의 적극적인 행정 조치로 평가받습니다.\n\n오세훈 시장은 시민들이 불안해하지 않도록 철저한 대비 태세를 강조하며, 정부와의 긴밀한 협력을 통해 물가 안정 관리체계를 강화하겠다고 밝혔습니다. 서울시의 이번 대응이 다른 지자체의 경제 방역 모델이 될 수 있을지 주목됩니다.",
             "image_prompt": "City hall meeting, serious officials, map of middle east, city lights, emergency response icons",
             "published_at": "2026-03-23 11:01:34",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이 대통령, 차기 한국은행 총재에 신현송 BIS 국장 지명",
@@ -268,7 +323,7 @@
             "content": "이명박 대통령은 차기 한국은행 총재로 신현송 국제결제은행(BIS) 통화경제국장을 지명했습니다. 이번 인사는 국내 금융 시장뿐만 아니라 국제 금융계의 시각을 국내 통화 정책에 반영하겠다는 강력한 의지로 풀이됩니다. 신 내정자는 프린스턴 대학교 경제학 교수 출신으로, 국제 금융 위기 메커니즘을 규명한 세계적인 석학으로 평가받습니다.\n\n재경부와 금융권은 이번 지명에 대해 일제히 환영의 뜻을 나타냈습니다. 특히 신 내정자가 보유한 국제적 네트워크와 전문성이 한국 경제의 위상을 높이고, 글로벌 금융 환경 변화에 능동적으로 대처하는 데 큰 도움이 될 것으로 기대하고 있습니다. 신 내정자는 그동안 자본 유출입 변동성 제어 등 거시 건전성 정책의 중요성을 강조해 온 인물입니다.\n\n한은 내부에서는 외부 출신 총재에 대한 긴장감과 동시에, 세계적인 안목을 가진 지도자가 조직을 이끌게 된 것에 대한 기대감이 교차하고 있습니다. 향후 국회 인사청문회에서는 그가 가진 글로벌 시각이 국내의 물가 안정과 경기 부양이라는 두 마리 토끼를 잡는 데 어떻게 적용될지가 핵심 쟁점이 될 전망입니다.",
             "image_prompt": "Central bank, global finance leadership, professional economic professor, monetary policy symbols, blue background",
             "published_at": "2026-03-22 21:44:35",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘BTS노믹스’가 온다… 공연 경제 효과만 3조 원 육박",
@@ -279,7 +334,7 @@
             "content": "방탄소년단(BTS)의 활동 재개와 대규모 공연 소식이 전해지면서 이른바 '아미노믹스'에 대한 기대감이 최고조에 달하고 있습니다. 전문가들은 BTS의 국내 공연 1회당 경제적 파급 효과가 수천억 원에서 많게는 1조 원에 이를 것으로 추산하고 있습니다. 이는 단순한 티켓 판매 수익을 넘어 관광, 숙박, 외식 등 연관 산업 전반에 걸친 생산 유발 효과를 포함한 수치입니다.\n\n특히 광화문 등 도심 지역에서 펼쳐지는 대규모 행사와 연계될 경우, 해외 팬들의 방문이 급증하며 서비스 수지 개선에도 큰 몫을 할 것으로 보입니다. 문화 콘텐츠가 단순히 즐길 거리를 넘어 국가 경제의 핵심 동력이 되는 '슈퍼 트리거' 역할을 톡톡히 하고 있는 셈입니다. 기업들 또한 BTS의 컴백에 맞춰 다양한 마케팅과 협업 상품을 출시하며 특수를 누리기 위해 분주히 움직이고 있습니다.\n\n정부와 지자체 역시 이러한 '문화 특수'를 지역 경제 활성화와 연결하기 위해 부심하고 있습니다. BTS 팬덤인 '아미'의 구매력과 파급력은 이미 증명된 만큼, 이들을 위한 맞춤형 관광 인프라와 소비 환경을 조성하는 것이 향후 내수 시장 회복의 중요한 열쇠가 될 것으로 전망됩니다.",
             "image_prompt": "K-pop concert economy, golden music notes, global fans, vibrant urban city, financial growth chart",
             "published_at": "2026-03-22 21:44:35",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 사태에 ‘비상경제 대응 TF’ 가동… 오일 쇼크 긴장감",
@@ -290,7 +345,7 @@
             "content": "중동발 지정학적 리스크가 심화되면서 유가 불안이 국내 경제의 시한폭탄으로 부상하고 있습니다. 이에 따라 경상북도와 오산시 등 주요 지자체들은 즉각적인 '비상경제대응 정책패키지'를 마련하고 태스크포스(TF)를 가동하기 시작했습니다. 원유 수급 불안이 실물 경제에 미치는 타격을 최소화하기 위한 선제적인 조치입니다.\n\n특히 인천과 같은 산업 도시들은 에너지 비용 상승에 민감한 제조업체들이 밀집해 있어 '오일 쇼크'에 대한 공포가 확산되고 있습니다. 원자재 가격 상승은 생산 원가 부담으로 이어져 중소기업들의 채산성을 악화시킬 수 있기 때문입니다. 지자체들은 물가 모니터링을 강화하고, 에너지 절약 캠페인과 함께 중소기업을 위한 긴급 경영 자금 지원 방안을 검토 중입니다.\n\n중동 사태가 장기화될 경우 국내 물가 전반에 걸친 도미노 인상이 우려되는 상황입니다. 정부는 국제 유가 추이를 예의주시하며 유류세 추가 감면이나 에너지 수급 다변화 등 모든 가능성을 열어두고 대응책을 고심하고 있습니다. 국민들의 불안감을 해소하기 위한 신속하고 정확한 정보 공유도 병행될 예정입니다.",
             "image_prompt": "Oil barrels, Middle East desert map, red warning light, economic crisis management, factory silhouette",
             "published_at": "2026-03-22 21:44:35",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "당정청, “민생 추경 역사상 가장 빠른 속도로 처리하겠다”",
@@ -301,7 +356,7 @@
             "content": "정부와 여당, 그리고 청와대는 최근 심화되고 있는 민생 경제의 위기를 타개하기 위해 추가경정예산(추경) 편성을 공식화했습니다. 이번 추경은 '민생 경제의 방파제' 역할을 수행하기 위해 역사상 유례없는 속도로 국회 처리를 완료하겠다는 방침입니다. 고물가와 고금리로 고통받는 서민들의 삶을 보호하는 것이 최우선 과제라는 판단에서입니다.\n\n추경 예산은 주로 소상공인 지원, 저소득층 바우처 확대, 공공 일자리 창출 등에 집중 투입될 예정입니다. 또한 침체된 내수 소비를 진작시키기 위한 지역 화폐 지원과 전통시장 활성화 방안도 포함될 것으로 알려졌습니다. 당정청은 예산 집행의 사각지대를 없애기 위해 현장 중심의 행정 체계를 점검하겠다고 강조했습니다.\n\n야당과의 협치가 관건이지만, 민생 안정을 명분으로 하는 만큼 신속한 합의를 이끌어내겠다는 전략입니다. 경제 전문가들은 추경의 효과를 극대화하기 위해서는 타이밍이 가장 중요하다며, 정치적 이해관계를 떠나 적기적소에 자금이 수혈되어야 한다고 조언하고 있습니다.",
             "image_prompt": "Government meeting, budget documents, fast movement blur, Korean currency icons, public support",
             "published_at": "2026-03-22 21:44:35",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美 경제학자 경고, “4~5년 내 장기금리 급등과 금융 충격 올 것”",
@@ -312,7 +367,7 @@
             "content": "미국의 주요 경제 석학들이 향후 4~5년 이내에 장기 금리의 급격한 상승과 이에 따른 글로벌 금융 충격이 닥칠 수 있다는 경고를 내놓았습니다. 과도한 국가 부채와 인플레이션 압력이 채권 금리를 밀어 올리며 금융 시장의 기초 체력을 시험하게 될 것이라는 분석입니다. 이는 현재의 저금리 기조가 끝나고 '고금리 시대'가 고착화될 수 있음을 시사합니다.\n\n이러한 경고는 특히 신흥국 경제에 큰 위협이 될 수 있습니다. 미국의 금리 인상은 전 세계적인 자금 이탈을 초래할 수 있으며, 외채 부담이 큰 국가들은 심각한 유동성 위기에 직면할 가능성이 높습니다. 한국 역시 가계 부채 비중이 높고 대외 의존도가 커서 이러한 글로벌 금리 변동성에 대한 철저한 대비가 필요한 시점입니다.\n\n무역협회 등 관계 기관들은 우리 기업들이 자금 조달 구조를 다변화하고, 금리 변동 리스크 관리를 강화해야 한다고 주문하고 있습니다. 장기적인 안목에서 자산 포트폴리오를 재구성하고, 예상치 못한 금융 충격에 견딜 수 있는 현금 흐름을 확보하는 것이 미래 생존의 핵심 전략이 될 것으로 보입니다.",
             "image_prompt": "Interest rate graph rising, global financial storm, cracked hourglass, US dollars, worried businessman silhouette",
             "published_at": "2026-03-22 21:44:35",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이 대통령, 차기 한국은행 총재 후보자에 '매파' 신현송 BIS 국장 지명",
@@ -323,7 +378,7 @@
             "content": "이명박 대통령은 차기 한국은행 총재 후보자로 국제결제은행(BIS)의 신현송 통화경제국장을 전격 지명했습니다. 신 후보자는 국제 금융계에서 이론과 실무를 겸비한 거시경제 전문가로 평가받으며, 특히 글로벌 금융위기 당시 외환 보유액 확충의 중요성을 강조했던 인물입니다.\n\n시장에서는 신 후보자를 물가 안정을 중시하는 '매파(통화 긴축 선호)' 성향으로 분류하고 있습니다. 현재 인플레이션 압력이 지속되고 중동발 지정학적 리스크로 환율 변동성이 큰 상황에서, 그의 지명은 향후 한국의 기준금리 결정 및 통화정책 기조에 상당한 영향을 미칠 것으로 분석됩니다.\n\n신 후보자가 국회 인사청문회를 거쳐 최종 임명될 경우, 급변하는 글로벌 경제 환경 속에서 한국의 자본 유출 방지와 금융 안정을 도모해야 하는 막중한 과제를 안게 됩니다. 전문가들은 그의 국제적 네트워크가 한국 경제의 대외 신인도를 높이는 데 기여할 것으로 기대하고 있습니다.",
             "image_prompt": "Central bank building, Professional economist, Monetary policy chart, Financial stability",
             "published_at": "2026-03-22 18:29:52",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 전쟁 장기화, 한국 경제 '무역·내수 이중 충격' 우려 확산",
@@ -334,7 +389,7 @@
             "content": "이스라엘과 하마스 간의 전쟁이 장기화 조짐을 보이면서 한국 경제에 미치는 부정적인 영향이 가시화되고 있습니다. 특히 에너지 수입 의존도가 높은 한국의 특성상 국제 유가 상승은 무역 수지 악화와 제조 원가 상승으로 직결되어 수출 경쟁력을 약화시킬 가능성이 큽니다.\n\n또한 물가 상승은 가계의 실질 소득을 감소시켜 내수 소비를 위축시키는 '이중 충격'으로 작용하고 있습니다. 이미 고금리로 인해 위축된 국내 소비 심리가 전쟁으로 인한 불확실성까지 더해지며 경기 회복의 발목을 잡고 있다는 분석이 지배적입니다.\n\n이에 따라 경상북도와 오산시 등 주요 지자체들은 '비상경제 대응 정책패키지'를 마련하거나 TF를 가동하는 등 지역 경제 피해 최소화를 위한 선제적 조치에 나서고 있습니다. 정부 차원에서도 중동 사태의 전개 방향에 따른 시나리오별 대응책 마련이 시급한 시점입니다.",
             "image_prompt": "Middle East map background, Oil barrels, Economic red alert, Trade port silhouette",
             "published_at": "2026-03-22 18:29:52",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미국 경제학자 경고 \"4~5년 내 장기 금리 급등 동반한 금융 충격 올 것\"",
@@ -345,7 +400,7 @@
             "content": "미국의 주요 경제 석학들이 향후 4~5년 이내에 글로벌 금융 시장이 심각한 충격에 직면할 수 있다는 강력한 경고 메시지를 보냈습니다. 이들은 특히 장기 금리의 급격한 상승이 부채가 많은 경제 주체들에게 치명적인 타격을 입힐 수 있다고 지적했습니다.\n\n최근 몇 년간 지속된 저금리 기조 속에서 축적된 글로벌 부채 폭탄이 금리 인상 사이클과 맞물려 터질 수 있다는 분석입니다. 만약 장기 금리가 예상치를 상회하여 급등할 경우, 부동산 및 금융 자산 가격의 거품이 빠지면서 연쇄적인 뱅크런이나 기업 부도가 발생할 위험이 있습니다.\n\n이러한 경고는 한국 경제에도 시사하는 바가 큽니다. 가계 부채 비율이 세계 최고 수준인 한국으로서는 금리 급등 시 상환 부담이 기하급수적으로 늘어날 수밖에 없기 때문입니다. 전문가들은 선제적인 부채 관리와 외환 건전성 확보가 미래의 충격을 대비하는 유일한 길이라고 조언합니다.",
             "image_prompt": "Rising interest rate graph, Hourglass, Financial crisis risk, Dark blue business atmosphere",
             "published_at": "2026-03-22 18:29:52",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국제 증시 불안 고조, 미 지상군 투입 시 '대규모 조정' 가능성",
@@ -356,7 +411,7 @@
             "content": "글로벌 금융 시장의 눈이 중동으로 쏠리고 있습니다. 미국이 중동 분쟁에 지상군을 직접 투입할 경우, 이는 전쟁의 규모가 걷잡을 수 없이 커지는 신호탄이 되어 뉴욕 증시와 상하이 증시 모두 대규모 조정을 겪을 것이라는 분석이 제기되었습니다.\n\n투자자들은 안전 자산인 달러와 금으로 자금을 이동시키고 있으며, 위험 자산으로 분류되는 주식 시장에서는 자금 이탈 현상이 가속화되고 있습니다. 특히 에너지 수급 불안이 전 세계적인 스태그플레이션(경기 침체 속 물가 상승)을 유발할 수 있다는 우려가 주가 하락의 하방 압력을 높이고 있습니다.\n\n국내 증시 또한 이러한 대외 변수에서 자유롭지 못합니다. 외국인 투자자들의 매도세가 이어지며 코스피 지수가 출렁이고 있는 가운데, 전문가들은 당분간 변동성이 극심한 장세가 지속될 것으로 보고 보수적인 투자 관점을 유지할 것을 당부하고 있습니다.",
             "image_prompt": "Stock market ticker down, Red candles, Global map overlay, Volatile trading screen",
             "published_at": "2026-03-22 18:29:52",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "스팩 합병 상장일 '주가 널뛰기' 심각…개인 투자자 주의보",
@@ -367,7 +422,7 @@
             "content": "기업인수목적회사(SPAC·스팩)와 합병하여 우회 상장하는 기업들의 상장 당일 주가 변동 폭이 비정상적으로 커지고 있어 금융당국과 시장의 우려가 깊어지고 있습니다. 상장 직후 주가가 공모가 대비 수배 급등했다가 순식간에 급락하는 이른바 '널뛰기' 장세가 빈번하게 발생하고 있기 때문입니다.\n\n이러한 현상은 특별한 호재보다는 투기적인 단타 매매 세력이 몰리면서 발생하는 경우가 많습니다. 특히 정보력이 부족한 개인 투자자들이 뒤늦게 고점에 진입했다가 큰 손실을 보는 사례가 속출하고 있어 '대출까지 받아 투자했는데 처참하게 깨졌다'는 탄식이 쏟아지고 있는 상황입니다.\n\n금융 전문가들은 스팩 합병 기업의 경우 실질적인 기업 가치를 꼼꼼히 따져봐야 한다고 강조합니다. 단순히 상장 첫날의 열기에 편승한 투자는 매우 위험하며, 시장의 과열 양상이 진정될 때까지 신중한 접근이 필요하다는 지적입니다.",
             "image_prompt": "Stock price chart volatility, Disappointed investor, Financial trading app, Bubble bursting concept",
             "published_at": "2026-03-22 18:29:52",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 전쟁 장기화에 韓경제 흔들···무역·내수 ‘이중 충격’",
@@ -378,7 +433,7 @@
             "content": "최근 중동 지역의 지정학적 리스크가 심화되면서 한국 경제 전반에 먹구름이 드리우고 있습니다. 원유 수입 의존도가 높은 한국 특성상 국제 유가 변동은 생산 물가 상승으로 이어지며, 이는 결국 수출 경쟁력 약화와 무역 수지 악화라는 결과로 나타나고 있습니다. 특히 에너지 비용 상승은 제조업 전반의 비용 부담을 가중시키고 있습니다.\n\n내수 시장 역시 고물가와 고금리의 영향으로 얼어붙고 있습니다. 중동발 불확실성이 소비자 심리를 위축시키면서 가계 소비가 줄어들고 있으며, 이는 자영업자와 중소기업의 매출 감소로 이어지는 악순환을 낳고 있습니다. 대구시와 경북도 등 지자체들이 비상 대응책 마련에 분주한 이유도 이러한 지역 경제 타격을 최소화하기 위함입니다.\n\n정부와 전문가들은 이번 사태가 단기에 그치지 않을 가능성에 주목하고 있습니다. 공급망의 다변화와 에너지 자립도 향상이 시급한 과제로 떠오르고 있으며, 환율 변동성에 대비한 금융 시장의 모니터링 강화가 절실한 시점입니다. 대외 의존도가 높은 우리 경제 구조상 글로벌 변동성에 대한 선제적 방어 기제 마련이 그 어느 때보다 중요해졌습니다.",
             "image_prompt": "Middle East conflict, oil barrels, falling economy graph, global trade ship, sunset atmosphere",
             "published_at": "2026-03-22 15:48:20",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘BTS노믹스’가 온다···BTS 컴백에 경제 효과 3조원",
@@ -389,7 +444,7 @@
             "content": "K-팝의 상징인 BTS 멤버들의 순차적인 군 전역과 컴백 소식에 'BTS 노믹스'에 대한 기대감이 최고조에 달하고 있습니다. 경제 전문가들은 이번 컴백이 단순히 음반 판매를 넘어 관광, 외식, 숙박, 굿즈 산업 등 전방위적인 경제 활성화를 이끌 것으로 내다보고 있습니다. 실제 공연이 열리는 지역의 호텔 예약이 매진되는 등 벌써부터 '낙수 효과'가 가시화되고 있습니다.\n\n현대경제연구원 등 주요 분석 기관에 따르면 BTS의 활동 재개로 인한 경제적 파급 효과는 약 3조 원에 육박할 것으로 추산됩니다. 전 세계 아미(ARMY)들의 한국 방문이 급증하면서 관광 수지가 개선되고, K-푸드와 K-패션에 대한 관심이 다시 한번 폭발하며 수출 증대 효과까지 거둘 수 있을 것으로 보입니다.\n\n정부와 관련 업계는 이러한 기회를 놓치지 않기 위해 다양한 마케팅과 인프라 정비에 나서고 있습니다. 광화문 등 주요 도심에서의 대규모 이벤트는 내수 진작의 '슈퍼 트리거' 역할을 할 것으로 기대됩니다. 문화 콘텐츠가 국가 경제의 핵심 동력임을 다시 한번 입증하는 사례가 될 것입니다.",
             "image_prompt": "K-pop stage, purple lights, massive crowd, money rain, global pop star silhouette",
             "published_at": "2026-03-22 15:48:20",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미 경제 석학 “4~5년 내 장기금리 급등 동반한 금융 충격올 것”",
@@ -400,7 +455,7 @@
             "content": "미국 경제 학계에서 향후 4~5년 이내에 심각한 금융 충격이 발생할 수 있다는 경고음이 나오고 있습니다. 주된 원인으로는 막대한 규모의 국가 부채와 지속적인 인플레이션 압박이 꼽힙니다. 장기 금리가 예상치 못한 수준으로 급등할 경우, 부채 비중이 높은 가계와 기업은 물론 금융 시스템 전반에 치명적인 타격을 줄 수 있다는 분석입니다.\n\n이러한 경고는 현재의 상대적인 경기 호조가 '폭풍 전야'일 수 있음을 시사합니다. 금리 인하 시점이 늦춰지고 고금리 기조가 장기화되면서 자산 가격의 거품이 빠지고 금융 기관들의 부실이 현실화될 수 있다는 시나리오입니다. 특히 신흥국 경제에 미치는 충격은 더욱 가혹할 것으로 예상됩니다.\n\n한국 경제 역시 이러한 글로벌 금융 리스크에서 자유로울 수 없습니다. 가계 부채 수준이 세계 최고 수준인 만큼 금리 변동에 극도로 취약한 구조이기 때문입니다. 선제적인 부채 관리와 금융 건전성 확보가 향후 닥칠지 모를 거대한 경제 파고를 넘기 위한 필수 과제로 제시되고 있습니다.",
             "image_prompt": "Financial graph, sudden spike, golden coins falling, stressed businessman, dark blue background",
             "published_at": "2026-03-22 15:48:20",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "정상 경제외교에 기업 목소리 반영…정부 '기업 헬프데스크' 가동",
@@ -411,7 +466,7 @@
             "content": "산업통상자원부는 정상 경제 외교의 실효성을 높이기 위해 '기업 헬프데스크'를 본격 가동한다고 밝혔습니다. 이는 기존의 정부 주도 외교에서 탈피하여 기업들이 현장에서 겪는 애로사항과 필요로 하는 의제를 국가 정상 간 회담에 직접 반영시키겠다는 적극적인 의지의 표명입니다.\n\n앞으로 기업들은 해외 진출 시 발생하는 규제 장벽이나 협력 필요 분야를 상시적으로 정부에 제안할 수 있게 됩니다. 정부는 이를 수렴해 정상 방문이나 경제 사절단 운영 시 핵심 의제로 다룰 예정입니다. 특히 중소·중견 기업들의 해외 시장 개척에 큰 힘이 될 것으로 보입니다.\n\n이러한 변화는 글로벌 공급망 재편과 보호무역주의 강화 흐름 속에서 민관 협력이 얼마나 중요한지를 보여줍니다. '기업 주도 성장'을 뒷받침하기 위해 정부가 외교적 역량을 총동원하겠다는 전략으로 해석되며, 향후 한국 기업들의 글로벌 경쟁력 강화에 실질적인 도움이 될 전망입니다.",
             "image_prompt": "Government meeting hall, corporate handshake, global map background, blue professional theme",
             "published_at": "2026-03-22 15:48:20",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"집 있는데 무주택자라고요?\"…아파트 청약 1순위 된 비결",
@@ -422,7 +477,7 @@
             "content": "최근 부동산 시장에서 청약 제도의 세부 규정을 활용한 이른바 '청약 테크'가 화제입니다. 주택을 소유하고 있음에도 불구하고 법적으로 무주택자로 간주되는 예외 규정들을 전략적으로 활용하는 사례가 늘고 있기 때문입니다. 이는 내 집 마련을 꿈꾸는 실수요자들에게 중요한 정보로 작용하고 있습니다.\n\n현행법상 소형·저가 주택을 소유하거나 만 60세 이상의 직계존속이 주택을 소유한 경우 등 특정 조건 하에서는 청약 시 무주택자로 인정받을 수 있습니다. 또한 상속으로 인해 공유 지분을 취득한 후 이를 처분하거나, 지방의 노후 주택을 보유한 경우에도 구제받을 수 있는 길이 열려 있습니다.\n\n하지만 이러한 규정은 매우 복잡하고 까다로워 철저한 사전 확인이 필수적입니다. 부적격 당첨으로 인한 불이익을 피하기 위해서는 전문가의 상담이나 정확한 규정 숙지가 선행되어야 합니다. 정부의 부동산 정책 변화에 따라 청약 조건이 수시로 바뀌는 만큼, 지속적인 모니터링이 필요한 시점입니다.",
             "image_prompt": "Modern apartment building, architectural blueprint, house key icon, real estate growth",
             "published_at": "2026-03-22 15:48:20",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘BTS노믹스’의 귀환, 컴백 경제 효과 3조 원 달할 전망",
@@ -433,7 +488,7 @@
             "content": "방탄소년단(BTS)의 멤버들이 군 복무를 마치고 완전체로 복귀함에 따라 이른바 'BTS노믹스'가 다시금 한국 경제의 활력소로 떠오르고 있습니다. 경향신문과 주요 매체들에 따르면, BTS의 컴백으로 인한 경제적 파급효과는 약 3조 원에 육박할 것으로 추산됩니다.\n\n특히 서울 광화문 등 주요 도심에서 열리는 대규모 공연은 하루에만 수천억 원의 소비를 창출할 수 있는 잠재력을 지니고 있습니다. 이는 단순히 티켓 판매 수익을 넘어 전 세계 팬들의 한국 방문으로 이어져 관광, 숙박, 외식업계 전반에 강력한 낙수효과를 제공합니다.\n\n현재 유통가와 미디어 업계는 이러한 'BTS 특수'를 선점하기 위해 특별판 발행 및 관련 상품 기획에 박차를 가하고 있습니다. 전문가들은 BTS의 복귀가 침체된 내수 시장을 깨우는 결정적인 '슈퍼 트리거' 역할을 할 것으로 분석하며, 문화 콘텐츠가 국가 경제에 미치는 영향력을 다시금 입증하고 있다고 평가합니다.",
             "image_prompt": "BTS world tour, purple stadium lights, economic growth chart, global fan crowd, K-pop influence",
             "published_at": "2026-03-22 13:50:26",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美 경제 석학 경고, \"4~5년 내 장기금리 급등과 금융 충격 올 것\"",
@@ -444,7 +499,7 @@
             "content": "미국의 주요 경제 석학들이 향후 4~5년 이내에 전 세계 경제를 뒤흔들 수 있는 강력한 금융 충격이 닥칠 것이라는 비관적인 전망을 내놓았습니다. 조선일보 보도에 따르면, 이들은 특히 장기 금리의 급격한 상승이 금융 시장의 뇌관이 될 것이라고 지적했습니다.\n\n이러한 경고는 현재의 인플레이션 대응 과정에서 누적된 부채와 통화 정책의 불확실성이 임계점에 도달하고 있음을 시사합니다. 장기 금리가 급등할 경우 기업의 자금 조달 비용이 폭증하고 가계의 이자 부담이 심화되어, 자산 가격 거품이 꺼지는 충격이 발생할 수 있습니다.\n\n한국 경제 역시 이러한 글로벌 흐름에서 자유롭지 못합니다. 한국무역협회 등 경제 단체들도 이러한 석학들의 경고에 주목하며 국내 금융 시스템의 회복탄력성을 점검해야 한다고 강조하고 있습니다. 선제적인 금리 리스크 관리와 가계부채의 구조적 개선이 향후 닥쳐올 충격을 완화하는 핵심 과제가 될 전망입니다.",
             "image_prompt": "Global financial crisis, rising interest rate graph, red down arrow, stock market wall, dramatic lighting",
             "published_at": "2026-03-22 13:50:26",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 전쟁 장기화, 韓 경제 무역·내수 ‘이중 충격’ 비상",
@@ -455,7 +510,7 @@
             "content": "중동 지역의 분쟁이 장기화 국면에 접어들면서 한국 경제가 무역 수지 악화와 내수 부진이라는 '이중 충격'에 직면했습니다. 시사저널e의 분석에 따르면, 에너지 가격의 불확실성은 제조원가 상승으로 이어져 우리 기업들의 글로벌 수출 경쟁력을 약화시키고 있습니다.\n\n동시에 높은 물가 수준이 유지되면서 실질 구매력이 감소한 소비자들의 지갑이 닫히고 있습니다. 이는 유통 및 서비스업 등 내수 시장의 회복을 저해하는 요인이 됩니다. 경상북도와 같은 지자체들은 이러한 경제 충격을 최소화하기 위해 '3대 분야 정책 패키지'를 마련하는 등 자구책 마련에 분주합니다.\n\n정부와 유관 기관들은 공급망 다변화와 에너지 수급 모니터링을 강화하고 있으나, 대외 변수에 취약한 한국 경제의 특성상 리스크 관리에 한계가 있다는 우려도 나옵니다. 민관의 긴밀한 협력을 통한 시나리오별 대응 전략 구축이 절실한 시점입니다.",
             "image_prompt": "Oil refinery fire, cargo ship in storm, Middle East tension, economic pressure, dark industrial landscape",
             "published_at": "2026-03-22 13:50:26",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "기업 목소리 담는 '정상 경제외교', 비즈니스 헬프데스크 가동",
@@ -466,7 +521,7 @@
             "content": "정부가 국가 정상 간의 외교를 실질적인 비즈니스 성과로 연결하기 위해 '정상 경제외교 헬프데스크'를 본격적으로 가동합니다. 기존의 하향식(Top-down) 방식에서 벗어나, 기업들이 현장에서 느끼는 애로사항과 필요한 의제를 사전에 제안하는 상향식 방식으로 전환하는 것이 골자입니다.\n\n연합인포맥스에 따르면, 이제 기업들은 해외 진출 시 마주하는 규제나 시장 장벽을 정부에 직접 전달하고, 이를 정상 외교의 공식 의제로 채택할 수 있게 됩니다. 이는 글로벌 보호무역주의가 심화되는 상황에서 민관이 한 팀이 되어 전략적으로 시장을 개척하기 위한 조치입니다.\n\n정부는 이를 통해 우리 기업들이 해외 대형 프로젝트를 수주하거나 기술 협력을 체결하는 데 있어 강력한 뒷받침을 제공할 계획입니다. 경제 외교가 단순한 협력 선언을 넘어 실질적인 경제적 이익으로 환산될 수 있도록 지원 체계를 고도화할 방침입니다.",
             "image_prompt": "Business handshake, global summit, office building reflections, world map background, professional blue tone",
             "published_at": "2026-03-22 13:50:26",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"유주택자도 1순위 가능?\"... 복잡한 청약 제도 속 기회 찾기",
@@ -477,7 +532,7 @@
             "content": "최근 아파트 청약 시장의 규정이 세분화되면서, 실제로는 집을 소유하고 있음에도 법적으로 '무주택자' 지위를 인정받아 1순위 청약에 나설 수 있는 비결이 주목받고 있습니다. 한국경제의 보도에 따르면, 소형·저가 주택 소유자나 상속 공유지분 소분자 등에 대한 예외 조항이 실수요자들에게 중요한 기회가 되고 있습니다.\n\n청약 가점제 시스템 하에서 무주택 기간은 당첨 여부를 결정짓는 핵심 요소입니다. 따라서 본인이 소유한 주택이 공시가격이나 전용면적 기준에 따라 무주택으로 간주될 수 있는지 여부를 정확히 파악하는 것이 '내 집 마련' 전략의 첫걸음입니다.\n\n전문가들은 청약 홈 등을 통해 본인의 자격 요건을 수시로 확인하고, 바뀌는 부동산 정책과 예외 규정을 꼼꼼히 체크할 것을 권고합니다. 잘못된 자격 산정으로 인한 '부적격 당첨'은 향후 청약 제한 등 불이익을 초래할 수 있으므로 각별한 주의가 필요합니다.",
             "image_prompt": "Modern apartment building, real estate contract, house keys, architectural blueprint, professional document",
             "published_at": "2026-03-22 13:50:26",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제뭔데] ‘BTS노믹스’가 온다···BTS 컴백에 경제 효과 3조원",
@@ -488,7 +543,7 @@
             "content": "방탄소년단(BTS)의 활동 재개가 한국 경제의 강력한 '슈퍼 트리거'로 부상하고 있습니다. 업계 전문가들은 이번 컴백과 관련 공연들이 유발할 직접적인 티켓 매출뿐만 아니라 관광객 유입, 굿즈 판매, 그리고 국가 브랜드 이미지 제고를 통한 수출 증대 효과까지 합치면 그 규모가 약 3조 원에 이를 것으로 추산하고 있습니다.\n\n서울 광화문 등 주요 도심에서 펼쳐지는 대규모 공연은 하루에만 수천억 원의 소비를 창출할 수 있다는 분석이 나옵니다. 전 세계에서 몰려드는 팬들이 숙박, 외식, 교통 등 서비스업 전반에 활력을 불어넣으며 내수 진작에 크게 기여할 것으로 기대됩니다.\n\n정부와 지자체 역시 이를 'BTS노믹스'라 칭하며 환영하는 분위기입니다. 단순한 대중음악 공연을 넘어 한국의 문화적 역량을 과시하고 이를 경제적 부가가치로 연결시키는 고도의 전략적 이벤트로 평가받고 있으며, 이는 고물가와 저성장으로 침체된 국내 경기에 단비가 될 전망입니다.\n\n다만 이러한 일시적인 특수가 장기적인 경제 성장으로 이어지기 위해서는 팬덤 중심의 소비를 일반 관광 및 연관 산업으로 확장시키는 정교한 정책적 뒷받침이 필요하다는 지적도 함께 제기되고 있습니다.",
             "image_prompt": "BTS concert, Gwanghwamun city view, massive crowd, neon purple lights, economic growth chart",
             "published_at": "2026-03-22 11:00:26",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이란 전쟁 6월 전 안끝나면 스태그플레이션 우려 '韓 경제 치명상'",
@@ -499,7 +554,7 @@
             "content": "중동 지역의 군사적 긴장감이 고조되면서 한국 경제에 '스테그플레이션(Stagflation)'의 먹구름이 짙게 드리우고 있습니다. 만약 이란과 이스라엘 간의 갈등이 오는 6월까지 해결되지 않고 장기화될 경우, 국제 유가가 배럴당 100달러를 상회하며 국내 물가를 자극할 위험이 큽니다.\n\n우리나라는 에너지 수입 의존도가 높기 때문에 고유가는 즉각적인 생산 원가 상승과 소비 위축으로 이어집니다. 물가는 오르는데 경제 성장은 멈추는 최악의 시나리오가 현실화될 경우, 수출 주도형인 한국 경제 구조상 치명적인 타격이 불가피하다는 것이 전문가들의 중론입니다.\n\n특히 공급망 교란으로 인한 원자재 가격 상승은 제조업 전반의 수익성을 악화시키고 있습니다. 기업들은 투자 계획을 보수적으로 수정하고 있으며, 가계는 실질 소득 감소로 인해 지갑을 닫고 있는 상황입니다.\n\n정부는 이에 대비해 비상 경제 점검 체계를 가동하고 원유 수급 다변화와 물가 안정 대책을 마련 중입니다. 하지만 대외 변수가 워낙 강력하여 국내 정책만으로는 한계가 있다는 우려가 나오며 시장의 불안감은 사그라지지 않고 있습니다.",
             "image_prompt": "Oil refinery, Middle East map, red inflation arrow, dark stormy sky, economic crisis",
             "published_at": "2026-03-22 11:00:26",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경북도, 중동발 경제충격 ‘3대 분야 정책패키지’로 대응",
@@ -510,7 +565,7 @@
             "content": "대구시와 경상북도가 중동 전쟁 가능성으로 인한 지역 경제 충격을 최소화하기 위해 '3대 분야 정책 패키지'를 발표하며 발 빠른 대응에 나섰습니다. 이번 대책은 수출 기업 지원, 장바구니 물가 관리, 그리고 에너지 수급 안정에 초점을 맞추고 있습니다.\n\n먼저 지역 내 수출 기업들을 위해 물류비 지원을 확대하고 중동 지역 거래처 단절에 따른 피해를 보전하기 위한 긴급 경영자금을 투입합니다. 특히 원자재 가격 상승으로 경영난을 겪는 중소기업들에게 특례 보증을 제공하여 유동성 위기를 방지한다는 계획입니다.\n\n물가 분야에서는 공공요금 인상을 최대한 억제하고 민간 유통망과 협력해 생필품 수급을 집중 모니터링합니다. 이는 중동발 유가 상승이 지역 서민 경제에 미칠 영향을 차단하기 위한 조치입니다. 에너지 분야 역시 비상 수급 점검반을 가동해 취약 계층의 난방비 부담 등을 살필 예정입니다.\n\n이철우 경북도지사는 \"대외적인 악재가 지역 경제의 발목을 잡지 않도록 가용한 행정력을 총동원하겠다\"고 강조하며, 현장의 목소리를 실시간으로 반영하는 경제활성화 TF의 역할을 확대하겠다고 밝혔습니다.",
             "image_prompt": "Korean government office, blue seals, economic policy documents, handshake, stability",
             "published_at": "2026-03-22 11:00:26",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"몰빵 투자했는데 어쩌죠\"…대박 꿈꾸던 개미들 '화들짝'",
@@ -521,7 +576,7 @@
             "content": "주식 시장의 변동성이 커지면서 특정 종목에 자산을 집중한 이른바 '몰빵 투자자'들의 시름이 깊어지고 있습니다. 특히 대출을 받아 투자에 나섰던 '빚투' 개미들은 주가 하락과 이자 부담이라는 이중고에 시달리며 처참한 수익률을 기록하고 있는 상황입니다.\n\n최근 반도체나 2차전지 등 특정 테마주에 개인 투자자들의 자금이 쏠렸으나, 글로벌 경기 불확실성이 커지며 해당 종목들이 급락하자 손실 폭이 걷잡을 수 없이 커졌습니다. 전문가들은 하락장에서 레버리지를 활용한 투자가 얼마나 위험한지를 여실히 보여주는 사례라고 지적합니다.\n\n온라인 투자 커뮤니티에는 손절 타이밍을 놓친 투자자들의 하소연이 잇따르고 있으며, 일부는 추가 하락을 견디지 못하고 강제 청산을 당하는 반대매매 공포에 떨고 있습니다. 이는 단순한 자산 감소를 넘어 가계 경제 전반의 위축으로 이어질 수 있어 사회적 우려를 낳고 있습니다.\n\n금융당국은 개인 투자자들에게 과도한 부채 기반 투자를 자제할 것을 권고하고 있으며, 시장의 변동성이 큰 시기일수록 분산 투자와 원칙 있는 자산 관리의 중요성이 재부각되고 있습니다. 대박을 꿈꾸던 시장 분위기는 어느새 생존을 걱정하는 냉혹한 현실로 바뀌었습니다.",
             "image_prompt": "Anxious investor, digital trading screen, falling red candles, empty wallet, office desk",
             "published_at": "2026-03-22 11:00:26",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이란 가스전 공격 및 '경제 전쟁' 선포에 따른 유가 급등 우려",
@@ -532,61 +587,6 @@
             "content": "이란 혁명수비대가 자국 내 최대 가스전 공격을 계기로 '경제 전쟁'을 선포하며 중동 정세가 극도로 불안정해지고 있습니다. 이번 사태는 단순히 국지적 충돌을 넘어 글로벌 에너지 공급망의 핵심을 타격하고 있으며, 이는 전 세계적인 인플레이션 압력을 가중시키는 직격탄이 될 것으로 보입니다.\n\n특히 가스 시설에 대한 보복 공격과 물리적 충돌은 에너지 가격의 불확실성을 증폭시키고 있습니다. 이란 측의 강경한 태도는 국제 사회의 우려를 낳고 있으며, 전문가들은 이러한 '경제 전면전' 양상이 장기화될 경우 세계 경제가 파탄에 이를 수 있다고 강력히 경고하고 나섰습니다.\n\n국내 경제 역시 에너지 수입 의존도가 높은 만큼, 이번 사태로 인한 유가 및 가스비 상승이 가계와 기업에 미칠 파급효과에 긴장하고 있습니다. 정부와 관련 기관은 에너지 수급 상황을 실시간으로 점검하며 최악의 시나리오에 대비한 비상 대책 마련에 박차를 가하고 있습니다.",
             "image_prompt": "Middle East conflict, burning gas field, oil refinery, economic war, dramatic sunset, smoke and fire",
             "published_at": "2026-03-21 21:42:37",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "3조 원 가치의 ‘BTS노믹스’ 귀환… 내수 경제 활력의 ‘슈퍼 트리거’",
-            "source": "경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BRU11dUVzVHU2UlRpVUZOV2htRVdJSFp3RVhTMzVFOWlpOEhQUTJKZnRTYzFFUnQ1LWlCNTNwZENpbEVGVW12OUZrNmd0ZzZ1aVdUU3RSYUQ5d9IBX0FVX3lxTFBzVmlsYjdxcHVERExCLU5RRDRLbXVSYm5WaW5NbGJrdVhtcFZhaTB3aGNySEFUWnRqbkdka0ROMl9ud1pYdEhPTGFnU3ZROVRKWmJYcTZ3MUQ5OU5CMGlr?oc=5",
-            "category": "시장",
-            "summary": "BTS 컴백과 공연에 따른 막대한 경제 생산 유발 효과 기대",
-            "content": "방탄소년단(BTS)의 컴백과 관련 공연 소식이 전해지면서 이른바 'BTS노믹스'가 한국 경제에 다시금 활력을 불어넣을 것으로 기대됩니다. 분석에 따르면 BTS의 활동 재개는 약 3조 원 규모의 경제적 파급 효과를 가져올 것으로 추산되며, 이는 침체된 내수 시장에 강력한 기폭제가 될 전망입니다.\n\n특히 서울 광화문 등 도심 지역에서 대규모 공연이나 행사가 개최될 경우, 단 하루 만에 수천억 원의 소비가 발생할 수 있다는 분석이 나옵니다. 숙박, 유통, 식음료 업계는 물론 굿즈와 관광 상품 등 연관 산업 전반에 걸쳐 막대한 수익 창출이 예상되어 경제계 전체가 들썩이고 있습니다.\n\n실제로 서울경제 특별판을 찾는 외국인 아미(ARMY)들의 행렬에서 볼 수 있듯이, BTS의 영향력은 단순한 대중문화를 넘어 'K-경제'를 견인하는 핵심 동력으로 작용하고 있습니다. 이번 컴백은 한국의 브랜드 가치를 높이는 동시에 관광객 유입과 외화 획득에도 크게 기여할 것으로 보입니다.",
-            "image_prompt": "K-pop concert, BTS members silhouette, vibrant purple lights, huge stadium crowd, economic growth, energetic city atmosphere",
-            "published_at": "2026-03-21 21:42:37",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "미 경제 석학의 경고, 4~5년 내 금리 급등 동반 금융 충격 가능성",
-            "source": "조선일보",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSml2VnMwOWNBUzEtWGNGYVhoUTZMd1BPRnhqeGlGMExpZGk2Z1JqSVNvQlRZOWEwU3JIazVRVXZLYUducDE4Mlg1dGM1bWE0SlphZXVVMFpub0ZsSDBCd1dfMGlBTVJ1Y1NzSW9BOHU5WWJTSGRGcFFPd2pRWVNLd2pLb1Jpd2R0MXZmZ3dB0gGiAUFVX3lxTE9lT0ZfdmRPOGc0ZDNPajY2WVdBRkhMVU1nMWRKNl9ScXM0Y1VwRER1OU9xRVp1YkI4Mm1UaU9ESFEtZVhmMVhJSmltT3h0YkNYcHE5Q0RjT0dWNHpiUWlvUDFYN0VnU2pMT1gxa0s2eEpscVFidWVwYUZlNXBCa3hORWFrd1hiSFBRdVU2MkhjLUJUSkI4Vi1CTkl0WklUZm1vUQ?oc=5",
-            "category": "금융",
-            "summary": "장기 금리 급등에 따른 글로벌 금융 위기 시나리오 제기",
-            "content": "미국 경제의 저명한 석학들이 향후 4~5년 내에 발생할 수 있는 잠재적 금융 충격에 대해 강력한 경고 메시지를 던졌습니다. 주된 요인은 장기 금리의 갑작스러운 급등으로, 이는 현재의 고금리 기조가 고착화되는 과정에서 자산 시장과 부채 구조에 심각한 무리를 줄 수 있다는 분석입니다.\n\n파월 연준 의장이 우려한 '최악의 상황'과 맞물려, 세계 경제에 닥칠 암울한 전망이 점차 구체화되고 있습니다. 금리 인상 사이클의 여파가 실물 경제에 본격적으로 반영되기 시작하면, 한계 기업의 도산과 금융 기관의 건전성 악화가 도미노 현상처럼 번질 가능성이 큽니다.\n\n이러한 금융 충격은 글로벌 자본 시장의 변동성을 극대화하며 투자 심리를 얼어붙게 할 수 있습니다. 전문가들은 개별 국가들이 금리 리스크 관리에 만전을 기해야 하며, 특히 부채 비중이 높은 경제 주체들은 다가올 금리 쇼크에 대비한 포트폴리오 재편과 선제적 대응이 필수적이라고 조언합니다.",
-            "image_prompt": "Jerome Powell, interest rate graph, falling stock market index, professional financial office, dark blue neon light, economic crisis theme",
-            "published_at": "2026-03-21 21:42:37",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "한국, '경제 미래 걱정' 전 세계 1위 등극… 심리 악화 심각",
-            "source": "v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EZGlGODlDVlg4OWt4NmRNcHJPT21IclBkX2FNdk9Lakc5dXdPOHBKdEFfM0s3cEhPczVyUTRUSkFQdnZzRG5xcW4yME5ybHc?oc=5",
-            "category": "정책",
-            "summary": "구조적 저성장 우려로 인한 한국인들의 미래 경제 불안감 최고조",
-            "content": "최근 조사에 따르면 한국인들의 경제 미래에 대한 우려 수준이 일본을 제치고 전 세계에서 가장 높은 것으로 나타났습니다. 이는 인구 고령화, 저출산 문제와 더불어 한국 경제의 성장 엔진이 식어가고 있다는 국민적 불안감이 반영된 결과로 풀이됩니다.\n\n대외적으로 중동 사태 등 글로벌 리스크가 겹치면서 경기 악화를 예상하는 심리 지수는 갈수록 나빠지고 있습니다. 특히 청년층의 일자리 문제와 골목 경제의 침체는 이러한 부정적 전망을 더욱 고착화시키는 요인으로 작용하고 있습니다.\n\n경제 심리의 악화는 소비 위축과 투자 감소로 이어지는 악순환을 초래할 위험이 큽니다. 정부는 단순히 수치상의 성장을 넘어, 국민들이 실질적으로 체감할 수 있는 경제 활성화 대책과 미래에 대한 희망을 줄 수 있는 구조적 개혁안을 시급히 제시해야 할 시점입니다.",
-            "image_prompt": "South Korean flag background, worried person silhouette, declining economic chart, gloomy urban city, realistic style",
-            "published_at": "2026-03-21 21:42:37",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "국제 유가 배럴당 180달러 전망… 호르무즈 해협 차질의 파급효과",
-            "source": "segye.com",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83VHpvTFVJajg3cjVCLURLTWxsOUNQR0c4MVdBRnhuUjZJZGlReVFMRVcxelU2QWd0WEpNRGpPa2M3d0JPNzhlcmt5UEdqTDVSVHV2M1ZGX2TSAVRBVV95cUxPd3ktZnRPQm85LXh3Z0ttRWhEVWVSMTZSRkdmV1ZWVjlra1ppYW1ObjhiSldjMENkT0o3cHU0YzNLVzM1RnlPMkJpTHBTYk9TRU1nNUk?oc=5",
-            "category": "에너지",
-            "summary": "호르무즈 해협 봉쇄 리스크에 따른 유가 폭등 및 공급망 대란 우려",
-            "content": "중동 전쟁의 여파로 세계 원유 수송의 혈맥인 호르무즈 해협 통행에 차질이 빚어질 경우, 국제 유가가 배럴당 180달러까지 폭등할 수 있다는 비관적 전망이 제기되었습니다. 이는 글로벌 경제에 2차 쇼크를 불러올 수 있는 초대형 악재로 평가됩니다.\n\n호르무즈 해협의 긴장은 단순히 유가 상승에 그치지 않고, 글로벌 공급망 전체의 물류 비용 상승과 원자재 수급 불균형을 야기합니다. 에너지 집약적 산업인 제조업과 항공, 물류 업계는 이미 비상 경영 체제에 돌입했으며, 전 세계적으로 생산 단가 인상에 따른 물가 폭등이 재현될 가능성이 높습니다.\n\n이번 '에너지 쇼크'는 전 세계적인 경기 후퇴(Recession)를 가속화할 수 있는 변수로 꼽힙니다. 각국은 비축유 방출과 에너지 수입선 다변화 등 방어책을 강구하고 있으나, 지정학적 갈등의 근본적인 해소 없이는 시장의 불안감을 잠재우기 어려울 것으로 보입니다.",
-            "image_prompt": "Strait of Hormuz map, giant oil tanker, ocean wave, industrial crane, supply chain disruption, cinematic lighting",
-            "published_at": "2026-03-21 21:42:37",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "유가 110弗·환율 1501원.. 세계 경제로 번진 중동戰",
-            "source": "v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TZTVMZ3dUbnI2VXEyNVYzSV9wSnZKTGRpZ3BIenJvS29qRWtTUjFlMWViV2lmeHVOY0ZwVDZUOFNsNTBuWXc?oc=5",
-            "category": "금융",
-            "summary": "중동 분쟁 확산으로 국제 유가와 환율이 급등하며 글로벌 경제 비상등이 켜졌습니다.",
-            "content": "중동 지역의 지정학적 리스크가 전면전 양상으로 치달으면서 국제 금융 시장이 요동치고 있습니다. 최근 이스라엘과 이란 간의 물리적 충돌은 에너지 공급망에 심각한 타격을 줄 수 있다는 공포를 확산시켰으며, 이는 즉각적인 유가 상승으로 이어졌습니다. 국제 유가는 배럴당 110달러 선을 위협하며 글로벌 인플레이션 압박을 가중시키고 있습니다.\n\n환율 시장 역시 안전 자산인 달러화 선호 현상이 강해지면서 원·달러 환율이 1,500원선을 돌파하는 등 심리적 저항선이 무너진 상태입니다. 이러한 고환율 상황은 수입 물가를 자극하여 국내 소비자 물가 상승의 주된 원인이 되고 있으며, 기업들의 채산성 악화로 이어질 가능성이 큽니다. 한국과 같이 에너지 수입 의존도가 높은 국가들에게는 치명적인 경제적 부담으로 작용하고 있습니다.\n\n전문가들은 이번 중동 사태가 장기화될 경우 세계 경제가 '스태그플레이션(경기 침체 속 물가 상승)'의 늪에 빠질 수 있다고 경고합니다. 공급망 교란이 단순히 에너지에 그치지 않고 식량 및 원자재 전반으로 확산될 수 있기 때문입니다. 주요국 중앙은행들이 금리 인하 시점을 늦추거나 오히려 추가 긴축을 고민해야 하는 딜레마에 빠지면서 시장의 변동성은 당분간 지속될 전망입니다.",
-            "image_prompt": "Oil refinery, dramatic sunset, currency chart rising, global crisis, dark aesthetic",
-            "published_at": "2026-03-21 18:29:39",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
