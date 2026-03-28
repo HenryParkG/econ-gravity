@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-28 10:57:31",
-    "briefing": "중동발 지정학적 리스크로 인한 고유가와 인플레이션 공포가 확산되며 한국 경제의 복합 위기론이 고조되고 있습니다. 이러한 위기 상황을 돌파할 핵심 동력으로 AI 기술 혁신과 초협업이 강조되는 가운데, 정부는 민생 안정을 위한 대규모 재정 투입을 검토하고 있습니다.",
+    "last_updated": "2026-03-28 13:52:26",
+    "briefing": "중동 분쟁 격화에 따른 고유가와 인플레이션 공포가 한국 경제의 불확실성을 높이고 있으나, 이를 극복하기 위한 AI 기반의 산업 혁신과 대규모 민생 안정 자금 투입이 동시에 추진되고 있습니다. 특히 글로벌 기술 패권 경쟁 속에서 로봇과 우주 산업 등 미래 먹거리 선점을 위한 투자와 전략적 협업이 경제 회복의 핵심 열쇠로 주목받는 흐름입니다.",
     "indices": [
         {
             "name": "KOSPI",
@@ -40,6 +40,61 @@
     ],
     "items": [
         {
+            "title": "유가 87% 폭등·스태그플레이션 공포… 한국 경제 직격탄",
+            "source": "글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY21FMFpKRTdrZ0VldFRoSFRlc3NWLW5odmw2c29WZlJvNnVNV0JLMURQczAwZ2xHTFFsVjBVN2NWTjg4YkloSW5CQjJ6RVRpamhzNEVyTl9Wem5KVnNUdTBKb0p6X2g0dzVSRzJ3Q1RJQVVWRFQ1dl9DeHZaVUNSLVU4ME1vTUs1?oc=5",
+            "category": "시장",
+            "summary": "중동 전쟁 위기로 인한 국제 유가 급등과 스태그플레이션 위협이 한국 경제에 심각한 도전 과제가 되고 있습니다.",
+            "content": "이스라엘과 이란 간의 갈등이 전면전 양상으로 치달으면서 국제 에너지 시장이 요동치고 있습니다. 특히 호르무즈 해협 봉쇄 가능성이 제기되면서 유가가 배럴당 100달러를 상회할 수 있다는 경고가 나오고 있으며, 이는 에너지 수입 의존도가 높은 한국 경제에 생산 원가 상승과 소비 위축이라는 이중고를 안겨주고 있습니다.\n\n정부는 현재 유류세 인하 조치 연장 등 단기적인 처방을 내놓고 있지만, 글로벌 공급망 불안이 장기화될 경우 물가는 오르고 성장은 정체되는 '스태그플레이션' 진입이 불가피하다는 전문가들의 분석이 지배적입니다. 특히 석유화학, 조선, 항공 등 유가 민감 업종의 수익성 악화가 실물 경제 전반으로 전이될 가능성이 큽니다.\n\n이에 따라 금융당국과 관련 부처는 비상대응체계를 가동하여 실시간 모니터링을 강화하고 있습니다. 기업들 역시 에너지 효율화와 공급망 다변화를 통해 리스크 관리에 나서고 있지만, 지정학적 변동성이 워낙 커 예측 불가능한 상황이 지속되고 있습니다.\n\n향후 4월 중순이 이번 사태의 분수령이 될 것으로 보이며, 미 연준의 금리 정책과 맞물려 환율 변동성까지 확대될 경우 한국의 수출 경쟁력에도 상당한 타격이 예상됩니다. 정부의 보다 정교한 거시경제 운용 능력이 요구되는 시점입니다.",
+            "image_prompt": "Oil refinery, Middle East conflict, Inflation graph, Dark factory silhouette, Economic crisis",
+            "published_at": "2026-03-28 13:52:26",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"한국 경제가 복합위기를 건널 키워드는 AI와 초협업\"",
+            "source": "아이뉴스24",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jN1JWeE03QjhWRDJQY2dXSzUxVGpEUzZDcldoNU13S2cxTS1CQ1hudXBLdzM5clZMMFhJY1RLaU54Vm5qckhXV0lNa1Y?oc=5",
+            "category": "테크",
+            "summary": "저성장과 공급망 위기를 돌파하기 위해 인공지능(AI) 기술과 기업 간 '초협업'이 한국 경제의 새로운 성장 모델로 제시되었습니다.",
+            "content": "한국 경제가 직면한 인구 감소와 생산성 저하라는 구조적 문제를 해결하기 위해 AI 기술 도입이 단순한 선택이 아닌 생존의 필수 조건으로 부상했습니다. 최근 열린 경제 포럼에서는 개별 기업의 노력을 넘어선 산업 간, 기업 간 '초협업' 시스템 구축이 위기 극복의 핵심이라는 주장이 제기되었습니다.\n\n전문가들은 AI가 단순한 기술적 도구를 넘어 제조, 금융, 유통 등 산업 전반의 효율성을 획기적으로 개선할 수 있는 게임 체인저라고 강조합니다. 특히 한국의 강점인 하드웨어 제조 능력에 소프트웨어 AI를 결합하는 방식의 국가적 전략 수립이 시급하다는 지적입니다.\n\n또한 '초협업'은 대기업과 중소기업, 그리고 학계와 정부가 데이터와 자원을 공유하며 생태계를 만드는 것을 의미합니다. 이를 통해 폐쇄적인 산업 구조를 탈피하고 글로벌 시장에서의 기술 표준을 선점하는 전략이 필요합니다.\n\n정부 역시 AI 산업 육성을 위한 규제 완화와 인프라 투자를 약속하며 민간 주도의 혁신을 뒷받침할 계획입니다. 결국 AI를 얼마나 빠르게 산업 현장에 이식하고 협력 모델을 만들어내느냐가 향후 한국 경제의 10년을 결정지을 전망입니다.",
+            "image_prompt": "Artificial Intelligence, Digital connection, Business collaboration, Futuristic circuit, Blue neon light",
+            "published_at": "2026-03-28 13:52:26",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "제프리스 \"휴머노이드 로봇, 곧 경제 장악할 것\"",
+            "source": "연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWkpVZVk0ZlJnUGc5Z1pIeFVEdmtueGxWYVlsVzVnaHByMDJva2Y4a2plbjdzQlh1SXpxdVMtTEVQdEp4QjNQZFg3aFNIQjV0MmcyQk9PTkZSWWR1VHNXek5ZRmVuTVdnckU3eHRsai3SAXRBVV95cUxPMTBlV0Fsa3RucmJUWl9rZUZ6eUNJWmY0VVY1R2VxZE1hRmpWX3FXWXJEQUh6VEVTM1NUZ3BTdHoweUppXzFOLVpXbDVISkZaRktUc0IxdDlBOW1OelRkWnlMY3FRX3Q2aHlOaHg2dW9nVE9lQw?oc=5",
+            "category": "테크",
+            "summary": "글로벌 투자은행 제프리스는 휴머노이드 로봇 기술이 노동력 부족 문제를 해결하며 글로벌 경제의 주도권을 잡을 것으로 예측했습니다.",
+            "content": "테슬라의 '옵티머스'를 필두로 한 휴머노이드 로봇 열풍이 단순한 기술 시연을 넘어 실질적인 경제적 가치 창출 단계로 진입하고 있습니다. 제프리스의 보고서에 따르면, 로봇의 손재주와 학습 능력이 비약적으로 발전하면서 제조 공정뿐만 아니라 가사 노동, 의료 서비스 분야까지 로봇이 투입될 준비를 마쳤습니다.\n\n로봇 산업의 확산은 특히 한국과 같이 고령화로 인해 생산 가능 인구가 급격히 감소하는 국가들에게 강력한 해결책을 제시합니다. 인건비 상승 압박을 느끼는 기업들에게 로봇은 초기 투자 비용은 높지만 장기적으로 일관된 생산성을 보장하는 가장 효율적인 자산이 될 것입니다.\n\n현재 로봇 시장은 AI 엔진의 발전과 더불어 센서, 감속기, 배터리 등 하드웨어 밸류체인의 동반 성장을 이끌고 있습니다. 투자 전문가들은 소프트웨어 중심의 AI 열풍이 이제는 물리적 세계에서 동작하는 로봇 하드웨어로 옮겨가고 있다고 진단합니다.\n\n이러한 흐름 속에서 한국 기업들도 로봇 부품 및 조립 기술 분야에서 경쟁력을 확보하기 위한 투자를 확대하고 있습니다. 휴머노이드 로봇은 단순한 기계가 아니라 경제 구조 자체를 재편하는 차세대 인프라로 자리매김할 것으로 보입니다.",
+            "image_prompt": "Humanoid robot, Automated factory, Robotic arm, High-tech laboratory, Precision engineering",
+            "published_at": "2026-03-28 13:52:26",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "25조 투입해 韓 경제 살린다…당정, 빚 없는 ‘전쟁 추경’ 협의",
+            "source": "매거진한경",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JTkZDZ0dKUFVkdHhuQXpJZEpUaW4xZmJqdlJpd1BxOUdDdGdOaDZ5Y3JkeDdQbmhQZzlUS1BxYUNXZFJSamhOM2x1S0EzRzZhZVReadyBClBxeUl4WFJKTE0xTVFMQkdPVmlyRTI5VQ?oc=5",
+            "category": "정책",
+            "summary": "정부와 여당이 민생 경제 회복과 소상공인 지원을 위해 국채 발행 없이 25조 원 규모의 대규모 재정을 투입하는 방안을 추진합니다.",
+            "content": "고물가와 고금리로 고통받는 서민 경제를 살리기 위해 정부가 특단의 조치를 검토하고 있습니다. 이번에 협의 중인 25조 원 규모의 재정 지원은 소상공인의 채무 부담 경감, 전통시장 활성화, 저소득층 취약계층 보호 등에 집중될 예정입니다.\n\n특히 눈에 띄는 점은 추가적인 국채 발행 없이 초과 세수나 기금 여유 재원 등을 활용하여 '나랏빚'을 늘리지 않는 방식으로 재원을 조달하겠다는 방침입니다. 이는 건전 재정 기조를 유지하면서도 시급한 민생 현안에 대응하겠다는 정부의 의지가 반영된 것입니다.\n\n이번 지원책은 단순한 현금 지원보다는 대출 이자 감면, 에너지 비용 지원, 내수 소비 진작을 위한 바우처 확대 등 실질적인 경영난을 해소할 수 있는 맞춤형 프로그램으로 구성될 것으로 보입니다. 이를 통해 내수 경기의 연착륙을 유도하겠다는 전략입니다.\n\n당정은 조속한 시일 내에 구체적인 예산 배분안을 확정하고 국회 협의를 거쳐 현장에 자금을 집행할 계획입니다. 전문가들은 이번 조치가 침체된 소비 심리에 불을 지피는 마중물 역할을 할 수 있을지 주목하고 있습니다.",
+            "image_prompt": "Korean currency bills, Government building, Market street, Financial relief, Handshake agreement",
+            "published_at": "2026-03-28 13:52:26",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "“스페이스X 수혜주 찾아라”...재평가받는 우주 밸류체인",
+            "source": "매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdlkyZUxXTFdmSHd6c1lnN3dlTFZ3YThzRGI1QjdTM3NlNmoxR1R6elFGZ0dfQmkwQ09oVWx1dzlJX2c2cHZ5SkVsdmtKajBBV05leA?oc=5",
+            "category": "시장",
+            "summary": "일론 머스크의 스페이스X가 보여준 성과로 인해 국내외 우주 산업 관련 기업들에 대한 투자 가치가 새롭게 조명받고 있습니다.",
+            "content": "과거 정부 주도로 이루어지던 우주 산업이 민간 중심의 '뉴스페이스' 시대로 완전히 전환되면서, 관련 공급망(밸류체인) 기업들에 대한 투자자들의 관심이 뜨겁습니다. 특히 스페이스X의 재사용 로켓 기술과 저궤도 위성 통신망인 '스타링크'의 성공은 우주 산업이 수익성이 있는 비즈니스임을 증명했습니다.\n\n이에 따라 위성 안테나, 발사체 부품, 지상국 장비 등을 제조하는 국내 기술 강소기업들이 주목받고 있습니다. 이들은 글로벌 우주 기업들의 파트너로서 기술력을 인정받고 있으며, 향후 6G 통신 및 자율주행 기술과의 연계성을 고려할 때 성장 잠재력이 매우 높다는 평가입니다.\n\n시장 전문가들은 우주 산업이 더 이상 먼 미래의 이야기가 아니라 실질적인 매출이 발생하는 '성장 산업'으로 자리 잡았다고 분석합니다. 다만 기술 진입 장벽이 높고 막대한 R&D 비용이 소요되는 만큼, 독보적인 원천 기술을 보유한 기업 중심으로 옥석 가리기가 진행될 전망입니다.\n\n정부 역시 '우주항공청' 개청을 통해 관련 산업을 국가 전략 산업으로 육성하겠다는 의지를 보이고 있어, 민간 투자는 더욱 활발해질 것으로 보입니다. 우주는 이제 단순한 탐사의 대상이 아닌, 새로운 경제 영토로 확장되고 있습니다.",
+            "image_prompt": "Space rocket launch, Satellite in orbit, Starry night galaxy, Tech stock charts, Futuristic aerospace",
+            "published_at": "2026-03-28 13:52:26",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "유가 폭등과 스태그플레이션 공포, 한국 경제 ‘복합 위기’ 직격탄",
             "source": "g-enews.com",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY21FMFpKRTdrZ0VldFRoSFRlc3NWLW5odmw2c29WZlJvNnVNV0JLMURQczAwZ2xHTFFsVjBVN2NWTjg4YkloSW5CQjJ6RVRpamhzNEVyTl9Wem5KVnNUdTBKb0p6X2g0dzVSRzJ3Q1RJQVVWRFQ1dl9DeHZaVUNSLVU4ME1vTUs1?oc=5",
@@ -48,7 +103,7 @@
             "content": "최근 이란과 이스라엘 간의 갈등이 격화되면서 국제 유가가 배럴당 100달러를 넘보고 있습니다. 특히 호르무즈 해협의 봉쇄 가능성까지 제기되면서 에너지 수입 의존도가 높은 한국 경제에는 비상등이 켜졌습니다. 휘발유 가격이 리터당 2,000원을 돌파할 것이라는 전망이 나오면서 가계 소비 위축도 불가피해 보입니다.\n\n정부와 민간 전문가들은 물가 전망치를 일제히 상향 조정하는 반면, 경제 성장률 전망치는 하향 조정하며 '스태그플레이션(Stagflation)'의 위험성을 경고하고 있습니다. 고물가로 인해 금리 인하 시점이 늦춰질 가능성이 커지면서 기업들의 투자 심리도 위축되고 있는 실정입니다.\n\n수출 지표가 일부 개선되는 흐름을 보였으나, 고환율과 고유가라는 '배드 뉴스'가 겹치면서 실질적인 경기 회복세는 체감하기 어렵다는 분석이 지배적입니다. 대외 불확실성이 극에 달한 상황에서 한국 경제가 이 파고를 어떻게 넘길지가 향후 경제 흐름의 최대 관건이 될 것입니다.",
             "image_prompt": "Oil barrels, rising red arrow, Middle East map, financial crisis atmosphere",
             "published_at": "2026-03-28 10:57:31",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국 경제 위기 돌파구는 ‘AI와 초협업’… 산업 패러다임 전환 가속",
@@ -59,7 +114,7 @@
             "content": "국내 주요 경제 전문가들은 한국 경제가 직면한 저성장과 고물가의 복합 위기를 타개하기 위해 인공지능(AI) 중심의 산업 재편이 필수적이라고 입을 모으고 있습니다. 단순히 기술 도입에 그치는 것이 아니라, 전 산업 분야에 AI를 이식하여 생산성을 혁신적으로 높여야 한다는 주장입니다.\n\n특히 주목받는 키워드는 '초협업'입니다. 개별 기업의 힘만으로는 글로벌 공급망 위기와 기술 경쟁을 이겨낼 수 없기에, 기업 간, 그리고 민관 간의 경계를 허무는 협력이 강조되고 있습니다. 반도체, 배터리 등 핵심 산업에서 국내외 기업들이 전략적 동맹을 맺는 사례가 늘어나는 것도 이러한 흐름의 일환입니다.\n\nAI는 단순한 도구가 아니라 국가 경쟁력을 결정짓는 핵심 인프라로 인식되고 있습니다. 데이터 확보부터 컴퓨팅 파워, 그리고 이를 운영할 전문 인력 양성까지 생태계 전반의 '초협업' 시스템이 구축될 때 비로소 한국 경제의 새로운 활로가 열릴 것으로 보입니다.",
             "image_prompt": "AI brain, digital neural network, business collaboration, futuristic technology",
             "published_at": "2026-03-28 10:57:31",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“휴머노이드 로봇이 경제 장악할 것”… 제프리스의 파격 전망",
@@ -70,7 +125,7 @@
             "content": "미국 투자은행 제프리스(Jefferies)는 최근 보고서를 통해 휴머노이드 로봇 기술의 발전이 임계점에 도달했다고 평가했습니다. 이제 로봇은 단순 반복 작업을 넘어 인간의 형태와 유사한 움직임을 통해 다양한 산업 현장에 투입될 준비를 마쳤으며, 이는 노동 시장의 판도를 완전히 바꿀 것입니다.\n\n보고서는 인구 감소와 인건비 상승 문제를 겪고 있는 선진국 경제에서 휴머노이드 로봇이 가장 강력한 대안이 될 것으로 내다봤습니다. 제조 업종뿐만 아니라 물류, 서비스, 심지어 가계 노동까지 로봇이 대체하게 되면서 전 세계 GDP 성장에도 상당한 기여를 할 것이라는 분석입니다.\n\n이러한 변화는 '로봇 경제'라는 새로운 시장을 창출할 것입니다. 소프트웨어와 하드웨어의 결합, 그리고 AI를 통한 자율 제어 기술이 핵심 경쟁력이 될 것이며, 글로벌 테크 기업들은 이미 이 시장을 선점하기 위해 천문학적인 자금을 쏟아붓고 있습니다.",
             "image_prompt": "Humanoid robot, smart factory, future labor market, sleek metallic finish",
             "published_at": "2026-03-28 10:57:31",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "HBM4 대전 개막… 메모리 반도체, ‘고객 맞춤형’ 경쟁 본격화",
@@ -81,7 +136,7 @@
             "content": "인공지능(AI) 반도체 시장의 핵심 부품인 HBM(고대역폭메모리) 경쟁이 6세대 제품인 HBM4로 옮겨붙고 있습니다. 김정호 KAIST 교수는 AI 시대의 반도체 승부는 누가 더 고객사의 요구에 맞춘 '커스텀(Custom) HBM'을 잘 만드느냐에 달려 있다고 강조했습니다.\n\n기존의 HBM이 범용 제품에 가까웠다면, HBM4부터는 엔비디아나 구글 같은 거대 테크 기업들의 특정 AI 모델에 최적화된 설계가 필수적입니다. 이에 따라 메모리 반도체 기업들은 단순 제조를 넘어 설계 단계부터 고객사와 긴밀히 협력하는 새로운 비즈니스 모델을 구축하고 있습니다.\n\n삼성전자와 SK하이닉스는 HBM4 시장 주도권을 잡기 위해 차세대 패키징 기술과 공정 혁신에 사활을 걸고 있습니다. 한국 반도체 산업이 대만 TSMC와의 협력을 강화하거나 독자적인 생태계를 구축하는 등 다각도의 전략적 선택을 해야 하는 중요한 시점입니다.",
             "image_prompt": "Semiconductor wafer, HBM4 chip, neon blue circuit, microchip technology",
             "published_at": "2026-03-28 10:57:31",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "당정, 25조 규모 ‘민생 안정’ 재정 투입… 빚 없는 추경 추진",
@@ -92,7 +147,7 @@
             "content": "정부와 여당은 중동발 경제 불안과 고물가로 고통받는 서민 경제를 살리기 위해 25조 원 규모의 민생 지원책을 논의 중입니다. 이번 대책의 핵심은 국가 채무를 늘리는 '빚내는 추경' 대신, 가용 자원을 최대한 활용하여 재정 건전성을 유지하면서도 경제 활력을 불어넣는 것입니다.\n\n주요 지원 대상은 고금리와 물가 상승으로 경영난을 겪고 있는 소상공인과 중소기업입니다. 저금리 대환 대출 확대, 전기료 및 임대료 지원 등 실질적인 비용 절감 대책이 포함될 예정입니다. 또한 침체된 지역 경제를 살리기 위해 지역 맞춤형 인프라 투자와 소비 진작책도 검토되고 있습니다.\n\n정부는 이번 조치를 통해 내수 소비를 진작시키고 경제의 하방 위험을 차단하겠다는 의지를 보이고 있습니다. 다만, 대규모 자금 투입이 시중 유동성을 늘려 물가 상승을 자극하지 않도록 정밀한 정책 집행이 요구되는 상황입니다.",
             "image_prompt": "South Korean government building, money flow, economic growth chart, policy document",
             "published_at": "2026-03-28 10:57:31",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD, 한국 경제성장률 전망 1.7%로 대폭 하향 조정",
@@ -103,7 +158,7 @@
             "content": "경제협력개발기구(OECD)가 한국의 올해 경제성장률 전망치를 기존 2.1%에서 1.7%로 0.4%포인트 하향 조정했습니다. 이는 정부와 한국은행의 전망치보다도 낮은 수준으로, 한국 경제를 바라보는 국제사회의 시각이 급격히 냉각되었음을 시사합니다.\n\n주요 하향 원인으로는 고물가와 고금리 체계의 장기화에 따른 내수 소비 위축이 꼽힙니다. 가계 부채 부담이 가중되면서 민간 소비가 살아나지 못하고 있고, 글로벌 경기 둔화로 인해 한국 경제의 핵심 축인 수출 역시 회복 속도가 기대에 미치지 못하고 있다는 분석입니다.\n\n또한 물가 상승 압박이 여전히 해소되지 않아 한국은행의 금리 인하 시점도 불투명해진 상태입니다. 전문가들은 이번 전망치가 2%대 잠재성장률을 하회한다는 점에 주목하며, 저성장 기조가 고착화되지 않도록 선제적인 경기 부양책과 구조 개혁이 시급하다고 조언하고 있습니다.",
             "image_prompt": "South Korean economy, falling bar chart, red arrow down, professional financial background, dark blue aesthetic",
             "published_at": "2026-03-27 22:01:03",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "정부, '비상경제본부' 가동... 중동 전쟁 및 공급망 위기 총력 대응",
@@ -114,7 +169,7 @@
             "content": "정부가 중동 지역의 전쟁 장기화 가능성에 대비하여 '비상경제본부'를 가동하고 국가적 역량을 결집하기로 했습니다. 호르무즈 해협의 긴장 고조가 에너지 수급과 글로벌 공급망에 미칠 파급력을 고려하여 사실상 '전시 수준'의 대응 체계를 갖춘다는 방침입니다.\n\n특히 해상 물류의 핵심인 호르무즈 해협은 한국 경제 및 안보에 있어 매우 중요한 위치를 차지하고 있습니다. 정부는 35개국 합참의장 등 국제 사회와 협력하여 해상 통행의 안전을 확보하고, 유가 급등 시 비축유 방출 등 가용 가능한 모든 수단을 동원해 물가 안정에 주력할 계획입니다.\n\n이번 조치는 대외 의존도가 높은 한국 경제의 특성상 지정학적 리스크가 실물 경제로 전이되는 것을 차단하기 위한 고강도 대책입니다. 산업통상자원부와 기획재정부 등 관계 부처는 경제 단체들과 긴밀히 소통하며 에너지 및 원자재 공급망을 실시간으로 모니터링할 예정입니다.",
             "image_prompt": "Global supply chain, oil barrels, cargo ship in strait, emergency control room, dramatic cinematic lighting",
             "published_at": "2026-03-27 22:01:03",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"한국 경제 복합위기 돌파구는 AI와 초협업\"",
@@ -125,7 +180,7 @@
             "content": "한국 경제가 직면한 고물가, 저성장, 인구 절벽 등의 복합 위기를 극복할 핵심 전략으로 'AI(인공지능)'와 '초협업'이 주목받고 있습니다. 단순한 기술 도입을 넘어 모든 산업 생태계에 AI를 이식하여 생산성을 혁명적으로 높여야 한다는 목소리가 높습니다.\n\n전문가들은 개별 기업의 노력만으로는 현재의 글로벌 공급망 재편과 기술 패권 경쟁에서 승리하기 어렵다고 진단합니다. 대기업과 중소기업, 학계와 정부가 산업의 경계를 허물고 데이터를 공유하며 함께 성장하는 '초협업' 체계가 구축되어야만 시너지를 극대화할 수 있다는 설명입니다.\n\n특히 AI 기술은 제조, 금융, 서비스 등 한국의 주력 산업 전반에 걸쳐 효율성을 극대화할 수 있는 강력한 도구입니다. 이번 논의에서는 기술 격차를 좁히기 위한 정부의 R&D 지원과 규제 혁파가 동반되어야 한국이 AI 강국으로 도약하며 위기를 기회로 바꿀 수 있다고 강조되었습니다.",
             "image_prompt": "AI neural network, glowing blue circuit, collaborative robots, futuristic digital city, innovation theme",
             "published_at": "2026-03-27 22:01:03",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "제프리스 \"휴머노이드 로봇, 머지않아 경제 주도할 것\"",
@@ -136,7 +191,7 @@
             "content": "글로벌 투자은행(IB) 제프리스는 보고서를 통해 휴머노이드 로봇의 보급이 가시화되면서 곧 전 세계 경제의 판도를 바꿀 것이라는 파격적인 전망을 내놨습니다. 인간을 닮은 로봇이 노동 현장에 대거 투입되면서 노동력 부족 문제를 해결하고 생산성을 극적으로 끌어올릴 것이라는 분석입니다.\n\n최근 테슬라를 비롯한 주요 빅테크 기업들이 AI와 로봇 공학을 결합한 휴머노이드 개발에 열을 올리면서 관련 기술이 임계점에 도달했다는 평가가 나옵니다. 제프리스는 이러한 로봇들이 단순 반복 업무뿐만 아니라 정교한 조립이나 서비스 영역까지 확장되어 기존 경제 시스템을 재편할 것으로 내다봤습니다.\n\n이는 저출산 및 고령화로 인해 생산 가능 인구가 급감하고 있는 한국과 같은 국가들에게 특히 중요한 시사점을 던져줍니다. 로봇 산업이 단순한 기계 산업을 넘어 국가 경쟁력을 결정짓는 핵심 경제 지표가 될 날이 머지않았음을 예고하고 있습니다.",
             "image_prompt": "Humanoid robot, high-tech factory floor, sophisticated silver metal finish, industrial automation, clean aesthetic",
             "published_at": "2026-03-27 22:01:03",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미국, 기술과 금융을 앞세운 '경제전쟁'으로 패권 공고화",
@@ -147,7 +202,7 @@
             "content": "미국이 더 이상 총과 칼을 앞세운 물리적 전쟁이 아닌, 강력한 금융 시스템과 압도적인 첨단 기술력을 무기로 하는 '경제전쟁'을 통해 글로벌 패권을 유지하려 하고 있습니다. 반도체, AI 등 핵심 전략 자산의 공급망을 통제함으로써 경쟁국을 압박하는 방식입니다.\n\n이러한 전략은 달러 패권을 바탕으로 한 금융 제재와 결합하여 적대 세력이나 경쟁 국가의 경제적 숨통을 조이는 강력한 수단으로 작용하고 있습니다. 미국 중심의 공급망 재편(리쇼어링 및 프렌드쇼어링)은 글로벌 자유 무역 질서를 위협하는 동시에 한국과 같은 동맹국들에게 선택을 강요하는 복합적인 상황을 만들고 있습니다.\n\n전문가들은 이러한 경제 전쟁 시대에는 기술 주권 확보가 곧 국가 안보와 직결된다고 진단합니다. 미-중 갈등 사이에서 한국 경제가 생존하기 위해서는 독보적인 기술력을 보유하는 동시에 전략적 자율성을 확보할 수 있는 정교한 외교 정책이 필수적이라는 지적입니다.",
             "image_prompt": "World map, digital currency symbols, high-tech semiconductor chips, geopolitical tension, dramatic shadows",
             "published_at": "2026-03-27 22:01:03",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"이란 전쟁, 세계경제 충격\"… 에너지 및 원유 리스크 확산",
@@ -158,7 +213,7 @@
             "content": "최근 이란과 이스라엘 간의 갈등이 격화되면서 세계 경제의 불확실성이 최고조에 달하고 있습니다. 트럼프 전 대통령의 측근들조차 이번 전쟁이 세계 경제에 미칠 파괴적인 영향에 대해 우려의 목소리를 내고 있으며, 특히 원유 공급망의 핵심인 호르무즈 해협의 긴장감이 고조되고 있습니다.\n\n에너지경제연구원의 분석에 따르면, 전쟁이 장기화될 경우 천연가스(LNG) 가격이 불과 한 달 만에 두 배 가까이 폭등할 수 있다는 비관적인 전망이 나오고 있습니다. 이는 제조 원가 상승과 인플레이션 압박으로 이어져 글로벌 소비 시장을 위축시킬 가능성이 매우 높습니다.\n\n이란은 현재 경제적 질식 공포를 느끼고 있는 상황이며, 미국은 유가 급등에 따른 국내외 정치적 리스크를 관리해야 하는 복잡한 셈법에 직면해 있습니다. 전문가들은 누가 더 오래 버티느냐의 싸움이 될 것으로 보고 있으며, 이는 국제 금융 시장의 변동성을 더욱 키우는 요인이 되고 있습니다.\n\n결국 이번 중동 위기는 단순한 지역적 갈등을 넘어 전 세계적인 스태그플레이션(경기 침체 속 물가 상승)을 유발할 수 있는 시한폭탄과 같은 존재가 되었습니다. 투자자들은 에너지 관련 자산의 변동성에 대비하며 방어적인 포트폴리오 구축에 주력해야 할 시점입니다.",
             "image_prompt": "Oil refinery, Middle East desert, volatile market graph, dark smoke, orange glow",
             "published_at": "2026-03-27 18:52:50",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국 경제성장률 1.7% 전망… 'AI와 초협업'이 복합위기 해법",
@@ -169,7 +224,7 @@
             "content": "국내 주요 연구 기관들이 올해 한국의 경제성장률을 1.7%로 하향 조정하며 저성장 고착화에 대한 경고를 보내고 있습니다. 이는 글로벌 경기 둔화와 내수 부진이 겹친 결과로, 한국 경제가 이른바 '복합 위기'의 터널에 진입했음을 시사합니다.\n\n이러한 위기를 돌파하기 위한 핵심 키워드로 'AI(인공지능)'와 '초협업'이 제시되었습니다. 아이뉴스24가 주최한 포럼에서 전문가들은 단순히 기술 도입에 그치는 것이 아니라, 산업 간 경계를 허무는 초협업을 통해 생산성을 극대화해야만 현재의 성장의 한계를 극복할 수 있다고 입을 모았습니다.\n\n특히 제조, 금융, 서비스 등 전통 산업에 AI를 접목하여 고부가가치 산업으로 전환하는 속도가 국가 경쟁력을 좌우할 것입니다. 정부 또한 이러한 민간의 노력을 뒷받침하기 위해 규제 혁신과 정책적 지원을 강화하겠다는 의지를 보이고 있습니다.\n\n결국 1.7%라는 저조한 성적표를 받아든 한국 경제에 있어 AI는 선택이 아닌 생존의 문제입니다. 기업들은 폐쇄적인 구조에서 벗어나 외부 파트너들과 적극적으로 협력하는 생태계를 구축함으로써 미래 성장 동력을 확보해야 할 과제를 안게 되었습니다.",
             "image_prompt": "Futuristic Seoul city, AI brain hologram, high-tech cooperation, neon blue, dynamic lines",
             "published_at": "2026-03-27 18:52:50",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중국산 자동차 50% '관세 폭탄'… 글로벌 무역 전쟁 격화",
@@ -180,7 +235,7 @@
             "content": "멕시코 정부가 중국산 자동차 및 부품에 대해 최대 50%에 달하는 관세를 부과하겠다는 초강수를 두었습니다. 이는 저가 공세를 통해 글로벌 시장 점유율을 확대하려는 중국 자동차 산업에 대한 직접적인 견제로 풀이됩니다.\n\n이번 조치는 북미 시장으로 진출하려는 중국 전기차 업체들에게 큰 타격이 될 전망입니다. 멕시코는 그동안 중국 기업들의 북미 우회 수출 기지로 활용되어 왔으나, 미국과의 경제적 동맹 관계와 자국 산업 보호를 위해 정책적 방향을 급선회한 것으로 보입니다.\n\n중국 정부는 즉각 반발하며 맞보복을 예고하고 있어, 미·중 갈등에 이어 멕시코와 중국 간의 무역 전쟁으로까지 전선이 확대되는 모양새입니다. 이는 글로벌 자동차 공급망 전반에 비용 상승 압박을 가하고, 완성차 업체들의 생산 전략 수정을 불가피하게 만들고 있습니다.\n\n향후 이러한 보호무역주의 추세는 더욱 강화될 것으로 보이며, 한국 자동차 업계 역시 이러한 국제 정세의 변화를 예의주시하며 공급망 다변화와 시장 점유율 방어 전략을 철저히 점검해야 할 시점입니다.",
             "image_prompt": "Giant cargo ship, electric cars, trade war wall, Mexico and China flags, industrial harbor",
             "published_at": "2026-03-27 18:52:50",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한·일·미 경제안보 협력 강화… 공급망 안정화 주력",
@@ -191,7 +246,7 @@
             "content": "주한일본대사는 최근 공식 석상에서 한국, 일본, 미국 3국이 경제안보 분야에서 더욱 긴밀하게 협력해야 한다고 강조했습니다. 이는 반도체, 배터리 등 핵심 전략 자산의 공급망을 안정화하고 외부의 위협으로부터 공동 대응하기 위한 전략적 선택입니다.\n\n특히 지정학적 리스크가 커지는 상황에서 민주주의 가치를 공유하는 국가들 간의 '신뢰 기반 공급망' 구축은 필수적입니다. 일본은 한국과의 기술 협력을 통해 시너지를 창출하고, 미국의 주도하에 형성되는 새로운 경제 질서에서 주도권을 확보하겠다는 구상을 가지고 있습니다.\n\n이와 더불어 한국과 캐나다 간의 잠수함 사업 협력 등 방위 산업 분야의 경제 협력도 구체화되고 있습니다. 경제와 안보가 분리될 수 없는 시대에 접어들면서, 국방 기술의 공유와 공동 개발은 국가 간 경제 협력의 새로운 핵심 축으로 부상하고 있습니다.\n\n이러한 다국적 협력 체계는 한국 기업들에게 새로운 시장 기회를 제공하는 동시에, 특정 국가에 대한 의존도를 낮춰 리스크를 분산하는 효과를 가져올 것으로 기대됩니다. 정부는 이러한 협력 프레임워크가 실질적인 비즈니스 성과로 이어질 수 있도록 외교적 노력을 집중해야 합니다.",
             "image_prompt": "Diplomatic flags handshake, high-tech microchips, submarine silhouette, globe map connection",
             "published_at": "2026-03-27 18:52:50",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "일본 경제 스태그플레이션 그림자… 엔저와 유가 상승의 이중고",
@@ -202,7 +257,7 @@
             "content": "일본 경제가 엔화 가치 하락(엔저)과 국제 유가 상승이라는 이중고에 시달리며 스태그플레이션의 위협에 직면해 있습니다. 수입 물가가 치솟으면서 기업들의 수익성은 악화되고 소비자들의 실질 구매력은 떨어지는 전형적인 불황 속 물가 상승 징후가 나타나고 있습니다.\n\n글로벌 투자자들은 일본의 통화 정책 변화 가능성에 주목하며 투자 전략을 전면 재검토하고 있습니다. 그동안 유지해온 저금리 기조가 한계에 다다랐다는 분석이 나오면서, 일본 증시와 채권 시장의 변동성이 확대되고 있는 상황입니다.\n\n특히 에너지 자립도가 낮은 일본의 특성상 중동 분쟁에 따른 유가 급등은 경제 전반에 치명적인 타격을 줄 수 있습니다. 제조업 강국으로서의 면모가 엔저로 인한 비용 상승에 가로막혀 빛을 바래고 있다는 우려가 깊어지고 있습니다.\n\n한국 경제 역시 일본과 산업 구조가 유사하고 일본 시장에 대한 의존도가 높은 만큼, 일본 경제의 불안정성이 국내 시장에 미칠 파급 효과를 예의주시해야 합니다. 엔화 환율의 향방에 따른 수출 경쟁력 변화와 금융 시장의 전염 효과에 대한 철저한 대비가 필요합니다.",
             "image_prompt": "Tokyo street with Yen symbols, rising red graph, dark clouds, gas pump handle, economic crisis",
             "published_at": "2026-03-27 18:52:50",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "산업부, 경제 6단체 소집 긴급간담회…공급망 위기 대응 등 논의",
@@ -213,7 +268,7 @@
             "content": "김정관 산업통상자원부 장관은 최근 급변하는 글로벌 통상 환경과 공급망 불안에 대응하기 위해 경제 6단체 부회장들을 긴급 소집했습니다. 이번 간담회에서는 원자재 가격 변동과 물류 차질 등 우리 기업들이 직면한 공급망 리스크를 점검하고, 민관이 협력하여 위기를 극복할 수 있는 방안을 심도 있게 논의했습니다.\n\n정부는 특히 일부에서 나타나는 '반공동체적 행위'가 경제 전반의 신뢰를 무너뜨리고 공급망 혼란을 가중시킬 수 있다는 점을 강조했습니다. 김 장관은 시장 질서를 교란하는 행위에 대해서는 법과 원칙에 따라 엄정하게 대응하겠다는 의지를 피력하며, 경제 단체들에게 기업들의 자율적인 질서 유지와 협력을 당부했습니다.\n\n경제 단체들은 이에 화답하여 기업 현장의 애로사항을 전달하고, 정부의 정책적 지원을 요청했습니다. 공급망 다변화와 핵심 자원의 안정적 확보를 위해 정부와 상시 소통 채널을 강화하기로 했으며, 대내외적인 불확실성을 극복하기 위해 민간 차원의 네트워크를 적극 활용하겠다는 방침을 밝혔습니다.\n\n이번 회의는 한국 경제가 겪고 있는 복합 위기 속에서 정부와 산업계가 원팀으로 대응하겠다는 상징적인 조치로 풀이됩니다. 전문가들은 이러한 민관 협력이 실질적인 공급망 안정화로 이어지기 위해서는 구체적인 지원책과 함께 규제 완화 등 기업 활력을 높이는 후속 조치가 뒤따라야 한다고 분석하고 있습니다.",
             "image_prompt": "Industrial supply chain, professional business meeting, logistics container background, economic stability",
             "published_at": "2026-03-27 16:04:30",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'개미의 힘' 코스피 회복세... 환율은 1,500원대 고공행진",
@@ -224,18 +279,7 @@
             "content": "국내 증시가 개인 투자자들의 강력한 매수세에 힘입어 회복세를 나타내고 있습니다. 외국인과 기관의 매도 압력 속에서도 이른바 '개미'로 불리는 개인 투자자들이 저가 매수에 적극적으로 나서며 지수를 방어하는 모습입니다. 시장에서는 이러한 개인들의 결집력이 단기적인 지수 하방 경직성을 확보해 준 것으로 평가하고 있습니다.\n\n하지만 금융 시장의 변동성은 여전히 높은 상태입니다. 특히 원/달러 환율이 1,510원을 돌파한 뒤 1,500원대에서 등락을 거듭하며 고공행진을 이어가고 있는 점이 최대 변수로 꼽힙니다. 고환율은 수입 물가 상승을 유발하여 국내 인플레이션 압력을 높이고, 기업들의 비용 부담을 가중시키는 등 경제 전반에 하방 압력으로 작용할 우려가 큽니다.\n\n시장 전문가들은 환율이 1,500원대에 안착할 경우 외환 당국의 개입 여부와 글로벌 금리 추이에 더욱 주목해야 한다고 조언합니다. 수출 기업들에게는 가격 경쟁력 측면에서 유리할 수 있으나, 전반적인 투자 심리 위축과 자본 유출 가능성 등 부정적인 측면이 더 부각될 수 있기 때문입니다.\n\n결국 향후 증시의 향방은 개인 투자자들의 매수세 지속 여부와 환율의 안정화 단계 진입에 달려 있습니다. 투자자들은 대외 경제 지표와 주요국의 통화 정책 변화를 예의주시하며 신중한 투자 전략을 수립해야 할 시점입니다.",
             "image_prompt": "Stock market trading floor, South Korean Won currency, rising graph, volatile financial market",
             "published_at": "2026-03-27 16:04:30",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "제프리스 \"휴머노이드 로봇, 곧 경제 장악할 것\"",
-            "source": "연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWkpVZVk0ZlJnUGc5Z1pIeFVEdmtueGxWYVlsVzVnaHByMDJva2Y4a2plbjdzQlh1SXpxdVMtTEVQdEp4QjNQZFg3aFNIQjV0MmcyQk9PTkZSWWR1VHNXek5ZRmVuTVdnckU3eHRsai3SAXRBVV95cUxPMTBlV0Fsa3RucmJUWl9rZUZ6eUNJWmY0VVY1R2VxZE1hRmpWX3FXWXJEQUh6VEVTM1NUZ3BTdHoweUppXzFOLVpXbDVISkZaRktUc0IxdDlBOW1OelRkWnlMY3FRX3Q2aHlOaHg2dW9nVE9lQw?oc=5",
-            "category": "테크",
-            "summary": "글로벌 투자은행 제프리스가 휴머노이드 로봇 기술이 미래 경제 구조를 근본적으로 바꿀 것이라고 전망했습니다.",
-            "content": "글로벌 투자은행(IB) 제프리스는 최근 보고서를 통해 휴머노이드 로봇 기술의 발전이 임계점에 도달했으며, 머지않아 세계 경제의 핵심 축을 담당하게 될 것이라고 예측했습니다. 인공지능(AI)과 결합된 로봇 기술이 단순 반복 노동을 넘어 인간의 복잡한 업무까지 수행하게 되면서 생산성의 비약적인 향상을 불러올 것이라는 분석입니다.\n\n보고서에 따르면 휴머노이드 로봇은 노동력 부족 문제를 해결할 수 있는 최적의 대안으로 꼽힙니다. 특히 제조, 물류, 서비스업 등 인력 의존도가 높은 산업군에서 로봇의 도입은 비용 절감과 효율성 극대화를 실현할 것으로 보입니다. 이는 기업의 수익 구조를 개선하고 새로운 형태의 산업 생태계를 조성하는 촉매제가 될 전망입니다.\n\n국내 전문가들 역시 이러한 흐름에 주목하고 있습니다. 한국 경제가 고령화와 저출산으로 인한 노동 인구 감소 문제를 겪고 있는 만큼, 로봇 기술은 선택이 아닌 필수적인 생존 전략이 될 수 있다는 지적입니다. AI와 초협업을 바탕으로 한 로봇 산업의 성장은 한국이 글로벌 경제 위기를 돌파할 핵심 키워드로 부상하고 있습니다.\n\n다만 로봇 기술의 급격한 도입에 따른 일자리 변화와 윤리적 이슈에 대한 대비도 필요합니다. 제프리스는 기술적 진보만큼이나 사회적 합의와 제도적 뒷받침이 중요하다고 강조하며, 휴머노이드 로봇이 주도하는 경제 체제로의 연착륙을 위한 선제적인 준비를 당부했습니다.",
-            "image_prompt": "Humanoid robot, futuristic city, artificial intelligence icon, automated industry",
-            "published_at": "2026-03-27 16:04:30",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 지정학적 리스크 심화… 이란 경제 제재와 원유 시장 긴장",
@@ -246,7 +290,7 @@
             "content": "중동 지역의 긴장감이 고조되면서 글로벌 에너지 시장에 전운이 감돌고 있습니다. 미국의 강력한 경제 제재로 인해 이란 경제가 극심한 압박을 받는 가운데, 이란이 이에 맞서 원유 공급망을 위협할 가능성이 제기되면서 국제 유가의 변동성이 극도로 커지고 있습니다. 이는 에너지 수입 의존도가 높은 국가들에게 심각한 경제적 타격을 줄 수 있는 요인입니다.\n\n현재 상황은 누가 더 오래 버티느냐의 싸움으로 치닫고 있습니다. 미국은 원유 공급 리스크를 관리하며 이란을 압박하고 있지만, 이란은 경제적 한계 상황에서도 강경한 입장을 고수하고 있습니다. 이러한 대립은 단순히 지역적 갈등을 넘어 전 세계 물가와 금리 정책에 영향을 미치는 거시 경제적 불안 요소로 작용하고 있습니다.\n\n특히 한국 경제에 미치는 영향은 적지 않습니다. 에너지 가격 상승은 곧바로 생산 원가 상승과 소비자 물가 부담으로 이어지기 때문입니다. 정부와 관계 기관들은 중동 상황을 실시간으로 모니터링하며 비상 수급 대책을 점검하고 있지만, 대외 변수가 워낙 강해 대응책 마련에 고심하고 있는 것으로 알려졌습니다.\n\n지정학적 리스크가 장기화될 경우 글로벌 공급망 재편과 맞물려 세계 경제 성장이 둔화될 수 있다는 우려도 나옵니다. 원유 시장의 불안정이 지속되는 한 안전 자산 선호 심리가 강화되고, 신흥국 시장에서의 자금 유출 압력이 커지는 등 금융 시장의 불확실성은 당분간 지속될 전망입니다.",
             "image_prompt": "Oil refinery sunset, Middle East map silhouette, burning flame, global energy crisis",
             "published_at": "2026-03-27 16:04:30",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"돈줄이 달라졌다\"…한국 경제 바꾸는 머니전쟁의 서막",
@@ -257,7 +301,7 @@
             "content": "한국 경제를 지탱하던 기존의 자금 흐름에 거대한 지각변동이 일어나고 있습니다. 이른바 '머니 전쟁'으로 불리는 이 현상은 자본이 투입되는 산업 분야와 방식이 과거와 완전히 달라졌음을 의미합니다. 전통적인 제조업 중심의 자산 운용에서 벗어나 미래 성장성이 높은 기술 기반 산업과 디지털 플랫폼으로 자금이 빠르게 이동하고 있습니다.\n\n이러한 변화의 중심에는 투자자들의 인식 전환과 기술 혁신이 자리 잡고 있습니다. 고금리와 불확실한 경기 전망 속에서도 AI, 친환경 에너지, 바이오 등 신수종 사업에 대한 투자는 오히려 활발해지고 있습니다. 이는 기업들에게 생존을 위한 체질 개선을 강요하며, 자금 확보 여력이 기업의 미래 가치를 결정짓는 가장 중요한 지표가 되고 있습니다.\n\n금융권 역시 이러한 흐름에 맞춰 변신을 꾀하고 있습니다. 단순한 여신 업무를 넘어 벤처 캐피털(VC)과 사모펀드(PEF)의 역할을 강화하고, 유망 스타트업을 발굴하여 육성하는 등 투자 은행(IB) 기능을 확대하고 있습니다. 자금의 공급처가 다양해지면서 기업들은 혁신적인 아이디어만 있다면 과거보다 더 전략적으로 자본을 조달할 수 있는 환경이 조성되고 있습니다.\n\n하지만 자금 쏠림 현상에 따른 부작용도 경계해야 합니다. 특정 산업으로만 자본이 집중될 경우 거품 논란과 함께 소외된 전통 산업의 경쟁력 약화가 우려되기 때문입니다. 전문가들은 '머니 전쟁' 속에서 한국 경제가 건강하게 성장하기 위해서는 자금의 효율적 배분을 돕는 제도적 장치와 균형 잡힌 산업 정책이 병행되어야 한다고 입을 모으고 있습니다.",
             "image_prompt": "Digital currency flow, glowing blue fiber optics, golden coins, modern financial district",
             "published_at": "2026-03-27 16:04:30",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 사태 확산에 '비상경제대책' 가동... 한국 경제 취약성 노출",
@@ -268,7 +312,7 @@
             "content": "최근 이란과 이스라엘 간의 갈등으로 촉발된 중동 사태가 장기화 조짐을 보이면서 한국 경제 전반에 긴장감이 고조되고 있습니다. 안산시와 도봉구 등 지방자치단체들은 지역 경제에 미칠 충격을 최소화하기 위해 '비상경제전담팀'을 긴급 구성하고, 중소기업 및 소상공인을 대상으로 한 특별신용보증 등 보호 대책을 마련하기 시작했습니다.\n\n글로벌 시장에서는 유가 급등에 따른 물가 상승 압박이 거세지고 있으며, 이는 국내 수입 물가와 생산 비용 상승으로 직결될 우려가 큽니다. 특히 원유 수입 의존도가 높은 한국 경제의 구조적 취약성이 이번 사태를 통해 다시 한번 여실히 드러났다는 평가가 나오고 있습니다. 경제 전문가들은 에너지 수급 안정화와 공급망 다변화가 시급한 과제라고 지적합니다.\n\n또한, 중동 지역에 진출한 국내 기업들의 안전 확보와 수출길 차단 가능성에 대한 대비도 강화되고 있습니다. 정부와 지자체는 실시간 모니터링 체계를 구축하여 사태의 전개 양상에 따른 단계별 대응 시나리오를 검토 중이며, 장기적으로는 대외 의존도를 낮추기 위한 경제 체질 개선의 필요성이 강조되고 있는 시점입니다.",
             "image_prompt": "Middle East oil refinery, global economic crisis, dramatic sunset, burning gold and dark smoke, financial distress atmosphere",
             "published_at": "2026-03-27 14:05:23",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD 한국 성장률 전망 1.7%로 하향... NABO는 반도체 호조로 상향",
@@ -279,7 +323,7 @@
             "content": "국제협력개발기구(OECD)가 올해 한국의 경제성장률 전망치를 기존 2.1%에서 1.7%로 대폭 하향 조정하며 경고등을 켰습니다. 이는 고물가와 고금리 기조가 민간 소비와 투자를 위축시키고 있다는 판단에 따른 것입니다. 글로벌 경기 둔화 흐름 속에서 내수 부진이 예상보다 심각하다는 분석이 힘을 얻고 있습니다.\n\n반면 국회예산정책처(NABO)는 올해 성장률 전망치를 1.9%에서 2.0%로 소폭 상향 조정하며 엇갈린 전망을 내놓았습니다. 예정처는 최근 반도체를 중심으로 한 수출 회복세가 뚜렷하다는 점을 상향 조정의 핵심 근거로 꼽았습니다. 반도체 경기가 바닥을 찍고 반등함에 따라 전체 수출 실적이 개선될 것이라는 낙관적인 시각이 반영된 것입니다.\n\n이러한 상반된 전망은 한국 경제가 처한 '수출 회복과 내수 부진'의 양극화 상황을 잘 보여줍니다. 전문가들은 반도체 호조가 경제 전반의 온기로 퍼지기까지는 시간이 걸릴 것으로 보고 있으며, 특히 중동 사태와 같은 지정학적 리스크가 성장률의 추가 하락을 불러올 수 있는 변수라고 경고하고 있습니다. 결과적으로 하반기 경제 정책의 핵심은 내수 진작과 대외 리스크 관리가 될 전망입니다.",
             "image_prompt": "Economic growth chart, semiconductor chip close up, contrasting blue and red graphs, futuristic technology background",
             "published_at": "2026-03-27 14:05:23",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "트럼프 방중 앞두고 미·중 고위급 경제 회동... '301조' 갈등 속 협력 모색",
@@ -290,7 +334,7 @@
             "content": "트럼프 전 대통령의 중국 방문 가능성이 제기되는 민감한 시기에 미국과 중국의 경제 고위급 인사들이 만나 머리를 맞댔습니다. 양국은 경제 및 무역 협력을 강화하자는 데는 원론적으로 합의했으나, 세부 현안에서는 여전히 날 선 공방을 이어갔습니다. 특히 중국 측은 미국의 통상법 301조 조사가 자국 기업들을 부당하게 압박하고 있다며 강력한 우려를 전달했습니다.\n\n미국은 자국 산업 보호와 공급망 안보를 명분으로 첨단 기술 분야에서의 대중 규제를 강화하고 있는 반면, 중국은 다자주의를 강조하며 시장 개방을 요구하고 있습니다. 이번 회동은 패권 경쟁 속에서도 경제적 파국을 막기 위한 '가드레일'을 확인하는 자리였다는 해석이 지배적입니다. 하지만 양국의 근본적인 이해관계가 얽혀 있어 당장 획기적인 관계 개선을 기대하기는 어려운 상황입니다.\n\n한국 경제에는 이러한 미중 갈등의 지속이 큰 부담으로 작용하고 있습니다. 미중 무역의 틈바구니에서 수출 전략을 수정해야 하는 과제와 더불어, 공급망 재편 과정에서의 불확실성이 기업들의 중장기 투자 결정을 어렵게 만들고 있습니다. 앞으로 미중 관계의 변화 추이에 따라 글로벌 무역 질서가 다시 한번 요동칠 것으로 예상됩니다.",
             "image_prompt": "USA and China flags background, handshake between businessmen, global trade map, professional and diplomatic atmosphere",
             "published_at": "2026-03-27 14:05:23",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "매일경제, '미공개 정보 주식투자 금지' 윤리강령 추가... 금융 투명성 강화",
@@ -301,7 +345,7 @@
             "content": "국내 주요 경제지인 매일경제가 기자들이 취재 과정에서 지득한 미공개 정보를 이용해 주식 투자를 하는 행위를 원천 차단하기 위해 윤리강령을 대폭 강화했습니다. 이번 조치는 언론인이 가진 정보의 공정성을 유지하고 시장 질서를 교란하는 행위를 방지하기 위한 선제적인 대응으로 풀이됩니다. 신설된 조항에는 미공개 정보를 활용한 사익 추구 금지는 물론, 관련 정보를 제3자에게 제공하는 행위도 엄격히 제한하고 있습니다.\n\n그동안 언론계에서는 기업 내부 정보나 정부 정책을 미리 접하는 직업적 특성상 정보 남용에 대한 우려가 꾸준히 제기되어 왔습니다. 매일경제의 이번 행보는 언론의 신뢰도를 회복하고 자본시장의 투명성을 제고하는 데 긍정적인 영향을 미칠 것으로 보입니다. 다른 언론사들 역시 유사한 윤리 지침을 강화하려는 움직임을 보이고 있어 업계 전반의 자정 작용이 기대됩니다.\n\n금융 전문가들은 정보가 곧 돈인 자본주의 사회에서 언론인의 윤리 의식은 시장 건전성의 핵심 축이라고 강조합니다. 이번 윤리강령 강화가 단순한 구호에 그치지 않고 실질적인 감시와 처벌 체계로 이어져야만, 투자자들이 안심하고 시장에 참여할 수 있는 환경이 조성될 수 있습니다. 이는 한국 금융 시장이 선진화되는 과정에서 필수적인 단계로 평가받고 있습니다.",
             "image_prompt": "Financial ethics, wooden gavel on stock market newspaper, blue neon lighting, transparent glass aesthetics",
             "published_at": "2026-03-27 14:05:23",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "당근의 2700억 성공 비결은 '동네 집착'... 비효율의 경제가 만든 성과",
@@ -312,7 +356,7 @@
             "content": "전국적인 네트워크를 지향하는 기존 플랫폼들과 달리, 오직 '우리 동네'라는 좁은 지역 범위에 집착해 온 '당근'의 전략이 유효한 실적 성과를 거두고 있습니다. 당근은 단순히 중고 거래를 넘어 지역 주민들 간의 소통과 정보 공유를 돕는 하이퍼로컬(Hyper-local) 플랫폼으로 진화하며, 작년 한 해 동안 약 2700억 원 규모의 매출과 가치를 창출하는 기염을 토했습니다.\n\n성공의 핵심은 역설적이게도 '비효율'에 있었습니다. 광역 단위의 광고나 대량 물류 시스템 대신, 이웃 간의 대면 거래와 지역 상권 연결이라는 작고 세밀한 비즈니스 모델에 집중한 것입니다. 이는 디지털 시대에 오히려 희소성을 갖는 '신뢰 기반의 지역 공동체'를 복원했다는 평가를 받으며 이용자들의 높은 충성도를 끌어냈습니다.\n\n당근의 사례는 지역 경제 활성화의 새로운 모델을 제시하고 있습니다. 대형 플랫폼이 장악한 시장에서 지역 소상공인들이 살아남을 수 있는 디지털 통로를 제공함으로써 상생의 생태계를 구축한 것입니다. 앞으로 당근은 구인구직, 부동산, 지역 광고 등 우리 생활과 밀접한 서비스들을 더욱 고도화하여 '동네 경제'의 판도를 바꿀 것으로 보입니다. 이는 플랫폼 경제가 나아가야 할 지속 가능한 방향성 중 하나로 주목받고 있습니다.",
             "image_prompt": "Hyperlocal mobile app, neighborhood map, vibrant community interaction, friendly orange color theme, digital marketplace",
             "published_at": "2026-03-27 14:05:23",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "트럼프 5월 방중 앞두고 미·중 고위급 회담 “경제무역 협력 강화”",
@@ -323,7 +367,7 @@
             "content": "미국과 중국의 경제 수장들이 고위급 회담을 갖고 양국 간 경제 및 무역 협력을 강화하기로 합의했습니다. 이번 회담은 글로벌 공급망 안정과 무역 장벽 완화를 논의하기 위한 자리로, 특히 트럼프의 5월 방중을 앞두고 사전 정계 작업의 성격이 짙은 것으로 분석됩니다.\n\n중국 상무부는 미국과의 다자 및 지역 경제 협력을 강화할 의향이 있음을 밝히면서도, 미국의 '301조 조사' 등 통상 압박에 대해서는 우려의 목소리를 전달했습니다. 이는 양국이 협력을 외치면서도 자국의 경제적 이익을 지키기 위한 팽팽한 기싸움을 이어가고 있음을 보여줍니다.\n\n전문가들은 이번 회담이 교착 상태에 빠졌던 미·중 관계에 숨통을 틔워줄 것으로 기대하고 있습니다. 양국의 협력이 구체화될 경우 글로벌 무역 환경의 불확실성이 다소 해소될 수 있으나, 기술 패권 경쟁은 여전히 잠재적 갈등 요소로 남아 있습니다.\n\n한국 경제 입장에서는 미·중 관계의 해빙 무드가 수출 시장의 안정성 확보에 긍정적인 영향을 미칠 수 있습니다. 다만, 양국 사이에서 실익을 챙기기 위한 보다 세밀한 외교적·경제적 전략 수립이 요구되는 시점입니다.",
             "image_prompt": "US and China flags, handshake, global trade, high-level meeting, diplomatic blue",
             "published_at": "2026-03-27 11:06:22",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "NABO, 韓 올해 경제성장률 2.0%로 상향…\"반도체 호조 반영\"",
@@ -334,7 +378,7 @@
             "content": "국회예산정책처(NABO)는 올해 한국의 경제성장률 전망치를 기존 1.9%에서 2.0%로 0.1%포인트 상향 조정했습니다. 이러한 낙관적 전망의 배경에는 최근 뚜렷한 회복세를 보이고 있는 반도체 수출 실적이 자리 잡고 있습니다.\n\n반도체 업황의 개선은 국내 제조업 전반의 활력을 불어넣고 있으며, 이는 설비 투자 확대와 고용 시장 안정으로 이어지는 선순환 구조를 만들고 있습니다. 예정처는 인공지능(AI) 관련 수요 급증이 한국 반도체 산업에 큰 기회가 되고 있다고 분석했습니다.\n\n하지만 민간 소비 위축과 고물가 흐름은 여전히 성장의 발목을 잡는 요인으로 지적되었습니다. 가계 부채 부담과 고금리 기조가 유지되면서 내수 경기가 수출만큼 빠르게 회복되지 못하고 있다는 점이 성장의 한계치로 작용하고 있습니다.\n\n결과적으로 올해 한국 경제는 '수출 중심의 외풍'을 타며 완만한 회복세를 보일 전망입니다. 정부와 관계 기관은 수출 호조가 내수 활성화로 전이될 수 있도록 세제 혜택 및 규제 완화 등 정책적 지원을 강화할 방침입니다.",
             "image_prompt": "Semiconductor chip, rising bar graph, South Korean won, high-tech industry, glowing blue neon",
             "published_at": "2026-03-27 11:06:22",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 사태 장기화 시 한국 경제성장률 0.3%P 하락 우려",
@@ -345,7 +389,7 @@
             "content": "국회예산정책처는 중동 분쟁이 장기화될 경우 한국의 경제성장률이 최대 0.3%포인트 하락할 수 있다는 경고를 내놓았습니다. 이는 에너지 수입 의존도가 높은 한국 경제 구조상 국제 유가 상승이 물가 폭등과 생산 비용 증가로 직결되기 때문입니다.\n\n중동 사태가 악화될 경우 원유 수급에 차질이 생기며 나프타 대란 등 석유화학 업계의 원료 부족 사태가 재현될 가능성이 큽니다. 이는 단순히 에너지 비용 상승을 넘어 자동차, 조선 등 주요 산업 전반의 공급망 마비를 초래할 수 있는 심각한 위협입니다.\n\n정부는 이에 대비해 '플랜 B와 C'를 구체화하며 에너지 수입선 다변화와 비축유 방출 등 대응책 마련에 분주합니다. 전문가들은 한국 경제가 '중동발 변수'에 지나치게 취약한 구조를 가지고 있다며, 장기적으로는 기후 위기 대응과 연계한 에너지 독립성 확보가 필요하다고 지적합니다.\n\n결국 대외 의존도가 높은 한국 경제에게 이번 중동 사태는 위기 관리 능력을 시험하는 무대가 될 것입니다. 물가 안정과 성장률 수성이라는 두 마리 토끼를 잡기 위해 정부의 기민한 정책 공조가 절실한 시점입니다.",
             "image_prompt": "Oil refinery, Middle East conflict silhouette, falling red arrow, economy under pressure, dramatic lighting",
             "published_at": "2026-03-27 11:06:22",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미국, 금융·기술 '경제전쟁'으로 글로벌 패권 강화 시도",
@@ -356,7 +400,7 @@
             "content": "과거의 전쟁이 물리적인 무력 충돌이었다면, 현재의 전쟁은 금융과 기술을 중심으로 하는 '경제 전쟁'으로 진화했습니다. 미국은 달러 패권과 첨단 반도체 및 AI 기술 통제를 통해 전 세계 경제 질서를 자국 중심으로 재편하려는 전략을 강화하고 있습니다.\n\n특히 미국은 기술 수출 제한 조치를 통해 경쟁 국가들의 성장을 억제하는 동시에, 자국 내 인플레이션 감축법(IRA)과 반도체법(CHIPS Act)을 통해 글로벌 기업들의 생산 시설을 미국으로 끌어들이고 있습니다. 이는 '지정학적 리스크'를 경제적 우위로 전환하려는 고도의 전략으로 풀이됩니다.\n\n이러한 경제 전쟁의 여파로 한국을 포함한 우방국들은 미국 중심의 공급망 재편에 동참해야 하는 압박을 받고 있습니다. 기술 보안과 금융 네트워크의 무기화는 기업들에게 복잡한 경영 환경을 조성하며 신속한 적응력을 요구하고 있습니다.\n\n미래 경제 패권은 무기가 아닌 '코드'와 '자본의 흐름'에서 결정될 것으로 보입니다. 한국 역시 독자적인 핵심 기술력을 확보하고 글로벌 금융 시스템 내에서의 입지를 강화함으로써 이러한 거대한 흐름 속에서 생존 전략을 모색해야 합니다.",
             "image_prompt": "Digital circuit world map, dollar sign hologram, glowing fiber optics, strategic tech warfare, professional",
             "published_at": "2026-03-27 11:06:22",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "BNK부산은행 노사, 지역경제 활성화 위해 손 잡았다",
@@ -367,7 +411,7 @@
             "content": "BNK부산은행의 노사가 손을 맞잡고 지역 경제 활성화와 은행의 새로운 도약을 위해 공동 선언문을 발표했습니다. 이번 선언은 고물가와 고금리로 어려움을 겪는 지역 소상공인과 중소기업을 지원하고, 지역 금융의 뿌리를 공고히 하기 위해 마련되었습니다.\n\n노사는 상호 신뢰를 바탕으로 지역 사회에 공헌할 수 있는 금융 상품 개발과 서비스를 확대하기로 했습니다. 특히 청년 창업 지원과 사회적 기업 육성을 통해 지역 일자리 창출에도 적극적으로 기여할 것을 약속했습니다.\n\n은행 측은 이번 공동 선언이 단순한 구호에 그치지 않도록 구체적인 실행 방안을 수립하겠다고 밝혔습니다. 노조 측 또한 은행의 경쟁력 강화가 곧 지역 경제의 활력으로 이어진다는 점에 공감하며, 생산성 향상과 고객 신뢰 회복에 힘쓰기로 했습니다.\n\n이번 부산은행의 사례는 갈등 위주의 노사 관계에서 탈피해 지역 경제라는 공동의 목표를 위해 협력하는 모델을 제시했다는 점에서 큰 의미가 있습니다. 이는 다른 지역 금융기관들에도 긍정적인 파급 효과를 미칠 것으로 기대됩니다.",
             "image_prompt": "Hands joined, Busan city skyline background, bank lobby interior, cooperation symbol, warm atmosphere",
             "published_at": "2026-03-27 11:06:22",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동발 위기 엄중… 정부 ‘비상 경제 대응 체계’ 전격 가동",
@@ -378,7 +422,7 @@
             "content": "최근 중동 지역에서 발생한 군사적 긴장감과 전쟁 위기가 국내 경제에 미칠 파장을 최소화하기 위해 정부가 ‘비상 경제 대응 체계’를 가동하기로 했습니다. 김총리는 이번 위기 상황을 매우 엄중하게 인식하고 있으며, 특히 에너지 수급과 공급망 안정을 최우선 과제로 꼽았습니다.\n\n정부는 유가 상승이 국내 물가에 미칠 영향을 면밀히 모니터링하고, 필요시 유류세 인하 연장이나 수입선 다변화 등 모든 가용한 정책 수단을 동원할 방침입니다. 또한, 중동 지역에 진출한 국내 기업들의 안전과 물류 차질 여부를 실시간으로 점검하는 상황실을 운영합니다.\n\n대통령실과 정부는 이번 사태를 헤쳐나가기 위해 ‘원팀 대응’을 강조하며 비상경제점검회의를 주재했습니다. 이 자리에서는 특히 최고가격제 등 물가 안정을 위한 제도적 장치들이 현장에서 취지에 맞게 작동하고 있는지 점검하고, 서민 경제에 타격이 가지 않도록 세심한 관리를 주문했습니다.\n\n시장 전문가들은 이번 중동 위기가 장기화될 경우 한국 경제의 하반기 반등 시나리오에 차질이 생길 수 있다고 경고하고 있습니다. 따라서 정부의 선제적인 리스크 관리와 민관 합동 대응이 그 어느 때보다 중요한 시점입니다.",
             "image_prompt": "Middle East crisis, oil barrels, emergency meeting room, national flag, global economy tension",
             "published_at": "2026-03-26 22:09:45",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“올해 한국 경제성장률 1.7% 전망”... 저성장 고착화 우려",
@@ -389,7 +433,7 @@
             "content": "국내 주요 경제 기관과 외신들이 올해 한국의 경제성장률 전망치를 1.7%로 하향 조정하며 저성장 기조에 대한 우려를 표하고 있습니다. 이는 당초 예상했던 회복세보다 훨씬 더딘 흐름으로, 대내외적인 악재가 복합적으로 작용한 결과로 풀이됩니다.\n\n가장 큰 원인으로는 글로벌 금리 인상 기조의 유지와 그에 따른 소비 위축이 꼽힙니다. 고물가와 고금리가 지속되면서 가계의 실질 소득이 줄어들었고, 이는 내수 시장의 침체로 이어지고 있습니다. 기업들 역시 불확실한 경기 전망에 설비 투자를 망설이고 있는 실정입니다.\n\n수출 부문에서도 반도체 경기 회복 속도가 기대에 미치지 못하고 있으며, 최대 교역국인 중국의 경기 회복 지연이 한국 경제의 발목을 잡고 있습니다. 전문가들은 구조적인 저성장 굴레에서 벗어나기 위해 규제 혁신과 신산업 육성이 시급하다고 입을 모읍니다.\n\n정부는 이러한 위기 상황을 타개하기 위해 재정 조기 집행과 민간 활력 제고를 위한 세제 혜택 등을 검토 중이지만, 세수 결손 문제와 인플레이션 압박으로 인해 정책적 선택지가 넓지 않은 상황입니다. 향후 1%대 성장이 고착화될 경우 한국 경제의 잠재 성장력 자체가 훼손될 수 있다는 경고음이 커지고 있습니다.",
             "image_prompt": "Descending graph, South Korea map, economic slowdown, currency bills, professional analytics",
             "published_at": "2026-03-26 22:09:45",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "매일경제, 미공개 정보 이용 주식투자 금지 윤리강령 추가",
@@ -400,7 +444,7 @@
             "content": "국내 대표 경제 일간지인 매일경제가 기자들이 취재 과정에서 얻은 미공개 정보를 이용해 주식 투자를 하는 행위를 엄격히 금지하는 내용을 골자로 한 윤리강령 개정안을 발표했습니다. 이는 언론의 도덕성과 시장의 공정성을 확보하기 위한 강력한 자정 노력의 일환으로 평가받습니다.\n\n기존에도 기자들의 직업 윤리에 대한 일반적인 규정은 있었으나, 이번 개정안은 '취재 중 획득한 미공개 정보'를 구체적으로 명시하고 이를 통한 유가증권 매매를 원천적으로 차단하겠다는 의지를 담았습니다. 특히 경제 뉴스가 시장에 미치는 영향력이 큰 만큼, 정보의 비대칭성을 이용한 부당 이득 취득은 언론의 신뢰를 무너뜨리는 행위로 간주됩니다.\n\n언론계 안팎에서는 이번 조치를 환영하는 분위기입니다. 최근 자본시장 내에서 내부자 거래 및 미공개 정보 이용에 대한 처벌이 강화되는 추세에 발맞춰, 언론사 스스로가 높은 잣대를 적용함으로써 독자들에게 신뢰를 줄 수 있기 때문입니다.\n\n매일경제는 앞으로 위반 사례가 발생할 경우 엄중한 징계를 내릴 것을 예고했으며, 이는 다른 언론사들에도 영향을 미칠 것으로 보입니다. 금융 시장의 투명성을 감시해야 할 언론이 스스로 깨끗한 보도 환경을 조성하는 계기가 될 것으로 기대됩니다.",
             "image_prompt": "Stock market monitor, ethical gavel, newsroom office, integrity, financial documents",
             "published_at": "2026-03-26 22:09:45",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "우주 경제 시대 개막... ‘K-라드큐브’ 아르테미스 프로젝트 탑승",
@@ -411,7 +455,7 @@
             "content": "대한민국이 본격적인 '우주 경제' 시대에 진입하고 있습니다. 국내 기술로 개발된 초소형 위성 'K-라드큐브'가 미 항공우주국(NASA)의 주도로 추진되는 인류 최대의 달 탐사 프로젝트 '아르테미스'에 탑승하게 된 것입니다. 이는 한국 우주 기술의 국제적 위상을 증명하는 쾌거입니다.\n\n'K-라드큐브'는 달 궤도에서 우주 방사선을 측정하고 심우주 환경에서의 데이터를 수집하는 중요한 임무를 수행할 예정입니다. 이러한 데이터는 향후 인류의 달 거주지 건설과 화성 탐사를 위한 기초 자료로 활용되며, 관련 우주 부품 산업의 활성화에도 기여할 것으로 보입니다.\n\n전문가들은 우주 산업이 단순한 과학 탐사를 넘어 모빌리티, 통신, 에너지 등 다양한 분야와 결합하여 거대한 경제적 가치를 창출할 것으로 내다보고 있습니다. 한국 역시 이번 프로젝트 참여를 통해 글로벌 우주 공급망에 진입하고, 국내 스타트업과 연구소들이 '유니콘' 기업으로 성장할 수 있는 발판을 마련하게 되었습니다.\n\n정부는 앞으로 우주 항공청 개청과 더불어 민간 주도의 우주 개발 생태계를 더욱 공고히 할 계획입니다. 하늘 너머 광활한 우주가 우리 경제의 새로운 영토가 될 날이 머지않았습니다.",
             "image_prompt": "Space rocket, Moon surface, futuristic cube satellite, stars, technological breakthrough",
             "published_at": "2026-03-26 22:09:45",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“돈줄이 달라졌다”... 아시아경제-GFTN 재팬, 디지털 자산 포럼 개최",
@@ -422,7 +466,7 @@
             "content": "전통적인 금융 자산의 경계가 무너지고 디지털 자산이 경제의 주류로 부상하는 가운데, '아시아경제'가 일본의 디지털 자산 전문 기관인 'GFTN 재팬'과 손잡고 업무협약을 체결했습니다. 양측은 '디지털 자산 포럼'을 공동 개최하여 급변하는 글로벌 자본 시장의 흐름을 분석할 예정입니다.\n\n이번 협약은 비트코인 ETF 승인 등 제도권 금융 안으로 들어온 가상자산과 토큰증권(STO), 중앙은행 디지털화폐(CBDC) 등 혁신적인 금융 도구들이 한국 경제에 미칠 영향을 심도 있게 논의하기 위해 마련되었습니다. 특히 일본은 디지털 자산 관련 규제와 시장 활성화 면에서 앞서가고 있어 한일 양국의 시너지가 기대됩니다.\n\n현재 글로벌 금융 시장은 이른바 '머니 전쟁'의 양상을 띠고 있습니다. 자본의 흐름이 디지털 플랫폼으로 이동하면서 기존 금융 시스템의 혁신이 불가피해졌기 때문입니다. 이번 포럼은 국내 기업들과 투자자들에게 새로운 자본 조달 방식과 자산 관리 전략을 제시하는 이정표가 될 것입니다.\n\n아시아경제는 이번 협력을 통해 디지털 금융 리더십을 확보하고, 글로벌 파트너들과 함께 건전한 디지털 자산 생태계 조성을 위한 정책 제언 및 정보 공유를 지속해 나갈 방침입니다.",
             "image_prompt": "Digital coins, blockchain network, handshake, neon technology, global finance forum",
             "published_at": "2026-03-26 22:09:45",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[뉴스분석]미국·이란 전쟁 한 달에 한국 경제 충격…더 길어지면 2% 성장률 달성 위험",
@@ -433,7 +477,7 @@
             "content": "미국과 이란 간의 갈등이 한 달째 지속되면서 한국 경제에 미치는 파장이 갈수록 커지고 있습니다. 특히 고물가, 고금리, 고환율이라는 이른바 '3고(高)' 현상이 장기화할 조짐을 보이면서 민간 소비와 투자 심리가 급격히 위축되고 있는 상황입니다.\n\n경제 전문가들은 현재의 분쟁이 해결 기미를 보이지 않고 장기화될 경우, 정부가 목표로 했던 연간 2%대 경제 성장률 달성이 사실상 어려워질 수 있다고 경고합니다. 에너지 가격 불안정이 생산 원가 상승으로 이어져 수출 경쟁력을 약화시키는 악순환이 우려됩니다.\n\n또한, 대외 의존도가 높은 한국 경제의 특성상 중동발 리스크는 금융 시장의 변동성을 극대화하고 있습니다. 이는 단순한 물가 상승을 넘어 경기 침체 속 물가 상승이 지속되는 '스태그플레이션(S의 공포)'으로 번질 수 있다는 분석이 지배적입니다.\n\n정부는 이에 대응하기 위해 복합 경제 대응 체계를 가동하고 있으나, 글로벌 지정학적 리스크라는 불가항력적 요소가 강해 실질적인 방어막 형성이 쉽지 않은 실정입니다. 향후 전쟁의 향방이 한국 경제의 하반기 향방을 결정지을 핵심 변수가 될 전망입니다.",
             "image_prompt": "Middle East conflict, global economy crisis, falling graph, dark clouds over city, oil barrels",
             "published_at": "2026-03-26 18:59:27",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "세계경제, 여전히 석유에 의존 … AI·전기차 시대에도 대체불가",
@@ -444,7 +488,7 @@
             "content": "인공지능(AI)과 전기차(EV)가 주도하는 4차 산업혁명 시대가 도래했음에도 불구하고, 세계 경제의 석유 의존도는 여전히 낮아지지 않고 있습니다. 오히려 첨단 산업을 지탱하기 위한 막대한 전력 수요가 화석 연료 기반의 에너지 인프라를 재조명하게 만들고 있습니다.\n\nAI 데이터 센터 운영에는 상상 이상의 전력이 소모되며, 이를 안정적으로 공급하기 위해 기존 석유 및 가스 발전의 역할이 지속되고 있습니다. 또한 전기차 보급 확대에도 불구하고, 차량 제조 공정과 배터리 생산에 필요한 원자재 운송 등 산업 전반에서 석유의 영향력은 여전히 강력합니다.\n\n환경 규제 강화와 신재생 에너지로의 전환 노력에도 불구하고, 석유를 완전히 대체할 수 있는 고밀도 에너지원의 부재가 원인으로 꼽힙니다. 이는 지정학적 리스크가 발생할 때마다 전 세계 경제가 즉각적으로 출렁이는 근본적인 이유가 되고 있습니다.\n\n결국 에너지 전환기는 예상보다 훨씬 길어질 것으로 보이며, 기술 혁신이 석유 소비를 줄이기보다는 새로운 에너지 수요를 창출하는 방향으로 흐르고 있다는 분석이 힘을 얻고 있습니다. 당분간 석유는 경제 안보의 핵심 자원으로서의 지위를 유지할 것으로 보입니다.",
             "image_prompt": "AI brain with oil drop, electric car charging, fossil fuel power plant, transition technology, sunset glow",
             "published_at": "2026-03-26 18:59:27",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"돈줄이 달라졌다\"…한국 경제 바꾸는 머니전쟁",
@@ -455,7 +499,7 @@
             "content": "최근 한국 경제의 자본 흐름이 과거의 정형화된 방식에서 벗어나 급격한 변화를 맞이하고 있습니다. 전통적인 은행 대출 중심의 자금 조달 구조가 다변화되고 있으며, 사모펀드, 벤처캐피털, 디지털 자산 등 다양한 경로로 '돈줄'이 이동하고 있습니다.\n\n이러한 '머니전쟁'은 단순한 자금 이동을 넘어 한국 경제의 체질을 바꾸는 기폭제가 되고 있습니다. 고금리 기조 속에서 수익성을 쫓는 자금들이 기업의 지배구조 개선이나 신산업 선점을 위한 공격적인 투자로 이어지며 산업 생태계를 재편하고 있습니다.\n\n특히 개인 투자자들의 정보 접근성이 높아지면서 자산 관리 시장의 판도도 바뀌고 있습니다. 직접 투자 비중이 늘어나고 해외 자산으로의 눈높이가 넓어지면서 국내외 금융 경계가 허물어지는 현상이 가속화되고 있습니다.\n\n전문가들은 이러한 자금 흐름의 변화가 한국 경제의 역동성을 높이는 기회가 될 수 있지만, 동시에 시장 변동성을 키우는 위험 요소가 될 수도 있다고 지적합니다. 달라진 자본의 문법에 적응하는 기업과 개인만이 살아남는 시대가 도래했습니다.",
             "image_prompt": "Digital money flow, golden abstract waves, skyscrapers, trading dashboard, dynamic finance",
             "published_at": "2026-03-26 18:59:27",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "매일경제, ‘취재로 얻은 미공개 정보로 주식투자 금지’ 윤리강령 추가",
@@ -466,7 +510,7 @@
             "content": "매일경제가 취재 과정에서 얻은 미공개 정보를 활용한 기자들의 주식투자를 금지하는 내용을 골자로 한 윤리강령을 추가했습니다. 이는 자본시장의 공정성을 지키고 언론의 신뢰도를 제고하기 위한 강력한 자정 조치로 풀이됩니다.\n\n최근 일부 언론인들의 부적절한 투자 행위가 사회적 논란이 되면서, 정보의 최전선에 있는 기자가 사적 이익을 취하는 것에 대한 비판 여론이 높아졌습니다. 이번 조치는 이러한 부정적 인식을 불식시키고 취재 윤리를 확립하겠다는 의지를 보여줍니다.\n\n새로운 강령에는 미공개 정보 이용 금지뿐만 아니라 관련 직무 수행 중 얻은 정보를 외부에 유출하거나 사적으로 활용하는 행위에 대한 구체적인 제재 방안도 포함될 것으로 보입니다. 이는 다른 주요 언론사들에게도 영향을 미칠 것으로 예상됩니다.\n\n건전한 시장 경제를 위해서는 정보의 비대칭성을 악용하는 행위가 근절되어야 합니다. 언론사의 이번 윤리 강화는 독자들에게 보다 객관적이고 공정한 정보를 제공하는 토대가 될 것이며, 시장의 투명성을 한 단계 끌어올리는 계기가 될 것입니다.",
             "image_prompt": "Journalism ethics, ink pen on paper, balance scale, transparent glass, professional newsroom",
             "published_at": "2026-03-26 18:59:27",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "아시아경제, GFTN 재팬과 ‘디지털 자산 포럼 개최’ 업무협약 체결",
@@ -477,7 +521,7 @@
             "content": "아시아경제가 GFTN 재팬과 손잡고 디지털 자산 포럼 개최를 위한 업무협약(MOU)을 체결했습니다. 이번 협약은 빠르게 성장하는 글로벌 디지털 자산 시장에서의 주도권을 확보하고 관련 산업의 건전한 생태계 조성을 위해 추진되었습니다.\n\n양측은 이번 협약을 통해 블록체인 기술, 토큰증권(STO), 중앙은행 디지털화폐(CBDC) 등 디지털 금융의 핵심 과제들을 심도 있게 논의할 예정입니다. 특히 한일 양국의 전문가들이 모여 규제 샌드박스와 기술 표준화에 대한 의견을 교환하는 장이 마련될 것으로 기대됩니다.\n\n디지털 자산은 이제 단순한 투자 수단을 넘어 차세대 금융 인프라의 핵심으로 자리 잡고 있습니다. 이번 포럼은 국내 기업들이 글로벌 시장으로 진출할 수 있는 네트워크를 구축하고, 최신 글로벌 트렌드를 공유하는 중요한 플랫폼 역할을 할 것입니다.\n\n전 세계적으로 디지털 자산에 대한 제도권 편입이 가속화되는 시점에서, 민간 차원의 이러한 국제 협력은 정부 정책 수립에도 긍정적인 자극을 줄 것으로 보입니다. 디지털 금융 강국으로 도약하기 위한 민간의 움직임이 더욱 활발해질 전망입니다.",
             "image_prompt": "Digital asset network, blockchain nodes, global handshake, blue neon light, futuristic city map",
             "published_at": "2026-03-26 18:59:27",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제][속보] 외국인 3조 원 순매도에 코스피 3% 하락...환율 1,507원에 주간거래 마감",
@@ -488,7 +532,7 @@
             "content": "국내 금융시장이 기록적인 폭락장을 경험하며 커다란 충격에 빠졌습니다. 외국인 투자자들이 약 3조 원에 달하는 주식을 한꺼번에 내던지며 코스피 지수는 전 거래일 대비 3% 이상 급락하는 모습을 보였습니다. 이러한 대규모 자금 유출은 글로벌 경기 불확실성과 중동의 긴장 상태가 반영된 결과로 풀이됩니다.\n\n외환시장 역시 심리적 마지노선을 위협받고 있습니다. 원·달러 환율은 주간 거래 종료 시점에 1,507원을 기록하며 시장 참가자들에게 큰 불안감을 안겼습니다. 환율이 1,500원 선을 돌파한 것은 이례적인 상황으로, 수입 물가 상승에 따른 인플레이션 압박이 더욱 거세질 것으로 우려되고 있습니다.\n\n시장 전문가들은 이번 폭락이 단기적인 조정에 그칠지, 아니면 장기적인 하락장의 시작인지에 대해 엇갈린 전망을 내놓고 있습니다. 다만 외국인의 공격적인 매도세가 멈추지 않는다면 국내 증시의 기초 체력이 약화될 수 있다는 점에는 동의하고 있습니다. 향후 정부의 시장 안정화 조치와 환율 개입 여부에 시장의 이목이 집중되고 있습니다.\n\n개인 투자자들의 시름도 깊어지고 있습니다. 반등을 기대하며 버티던 투자자들은 이번 급락으로 인해 큰 손실을 입었으며, 시장 전반에 퍼진 공포 심리로 인해 투매 현상이 발생할 가능성도 제기됩니다. 당분간은 보수적인 관점에서 시장을 관망하며 리스크 관리에 집중해야 할 시기입니다.",
             "image_prompt": "Stock market crash, red downward arrow, currency exchange rate 1507, financial crisis, dramatic",
             "published_at": "2026-03-26 16:04:44",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "金총리 “중동발 위기 엄중… 비상 경제 대응 체계 가동”",
@@ -499,7 +543,7 @@
             "content": "정부는 최근 중동 지역의 무력 충돌 사태가 장기화될 조짐을 보이자, 이를 국가적인 경제 위기 상황으로 규정하고 전면적인 대응에 착수했습니다. 김부겸 국무총리는 긴급 회의를 통해 현재 상황의 엄중함을 강조하며, 범정부 차원의 비상 경제 대응 체계를 즉각 가동할 것을 지시했습니다. 이는 에너지 수급과 공급망 안정을 최우선 과제로 삼겠다는 강력한 의지 표현입니다.\n\n이번 비상 체계 가동에 따라 각 부처는 24시간 모니터링 시스템을 구축하고, 상황 전개에 따른 시나리오별 대응책(Contingency Plan)을 점검하고 있습니다. 특히 유가 상승에 따른 물가 불안을 차단하기 위해 유류세 인하 연장이나 에너지 수급 다변화 등 실질적인 대책들이 논의되고 있습니다. 정부는 필요할 경우 가용 가능한 모든 수단을 동원해 시장 충격을 최소화할 방침입니다.\n\n또한 청와대 내에 비상경제상황실을 설치하여 실시간으로 상황을 관리하기로 했습니다. 이는 단순한 경제 지표 관리를 넘어 안보와 경제가 결합된 복합 위기 상황에 기민하게 대응하기 위한 조치입니다. 민간 전문가들과의 협업을 통해 국제 금융 시장의 흐름을 면밀히 분석하고, 발생 가능한 리스크를 선제적으로 차단하는 데 주력할 예정입니다.\n\n정부 관계자는 \"국제 정세의 가변성이 매우 높은 만큼, 모든 가능성을 열어두고 대비하고 있다\"며 국민들에게 지나친 불안감을 갖지 말 것을 당부했습니다. 하지만 시장에서는 'S(스태그플레이션)의 공포'가 고개를 들고 있어, 정부의 정책 실효성이 그 어느 때보다 중요한 시험대에 올랐다는 평가가 나오고 있습니다.",
             "image_prompt": "Government emergency meeting, Middle East conflict map, global economy, oil refinery, strategic planning",
             "published_at": "2026-03-26 16:04:44",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"사회연대경제기본법 행안위 통과\"…13년 논쟁 끝 '제도화' 첫 관문 넘어",
@@ -510,7 +554,7 @@
             "content": "사회적 기업, 협동조합 등 이윤보다는 사람과 공동체의 가치를 우선시하는 '사회적 경제'를 법적으로 뒷받침하기 위한 사회연대경제기본법이 오랜 산고 끝에 국회 행정안전위원회를 통과했습니다. 이 법안은 지난 13년 동안 정치권과 시민사회 내에서 치열한 논쟁의 대상이었으나, 이번 상임위 통과를 통해 실질적인 제도화 단계에 진입하게 되었습니다.\n\n이 법안의 핵심은 사회연대경제를 체계적으로 육성하기 위한 통합 지원 체계를 마련하는 것입니다. 그동안 각 부처별로 흩어져 있던 지원 정책을 일원화하고, 사회적 경제 조직들이 자생력을 갖출 수 있도록 금융 및 판로 지원에 대한 법적 근거를 제공하게 됩니다. 이는 단순히 취약계층 일자리 창출을 넘어 우리 경제의 다양성과 회복력을 높이는 계기가 될 것으로 기대됩니다.\n\n현장에서는 이번 법안 통과를 환영하는 분위기가 역력합니다. 아산시를 비롯한 여러 지자체에서 이미 사회연대경제지원센터를 개소하며 발 빠르게 움직이고 있는 만큼, 중앙 정부의 법적 뒷받침이 더해진다면 지역 경제 활성화에도 큰 시너지 효과가 발생할 것으로 보입니다. 이는 지속 가능한 성장을 위한 새로운 경제 모델로서의 가치를 인정받은 셈입니다.\n\n다만 일각에서는 시장 경제의 효율성을 저해하거나 국가 재정 부담을 늘릴 수 있다는 우려도 여전히 존재합니다. 앞으로 법사위와 본회의를 거치는 과정에서 이러한 우려를 해소하고 실질적인 성과를 낼 수 있는 구체적인 시행령 마련이 과제로 남아 있습니다. 13년 만의 결실이 우리 사회의 양극화 해소와 연대 정신 확산에 기여할 수 있을지 주목됩니다.",
             "image_prompt": "Legislation, social economy, assembly hall, cooperation, sustainable growth",
             "published_at": "2026-03-26 16:04:44",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "고양시, 주거도시에서 '자족형 경제도시'로…산업 기반 대폭 늘려",
@@ -521,7 +565,7 @@
             "content": "경기도 고양시가 과거의 '베드타운' 이미지에서 탈피하여 스스로 일자리를 창출하고 경제 활동이 이루어지는 '자족형 경제도시'로의 대전환을 선언했습니다. 시는 이를 위해 바이오, 메디컬, 방송 영상 콘텐츠 등 미래 성장 동력이 될 첨단 산업 기반 시설을 대폭 확충하고 기업 유치에 사활을 걸고 있습니다. 이는 도시의 지속 가능성을 확보하기 위한 전략적 선택입니다.\n\n고양시의 이러한 변화 중심에는 '일산 테크노밸리'와 '경기 고양 방송영상밸리' 등의 대규모 프로젝트가 자리 잡고 있습니다. 단순한 부지 조성을 넘어 관련 기업들이 입주해 시너지를 낼 수 있도록 세제 혜택과 맞춤형 인프라를 제공한다는 계획입니다. 특히 수도권 정비계획법 등 첩첩이 쌓인 규제를 돌파하고 경제자유구역 지정을 추진하는 등 행정력을 집중하고 있습니다.\n\n자족 도시로의 변모는 시민들의 삶의 질 향상과 직결됩니다. 주거와 직장이 가까운 '직주근접' 환경이 조성되면 출퇴근 교통 체증이 완화되고 지역 내 소비가 활성화되어 소상공인들에게도 혜택이 돌아갑니다. 고양시는 이번 산업 기반 확충을 통해 지역 내 총생산(GRDP)을 끌어올리고 경기도의 새로운 경제 엔진으로 자리매김하겠다는 포부를 밝혔습니다.\n\n전문가들은 고양시의 입지 조건이 우수한 만큼, 우수 인력 유입과 기업 친화적인 환경 조성에 성공한다면 실질적인 경제 중심지로 도약할 가능성이 충분하다고 분석합니다. 고양시가 서울의 위성 도시를 넘어 독자적인 경쟁력을 갖춘 산업 도시로 탈바꿈할 수 있을지 향후 5년이 분수령이 될 것으로 보입니다.",
             "image_prompt": "City development, industrial complex, modern architecture, economic growth, high-tech center",
             "published_at": "2026-03-26 16:04:44",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“중동발 에너지·물류 위기 대응 총력”… 비상경제 컨트롤타워 가동",
@@ -532,7 +576,7 @@
             "content": "최근 중동 지역의 긴장이 고조됨에 따라 정부가 에너지 수급과 물류 흐름을 점검하기 위한 비상경제 컨트롤타워를 전격 가동했습니다. 이번 조치는 이란과 이스라엘 간의 갈등이 전면전 양상으로 치닫을 경우 발생할 수 있는 유가 급등과 공급망 차질에 선제적으로 대응하기 위한 목적입니다.\n\n정부는 비상경제점검회의를 통해 중동발 위기가 국내 실물 경제에 미치는 영향을 최소화하겠다는 방침을 세웠습니다. 특히 원유와 가스 등 에너지 자원의 도입 현황을 실시간으로 모니터링하고, 해운 물류 경로의 안전성을 확보하기 위한 다각적인 대책을 마련 중입니다. 유관 부처들은 수출입 기업들의 피해를 방지하기 위해 금융 지원 및 대체 물류선 확보 등 지원책을 검토하고 있습니다.\n\n중앙 정부뿐만 아니라 서울시 관악구 등 기초 지자체들도 '비상경제대응 TF'를 구성하며 민생 경제 보호에 나섰습니다. 지자체 차원에서는 고물가 상황 속에서 소상공인과 취약계층의 부담을 덜어줄 수 있는 지역 경제 활성화 방안과 물가 관리 대책을 집중적으로 논의하고 있습니다.\n\n전문가들은 이번 중동 사태가 장기화될 경우 국내 경제 성장률에도 영향을 줄 수 있는 만큼, 민관이 협력하여 리스크 관리에 만전을 기해야 한다고 조언합니다. 정부는 향후 상황 전개에 따라 시나리오별 대응 전략(Contingency Plan)을 구체화하며 경제 연착륙을 유도할 계획입니다.",
             "image_prompt": "Middle East crisis, oil tanker, logistics disruption, emergency meeting, dark blue professional style",
             "published_at": "2026-03-26 14:03:51",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"돈줄이 달라졌다\"… 한국 경제의 판도를 바꾸는 '머니전쟁'",
@@ -543,50 +587,6 @@
             "content": "대한민국 경제의 자본 흐름, 이른바 '돈줄'의 지도가 급격히 변하고 있습니다. 과거 전통적인 제조 금융 중심의 자본 투입 방식에서 벗어나, 이제는 기술력과 데이터, 그리고 미래 가치를 중심으로 한 거대 자본의 이동이 목격되고 있습니다. 이 과정에서 금융권과 산업계는 새로운 주도권을 잡기 위한 치열한 '머니전쟁'에 돌입했습니다.\n\n최근의 변화는 단순한 투자처의 이동을 넘어 한국 경제의 체질 개선을 시사합니다. 특히 디지털 전환과 AI 기술의 확산으로 인해 스타트업뿐만 아니라 대기업들도 자금 조달 방식과 운용 전략을 전면 재검토하고 있습니다. 투자자들 역시 금리 변동성과 글로벌 경기 침체 우려 속에서 더 안전하면서도 고수익을 보장할 수 있는 자산으로 빠르게 이동하고 있습니다.\n\n이러한 자본의 흐름 변화는 부동산 시장에서부터 주식, 가상자산에 이르기까지 경제 전반에 걸쳐 영향력을 행사하고 있습니다. 전문가들은 이러한 흐름이 산업 간의 경계를 허물고 새로운 형태의 비즈니스 모델을 창출하는 원동력이 될 것으로 보고 있습니다. 반면, 자본의 쏠림 현상으로 인해 전통 산업군이 소외될 수 있다는 우려도 제기되고 있습니다.\n\n결국 향후 한국 경제의 성패는 이 변화하는 자본의 흐름을 얼마나 효과적으로 신성장 동력에 연결하느냐에 달려 있습니다. 정부의 금융 규제 혁신과 기업들의 선제적인 투자 전략이 맞물려야만 글로벌 머니전쟁 속에서 한국 경제가 경쟁력을 유지할 수 있을 것입니다.",
             "image_prompt": "Korean currency, digital capital flow, financial data visualization, golden coins and blue graphs, dynamic",
             "published_at": "2026-03-26 14:03:51",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "울면서 웃는 중국… 이란-이스라엘 전쟁의 복잡한 득실 계산",
-            "source": "한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RWdlS3hXVkVrWEU1NnMyN3NqU2sxMjR6dUExMUVDNkhrTm50aE4zSXlvdXowdGRNRWhDbmZaMkQ5LXdMN1dieXZoUnhfeEJPYlF2SXhEU2J5Z9IBVEFVX3lxTE5OV2RwRDhqaTd1bl8zWktuNVZTTVM2M21ZTDVjc0cwd1plVUYtZTIwc3pZUTE2REpIci1NOXZaQ29SeHFXZ0VPbVBId2R4LS14QXE0aQ?oc=5",
-            "category": "시장",
-            "summary": "중동 분쟁 속에서 중국이 얻을 수 있는 전략적 이익과 경제적 손실 사이의 줄타기를 분석합니다.",
-            "content": "이란과 이스라엘 사이의 군사적 충돌이 격화되면서 글로벌 경제의 또 다른 축인 중국의 속내가 복잡해지고 있습니다. 중국은 이번 사태를 통해 미국 주도의 중동 질서가 흔들리는 틈을 타 영향력을 확대하려는 전략적 기회를 엿보고 있지만, 동시에 실물 경제 측면에서는 적지 않은 타격을 우려하고 있습니다.\n\n우선 경제적 손실 측면에서 중국은 최대 원유 수입국으로서 국제 유가 상승에 매우 취약합니다. 중동발 공급망 불안은 중국 내 물가 상승 압박을 가중시키고, 포스트 코로나 이후 회복세가 더딘 중국 경제에 찬물을 끼얹을 수 있습니다. 또한 중국이 의욕적으로 추진해온 '일대일로(Belt and Road)' 프로젝트의 중동 내 거점들이 불안해질 수 있다는 점도 큰 리스크입니다.\n\n하지만 반대로 지정학적 측면에서는 중국에 유리한 국면이 조성될 수도 있습니다. 미국의 시선이 우크라이나에 이어 중동으로 분산되면서 대중국 압박의 강도가 일시적으로 완화될 수 있기 때문입니다. 또한 러시아와 이란 등 반미 성향 국가들과의 에너지 결속을 강화함으로써 위기를 기회로 바꾸려는 움직임도 포착됩니다.\n\n중국 당국은 표면적으로는 평화적 해결을 촉구하면서도, 배후에서는 자국의 에너지 안보를 확보하고 경제적 피해를 최소화하기 위한 정교한 득실 계산에 분주합니다. 이번 중동 전쟁은 중국이 글로벌 리더로서의 중재 역량을 시험받는 동시에, 자국 경제의 회복력을 가늠하는 시험대가 될 전망입니다.",
-            "image_prompt": "China flag, Iran flag, oil barrels, global map, balance scale, cinematic lighting",
-            "published_at": "2026-03-26 14:03:51",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "매일경제, '미공개 정보 주식투자 금지' 윤리강령 강화",
-            "source": "미디어오늘",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hd1hybHdJVG5sMm9wWVhCc0c1NmhzSXdFdTY2aGNvNEVER2pwdkFkRGtJRzAteFJnRWhFRTRCeC11ZTZ6aXlHYmhoYk9rZmRhX0ZfWl9HQVgwUzVXMExwWTBmVWRJTzFzNEtBdHd0LVI?oc=5",
-            "category": "사회",
-            "summary": "언론의 도덕성 회복을 위해 취재 정보의 사적 이용을 엄격히 금지하는 자정 노력이 시작되었습니다.",
-            "content": "국내 대표 경제지인 매일경제가 기자들이 취재 과정에서 얻은 미공개 정보를 이용해 주식 투자를 하는 행위를 원천 봉쇄하기 위해 윤리강령을 대폭 강화했습니다. 이는 최근 금융 시장의 투명성에 대한 대중의 요구가 높아진 가운데, 언론인 스스로가 시장 질서를 교란할 수 있는 행위를 방지하겠다는 의지로 풀이됩니다.\n\n새롭게 추가된 윤리 지침에 따르면, 기자는 직무상 알게 된 정보를 공식 보도 이전에 사적으로 활용하거나 타인에게 제공하는 행위가 엄격히 금지됩니다. 특히 상장사 관련 미공개 정보를 이용한 유가증권 매매는 중대한 징계 사유로 명시되었습니다. 이는 경제 기사가 시장에 미치는 파급력을 고려할 때, 기자의 객관성과 공정성을 담보하기 위한 필수적인 조치로 평가받습니다.\n\n언론계 안팎에서는 이번 매일경제의 행보가 다른 언론사들로 확산될지 주목하고 있습니다. 그동안 일부 언론계에서는 취재 정보 유출이나 이를 이용한 부당 이득 취득 사례가 간간이 발생하며 사회적 지탄을 받아왔습니다. 이번 강령 개정은 독자들로부터 신뢰를 회복하고 언론의 본령인 감시와 비판 기능을 강화하는 계기가 될 것으로 기대됩니다.\n\n전문가들은 단순한 규정 제정을 넘어 실질적인 모니터링 체계와 위반 시의 엄격한 처벌이 병행되어야 한다고 강조합니다. 미디어의 신뢰도가 자본 시장의 효율성과 직결되는 만큼, 이번 윤리강령 강화가 한국 경제 저널리즘의 수준을 한 단계 높이는 시발점이 될 수 있을지 귀추가 주목됩니다.",
-            "image_prompt": "Journalism ethics, stock market ticker, padlock on a pen, newspaper, white clean minimal",
-            "published_at": "2026-03-26 14:03:51",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "국가미래전략위원회 27일 출범… 한국 경제의 백년대계 설계",
-            "source": "한겨레",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aSF96U3M0R3NVWmFXNjNKbXJhU1p1SFNoZVVpOTFNaHJFeFZ6cGxhWjVlQi1Bem0teExjQlhOVDk2U0I0LXBtZ2ZTMTlySkFwUkIwdEZMMGpDRnB6WF9Pcg?oc=5",
-            "category": "정책",
-            "summary": "경제인문사회연구회 산하에 국가 미래 전략을 수립할 컨트롤타워가 본격 가동됩니다.",
-            "content": "한국 경제와 사회의 지속 가능한 발전을 도모하기 위한 '국가미래전략위원회'가 오는 27일 공식 출범합니다. 경제인문사회연구회 산하로 구성된 이 위원회는 단기적인 현안 대응을 넘어 인구 구조 변화, 디지털 전환, 기후 위기 등 한국이 직면한 거대한 도전 과제들에 대한 중장기적 해법을 제시할 예정입니다.\n\n위원회는 학계, 산업계, 시민사회 전문가들이 두루 참여하여 초당적이고 다학제적인 논의를 이어갈 계획입니다. 특히 저출산·고령화로 인한 잠재 성장률 저하 문제를 해결하기 위한 새로운 경제 패러다임을 구축하고, AI 시대의 도래에 따른 노동 시장 재편과 사회 안전망 강화 방안을 중점적으로 다룰 것으로 보입니다.\n\n정부와 공공기관의 정책 수립에 핵심적인 자문 역할을 수행하게 될 위원회는, 현 정부의 정책 기조뿐만 아니라 다음 세대를 위한 국가적 청사진을 그리는 데 주력합니다. 이는 변화의 속도가 빠른 글로벌 환경 속에서 한국이 단순한 추격자(Fast Follower)를 넘어 선도자(First Mover)로 도약하기 위한 필수적인 과정으로 여겨집니다.\n\n향후 위원회가 내놓을 보고서와 정책 제안들은 국정 운영의 나침반 역할을 할 것으로 보입니다. 위원회의 출범은 단순히 기구를 만드는 것을 넘어, 복합 위기 시대에 한국 사회가 나아가야 할 올바른 방향성에 대한 사회적 합의를 이끌어내는 중요한 장이 될 것으로 기대됩니다.",
-            "image_prompt": "Future strategy, city blueprint, data hologram, innovation conference, high-tech professional",
-            "published_at": "2026-03-26 14:03:51",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "“유가 150달러 가면 혹독한 경제침체 온다”…블랙록 CEO 꺼낸 ‘최악 시나리오’",
-            "source": "서울경제신문",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96dU9UR3BtblcyNjB0TV9CN3d3d0pGSldzaXdFRE1BSWVMU3pmVmc2VVRGMkZ2U2U2YllYUEtVT2J3WkFXVjZRUFg0d2RVZHhxbnfSAVNBVV95cUxPMk56RElUNExOT01vRjBWUHdoakt6OU9uOHpLbVcxTWlhSFE2N2NZVUtiakxGbUdKZDlOODF6LXBpdEhfTEYzX1pLTTlUXzRZbnluOA?oc=5",
-            "category": "글로벌",
-            "summary": "세계 최대 자산운용사 블랙록의 래리 핑크 회장이 중동 사태로 인한 유가 급등과 그로 인한 글로벌 경기 침체 가능성을 경고했습니다.",
-            "content": "세계 경제의 향방을 좌우하는 블랙록의 래리 핑크 최고경영자(CEO)가 최근 지정학적 리스크 확산에 따른 경제 위기 가능성을 강력히 시사했습니다. 특히 중동 지역의 군사적 충돌이 격화되면서 에너지 공급망에 차질이 생길 경우, 국제 유가가 배럴당 150달러선까지 치솟을 수 있다는 '최악의 시나리오'를 제시했습니다.\n\n유가가 이처럼 급격히 상승할 경우 전 세계적인 인플레이션 압력이 다시 거세질 것이며, 이는 결국 각국 중앙은행의 금리 인하 행보를 늦추고 실물 경제를 위축시키는 '혹독한 경제 침체'로 이어질 수 있다는 분석입니다. 이는 코로나19 이후 회복세를 보이던 글로벌 경제에 가장 큰 하방 압력으로 작용할 전망입니다.\n\n핑크 회장은 현재의 지정학적 상황이 과거 그 어느 때보다 불확실성이 높다고 진단하며, 투자자들이 위험 자산보다는 안전 자산에 집중하거나 포트폴리오의 방어적 성격을 강화해야 한다고 조언했습니다. 이러한 경고는 글로벌 금융 시장 전반에 공포 심리를 자극하고 있습니다.\n\n전문가들은 이러한 거물급 인사의 발언이 시장의 심리적 저항선을 무너뜨릴 수 있다고 우려하고 있습니다. 국제 사회의 외교적 중재가 실패할 경우, 에너지 가격 폭등이 현실화되면서 세계 경제가 장기 저성장의 늪에 빠질 수 있다는 우려가 확산되고 있습니다.",
-            "image_prompt": "Oil barrels, soaring price chart, dark global economy, stormy background, realistic",
-            "published_at": "2026-03-26 11:05:22",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
