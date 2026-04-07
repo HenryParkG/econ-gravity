@@ -1,6 +1,171 @@
 {
-    "last_updated": "2026-04-06 22:04:42",
+    "last_updated": "2026-04-07 11:07:30",
     "items": [
+        {
+            "title": "국제유가 12% 폭등… 세계 경제 ‘퍼펙트 스톰’ 공포 확산",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sRWtpNENfakg1UWdDX3dFMXdVckpHd3h6N2xmVnhfV21ENmd2QzZBaGJLNTRqc245RVhTNjFJMFkwLVNkcUE?oc=5",
+            "category": "시장",
+            "summary": "유가 급등으로 인한 글로벌 경제 붕괴 가능성 제기",
+            "content": "최근 국제 유가가 하루 만에 12% 이상 폭등하며 배럴당 90달러선을 돌파하는 등 에너지 시장이 통제 불능 상태로 치닫고 있습니다. 전문가들은 이러한 급격한 유가 상승이 인플레이션을 재점화하고, 전 세계적인 경기 침체를 유발할 수 있다고 경고하고 있습니다.\n\n특히 중동 지역의 지정학적 리스크가 해소되지 않으면서 공급 부족 우려가 커지고 있으며, 이는 단순한 에너지 가격 상승을 넘어 세계 경제 시스템의 붕괴를 초래할 수 있는 '퍼펙트 스톰'의 전조로 해석됩니다. 한국과 같은 에너지 수입 의존도가 높은 국가들은 직격탄을 맞을 것으로 보입니다.\n\n정부와 민간 경제 연구소들은 유가 100달러 시대의 재도래 가능성을 염두에 두고 비상 대책 마련에 분주합니다. 유가 상승은 물류비와 생산 원가 상승으로 이어져 소비자 물가에 즉각적인 악영향을 미칠 것으로 전망됩니다.",
+            "image_prompt": "Crude oil refinery, fire glowing, dramatic sky, oil barrels, global economic crisis",
+            "published_at": "2026-03-07 21:41:29",
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "중동 전쟁발 연쇄 충격… 에너지·식량·물류망 비상",
+            "source": "뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XVDRRWm1EV2hMMzdIaUVoUFRQaENraWVWRHdsZ2tjSEZwaGlsZ3ZseEc2X3JCR0QzR0FaRjBjeWhGMnB5bUd1RGpGU0RUYkl3eE5FSzk3eU9qSG1vZEx4UtIBeEFVX3lxTE5iQnR2RTBRWnBieUNjUEFsRnNNbXZGNmZTVUYzTGJ2MURnT2swcmlXWWxrOEZ4Qnd4dXNkVUZoTXRGYTloaWFYZXkyeW80X3Nvdkc4aXdYa3ZvZDNzUURsQkZqei1mRk1ST00tVXFnX0U1MFY2dVVxdQ?oc=5",
+            "category": "글로벌",
+            "summary": "중동 사태 확산으로 글로벌 공급망 전방위 타격",
+            "content": "중동 지역의 군사적 갈등이 심화되면서 글로벌 경제가 요동치고 있습니다. 이번 사태는 단순히 국지적 충돌을 넘어 에너지, 식량, 물류 등 세계 경제의 핵심 동맥을 위협하는 연쇄적인 충격을 가하고 있습니다.\n\n특히 호르무즈 해협 등 주요 해상 물류 경로의 긴장감이 고조되면서 해상 운임이 급등하고 물류 기간이 연장되는 등 물류 대란의 조짐이 보이고 있습니다. 이는 글로벌 공급망의 병목 현상을 심화시켜 제조업 전반의 생산 차질로 이어질 우려가 큽니다.\n\n또한 중동과 밀접한 관련이 있는 에너지 및 식량 자원의 수급 불균형은 전 세계적인 생활 물가 상승을 촉진하고 있습니다. 각국 정부는 비상 대응 체계를 가동하며 공급망 다변화와 자원 확보를 위한 총력전에 나서고 있습니다.",
+            "image_prompt": "War zone smoke, cargo ship in dark ocean, wheat field and oil rig, global supply chain, dark cinematic atmosphere",
+            "published_at": "2026-03-07 21:41:29",
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "SK 온 미국 배터리 공장 958명 해고… 전기차 수요 둔화 여파",
+            "source": "JTBC",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zN0ZpUk8xeTVLUy1DM25EXzVDSDctSDF1dmEtNE5VQUFrQ3JmZk1kTkptMHNRRHg2a0haV0QwVk5WU1llM2U1b29WNFN5ajVLT0V3Vg?oc=5",
+            "category": "테크",
+            "summary": "전기차 시장 성장 둔화로 인한 대규모 인력 감축",
+            "content": "미국 조지아주에 위치한 SK 배터리 생산 공장에서 958명에 달하는 대규모 해고가 결정되었습니다. 이는 최근 글로벌 전기차 시장의 수요 둔화(캐즘) 현상이 심화되면서 생산량 조절이 불가피해졌기 때문으로 풀이됩니다.\n\n이번 해고 사태는 단순한 기업 내부의 문제를 넘어, 미국 내 전기차 정책의 변화 가능성과 시장의 냉각기를 상징적으로 보여줍니다. 특히 트럼프 전 대통령의 '전기차 전쟁' 발언 등 정치적 불확실성이 가중되면서 배터리 산업의 미래에 대한 우려가 커지고 있습니다.\n\n업계 전문가들은 전기차 시장의 성장세가 예전만 못하다는 점을 경고하며, 향후 배터리 제조사들의 추가적인 구조조정이나 투자 지연 가능성을 예의주시하고 있습니다. 이는 한국 배터리 3사의 글로벌 전략에도 상당한 영향을 미칠 것으로 보입니다.",
+            "image_prompt": "Abandoned electric vehicle, battery factory interior, industrial robot arm, dark blue lighting, economic slowdown",
+            "published_at": "2026-03-07 21:41:29",
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "전쟁 쇼크에 코스피 -10% 급락… 투자심리 급냉",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0blp6LUwtZVExR3Z2di1yUGdrNGNobDlqWm9lMzdIa2cwSVRRWFVqQzMtWWlWeXFxVnhmeFNiYzNKR3MwV1dic2pQQTlzVXF0WVlmUGR0T3FkVHhXTXByXzQ3QkNFMlJmdWZuWVBTZ9IBdkFVX3lxTFA5Y0g3MENrYWFlY200azh4OU9tamVjOG1nb0I5VmFmUUVCQU9CMTNFdFhDcnRWRmN5eXJLY0U1VWlid21Dekkxc1R6RFRsXzB1eUdQNFdBN0RHU2p2aUVMYmVCWVN2T0p1RVpTYTNlT2VRWHRaYlE?oc=5",
+            "category": "금융",
+            "summary": "지정학적 리스크로 인한 국내 증시 대폭락",
+            "content": "중동발 전쟁 공포가 국내 증시를 덮치며 코스피 지수가 고점 대비 10% 이상 하락하는 등 강력한 쇼크를 겪고 있습니다. 외국인과 기관의 동반 매도세가 이어지며 투자 심리는 극도로 위축된 상태입니다.\n\n시장 관계자들은 이번 하락이 특정 종목에 쏠린 수급 구조와 외부 악재가 결합된 결과라고 분석합니다. 특히 원-달러 환율이 급등하며 자본 유출 우려까지 겹쳐 증시의 하방 압력을 높이고 있습니다. 안전 자산으로의 자금 쏠림 현상이 뚜렷해지는 양상입니다.\n\n불확실성이 해소되기 전까지는 변동성이 높은 장세가 지속될 것으로 보이며, 전문가들은 보수적인 투자 관점을 유지할 것을 권고하고 있습니다. 정부 역시 증시 변동성에 대한 모니터링을 강화하고 있습니다.",
+            "image_prompt": "Stock market crash chart, red arrow pointing down, trading floor chaos, neon digital screen, financial distress",
+            "published_at": "2026-03-07 21:41:29",
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "지자체 비상경제대책 가동… 이란 사태 긴급 대응",
+            "source": "이로운넷",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01eTRDWC1zc2JyY0VwS016RFlhcXlWNEpJdURQUldhWFRwaXJjRTBiM2tIaldDV2lHaHFsUkV6dTRxT29tSnFGMnN0XzBteXhkRXZ4NThaWFdqQk1mOERKSGozNWFjQQ?oc=5",
+            "category": "정책",
+            "summary": "경북도 등 지자체, 중동 사태에 따른 비상관리체계 구축",
+            "content": "이란과 이스라엘 간의 갈등으로 중동 정세가 급박하게 돌아가자, 경상북도를 포함한 주요 지자체들이 '비상경제관리체계'를 긴급 가동하고 나섰습니다. 지역 내 수출입 기업들의 피해를 최소화하고 물가 불안에 선제적으로 대응하기 위한 조치입니다.\n\n이철우 경북도지사는 지역 경제 주체들과 협력하여 에너지 수급 상황을 점검하고, 유가 급등으로 고통받는 농어민 및 중소기업들을 위한 지원 방안을 모색하라고 지시했습니다. 평택시 등 주요 물류 거점 도시들도 비상대책본부를 운영하며 실시간 모니터링에 돌입했습니다.\n\n정부와 지자체는 이번 사태가 장기화될 경우에 대비해 예비비 투입과 정책 자금 지원 등 단계별 시나리오를 검토 중입니다. 민생 안정을 최우선 과제로 삼아 경제 타격을 최소화하겠다는 방침입니다.",
+            "image_prompt": "Emergency meeting room, government officials, world map background, professional atmosphere, strategy planning",
+            "published_at": "2026-03-07 21:41:29",
+            "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"개미들 지금 주식 섣불리 담지 마라\"…'유가 쇼크' 경고",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfOWlXa0VIX3l4N1RjcmhxbE4tbzE5Q1hZcWNkZEFnVllvc3huc3NybDZqWFFSYWtTQVFMcVFKdmNrTTR3Um42VjI0WXg0TTA?oc=5",
+            "category": "금융",
+            "summary": "중동 분쟁 심화에 따른 유가 급등 가능성으로 증시 변동성 확대 및 개인 투자자 주의보 발령.",
+            "content": "최근 이란과 이스라엘 간의 군사적 충돌 가능성이 높아지면서 국제 금융 시장이 요동치고 있습니다. 특히 전문가들은 이번 사태가 단순한 지역적 갈등을 넘어 전 세계적인 '유가 쇼크'로 번질 수 있다고 강력히 경고하고 있습니다. 에너지 가격의 급등은 생산 원가 상승과 소비 위축으로 이어져 기업 실적에 치명적인 타격을 줄 수 있습니다.\n\n개인 투자자들에게는 현재의 하락장을 저점 매수의 기회로 삼기보다는 당분간 관망세를 유지할 것이 권고됩니다. 불확실성이 해소되지 않은 상황에서 섣부른 진입은 자칫 큰 손실로 이어질 수 있기 때문입니다. 증권가에서는 지정학적 리스크가 완전히 반영될 때까지 현금 비중을 높이는 전략이 유효하다고 분석합니다.\n\n또한 이번 사태가 장기화될 경우 글로벌 인플레이션 압력이 다시 거세질 수 있습니다. 이는 중앙은행들의 금리 인하 시점을 늦추는 요인이 되어 증시 전반에 하방 압력을 가할 것으로 보입니다. 투자자들은 유가 추이와 환율 변동을 면밀히 모니터링하며 보수적인 자산 운용을 유지해야 합니다.",
+            "image_prompt": "Oil rig sunset, stock market crash red chart, golden bar, high contrast cinematic",
+            "published_at": "2026-03-07 18:27:46",
+            "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "미 SK 배터리 공장, 958명 해고…\"전기차 수요 둔화 직격탄\"",
+            "source": "JTBC",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zN0ZpUk8xeTVLUy1DM25EXzVDSDctSDF1dmEtNE5VQUFrQ3JmZk1kTkptMHNRRHg2a0haV0QwVk5WU1llM2U1b29WNFN5ajVLT0V3Vg?oc=5",
+            "category": "테크",
+            "summary": "글로벌 전기차 시장의 일시적 수요 정체(캐즘)로 인해 SK온 미국 공장의 대규모 인력 감축 단행.",
+            "content": "미국 조지아주에 위치한 SK온의 배터리 생산 공장이 전체 인력의 상당수인 958명을 해고하기로 결정했습니다. 이는 글로벌 전기차 시장의 성장이 둔화되는 이른바 '캐즘(Chasm)' 현상이 현실화되면서 배터리 수요가 급감했기 때문입니다. 야심 차게 추진되던 생산 라인의 가동률 조정이 불가피해진 상황입니다.\n\n업계 전문가들은 이번 감원이 단순한 기업 내부의 문제를 넘어 전 세계적인 전기차 산업의 위기를 상징한다고 보고 있습니다. 높은 금리와 인프라 부족, 그리고 보조금 정책의 변화 등으로 인해 소비자들이 전기차 구매를 망설이면서 완성차 업체들 역시 생산 계획을 줄줄이 축소하고 있는 실정입니다.\n\n정치적인 변수도 큰 몫을 차지하고 있습니다. 트럼프 전 대통령을 비롯한 일부 정치권에서 전기차 전환 정책에 대한 비판의 목소리를 높이면서 미래 산업에 대한 불확실성이 커졌습니다. 이러한 환경 속에서 기업들은 생존을 위해 비용 절감과 인력 효율화라는 고육지책을 선택할 수밖에 없는 상황입니다.\n\n다만 장기적으로는 탄소 중립 흐름에 따라 전기차 시장이 다시 반등할 것이라는 예측도 존재합니다. 하지만 단기적인 고통은 피할 수 없을 것으로 보이며, 배터리 업계는 기술 혁신과 원가 경쟁력 확보를 통해 이번 위기를 돌파해야 하는 무거운 과제를 안게 되었습니다.",
+            "image_prompt": "Industrial robot arm, empty factory floor, battery cells, blue cold lighting, futuristic tech",
+            "published_at": "2026-03-07 18:27:46",
+            "image_url": "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "“비트코인, 향후 2~3년간 금 수익률 앞설 것”... 전문가 조언",
+            "source": "sedaily.com",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsaGlYemQwc3확rvBWUWp3VzV1MDNGT3czLVd2STNWRXFYNE4xMlVKNE9JTDRHOW9GM3kyOXY5a3plSzRtOGoyejhzSjU3c3FWQ1E?oc=5",
+            "category": "시장",
+            "summary": "전통적 안전 자산인 금보다 비트코인의 성장 가능성을 높게 평가하는 파격적인 경제 전망 제기.",
+            "content": "미국의 주요 경제 전문가들 사이에서 비트코인이 향후 몇 년간 금의 수익률을 크게 상회할 것이라는 낙관적인 전망이 나오고 있습니다. 과거 '디지털 금'으로 불리던 비트코인이 이제는 단순한 투기 수단을 넘어 포트폴리오의 필수적인 자산군으로 자리 잡고 있다는 분석입니다. 특히 제도권 금융의 진입이 가속화되면서 신뢰도가 상승한 점이 주요 원인으로 꼽힙니다.\n\n전문가들은 인플레이션 헤지(위험 회피) 수단으로서 비트코인의 희소성에 주목합니다. 금과 달리 전송과 보관이 용이하며, 젊은 세대의 투자 선호도가 압도적으로 높다는 점이 장기적인 수요를 뒷받침할 것이라는 설명입니다. 향후 2~3년 내에 비트코인 현물 ETF를 통한 자금 유입이 본격화되면 가격 상승 랠리가 이어질 가능성이 큽니다.\n\n물론 가상자산 특유의 변동성은 여전히 주의해야 할 요소입니다. 하지만 거시 경제의 불안정성이 커질수록 중앙화된 시스템에서 벗어난 탈중앙화 자산에 대한 가치는 더욱 부각될 수밖에 없습니다. 이는 기존 금융 시스템에 대한 불신이 깊어지는 상황에서 비트코인이 대안 금융으로서의 입지를 굳히고 있음을 시사합니다.\n\n투자자들은 비트코인을 단기 차익 실현의 대상으로 보기보다는, 디지털 시대의 새로운 가치 저장 수단으로 인식할 필요가 있습니다. 전통적인 금 투자와 병행하여 자산의 일부를 배분하는 분산 투자 전략이 유효한 시점입니다.",
+            "image_prompt": "Golden bitcoin coin, glowing circuit board, binary code rain, luxury 3d render",
+            "published_at": "2026-03-07 18:27:46",
+            "image_url": "https://images.unsplash.com/photo-1614028674026-a65e31bfd27c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "트럼프 \"항복아니면 노딜\"…밀려오는 스태그플레이션 공포",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01OFZIRV9mYUNLSmtQUng4OEtCTGdIb1gzWG5VTHg1c0RBaVN4LVdHVFI1S2JuYnhTME5QLUVhcWdCWlNPcF9ud0tlU3ExUXFQOVpxZXFpQXhGUdIBVEFVX3lxTFBzcmZWWlVraDZwdlJMTkUwLU45UXpzYllHYnRzc3pqVm8yT2xYZHVFNWV1Mnl0bktCZVpmWGlscklNZjRZbE52R183WU8yNGJvNnU3WQ?oc=5",
+            "category": "정책",
+            "summary": "미 대선 정국 속 보호무역주의 강화 움직임과 고물가·저성장이 결합된 경제 위기 경고음.",
+            "content": "미국 대선을 앞두고 도널드 트럼프 전 대통령의 강경한 무역 정책 발언이 시장에 큰 파장을 일으키고 있습니다. '항복 아니면 노딜'이라는 극단적인 협상 전략은 글로벌 공급망의 분절화를 가속화하고, 이는 결과적으로 제품 가격 인상을 부추겨 인플레이션을 자극할 위험이 큽니다. 물가는 오르는데 성장은 정체되는 '스태그플레이션'의 그림자가 짙어지고 있습니다.\n\n월가 전문가들은 미국의 부채 수준이 사상 최고치에 도달한 상황에서 고금리 기조가 유지되는 현 상황을 우려 섞인 시선으로 바라보고 있습니다. 정부의 재정 지출은 늘어나는데 생산성은 이를 따라가지 못하면서 경제 기초 체력이 약화되고 있다는 지적입니다. 이러한 배경 속에서 보호무역주의 강화는 글로벌 경제의 효율성을 저해하는 악재로 작용합니다.\n\n국내 경제 역시 이러한 미국의 정책 변화에 민감하게 반응할 수밖에 없습니다. 대미 수출 의존도가 높은 한국 기업들로서는 관세 장벽이 높아질 경우 수익성 악화가 불가피합니다. 특히 반도체, 자동차 등 주력 산업 분야에서의 불확실성이 커지면서 기업들의 장기 투자 계획 수립에도 비상이 걸린 상황입니다.\n\n결국 스태그플레이션 공포를 극복하기 위해서는 기술 혁신을 통한 생산성 향상과 공급망 다변화가 절실합니다. 또한 정부 차원의 외교적 역량 집중을 통해 통상 환경의 급격한 변화에 대비한 안전장치를 마련하는 것이 무엇보다 중요한 시점입니다.",
+            "image_prompt": "American flag background, heavy storm clouds, broken chain, dark city silhouette",
+            "published_at": "2026-03-07 18:27:46",
+            "image_url": "https://images.unsplash.com/photo-1534951009808-766178b47a8e?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "이 대통령, 동남아 순방 마치고 귀국…AI·원전 경제영토 확장",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1scV8zTmxzRE1IUkhfeXRaLXJqSGRNcUZRUVNUWWRMNHJ1OGd1cVlxOUxNWE1TdmZCQ3VGdjhnX2RZZmU5TnlqdnZfV210YzRIa3BJMzF3V3htMjjSAWBBVV95cUxNcDJ5N1BXdUZueUp5b0tNYzhMd0lXblBkVkN1eEUxT0Vkcy1Cc09OWFk4bDJEQXBEeXdIak15eFJaV1RZRWw4eWZQa29YTnl3QTJKSnBSQl9wdGIwd25SUE4?oc=5",
+            "category": "정책",
+            "summary": "동남아 순방을 통한 세일즈 외교 성과 달성 및 첨단 산업 분야의 글로벌 협력 네트워크 강화.",
+            "content": "대통령이 동남아시아 주요 국가 순방을 마치고 돌아오며 원전과 AI(인공지능)를 중심으로 한 '경제 영토 확장'의 신호탄을 쏘아 올렸습니다. 이번 순방을 통해 한국의 우수한 원전 기술력을 다시 한번 확인시켰으며, 디지털 전환 가속화를 위한 동남아 국가들과의 AI 협력 벨트 구축에 합의하는 등 가시적인 성과를 거두었습니다.\n\n특히 원전 분야에서는 탄소 중립 시대의 핵심 에너지원으로서 한국형 원전의 우수성을 적극 홍보하며 후속 사업 수주를 위한 발판을 마련했습니다. 이는 국내 원전 생태계 복원과 수출 증대에 큰 기여를 할 것으로 기대됩니다. 또한 현지 기업들과의 조인트 벤처 설립 논의를 통해 반도체 및 첨단 부품 공급망 협력을 공고히 했습니다.\n\n정부는 이번 순방 성과가 실제 수출 계약과 일자리 창출로 이어질 수 있도록 후속 조치에 만전을 기할 방침입니다. 중동 발 리스크로 대외 경제 여건이 악화되는 가운데, 동남아와 같은 신흥 시장 개척은 한국 경제의 돌파구가 될 수 있습니다. 신시장으로의 진출은 특정 지역에 편중된 수출 구조를 개선하는 데에도 큰 도움이 될 것입니다.\n\n대통령실은 앞으로도 '세일즈 외교'를 최우선 순위에 두고 우리 기업들이 글로벌 시장에서 마음껏 뛸 수 있는 환경을 조성하겠다고 밝혔습니다. AI와 원전이라는 미래 먹거리 산업을 선점하기 위한 국가적 차원의 지원이 더욱 강화될 것으로 보입니다.",
+            "image_prompt": "Modern aircraft landing, high-tech city skyline, nuclear cooling tower, AI digital human face",
+            "published_at": "2026-03-07 18:27:46",
+            "image_url": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "중동 전쟁에 세계경제 '흔들'…에너지·식량·물류 연쇄 충격",
+            "source": "뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XVDRRWm1EV2hMMzdIaUVoUFRQaENraWVWRHdsZ2tjSEZwaGlsZ3ZseEc2X3JCR0QzR0FaRjBjeWhGMnB5bUd1RGpGU0RUYkl3eE5FSzk3eU9qSG1vZEx4UtIBeEFVX3lxTE5iQnR2RTBRWnBieUNjUEFsRnNNbXZGNmZTVUYzTGJ2MURnT2swcmlXWWxrOEZ4Qnd4dXNkVUZoTXRGYTloaWFYZXkyeW80X3Nvdkc4aXdYa3ZvZDNzUURsQkZqei1mRk1ST00tVXFnX0U1MFY2dVVxdQ?oc=5",
+            "category": "시장",
+            "summary": "이란과 이스라엘 간 긴장 증폭으로 국제 유가가 급등하며 글로벌 공급망 전반에 타격을 주고 있습니다.",
+            "content": "최근 이란과 이스라엘 사이의 군사적 충돌 가능성이 커지면서 국제 금융시장과 실물 경제가 동시에 흔들리고 있습니다. 특히 브렌트유가 배럴당 90달러를 넘어서는 등 에너지 가격 급등이 인플레이션 압박을 다시 가중시키고 있습니다. 이는 단순히 기름값 상승에 그치지 않고 전 세계적인 물류 비용 상승과 식량 가격 불안정으로 이어지는 연쇄 반응을 일으키고 있습니다.\n\n전문가들은 이번 중동 사태가 장기화될 경우 호르무즈 해협의 봉쇄 가능성까지 거론하며, 이는 세계 에너지 공급망에 치명적인 결과를 초래할 수 있다고 경고합니다. 물류 대란이 현실화되면 제조 원가가 상승하고 소비자 물가가 다시 꿈틀거리면서 각국 중앙은행의 금리 인하 시점도 늦춰질 가능성이 큽니다.\n\n우리나라는 에너지 수입 의존도가 매우 높기 때문에 이러한 대외 변수에 더욱 취약한 구조를 가지고 있습니다. 정부는 이란 사태 대응을 위해 비상 거시경제 점검 체계를 가동하고 원유 수급 상황을 실시간으로 모니터링하고 있으나, 국제 유가 향방에 따른 국내 물가 불안은 피하기 어려울 것으로 보입니다.\n\n결국 이번 사태는 에너지 자립도와 공급망 다변화의 중요성을 다시 한번 일깨워주고 있습니다. 투자자들은 지정학적 리스크가 해소될 때까지 보수적인 자산 운용 전략을 취할 필요가 있으며, 향후 발표될 미국의 추가 경제 지표와 중동의 군사적 움직임을 예의주시해야 합니다.",
+            "image_prompt": "Middle East oil refinery, dark smoke, global supply chain, fire embers, dramatic lighting",
+            "published_at": "2026-03-07 15:38:08",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "전기차 수요 둔화 직격탄…SK배터리 美 공장 958명 해고",
+            "source": "주간조선",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lempiMlBGbDZBYTlta3NQY19fRGYxXzB5ZkFyek9HS2xqX0hlS0lUR2lxdHpRWmtlVU00M0l5M1ljYk1FMVV6cE9tZi1oRXBTMC1NWFNRZ2ZoM2lYcVVTRkEwR0J2SUtsbVHSAW5BVV95cUxPU1paWmdneElCTUdaVllOOWZETTk5bUlQSzNkMTlxay15NW51NHZDTnJxWjJyNTFVb0lZdmhGMWl5SzVSVEdobG0yS3o1amZmd1JfbzlWVDZqUERQWEJKYjk0UW42dklJdGxXSnFWdw?oc=5",
+            "category": "테크",
+            "summary": "글로벌 전기차 시장의 수요 정체로 인해 국내 배터리 기업의 해외 생산 기지가 구조조정에 들어갔습니다.",
+            "content": "글로벌 전기차(EV) 시장의 성장세가 주춤하는 '캐즘(Chasm, 일시적 수요 정체)' 구간에 진입하면서 국내 배터리 업계가 직격탄을 맞고 있습니다. SK온의 미국 법인인 SK배터리아메리카(SKBA)는 최근 조지아주 공장에서 약 900명이 넘는 인력을 감축하기로 결정했습니다. 이는 전기차 수요 둔화에 따른 생산량 조절과 효율화 작업의 일환으로 풀이됩니다.\n\n그동안 폭발적인 성장을 거듭해 온 배터리 산업이 이처럼 대규모 인력 감축에 나선 것은 시장의 분위기가 급격히 냉각되었음을 보여주는 상징적인 사건입니다. 고금리와 보조금 축소, 충전 인프라 부족 등의 이유로 소비자들이 전기차 구매를 망설이면서 완성차 업체들이 생산 속도를 조절하자 배터리 공급사들도 재고 관리에 나설 수밖에 없는 상황입니다.\n\n전문가들은 이러한 수요 둔화 현상이 단기간에 해소되지 않을 것으로 보고 있습니다. SK뿐만 아니라 다른 배터리 기업들도 가동률 하락과 수익성 저하 문제에 직면해 있으며, 일부 기업들은 신규 공장 건설 시점을 늦추거나 투자 계획을 전면 재검토하고 있습니다. 이는 한국의 핵심 미래 먹거리인 K-배터리 산업에 큰 위기 요인으로 작용하고 있습니다.\n\n다만 이러한 조정기가 지나면 시장이 우량 기업 중심으로 재편될 것이라는 긍정적인 전망도 존재합니다. 차세대 배터리 기술 개발과 원가 절감을 통해 경쟁력을 확보한 기업만이 살아남는 진검승부가 시작된 셈입니다. 향후 북미 시장의 정책 변화와 내연기관차의 환경 규제 강도가 배터리 산업 반등의 열쇠가 될 것으로 보입니다.",
+            "image_prompt": "Electric vehicle battery, factory interior, futuristic assembly, blue tech lighting, professional",
+            "published_at": "2026-03-07 15:38:08",
+            "image_url": "https://images.unsplash.com/photo-1580048914979-3c868daee4d7?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "요즘 실적과 미국 경제 구조로 본 투자 아이디어, AI 투자 + 선별적 소비 = ?",
+            "source": "네이버 프리미엄콘텐츠",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYQi1yWElpMnMyTVBCcGlGUDBMSERuLWRRNC1VMzFnc1llQjJTSnNqSTBjbGtVWnFwejg3SlNEMFNNTGhvUW5WSjNETUY0SEZzcElLZU9SZ0YtbXFQNjlxa015V0RwUXRHZmJocGRkVVd1YW1UZnVsczI4MFY?oc=5",
+            "category": "투자",
+            "summary": "인공지능 기술의 발전과 가계의 소비 양극화가 결합된 새로운 투자 트렌드가 주목받고 있습니다.",
+            "content": "급변하는 경제 환경 속에서 투자자들은 새로운 수익 창출의 기회를 찾기 위해 분주히 움직이고 있습니다. 최근 미국 경제 구조의 변화를 분석한 결과, 인공지능(AI) 인프라에 대한 공격적인 투자와 소비자들의 '선별적 소비' 패턴이 결합된 형태가 핵심 투자 아이디어로 부상하고 있습니다. AI는 단순한 유행을 넘어 기업의 생산성을 혁신하는 필수 기술로 자리 잡으며 관련 하드웨어 및 소프트웨어 기업들의 실적을 견인하고 있습니다.\n\n동시에 인플레이션으로 인해 가계의 가용 소득이 제한되면서 소비 시장에서는 '가성비'와 '프리미엄'으로 나뉘는 양극화 현상이 뚜렷해지고 있습니다. 소비자들은 꼭 필요한 생필품에는 지출을 아끼면서도, 자신이 가치를 부여하는 특정 분야나 경험에는 과감히 지갑을 여는 선별적 소비 행태를 보입니다. 이러한 흐름을 잘 파악하여 독보적인 브랜드 파워를 가진 기업이나 압도적인 가격 경쟁력을 갖춘 기업들이 유망 투자처로 꼽힙니다.\n\n실제로 미국 대형 기술주들은 AI 경쟁력에 따라 실적이 엇갈리고 있으며, 전통적인 소비재 기업들도 변화하는 소비 트렌드에 적응하지 못하면 시장에서 소외되고 있습니다. 투자자들은 기업의 재무제표뿐만 아니라 해당 기업이 속한 산업군 내에서의 기술적 해자와 브랜드 충성도를 면밀히 분석해야 합니다.\n\n결론적으로 현재의 투자 전략은 거시경제의 불확실성을 상쇄할 수 있는 '성장성(AI)'과 '안정성(선별적 소비)'의 조화가 필요합니다. 미국의 금리 정책이 불투명한 상황일수록 실적 기반의 펀더멘털이 강한 종목 위주로 포트폴리오를 재편하는 것이 유리할 것으로 보입니다.",
+            "image_prompt": "Artificial intelligence circuit, luxury shopping bag, stock market upward graph, gold and blue, sleek design",
+            "published_at": "2026-03-07 15:38:08",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "비트코인, 7만 달러 부근서 횡보…미 경제지표 발표 '주목'",
+            "source": "지디넷코리아",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6SW0yVDRyNU5fWTF5SDM3MGhZZkZ1clBfNXBfaUhHaDkwczR0M2dIUDdfVXBHMFNRMjZjR1dleVBfMWtfRGxpZjVFbVU4V0kwaU5zeHNR?oc=5",
+            "category": "가상자산",
+            "summary": "가상자산 시장이 미국의 주요 거시경제 지표 발표를 앞두고 관망세에 진입하며 심리적 저항선에서 등락을 거듭하고 있습니다.",
+            "content": "가상자산 시장의 대장주인 비트코인이 7만 달러라는 심리적·기술적 저항선 부근에서 횡보세를 이어가고 있습니다. 지난달 사상 최고치를 경신한 이후 차익 실현 매물과 신규 진입 세력 사이의 팽팽한 힘겨루기가 지속되는 양상입니다. 특히 이번 주 예정된 미국의 주요 경제 지표 발표 결과에 따라 비트코인의 단기 방향성이 결정될 것으로 보입니다.\n\n투자자들이 주목하는 지표는 소비자물가지수(CPI)와 고용 지표입니다. 인플레이션이 예상보다 강하게 나타날 경우 연준의 금리 인하 기대감이 꺾이면서 위험 자산인 비트코인에는 악재로 작용할 수 있습니다. 반면, 물가 안정세가 확인된다면 시장은 다시 유동성 공급에 대한 기대를 품으며 추가 상승 동력을 얻을 수 있습니다.\n\n최근 비트코인 현물 ETF를 통한 기관 자금 유입은 긍정적인 신호로 해석되지만, 동시에 거시 경제 상황에 따른 가격 변동성은 더욱 커진 상황입니다. 전통적인 금융 자산과의 커플링(동조화) 현상이 강화되면서 비트코인은 이제 단순한 대안 자산을 넘어 글로벌 매크로 환경의 변화를 민감하게 반영하는 지표가 되었습니다.\n\n가상자산 전문가들은 반감기를 앞두고 공급 부족에 대한 기대감이 여전하지만, 단기적으로는 변동성이 확대될 수 있으므로 추격 매수보다는 분할 매수 관점에서 접근할 것을 권고합니다. 특히 미 연준 의원들의 발언과 달러 인덱스의 움직임이 비트코인 가격에 미치는 영향을 주의 깊게 살펴야 합니다.",
+            "image_prompt": "Bitcoin symbol, digital screen, financial numbers, gold reflection, cyber security neon",
+            "published_at": "2026-03-07 15:38:08",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "이 대통령 지지율 65% 또 최고치…경제·부동산 긍정 평가 [갤럽]",
+            "source": "한겨레",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlLVNiRzlaNEF2RTBOcWRRQ0FFdEtJMmRGOTROb0ZlQnJ2V1E2WDRGYWJrYkVfZVVqRzZ5OEdBUmRlRTRCYUpmT2hVdzNCbmhnTUY2RTdXMjlnT3I0R0VDSFh2NDFkNTFUN2JTRnBVU25SQURt?oc=5",
+            "category": "정책",
+            "summary": "경제 활성화 및 부동산 시장 안정 정책에 따른 국정 지지율 상승",
+            "content": "윤석열 대통령의 국정 수행 지지율이 65%를 기록하며 최고치를 경신했다는 여론조사 결과가 발표되었습니다. 이번 상승의 주요 원인으로는 정부의 경제 활성화 대책과 부동산 시장 안정을 위한 규제 완화 노력이 꼽히고 있습니다.\n\n국민들은 민생 현장을 직접 챙기는 행보와 더불어, 주택 공급 확대 및 세제 개편 등 부동산 정책의 가시적인 변화에 긍정적인 점수를 준 것으로 분석됩니다. 침체되었던 부동산 시장에 온기가 돌면서 자산 가치 안정에 대한 기대감이 지지율 상승으로 이어진 것입니다.\n\n하지만 대외적인 경제 여건은 여전히 녹록지 않습니다. 앞서 언급된 유가 급등과 글로벌 인플레이션 압박은 정부의 민생 안정 노력에 큰 걸림돌이 될 수 있습니다. 지지율 상승세를 유지하기 위해서는 수출 회복세가 내수 활성화로 이어지도록 하는 정교한 정책 설계가 요구됩니다.\n\n야권에서는 여전히 물가 관리 실패와 소득 불평등 문제를 지적하고 있습니다. 정부는 이번 지지율 상승을 동력 삼아 하반기 구조 개혁과 경제 체질 개선에 박차를 가할 것으로 보이지만, 대외 불확실성이라는 파고를 어떻게 넘느냐가 향후 국정 운영의 성패를 가를 핵심 변수가 될 것입니다.",
+            "image_prompt": "Presidential office, South Korean flag, real estate apartment model, rising bar chart, professional",
+            "published_at": "2026-03-07 13:21:45",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "중동 전쟁 확산 공포에 세계 경제 '흔들'... 에너지·물류 연쇄 충격",
             "source": "뉴시스",
