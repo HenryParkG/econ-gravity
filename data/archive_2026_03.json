@@ -1,6 +1,61 @@
 {
-    "last_updated": "2026-04-27 11:32:51",
+    "last_updated": "2026-04-27 20:02:30",
     "items": [
+        {
+            "title": "유가 폭등과 스태그플레이션 공포, 한국 경제 ‘복합 위기’ 직격탄",
+            "source": "g-enews.com",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY21FMFpKRTdrZ0VldFRoSFRlc3NWLW5odmw2c29WZlJvNnVNV0JLMURQczAwZ2xHTFFsVjBVN2NWTjg4YkloSW5CQjJ6RVRpamhzNEVyTl9Wem5KVnNUdTBKb0p6X2g0dzVSRzJ3Q1RJQVVWRFQ1dl9DeHZaVUNSLVU4ME1vTUs1?oc=5",
+            "category": "시장",
+            "summary": "중동 전쟁 위기로 유가와 물가가 급등하며 경기 침체 속 물가 상승인 스태그플레이션 우려가 커지고 있습니다.",
+            "content": "최근 이란과 이스라엘 간의 갈등이 격화되면서 국제 유가가 배럴당 100달러를 넘보고 있습니다. 특히 호르무즈 해협의 봉쇄 가능성까지 제기되면서 에너지 수입 의존도가 높은 한국 경제에는 비상등이 켜졌습니다. 휘발유 가격이 리터당 2,000원을 돌파할 것이라는 전망이 나오면서 가계 소비 위축도 불가피해 보입니다.\n\n정부와 민간 전문가들은 물가 전망치를 일제히 상향 조정하는 반면, 경제 성장률 전망치는 하향 조정하며 '스태그플레이션(Stagflation)'의 위험성을 경고하고 있습니다. 고물가로 인해 금리 인하 시점이 늦춰질 가능성이 커지면서 기업들의 투자 심리도 위축되고 있는 실정입니다.\n\n수출 지표가 일부 개선되는 흐름을 보였으나, 고환율과 고유가라는 '배드 뉴스'가 겹치면서 실질적인 경기 회복세는 체감하기 어렵다는 분석이 지배적입니다. 대외 불확실성이 극에 달한 상황에서 한국 경제가 이 파고를 어떻게 넘길지가 향후 경제 흐름의 최대 관건이 될 것입니다.",
+            "image_prompt": "Oil barrels, rising red arrow, Middle East map, financial crisis atmosphere",
+            "published_at": "2026-03-28 10:57:31",
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "한국 경제 위기 돌파구는 ‘AI와 초협업’… 산업 패러다임 전환 가속",
+            "source": "아이뉴스24",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jN1JWeE03QjhWRDJQY2dXSzUxVGpEUzZDcldoNU13S2cxTS1CQ1hudXBLdzM5clZMMFhJY1RLaU54Vm5qckhXV0lNa1Y?oc=5",
+            "category": "테크",
+            "summary": "복합 위기를 극복하기 위해 인공지능(AI) 기술과 기업 간 장벽을 넘는 초협업이 유일한 해법으로 제시되었습니다.",
+            "content": "국내 주요 경제 전문가들은 한국 경제가 직면한 저성장과 고물가의 복합 위기를 타개하기 위해 인공지능(AI) 중심의 산업 재편이 필수적이라고 입을 모으고 있습니다. 단순히 기술 도입에 그치는 것이 아니라, 전 산업 분야에 AI를 이식하여 생산성을 혁신적으로 높여야 한다는 주장입니다.\n\n특히 주목받는 키워드는 '초협업'입니다. 개별 기업의 힘만으로는 글로벌 공급망 위기와 기술 경쟁을 이겨낼 수 없기에, 기업 간, 그리고 민관 간의 경계를 허무는 협력이 강조되고 있습니다. 반도체, 배터리 등 핵심 산업에서 국내외 기업들이 전략적 동맹을 맺는 사례가 늘어나는 것도 이러한 흐름의 일환입니다.\n\nAI는 단순한 도구가 아니라 국가 경쟁력을 결정짓는 핵심 인프라로 인식되고 있습니다. 데이터 확보부터 컴퓨팅 파워, 그리고 이를 운영할 전문 인력 양성까지 생태계 전반의 '초협업' 시스템이 구축될 때 비로소 한국 경제의 새로운 활로가 열릴 것으로 보입니다.",
+            "image_prompt": "AI brain, digital neural network, business collaboration, futuristic technology",
+            "published_at": "2026-03-28 10:57:31",
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "“휴머노이드 로봇이 경제 장악할 것”… 제프리스의 파격 전망",
+            "source": "연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWkpVZVk0ZlJnUGc5Z1pIeFVEdmtueGxWYVlsVzVnaHByMDJva2Y4a2plbjdzQlh1SXpxdVMtTEVQdEp4QjNQZFg3aFNIQjV0MmcyQk9PTkZSWWR1VHNXek5ZRmVuTVdnckU3eHRsai3SAXRBVV95cUxPMTBlV0Fsa3RucmJUWl9rZUZ6eUNJWmY0VVY1R2VxZE1hRmpWX3FXWXJEQUh6VEVTM1NUZ3BTdHoweUppXzFOLVpXbDVISkZaRktUc0IxdDlBOW1OelRkWnlMY3FRX3Q2aHlOaHg2dW9nVE9lQw?oc=5",
+            "category": "테크",
+            "summary": "글로벌 투자은행 제프리스는 휴머노이드 로봇이 미래 노동 시장과 경제 구조를 근본적으로 바꿀 것이라고 분석했습니다.",
+            "content": "미국 투자은행 제프리스(Jefferies)는 최근 보고서를 통해 휴머노이드 로봇 기술의 발전이 임계점에 도달했다고 평가했습니다. 이제 로봇은 단순 반복 작업을 넘어 인간의 형태와 유사한 움직임을 통해 다양한 산업 현장에 투입될 준비를 마쳤으며, 이는 노동 시장의 판도를 완전히 바꿀 것입니다.\n\n보고서는 인구 감소와 인건비 상승 문제를 겪고 있는 선진국 경제에서 휴머노이드 로봇이 가장 강력한 대안이 될 것으로 내다봤습니다. 제조 업종뿐만 아니라 물류, 서비스, 심지어 가계 노동까지 로봇이 대체하게 되면서 전 세계 GDP 성장에도 상당한 기여를 할 것이라는 분석입니다.\n\n이러한 변화는 '로봇 경제'라는 새로운 시장을 창출할 것입니다. 소프트웨어와 하드웨어의 결합, 그리고 AI를 통한 자율 제어 기술이 핵심 경쟁력이 될 것이며, 글로벌 테크 기업들은 이미 이 시장을 선점하기 위해 천문학적인 자금을 쏟아붓고 있습니다.",
+            "image_prompt": "Humanoid robot, smart factory, future labor market, sleek metallic finish",
+            "published_at": "2026-03-28 10:57:31",
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "HBM4 대전 개막… 메모리 반도체, ‘고객 맞춤형’ 경쟁 본격화",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yWGFZdjJMZXpaaUt6aEF1QldXTTJfYm9UOUk2S25YR3gwaGVRc1lWM0xaUVJOSlRVeXpZaEZ6RlVCZU5PTVdJZm5GR1ozSVE?oc=5",
+            "category": "테크",
+            "summary": "차세대 고대역폭메모리(HBM4) 시장을 놓고 삼성전자와 SK하이닉스의 맞춤형 반도체 기술 경쟁이 치열해지고 있습니다.",
+            "content": "인공지능(AI) 반도체 시장의 핵심 부품인 HBM(고대역폭메모리) 경쟁이 6세대 제품인 HBM4로 옮겨붙고 있습니다. 김정호 KAIST 교수는 AI 시대의 반도체 승부는 누가 더 고객사의 요구에 맞춘 '커스텀(Custom) HBM'을 잘 만드느냐에 달려 있다고 강조했습니다.\n\n기존의 HBM이 범용 제품에 가까웠다면, HBM4부터는 엔비디아나 구글 같은 거대 테크 기업들의 특정 AI 모델에 최적화된 설계가 필수적입니다. 이에 따라 메모리 반도체 기업들은 단순 제조를 넘어 설계 단계부터 고객사와 긴밀히 협력하는 새로운 비즈니스 모델을 구축하고 있습니다.\n\n삼성전자와 SK하이닉스는 HBM4 시장 주도권을 잡기 위해 차세대 패키징 기술과 공정 혁신에 사활을 걸고 있습니다. 한국 반도체 산업이 대만 TSMC와의 협력을 강화하거나 독자적인 생태계를 구축하는 등 다각도의 전략적 선택을 해야 하는 중요한 시점입니다.",
+            "image_prompt": "Semiconductor wafer, HBM4 chip, neon blue circuit, microchip technology",
+            "published_at": "2026-03-28 10:57:31",
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "당정, 25조 규모 ‘민생 안정’ 재정 투입… 빚 없는 추경 추진",
+            "source": "매거진한경",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JTkZDZ0dKUFVkdHhuQXpJZEpUaW4xZmJqdlJpd1BxOUdDdGdOaDZ5Y3JkeDdQbmhQZzlUS1BxYUNXZFJSamhOM2x1S0EzRzZhZVkyYlBxeUl4WFJKTE0xTVFMQkdPVmlyRTI5VQ?oc=5",
+            "category": "정책",
+            "summary": "정부와 여당이 민생 경제 회복을 위해 약 25조 원 규모의 재정 지원 대책을 마련하며 경기 부양에 나섰습니다.",
+            "content": "정부와 여당은 중동발 경제 불안과 고물가로 고통받는 서민 경제를 살리기 위해 25조 원 규모의 민생 지원책을 논의 중입니다. 이번 대책의 핵심은 국가 채무를 늘리는 '빚내는 추경' 대신, 가용 자원을 최대한 활용하여 재정 건전성을 유지하면서도 경제 활력을 불어넣는 것입니다.\n\n주요 지원 대상은 고금리와 물가 상승으로 경영난을 겪고 있는 소상공인과 중소기업입니다. 저금리 대환 대출 확대, 전기료 및 임대료 지원 등 실질적인 비용 절감 대책이 포함될 예정입니다. 또한 침체된 지역 경제를 살리기 위해 지역 맞춤형 인프라 투자와 소비 진작책도 검토되고 있습니다.\n\n정부는 이번 조치를 통해 내수 소비를 진작시키고 경제의 하방 위험을 차단하겠다는 의지를 보이고 있습니다. 다만, 대규모 자금 투입이 시중 유동성을 늘려 물가 상승을 자극하지 않도록 정밀한 정책 집행이 요구되는 상황입니다.",
+            "image_prompt": "South Korean government building, money flow, economic growth chart, policy document",
+            "published_at": "2026-03-28 10:57:31",
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "OECD, 한국 경제성장률 전망 1.7%로 대폭 하향 조정",
             "source": "뉴시스",
