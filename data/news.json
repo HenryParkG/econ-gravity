@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-30 15:21:55",
-    "briefing": "코스피 시가총액이 세계 5위권으로 도약하며 투자 열기가 뜨겁지만, 신용 잔고가 역대급으로 급증하며 '빚투'에 대한 우려가 깊어지고 있습니다. 국제적으로는 전쟁 여파에 따른 여름철 에너지 대란 경고와 함께 미국-이란 간의 물밑 경제 협상, 북한의 경제 행보 등 지정학적 변수가 시장의 불확실성을 높이는 형국입니다.",
+    "last_updated": "2026-05-30 19:46:49",
+    "briefing": "오늘의 경제는 반도체 중심의 대만 경제 급성장과 국내 코스피 8000선 돌파라는 희망적 지표와 함께, 고물가·고환율에 따른 서민 경제의 어려움이라는 명암이 뚜렷하게 교차하고 있습니다. 특히 에너지 대란 경고와 원·달러 환율 1500원선 돌파 등 거시경제적 불확실성이 지속되면서 'K자형' 양극화에 대한 우려가 깊어지는 양상입니다.",
     "indices": [
         {
             "name": "KOSPI",
@@ -40,6 +40,61 @@
     ],
     "items": [
         {
+            "title": "대만, 2026년 경제성장률 전망 9.64%로 상향… 반도체 호황의 명암",
+            "source": "뉴시스, 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JLVZxa3kybHk5VHFzQThGMUxJVDh4Wkg3X1Ywc2tHUkl5MVg5OVNWMW80cGphRVlrMUhXRUk5NlkxOUhHblh6bEZSUENlTDJ0LUNGSXV0Z2JmbWdKbmF2R9IBeEFVX3lxTE9yd0tRUzlVeEhZOWw4a2RjeERSdERLRldxNG04YTNGRkdCdHZRRHdoWldiSTBIOWZETE43WEtjdzV4VndMN0NGeV9NMHAzdVF1YjZrazBTVUVLVFEzR3NoWHdseDFvRU1fR2k2d0lYVWIxVFJBZG9tQQ?oc=5",
+            "category": "글로벌",
+            "summary": "대만이 반도체 산업의 폭발적 성장에 힘입어 2026년 성장률 전망을 9.64%로 대폭 상향했으나, 내부적으로는 '대만병'이라 불리는 양극화 문제에 직면했습니다.",
+            "content": "대만 경제가 TSMC를 필두로 한 반도체 산업의 강력한 경쟁력에 힘입어 전례 없는 성장세를 기록할 것으로 보입니다. 최근 발표된 전망치에 따르면 2026년 대만의 경제성장률은 9.64%에 달할 것으로 예측되며, 이는 글로벌 IT 수요 폭발과 AI 반도체 시장의 주도권 확보가 결정적인 역할을 한 것으로 분석됩니다.\n\n하지만 이러한 화려한 지표 뒤에는 '대만병'이라는 어두운 그림자가 드리우고 있습니다. 반도체 산업으로 부가 집중되면서 여타 산업과의 임금 격차가 벌어지고, 물가 상승과 부동산 가격 폭등으로 인해 일반 서민들의 삶은 오히려 팍팍해지는 '거지 슈퍼맨' 현상이 나타나고 있다는 지적입니다.\n\n전문가들은 특정 산업에 대한 과도한 의존도가 국가 경제의 회복 탄력성을 저해할 수 있다고 경고합니다. 반도체 호황이 끝날 경우 발생할 충격에 대비해 산업 구조를 다변화하고, 부의 재분배를 통해 내수 경제의 균형을 맞추는 것이 대만 경제의 차기 과제로 부상하고 있습니다.\n\n결국 대만의 사례는 기술 패권 시대에 특정 첨단 산업의 성공이 반드시 국가 전체 구성원의 행복으로 직결되지 않을 수 있음을 시사하며, 한국 경제에도 시사하는 바가 큽니다.",
+            "image_prompt": "Semiconductor wafer, Golden city skyline, Economic contrast, High-tech glow, Modern poverty reflection",
+            "published_at": "2026-05-30 19:46:49",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "코스피 8000시대 진입에도 개미들은 '소외'… 혁신 통한 돌파구 모색",
+            "source": "경향신문, 경북매일",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fcHZVQjVPNjAwN0dzb21yUXpYNFhESnhsZTdFX3M4N3FyenZvbkU5emRSM25TZUhXd2UwY0ZnMzc4ZkU3Um9EVVp1SG9Yd1BtYllCNmtPT28xQdIBX0FVX3lxTFBhOENIeXZLZ0dBRkZRNk40UVBVMWhzdUMtbTNQaV8zVmJPZUY4MjZObm44OGtsWW5kZTBFY3J3WDlLQjJsT3lOQ1ktN1FHdHRFRnVzTlJCcl9KaE5OVE1R?oc=5",
+            "category": "금융",
+            "summary": "코스피 지수가 8000선을 넘나드는 초강세장 속에서도 개인 투자자들은 상대적 박탈감을 느끼며, 정부는 초혁신 경제 대전환을 해법으로 제시했습니다.",
+            "content": "국내 증시가 역사적인 지표인 코스피 8000 시대를 향해 달려가고 있지만, 시장의 열기는 모든 투자자에게 골고루 전달되지 않고 있습니다. 삼성전자와 SK하이닉스 등 초대형 IT 종목들이 지수 상승을 견인하는 사이, 중소형주를 보유한 상당수 개인 투자자들은 내 주식만 오르지 않는다는 이른바 '삼전닉스 소외 현상'을 겪고 있습니다.\n\n이에 대해 구윤철 전 경제부총리는 현재의 시장 상황을 '거품'으로만 치부하기보다는 체질 개선의 기회로 삼아야 한다고 강조했습니다. 그는 '코스피 8000 과열론'은 혁신을 멈출 때 나오는 우려일 뿐이라며, 인공지능과 바이오 등 신산업 분야에서의 초혁신적 노력이 뒷받침된다면 지수의 정당성을 확보할 수 있다고 설명했습니다.\n\n정부와 금융권은 자본시장의 체질을 근본적으로 바꾸기 위한 '기업 밸류업 프로그램'과 규제 혁파를 예고하고 있습니다. 단순한 지수 부양이 아니라 기업의 투명성을 높이고 주주 환원을 강화하여 일반 투자자들도 증시 성장의 과실을 함께 나눌 수 있는 구조를 만들겠다는 계획입니다.\n\n하지만 고금리 상황이 지속되는 가운데 특정 테마주로의 쏠림 현상이 심화되고 있어, 투자자들의 주의가 요구됩니다. 전문가들은 단기적인 지수 상승에 일희일비하기보다는 기업의 본질적 가치와 혁신 역량을 판단하는 긴 호흡의 투자가 필요한 시점이라고 조언합니다.",
+            "image_prompt": "Stock market dashboard, 8000 point milestone, Digital neon numbers, Crowded trading floor, Financial innovation",
+            "published_at": "2026-05-30 19:46:49",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "원·달러 환율 1500원 돌파… 멈추지 않는 환율 공포와 외환당국 고심",
+            "source": "조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XYVRYakU5Y1ZwdXg0Zk9JbDlWbE1aU2UteXZfc29SSm8ycFI4OTNnRTJJblhOU0lOaVFhR3pWa0RJRFE0RGVXd19tQk9Pd0d0TWZPcC1MTGFBbkJMLXVQbXVidks0c0EyMHfSAW5BVV95cUxNRmtRdXBLOW5TNnVta0tSUkRXZjg4eGN1Y2hsd09TLW5FZTFVcEJaRzZsQ0hXUlVfc2x6QmxoZDVmdGhDY0xOMUNxZ21MUWd1NkktSWJKZXB0Ym9NbnhSMmM3U29Qd0lZeDhuYm9NQQ?oc=5",
+            "category": "시장",
+            "summary": "심리적 저지선이었던 원·달러 환율 1500원선이 뚫리면서 수입 물가 비상 및 통화스와프 재논의에 대한 목소리가 커지고 있습니다.",
+            "content": "외환시장의 불안감이 극에 달하고 있습니다. 원·달러 환율이 시장의 강력한 심리적 저지선이었던 1500원을 돌파하면서 한국 경제에 적신호가 켜졌습니다. 글로벌 달러 강세 흐름 속에 엔화와 위안화의 약세가 동조화되며 원화 가치를 끌어내리고 있는 형국입니다.\n\n환율 1500원 시대는 수입 물가 상승을 촉발해 국내 소비자 물가를 밀어 올리는 기폭제가 됩니다. 특히 에너지와 원자재 수입 비중이 높은 우리나라 기업들에게는 비용 압박으로 작용하며, 이는 결국 제품 가격 인상으로 이어져 서민 경제의 가계 부담을 가중시키는 악순환을 초래합니다.\n\n시장의 시선은 다시 미국과의 통화스와프 체결 여부로 쏠리고 있습니다. 하지만 정부는 아직 외환 보유액이 충분하며 시스템적 위기는 아니라는 신중한 입장을 고수하고 있습니다. 이에 대해 전문가들은 선제적인 외환 방어막 구축이 필요하다며 당국의 보다 적극적인 시장 개입과 정책적 결단을 촉구하고 있습니다.\n\n앞으로의 환율 향방은 미국의 금리 정책과 중동의 지정학적 리스크 해소 여부에 달려 있습니다. 환율 변동성이 극심해짐에 따라 수출입 기업들은 환차손 방지를 위한 비상 경영 체제에 돌입했으며, 일반 소비자들 역시 해외 여행 포기 등 소비 행태의 변화를 보이고 있습니다.",
+            "image_prompt": "Currency symbol collision, US Dollar vs Korean Won, 1500 mark breaking, Financial storm clouds, Red arrow down",
+            "published_at": "2026-05-30 19:46:49",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "고유가에 물가 충격 지속… 'K자형' 경제 양극화 고착화 우려",
+            "source": "KBS 뉴스, v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOUFmUVVHVzJsTlhjT2lBTW9nZ29YRl9DY2ktc2Z6ZnNjT25TQ2pnRFg3ZWpMd0xPc0xSMUZQUkFncUZqaVJ1Q3MxLXN1RlBUV1hQQ2w5ZngyRFk?oc=5",
+            "category": "정책",
+            "summary": "중동 사태 장기화에 따른 고유가 여파로 5월 소비자물가 전망이 어두워지며, 소득 계층 간 경제적 격차가 벌어지는 K자형 회복이 심화되고 있습니다.",
+            "content": "중동발 지정학적 리스크가 해소되지 않으면서 국제 유가가 고공행진을 이어가고 있습니다. 이는 국내 휘발유 및 경유 가격 상승으로 이어져 운송비와 제조 원가를 높이고 있으며, 다음 주 발표될 5월 소비자물가 지수 역시 기대치를 웃도는 상승 폭을 기록할 것이라는 우려가 확산되고 있습니다.\n\n더 큰 문제는 경제의 양극화입니다. 수출 대기업이나 정보통신 분야는 호조를 보이는 반면, 고물가와 고금리의 직격탄을 맞은 자영업자와 저소득층의 실질 소득은 오히려 감소하고 있습니다. 이러한 'K자형' 성장 궤도는 내수 침체를 가속화하고 사회적 갈등을 유발하는 요인이 됩니다.\n\n정부는 장바구니 물가 안정을 위해 할당관세 적용 확대 등 다양한 대책을 내놓고 있지만, 글로벌 공급망 교란에 의한 가격 상승을 막기에는 역부족이라는 평가가 많습니다. 특히 여름철 에너지 수요 급증 시기와 맞물려 전력 요금 인상 압박까지 더해질 경우, 서민들의 체감 경기는 더욱 얼어붙을 전망입니다.\n\n전문가들은 단순한 단기 보조금 지급보다는 에너지 효율 개선과 취약계층에 대한 정교한 맞춤형 지원 정책이 필요하다고 제언합니다. 물가 안정을 최우선 과제로 삼으면서도 경제 하단이 무너지지 않도록 세심한 관리가 절실한 시점입니다.",
+            "image_prompt": "Oil gas station price board, Split arrow K-shape, Rising inflation graph, Consumer struggle, Blue and red contrast",
+            "published_at": "2026-05-30 19:46:49",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "美 연준 \"통화 정책 위치 적절\"… 추가 금리 인상 선 긋나",
+            "source": "연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NRWFtU2Q2czRlYURjcENNdWZQVzluY29VSDJ3Q1JEeXE4OFc3X19LaG4wd3pHLU4tcERSYXVkT25vOVFmNkxYUjZlaTNqNjhqcXRidnQ1U2tsbTFTTDRmWUtRVUFFVnZVSmNUaFVzRUo?oc=5",
+            "category": "글로벌",
+            "summary": "샌프란시스코 연은 총재가 현재의 금리 수준이 경제를 통제하기에 적절하다고 언급하며, 지나친 긴축이 경제에 해로울 수 있다는 경계심을 드러냈습니다.",
+            "content": "메리 데일리 샌프란시스코 연방준비은행 총재가 현재 미국 연준의 통화 정책 스탠스에 대해 '적절한 위치에 있다'고 평가했습니다. 이는 물가 상승세가 여전히 목표치를 상회하고 있지만, 현재의 고금리 수준이 인플레이션을 억제하기에 충분히 제약적이라는 의미로 해석됩니다.\n\n데일리 총재는 특히 경제에 과도한 타격을 줄 수 있는 급격한 추가 긴축에 대해서는 반대 의사를 분명히 했습니다. 인플레이션 둔화 속도가 다소 느리더라도 고용 시장과 가계 소비의 건전성을 유지하면서 목표치에 도달하는 '연착륙'을 중시하겠다는 의지로 보입니다.\n\n이러한 발언은 금리 인하 시점을 저울질하는 시장 투자자들에게 중요한 힌트를 제공하고 있습니다. 시장에서는 연준이 당분간 금리를 동결하며 물가 지표의 확실한 하락세를 관망할 것으로 내다보고 있으며, 연내 인하 가능성에 대해서는 여전히 팽팽한 의견 대립이 이어지고 있습니다.\n\n글로벌 금융시장은 이제 연준 위원들의 발언 하나하나에 민감하게 반응하고 있습니다. 미국의 금리 결정은 한국을 포함한 신흥국들의 자본 유출입과 환율에 직접적인 영향을 미치기 때문에, 국내 금융 당국 역시 연준의 향후 행보를 면밀히 모니터링하며 대비책을 마련하고 있습니다.",
+            "image_prompt": "Federal Reserve building, Balanced scales of economy, Professional woman speaking, Golden lighting, Interest rate charts",
+            "published_at": "2026-05-30 19:46:49",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "대만 넘고 인도 코앞…코스피 시총 전세계 5위 등극",
             "source": "v.daum.net",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1leWhxbzZVdWpsLWpPellya1ppLXBwNUdWdFY2NlJaQ2E2WUNjZ2MxV1FOckdxUEgwckR6NGNweDEwYUMxNGlHYTBDMlI1eVE?oc=5",
@@ -48,7 +103,7 @@
             "content": "최근 국내 증시가 강력한 상승 흐름을 타면서 코스피 시장의 시가총액 규모가 전 세계 주요 증시 중 5위에 등극하는 쾌거를 이뤘습니다. 이는 반도체 업황 회복에 대한 기대감과 기업 밸류업 프로그램에 대한 시장의 긍정적인 반응이 맞물린 결과로 풀이됩니다.\n\n오랫동안 경쟁 관계에 있던 대만 증시를 따돌리고 이제는 거대 시장인 인도와의 격차를 좁히고 있다는 점에서 한국 자본 시장의 위상이 한층 높아졌음을 시사합니다. 특히 삼성전자와 SK하이닉스 등 대형 반도체주들이 시총 상승을 견인하며 전반적인 지수 체급을 키웠습니다.\n\n하지만 전문가들은 이러한 외형적 성장이 지속되기 위해서는 특정 업종에 치우친 시총 구조를 다변화하고, 내실 있는 실적 뒷받침이 필수적이라고 조언합니다. 글로벌 자금 유입이 가속화되는 시점에서 한국 시장의 투명성과 주주 환원 정책 강화가 향후 순위 유지의 관건이 될 전망입니다.",
             "image_prompt": "Global stock market ranking, Kospi index rising, blue neon skyscraper background, financial growth, professional chart",
             "published_at": "2026-05-30 15:21:55",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국제경제기구 수장들, 전쟁발 '여름철 에너지 대란' 경고",
@@ -59,7 +114,7 @@
             "content": "IMF와 세계은행 등 주요 국제경제기구 수장들이 올여름 전 세계를 덮칠 심각한 에너지 대란 가능성을 경고하고 나섰습니다. 지속되는 러시아-우크라이나 전쟁과 중동 지역의 불안정성이 에너지 공급망에 치명적인 타격을 주고 있다는 분석입니다.\n\n여름철 냉방 수요가 급증하는 시기에 맞춰 에너지 가격이 폭등할 경우, 현재 진정 국면에 접어들고 있는 글로벌 인플레이션 수치가 다시 반등할 위험이 큽니다. 이는 각국 중앙은행의 금리 인하 시점에도 악영향을 미칠 수 있어 경제계가 촉각을 곤두세우고 있습니다.\n\n특히 에너지 수입 의존도가 높은 국가들은 공급망 다변화와 비축량 확보에 비상이 걸렸습니다. 국제기구들은 기후 위기와 지정학적 리스크가 결합된 이번 위기를 극복하기 위해 국가 간 에너지 협력을 강화하고 취약 계층을 위한 보호 대책을 마련할 것을 촉구하고 있습니다.",
             "image_prompt": "Energy crisis concept, heat waves, oil refinery silhouette, flickering power grid, dark red and orange sunset",
             "published_at": "2026-05-30 15:21:55",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미국, 이란에 물밑 '경제보상' 추진…합의 임박",
@@ -70,7 +125,7 @@
             "content": "미국 정부가 중동 지역의 긴장 완화를 목표로 이란과 물밑에서 경제적 보상을 포함한 협상을 긴밀히 추진하고 있다는 소식이 전해졌습니다. 약 3천억 달러 규모에 달할 수 있다는 관측이 나오며, 이는 사실상 경제 제재 완화의 연장선상으로 풀이됩니다.\n\n이번 협상은 핵 합의 복원보다는 지역 내 충돌 방지와 원유 공급 안정을 우선시하는 실용주의적 접근으로 해석됩니다. 미국은 걸프국들을 중개자로 활용하여 이란에 경제적 인센티브를 제공하고, 대신 이란은 대리 세력을 통한 도발을 자제하는 시나리오가 유력하게 거론됩니다.\n\n하지만 미 재무부의 강력한 제재 기조와 상충된다는 비판도 제기되고 있어 미 내부의 정치적 논란은 피하기 어려울 것으로 보입니다. 이번 합의의 성사 여부는 향후 국제 유가와 중동 경제 지형도에 막대한 파장을 몰고 올 것으로 예상됩니다.",
             "image_prompt": "International diplomacy, handshake silhouette, oil wells in desert, money transfer concept, gold and sandy colors",
             "published_at": "2026-05-30 15:21:55",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "코스피 불장에 역대급 ‘빚투’…신용잔고 37조 첫 돌파",
@@ -81,7 +136,7 @@
             "content": "국내 증시의 상승세가 지속되면서 주식을 사기 위해 빌린 돈인 신용융자 잔고가 사상 처음으로 37조 원을 돌파했습니다. 이른바 '빚투'가 다시 고개를 들면서 시장의 레버리지 위험 수위가 한계치에 다다랐다는 경고의 목소리가 높습니다.\n\n개인 투자자들이 추가 상승에 대한 확신으로 대출을 끌어 쓰고 있지만, 만약 예상치 못한 외부 충격으로 지수가 급락할 경우 반대매매 물량이 쏟아지며 하락 폭을 키우는 연쇄 폭락의 원인이 될 수 있습니다. 이는 시장 전체의 건전성을 해칠 수 있는 뇌관으로 지목됩니다.\n\n금융 당국은 과도한 레버리지 투자의 위험성을 경고하며 모니터링을 강화하고 있습니다. 전문가들은 금리 인하 시점이 불투명한 상황에서 높은 이자 부담을 감수한 공격적인 투자는 자칫 자산 손실로 이어질 수 있으므로 신중한 자금 관리가 필요한 시점이라고 강조합니다.",
             "image_prompt": "Financial debt risk, stacked coins falling, warning sign, stressed investor silhouette, red financial chart line",
             "published_at": "2026-05-30 15:21:55",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "반도체로 부유해진 대만 경제의 그림자: 대만병과 거지 슈퍼맨",
@@ -92,7 +147,7 @@
             "content": "대만이 TSMC를 필두로 글로벌 반도체 허브로 우뚝 섰지만, 그 이면에는 소득 불평등과 생활고에 시달리는 서민층의 고통이 가중되고 있다는 이른바 '대만병'이 확산되고 있습니다. 특정 산업의 독주가 국가 전체의 경제 지표는 높였지만, 정작 일반 국민들의 체감 경기는 악화되는 역설적인 상황입니다.\n\n반도체 인력들은 고액 연봉을 받으며 승승장구하는 반면, 서비스업이나 전통 산업 종사자들은 저임금과 물가 상승의 이중고를 겪고 있습니다. 이들을 지칭하는 '거지 슈퍼맨'이라는 신조어는 겉으로는 선진 경제의 일원이지만 속으로는 빈곤에 허덕이는 청년 세대의 자화상을 보여줍니다.\n\n이러한 현상은 반도체 의존도가 높은 한국 경제에도 시사하는 바가 큽니다. 특정 산업에 대한 과도한 쏠림이 사회적 양극화를 심화시키고 공동체의 결속력을 저해할 수 있다는 경고입니다. 지속 가능한 성장을 위해서는 첨단 산업의 낙수 효과가 사회 전반으로 퍼질 수 있는 정책적 설계가 시급해 보입니다.",
             "image_prompt": "Contrast between high-tech chips and poor housing, inequality, dark urban landscape, circuit board pattern in shadows",
             "published_at": "2026-05-30 15:21:55",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국제경제기구 수장들, 전쟁발 여름철 에너지 대란 경고",
@@ -103,7 +158,7 @@
             "content": "국제통화기금(IMF)을 비롯한 주요 국제경제기구 수장들이 전 세계적인 에너지 위기에 대해 강력한 경고 메시지를 보냈습니다. 러시아-우크라이나 전쟁의 장기화와 중동 지역의 지정학적 리스크가 맞물리면서, 다가오는 여름철 에너지 수요 급증 시기에 공급망이 이를 뒷받침하지 못할 수 있다는 우려가 커지고 있습니다.\n\n전문가들은 이러한 에너지 대란이 단순히 연료 가격의 상승에 그치지 않고, 글로벌 공급망 전체의 비용 상승을 초래하여 간신히 잡혀가던 인플레이션 불길을 다시 지필 수 있다고 지적합니다. 특히 냉방 수요가 폭증하는 여름철을 앞두고 유럽과 아시아 주요 국가들의 에너지 수급 계획에 비상이 걸린 상황입니다.\n\n국제기구들은 각국 정부에 에너지 효율화 정책을 강화하고 공급원을 다변화할 것을 권고하고 있습니다. 또한, 에너지 가격 급등이 저소득층에게 미칠 충격을 완화하기 위한 사회적 안전망 구축의 필요성도 강조되었습니다. 이번 경고는 세계 경제가 회복세로 돌아서려는 시점에서 나온 것이라 더욱 긴장감을 고조시키고 있습니다.\n\n향후 국제 유가와 천연가스 가격의 변동성은 각국 중앙은행의 금리 결정에도 직접적인 영향을 미칠 것으로 보입니다. 에너지 비용 상승이 소비자 물가 지수(CPI)를 자극할 경우, 금리 인하 시점은 예상보다 더 늦춰질 가능성이 높습니다.",
             "image_prompt": "Global energy crisis, burning fuel oil, war silhouette, economic warning chart, dramatic lighting",
             "published_at": "2026-05-30 11:48:43",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[5월 넷째 주 세계경제동향] 코스피 8,400선 돌파…한미 증시 동반 강세",
@@ -114,7 +169,7 @@
             "content": "최근 세계 증시는 미국 엔비디아의 실적 호조와 AI 반도체 수요 기대감에 힘입어 전례 없는 상승세를 이어가고 있습니다. 국내 증시 역시 이러한 글로벌 흐름에 동조하며 코스피 지수가 8,400선을 돌파하는 등 강력한 탄력성을 보여주었습니다. 특히 삼성전자와 SK하이닉스 등 대형 반도체 종목이 지수 상승을 견인했습니다.\n\n미국 증시가 사상 최고치 행진을 벌이면서 한국 증시에 투자하는 외국인 자금 유입도 가속화되고 있습니다. 시장에서는 저평가된 한국 기업들의 가치를 제고하려는 '밸류업 프로그램'에 대한 기대감과 반도체 업황의 완전한 회복세가 맞물리며 향후 추가 상승 가능성에 무게를 두고 있습니다.\n\n하지만 종목별 차별화 장세가 뚜렷해지면서 개인 투자자들의 체감 지수는 엇갈리고 있습니다. 반도체나 일부 주도주를 보유하지 못한 투자자들 사이에서는 '소외된 상승장'이라는 목소리도 나옵니다. 또한 환율 변동성과 고금리 지속 우려가 여전히 상존하고 있어 추격 매수에는 신중해야 한다는 조언도 잇따르고 있습니다.\n\n전문가들은 5월 소비자물가지수(CPI) 발표와 연준 위원들의 발언이 향후 장세의 변곡점이 될 것으로 보고 있습니다. 물가 지표가 예상보다 안정적으로 나타날 경우 증시의 상승 동력은 더욱 강화될 수 있지만, 반대의 경우에는 차익 실현 매물이 쏟아지며 변동성이 커질 수 있습니다.",
             "image_prompt": "Stock market bullish, dynamic financial graph rising, trading floor professional, digital screen numbers",
             "published_at": "2026-05-30 11:48:43",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "샌프란 연은 총재 \"통화 정책 위치 적절…경제에 해로운 긴축은 반대\"",
@@ -125,7 +180,7 @@
             "content": "미국 연방준비제도(Fed) 내에서 중도파로 분류되는 메리 데일리 샌프란시스코 연방준비은행 총재가 현재의 통화 정책 기조에 대해 긍정적인 평가를 내놓았습니다. 그녀는 현재 금리 수준이 인플레이션을 목표치로 되돌리기에 충분히 제약적이며, 당분간은 지표를 지켜보는 인내심이 필요하다고 강조했습니다.\n\n데일리 총재는 특히 지나치게 공격적인 긴축 정책이 노동 시장이나 전반적인 경제 성장에 해로운 타격을 줄 가능성을 경계했습니다. 이는 인플레이션 둔화 속도가 다소 더디더라도 경제를 침체로 몰아넣으면서까지 금리를 추가 인상하거나 인하를 과도하게 미루지는 않겠다는 의지로 풀이됩니다.\n\n시장에서는 이번 발언을 통해 연준이 조급하게 금리 인하에 나서지는 않겠지만, 동시에 추가 인상 가능성도 매우 낮다는 점을 재확인했습니다. 이른바 '고금리 장기화(Higher for longer)' 기조 속에서 경제의 연착륙을 도모하겠다는 정교한 균형 잡기 전략이 엿보입니다.\n\n금융 전문가들은 이러한 연준 위원들의 발언이 시장의 불확실성을 일부 해소해주고 있다고 분석합니다. 다만 향후 발표될 고용 지표와 물가 지표가 연준의 예상 범위를 벗어날 경우, 이러한 '적절한 위치'에 대한 판단도 언제든 수정될 수 있어 시장의 시선은 데이터 발표에 집중되어 있습니다.",
             "image_prompt": "Federal Reserve building, central bank meeting, gold scales of justice balanced, professional finance",
             "published_at": "2026-05-30 11:48:43",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이란 경제도 몰살시키는 미국...재무부 장관 발언에 '발칵'",
@@ -136,7 +191,7 @@
             "content": "미국 재무부가 이란의 자금줄을 차단하기 위한 고강도 추가 제재안을 검토 중인 것으로 알려지면서 중동 지역의 긴장감이 최고조에 달하고 있습니다. 재닛 옐런 미 재무장관은 이란의 테러 지원 활동과 역내 불안 조성을 억제하기 위해 가용한 모든 경제적 수단을 동원할 것이라고 천명했습니다.\n\n이번 조치는 이란의 석유 수출 통로를 좁히고 국제 금융 시스템으로부터의 고립을 심화시키는 데 초점이 맞춰져 있습니다. 하지만 일각에서는 이러한 강력한 제재가 국제 유가를 자극하여 전 세계적인 물가 상승을 초래할 수 있다는 우려도 제기됩니다. 미국 내에서도 대선을 앞두고 기름값 상승이 정권에 부담이 될 수 있다는 정치적 딜레마가 공존하고 있습니다.\n\n한편으로는 물밑에서 경제적 보상을 통한 합의 가능성도 제기되고 있어 미-이란 관계는 '강공'과 '협상' 사이의 위태로운 줄타기를 이어가고 있습니다. 이란 경제는 이미 오랜 제재로 인해 극심한 인플레이션과 생필품 부족에 시달리고 있으며, 이번 추가 압박이 내부 정세에 어떤 변화를 불러올지도 초미의 관심사입니다.\n\n한국 경제 역시 중동발 리스크에서 자유롭지 못합니다. 호르무즈 해협의 긴장이 고조될 경우 원유 수입 비용 상승과 물류 차질이 불가피하기 때문입니다. 정부와 관계 기관들은 중동 정세의 변화를 예의주시하며 에너지 수급 대책을 재점검하고 있습니다.",
             "image_prompt": "Iran and US flags, oil barrels with chains, diplomatic chess board, fiery Middle East map background",
             "published_at": "2026-05-30 11:48:43",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"美, 걸프국 통한 이란 '경제지원' 물밑 추진…3천억달러 규모\" - 연합뉴스",
@@ -146,7 +201,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-05-29 21:13:36",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“종전 합의 트럼프 승인 남아”…대이란 경제 제재 계속 - v.daum.net",
@@ -156,7 +211,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-05-29 21:13:36",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "트럼프도 \"빨리 사라\"며 쓸어담더니…하룻밤 새 39% 급등한 종목 - v.daum.net",
@@ -166,7 +221,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-05-29 21:13:36",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“시총 500조 국민재테크 상품 됐다”…가파른 성장세 ETF - 매일경제",
@@ -176,7 +231,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-05-29 21:13:36",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[IT 칼럼] 토큰 경제학? 경제의 현질화 - 주간경향",
@@ -186,7 +241,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-05-29 21:13:36",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[속보]한은, 올해 경제성장률 2.0%→2.6% 상향···기준금리 동결",
@@ -197,7 +252,7 @@
             "content": "한국은행 금융통화위원회가 현재의 기준금리를 연 3.5%로 유지하며 동결을 결정했습니다. 이번 결정은 시장의 예상에 부합하는 결과로, 고물가와 고금리 상황 속에서도 수출이 호조를 보이며 경제 성장세가 예상보다 강하다는 판단이 작용했습니다. 특히 한은은 올해 연간 경제성장률 전망치를 기존 2.0%에서 2.6%로 0.6%포인트 대폭 상향 조정하며 경기 회복에 대한 자신감을 드러냈습니다.\n\n하지만 금리 인하에 대해서는 여전히 신중한 태도를 보이고 있습니다. 소비자 물가 상승률이 목표치인 2%에 안착했다는 확신이 들 때까지 긴축 기조를 유지하겠다는 방침입니다. 최근 환율 변동성 확대와 농산물 가격 불안 등 물가 상방 리스크가 여전하기 때문에 성급한 금리 인하보다는 시장 상황을 관망하며 안정화를 꾀하려는 전략으로 풀이됩니다.\n\n경제 전문가들은 한은의 성장률 상향 조정이 향후 금리 인하 시점을 늦추는 요인이 될 수 있다고 분석합니다. 성장이 탄탄할수록 내수 압박에 따른 금리 인하 필요성이 상대적으로 낮아지기 때문입니다. 이에 따라 시장에서는 7월 이후의 통화 정책 변화에 촉각을 곤두세우고 있으며, 장기적인 긴축에 대비한 자산 운용 전략이 요구되고 있습니다.\n\n또한 이번 발표에서는 1분기 GDP 성장이 수출뿐만 아니라 내수에서도 일부 반등 기미를 보였다는 점이 긍정적으로 평가되었습니다. 반면 가계부채와 부동산 PF 부실 등 금융 시장의 잠재적 위험 요소들은 여전히 해결해야 할 과제로 남아 있어, 한은의 향후 행보에 귀추가 주목되고 있습니다.",
             "image_prompt": "Bank of Korea, economy growth graph, gold coins, professional blue tone, financial building",
             "published_at": "2026-05-29 15:53:53",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "코스피, 또 최고치 경신…8476.15로 마감",
@@ -208,7 +263,7 @@
             "content": "코스피 시장이 다시 한번 역대 최고치를 경신하며 국내 증시의 저력을 보여주었습니다. 오늘 코스피는 전 거래일 대비 급등하며 8476.15로 장을 마쳤습니다. 이러한 상승세는 글로벌 반도체 경기 회복과 국내 주요 기업들의 견조한 실적 발표, 그리고 외국인 투자자들의 강력한 매수세가 맞물린 결과로 분석됩니다.\n\n특히 삼성전자와 SK하이닉스 등 대형 IT 종목들이 지수 상승을 견인했습니다. 인공지능(AI) 열풍에 따른 고대역폭메모리(HBM) 수요 폭증과 실적 턴어라운드에 대한 기대감이 투자 심리를 자극한 것으로 보입니다. 기관 투자자들 역시 가세하며 시장의 유동성을 공급했으며, 이는 개인 투자자들에게도 긍정적인 신호로 작용했습니다.\n\n시장 전문가들은 정부의 '기업 밸류업 프로그램'에 대한 기대감 또한 지수 상승에 큰 몫을 했다고 평가하고 있습니다. 주주 환원 정책 강화와 지배구조 개선에 대한 의지가 외국인들에게 한국 시장의 매력도를 높이는 요인이 되었습니다. 이로 인해 저평가되었던 가치주들이 재조명받으며 전반적인 증시 체력을 강화하는 계기가 되었습니다.\n\n다만 단기 급등에 따른 피로감과 글로벌 금리 향방에 따른 변동성 가능성도 제기되고 있습니다. 미국의 통화 정책 결정과 환율 추이에 따라 차익 실현 매물이 나올 수 있으므로, 무분별한 추격 매수보다는 펀더멘털이 확실한 종목 위주의 선별적인 투자가 필요한 시점입니다. 당분간은 고점을 유지하며 박스권을 돌파하려는 시도가 지속될 것으로 보입니다.",
             "image_prompt": "Stock market index, rapid rising chart, green arrows, digital screen, dynamic trading floor",
             "published_at": "2026-05-29 15:53:53",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미·이란 전쟁 시차 두고 덮쳤다… 4월 실물경제 ‘8개월 만에 최저치’",
@@ -219,7 +274,7 @@
             "content": "지난 4월, 중동 지역의 긴장 고조가 국내 실물 경제에 본격적인 타격을 입히기 시작했습니다. 이스라엘과 이란 간의 충돌 여파로 국제 유가와 환율이 요동치면서 소비와 투자 심리가 위축된 결과입니다. 발표된 자료에 따르면 생산과 소비 지표가 동반 하락하며 지난 8개월 동안 볼 수 없었던 최저치를 기록, 경기 회복세에 제동이 걸린 모습입니다.\n\n가장 큰 원인은 에너지 가격 상승에 따른 생산 원가 부담 가중입니다. 원자재 가격이 오르면서 제조 기업들의 수익성이 악화되었고, 이는 곧 투자 축소로 이어졌습니다. 또한 고물가 기조가 고착화되면서 가계의 실질 소득이 감소하여 백화점이나 대형 마트 등 소매 판매 지표도 큰 폭으로 꺾였습니다. 내수 활성화가 시급한 상황에서 대외 리스크가 찬물을 끼얹은 격입니다.\n\n정부는 이번 지표 하락이 일시적인 지정학적 영향 때문이라고 진단하면서도 긴장의 끈을 놓지 않고 있습니다. 민생 안정을 위한 물가 관리 대책을 강화하고 기업들의 수출 경쟁력을 지원하기 위한 금융 지원책을 모색 중입니다. 중동 상황이 소강상태에 접어들었다고는 하지만, 언제든 다시 불거질 수 있는 리스크인 만큼 에너지 공급망 다변화 등 근본적인 대응이 필요합니다.\n\n민간 전문가들은 4월의 부진이 2분기 전체 실적에 영향을 미칠 수 있다고 우려합니다. 반도체 수출 호조로 버티고 있는 한국 경제가 내수 부진이라는 늪에서 벗어나기 위해서는 금리 정책의 유연한 운용과 함께 파격적인 소비 진작책이 병행되어야 한다는 지적입니다. 앞으로 대외 변수가 국내 경기에 얼마나 빠르게 전이되는지가 하반기 경제의 관건이 될 것입니다.",
             "image_prompt": "Global map, Middle East fire, economic factory icon, downward red arrow, dark atmosphere",
             "published_at": "2026-05-29 15:53:53",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"美, 걸프국 통한 이란 '경제지원' 물밑 추진…3천억달러 규모\"",
@@ -230,7 +285,7 @@
             "content": "미국 정부가 이란과의 직접적인 충돌을 피하고 중동 정세를 안정시키기 위해 파격적인 경제적 보상을 카드로 제시했습니다. 외신 보도에 따르면 미국은 사우디아라비아 등 걸프국들을 통해 약 3천억 달러(한화 약 400조 원) 규모의 경제 지원을 이란에 제공하는 방안을 물밑에서 논의 중입니다. 이는 이란의 군사적 도발을 억제하고 핵 합의 관련 대화 창구를 열어두기 위한 다목적 포석으로 보입니다.\n\n이번 지원안은 직접적인 현금 지급보다는 인프라 구축, 기술 협력, 그리고 동결 자산 해제 등 복합적인 형태로 구성될 가능성이 높습니다. 미국은 이를 통해 이란 내부의 경제난을 완화시키고 온건파의 입지를 강화하여 지역 내 대리전을 중단시키려는 의도를 가지고 있습니다. 하지만 미 의회 내 강경파와 이스라엘의 반발이 거세 실현 여부는 아직 불투명한 상황입니다.\n\n만약 이 지원이 성사된다면 국제 유가 안정에 획기적인 전환점이 될 것입니다. 이란산 원유의 시장 공급이 원활해지고 호르무즈 해협의 긴장이 완화되면서 글로벌 물가 하락에 기여할 수 있기 때문입니다. 반대로 이러한 행보가 이란의 군사력 강화로 이어질 것이라는 우려도 존재하여, 미국의 외교적 줄타기가 어느 때보다 정교하게 요구되고 있습니다.\n\n국내 경제에도 이번 사안은 큰 변수입니다. 에너지 의존도가 높은 한국으로서는 중동 리스크 완화가 비용 절감과 수출 경쟁력 강화로 직결되기 때문입니다. 다만 트럼프 전 대통령의 재선 가능성 등 미국 대선 정국과 맞물려 정책이 뒤집힐 위험도 있어, 한국 정부와 기업들은 시나리오별 대응책을 마련하며 상황을 주시하고 있습니다.",
             "image_prompt": "US Dollar bills, Middle East architecture, handshake silhouette, oil barrels, diplomatic blue",
             "published_at": "2026-05-29 15:53:53",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "로젠버그 \"美 1분기 GDP, 사실상 1.1% 역성장…경제 전반 활력 부족\"",
@@ -241,7 +296,7 @@
             "content": "월가의 저명한 경제 분석가인 데이비드 로젠버그 로젠버그리서치 회장이 미국 경제의 견조함에 대해 의문을 제기했습니다. 그는 공식 발표된 미국의 1분기 GDP 수치가 겉으로는 성장한 것처럼 보이지만, 국내총소득(GDI)과 재고 조정 등을 고려한 실제 경제 활력은 1.1% 감소한 역성장 상태라고 분석했습니다. 이는 시장이 믿고 있는 '미국 경제 연착륙' 시나리오에 정면으로 반박하는 내용입니다.\n\n로젠버그는 소비 지출이 여전히 수치상으로는 나타나고 있지만, 이는 가계 저축의 고갈과 신용카드 부채 증가에 기반한 '위태로운 소비'라고 지적했습니다. 실제 기업들의 이익 전망이 불투명해지고 있고, 고금리 여파가 부동산과 건설 부문을 넘어 서비스업 전반으로 확산되고 있다는 점을 근거로 들었습니다. 즉, 통계 지표와 실제 체감 경기 사이의 괴리가 사상 최대 수준이라는 주장입니다.\n\n이러한 분석은 연준(Fed)의 금리 결정에도 큰 시사점을 던집니다. 만약 로젠버그의 주장대로 미국 경제가 이미 침체 국면에 진입했다면, 연준이 금리를 유지하거나 추가 인상을 논의하는 것이 경제에 치명적인 타격이 될 수 있기 때문입니다. 시장은 인플레이션 둔화 속도보다 경기 침체 속도가 더 빠를 수 있다는 공포에 휩싸일 수 있습니다.\n\n한국 경제 역시 미국의 경기 둔화 신호에 민감하게 반응할 수밖에 없습니다. 대미 수출 비중이 높은 상황에서 미국의 실질 구매력이 저하되면 우리 기업들의 실적도 동반 하락할 위험이 큽니다. 투자자들은 화려한 GDP 숫자 뒤에 숨겨진 실질 소득과 기업의 현금 흐름을 면밀히 살펴보고 리스크 관리에 만전을 기해야 할 때입니다.",
             "image_prompt": "US Flag, broken concrete texture, fading dollar symbol, economic recession, gray and red theme",
             "published_at": "2026-05-29 15:53:53",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "세계경제포럼, “중동 충격에 글로벌 성장 급속 둔화”…AI는 유일한 버팀목",
@@ -252,7 +307,7 @@
             "content": "세계경제포럼(WEF)은 최근 보고서를 통해 중동 지역의 긴장 고조가 글로벌 경제 성장에 심각한 하방 압력을 가하고 있다고 경고했습니다. 에너지 가격의 불안정성과 공급망 교란이 겹치면서 전 세계적으로 성장 속도가 급격히 둔화될 것이라는 분석입니다.\n\n이러한 비관적인 전망 속에서도 인공지능(AI)은 경제의 유일한 활로이자 버팀목으로 평가받고 있습니다. 생산성을 혁신적으로 높일 수 있는 AI 기술에 대한 투자가 지속되면서, 전통 산업의 부진을 상쇄하고 새로운 시장 가치를 창출할 것이라는 기대감이 커지고 있습니다.\n\n전문가들은 지정학적 리스크가 단기간에 해소되기 어려운 만큼, 국가 간의 기술 격차가 미래 경제 패권을 결정짓는 핵심 요소가 될 것이라고 입을 모았습니다. 특히 AI 인프라 구축과 관련 소프트웨어 산업의 성장이 향후 글로벌 경기 회복의 속도를 결정할 전망입니다.\n\n결국 중동발 충격이라는 외부 변수 속에서 각국 정부와 기업들은 리스크 관리에 집중하는 한편, AI를 필두로 한 디지털 전환에 박차를 가하며 돌파구를 마련해야 하는 어려운 과제에 직면해 있습니다.",
             "image_prompt": "Global economy, Middle East conflict map, glowing AI neural network, futuristic growth chart, dark background",
             "published_at": "2026-05-29 11:55:24",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "고유가에 미 경제 '경고등'‥\"금리 인상 가능성\" 다시 고개",
@@ -263,7 +318,7 @@
             "content": "국제 유가가 높은 수준을 유지하면서 미국 내 인플레이션 압력이 다시 거세지고 있습니다. 유가 상승은 물가 전반에 영향을 미쳐 소비 위축을 초래할 뿐만 아니라, 미 연방준비제도(Fed)의 긴축 기조를 장기화하는 요인으로 작용하고 있습니다.\n\n당초 시장에서는 하반기 금리 인하를 기대했으나, 최근 경제 지표들은 물가가 쉽게 잡히지 않고 있음을 보여줍니다. 이에 따라 일부 전문가들 사이에서는 금리 인하는커녕 추가적인 금리 인상이 필요할 수도 있다는 신중론이 확산되고 있습니다.\n\n금리 인상 가능성은 글로벌 자본 시장에 즉각적인 충격을 주고 있습니다. 달러화 강세가 이어지며 신흥국들의 자본 유출 우려가 커지고 있으며, 기업들의 조달 비용 부담 또한 가중되어 실적 악화에 대한 불안감이 증폭되고 있습니다.\n\n미 경제의 경고등은 전 세계 금융 시장의 불확실성을 키우고 있습니다. 고유가 상황이 장기화될 경우 '스테그플레이션'에 대한 공포가 현실화될 수 있어, 향후 발표될 미국의 고용 및 물가 지표에 전 세계의 이목이 쏠리고 있습니다.",
             "image_prompt": "Oil pump jack, rising gas prices display, US Federal Reserve building, interest rate arrow pointing up, cinematic lighting",
             "published_at": "2026-05-29 11:55:24",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동발 경제 충격 가시화…4월 생산·소비·투자 '트리플 감소'",
@@ -274,7 +329,7 @@
             "content": "통계청이 발표한 산업활동동향에 따르면 지난 4월 국내 산업 생산과 소비, 투자가 모두 전월 대비 감소하는 '트리플 감소' 현상이 나타났습니다. 이는 중동 지역의 지정학적 리스크가 국내 실물 경제에 본격적인 영향을 미치기 시작했음을 보여주는 신호입니다.\n\n제조업 생산이 줄어든 것은 물론, 고물가와 고금리의 여파로 민간 소비가 위축되면서 내수 시장이 얼어붙고 있습니다. 특히 설비 투자까지 감소세로 돌아서면서 기업들이 미래를 위한 투자를 미루고 현금 확보에 주력하고 있다는 분석이 나옵니다.\n\n정부는 반도체 수출 호조 등 긍정적인 요인이 남아있다고 설명하지만, 현장에서 느끼는 체감 경기는 여전히 싸늘합니다. 대외 변동성이 커지면서 수입 물가가 오르고, 이것이 다시 생산 비용 상승으로 이어지는 악순환의 고리가 형성되고 있습니다.\n\n이번 '트리플 감소'는 경기 회복 흐름이 예상보다 더딜 수 있음을 시사합니다. 전문가들은 내수 활성화를 위한 정책적 지원과 함께 대외 리스크 관리를 강화하여 경제 기초 체력을 보완해야 할 시점이라고 지적합니다.",
             "image_prompt": "South Korea economy chart, falling red arrows, empty shopping mall, industrial machinery still, realistic style",
             "published_at": "2026-05-29 11:55:24",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'삼전닉스'만 질주했다…코스피 급등에도 82% 종목 하락",
@@ -285,7 +340,7 @@
             "content": "최근 국내 증시는 삼성전자와 SK하이닉스라는 두 반도체 거인의 독주 체제가 굳어지고 있습니다. 코스피 지수가 겉으로는 견조한 상승세를 보이고 있음에도 불구하고, 실제 시장의 내면을 들여다보면 전체 상장 종목의 80% 이상이 하락하는 기형적인 구조가 나타나고 있습니다.\n\n이러한 쏠림 현상은 글로벌 반도체 업황 회복과 AI 수요 급증에 따른 기대감이 두 대형주에만 집중된 결과입니다. 외국인과 기관 투자자들의 자금이 수익성이 보장된 우량주로만 몰리면서 중소형주들은 소외되고 거래량이 급감하는 상황입니다.\n\n개인 투자자들의 시름은 깊어지고 있습니다. 지수가 오른다는 소식에 시장에 진입했지만, 자신이 보유한 종목은 하락하거나 제자리걸음을 반복하면서 '지수만 오르는 소외된 상승장'에 박탈감을 느끼고 있습니다.\n\n전문가들은 이러한 증시 양극화가 시장의 건강성을 해칠 수 있다고 경고합니다. 특정 섹터에 대한 지나친 의존도는 외부 충격이 발생했을 때 지수 전체를 흔들 수 있는 리스크가 되기 때문입니다. 균형 잡힌 시장 성장을 위해서는 반도체 외 다른 산업군에서의 모멘텀 확보가 시급해 보입니다.",
             "image_prompt": "KOSPI stock ticker, giant Samsung and Hynix logos shining, many small red falling stocks, financial data background, professional",
             "published_at": "2026-05-29 11:55:24",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이란에 경제 압박 높이는 美…트럼프 행정부 연일 추가 제재",
@@ -296,7 +351,7 @@
             "content": "미국 정부가 이란의 자금줄을 차단하기 위한 고강도 경제 제재 조치를 연이어 발표하고 있습니다. 이는 이란의 군사 활동과 핵 개발을 억제하기 위한 조치로, 특히 석유 수출과 금융 거래를 타겟으로 하여 이란 경제에 치명적인 타격을 입히는 데 주력하고 있습니다.\n\n이번 제재는 단순히 이란뿐만 아니라 이란과 거래하는 제3국 기업들에게도 영향을 미칠 수 있어 국제 무역 시장에 긴장을 불어넣고 있습니다. 미국의 강경한 태도에 이란 역시 보복 조치를 예고하며 맞서고 있어, 중동 지역의 군사적·경제적 충돌 가능성이 어느 때보다 높습니다.\n\n글로벌 에너지 시장은 미국의 이러한 행보를 주시하고 있습니다. 세계 주요 산유국 중 하나인 이란의 공급이 제한될 경우 국제 유가는 다시 한번 요동칠 가능성이 크며, 이는 전 세계적인 인플레이션 압박으로 이어질 수 있습니다.\n\n바이든 행정부에 이어 트럼프 전 대통령 측의 강경 기조까지 언급되면서 미국의 대이란 정책은 더욱 예측 불가능한 국면으로 접어들고 있습니다. 국제 사회는 이번 제재가 글로벌 공급망과 원자재 시장에 미칠 파급력을 최소화하기 위해 다각도의 분석과 대비책 마련에 분주합니다.",
             "image_prompt": "US and Iran flags, stylized economic handcuffs, oil barrels with warning signs, global trade map, dramatic shadows",
             "published_at": "2026-05-29 11:55:24",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "폐배터리 자산화 나선 현대차…구독 넘어 '순환경제' 실험",
@@ -307,7 +362,7 @@
             "content": "현대자동차그룹이 전기차 배터리의 수명 주기 전반을 관리하는 '배터리 순환경제' 생태계 구축에 본격적으로 나섰습니다. 이는 배터리를 단순히 판매하는 것에 그치지 않고, 수거 및 재사용, 재활용까지 아우르는 비즈니스 모델로, 탄소 중립과 자원 선순환을 동시에 달성하겠다는 전략입니다.\n\n현재 현대차는 배터리 구독 서비스와 결합하여 소비자의 초기 구매 비용을 낮추는 동시에, 수명이 다한 폐배터리를 에너지 저장 장치(ESS)로 재포장하거나 희귀 금속을 추출해 다시 신규 배터리 제조에 투입하는 기술적 실험을 지속하고 있습니다. 이러한 흐름은 글로벌 규제 대응뿐만 아니라 핵심 광물 공급망 안정화라는 측면에서도 매우 중요한 의미를 지닙니다.\n\n전문가들은 이러한 순환경제 모델이 완성차 업계의 새로운 수익원이 될 것으로 보고 있습니다. 특히 전기차 보급이 확대됨에 따라 폐배터리 배출량이 급증할 것으로 예상되는 만큼, 선제적인 자산화 시스템 구축은 미래 모빌리티 시장에서 강력한 경쟁 우위를 점할 수 있는 요소가 될 것입니다.\n\n결과적으로 현대차의 이번 행보는 단순한 제조 기업을 넘어 에너지 솔루션 기업으로 도약하려는 의지를 보여줍니다. 환경 보호라는 가치와 경제적 이익을 동시에 추구하는 지속 가능한 경영 모델의 대표적인 사례로 자리매김할 전망입니다.",
             "image_prompt": "Electric vehicle battery, circular economy, recycling technology, green energy, futuristic factory",
             "published_at": "2026-05-28 21:24:49",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제]상위 20% 더 벌고 하위 20% 더 썼다...양극화 '악화'",
@@ -318,7 +373,7 @@
             "content": "최근 발표된 통계에 따르면 우리 사회의 소득 양극화 현상이 더욱 뚜렷해지고 있는 것으로 나타났습니다. 소득 상위 20% 가구의 소득은 견조한 상승세를 보인 반면, 하위 20% 가구는 고물가와 고금리의 영향으로 필수 생계비 지출이 늘어나며 실질적인 경제 여건이 악화되었습니다.\n\n상위 계층은 근로소득뿐만 아니라 배당이나 이자 등 자산 소득을 통해 부를 증식시키고 있지만, 서민층은 소득 증가폭이 물가 상승률을 따라가지 못해 가계 수지가 적자로 돌아설 위험에 처해 있습니다. 특히 식료품과 주거비 등 필수 소비재 가격의 급등은 소득이 낮은 가구에 더 큰 타격을 주고 있습니다.\n\n이러한 소득 격차의 확대는 단순한 경제 지표의 악화를 넘어 사회적 갈등의 원인이 될 수 있다는 우려가 나옵니다. 내수 소비의 위축으로 이어져 전체 경제 성장 동력을 갉아먹는 악순환에 빠질 수 있기 때문에, 정부의 정교한 소득 재분배 정책과 취약계층 지원책 마련이 시급한 상황입니다.\n\n앞으로의 과제는 일시적인 지원금 지급보다는 하위 계층의 소득원을 다변화하고 안정적인 일자리를 제공하는 구조적 개선에 집중되어야 합니다. 양극화 해소 없이는 지속 가능한 경제 성장이 불가능하다는 목소리가 커지고 있습니다.",
             "image_prompt": "Income inequality graph, wealth gap illustration, social contrast, economic data analysis, professional cinematic lighting",
             "published_at": "2026-05-28 21:24:49",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "마크 잔디 \"美경제, 성장하고 있지만 여전히 불안정\"",
@@ -329,7 +384,7 @@
             "content": "미국 경제의 향방을 가늠하는 주요 지표들이 엇갈린 신호를 보내고 있습니다. 무디스 애널리틱스의 수석 이코노미스트 마크 잔디는 미국 경제가 수치상으로는 성장을 이어가고 있지만, 그 내면에는 고물가와 금리 압박으로 인한 불안정성이 여전히 도사리고 있다고 분석했습니다.\n\n현재 미국은 견조한 고용 시장을 바탕으로 소비가 유지되고 있으나, 연준의 고금리 정책이 장기화되면서 기업들의 투자 심리가 위축되고 가계의 부채 부담이 가중되고 있습니다. 잔디는 이러한 요인들이 겹쳐 시장이 예상치 못한 충격에 취약해진 상태라고 덧붙였습니다.\n\n글로벌 시장은 미국의 통화 정책 결정에 촉각을 곤두지우고 있습니다. 미국 경제가 연착륙에 성공하느냐 혹은 침체에 빠지느냐에 따라 전 세계 금융 시장의 방향성이 결정되기 때문입니다. 특히 인플레이션이 완전히 잡히지 않은 상태에서의 성장은 시장의 불확실성을 키우는 요소입니다.\n\n결론적으로 마크 잔디의 경고는 현재의 지표를 낙관하기보다는 리스크 관리에 집중해야 할 시점임을 시사합니다. 투자자들과 각국 중앙은행은 미국 경제의 세부 지표 변화를 면밀히 모니터링하며 유연한 대응 전략을 수립해야 할 것으로 보입니다.",
             "image_prompt": "US economy uncertainty, stock market chart, Federal Reserve building, dramatic financial atmosphere, Wall Street",
             "published_at": "2026-05-28 21:24:49",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "(설명) '사회연대임금' 화두 띄운 노동부, 기업에 강제할 일 아니다",
@@ -340,7 +395,7 @@
             "content": "최근 노동부를 중심으로 제기된 '사회연대임금'에 대한 논란에 대해 정부가 공식적인 입장을 밝혔습니다. 사회연대임금이란 대기업 노동자가 임금 인상을 자제하고, 그 재원을 협력사나 중소기업 노동자의 처우 개선에 활용하자는 개념이지만, 이는 기업 경영의 자율성을 침해할 수 있다는 우려를 낳았습니다.\n\n정부는 해당 정책이 정부가 기업에 강제적으로 지시하거나 입법을 통해 규제할 사안이 아니라고 선을 그었습니다. 대신 노사 간의 자율적인 상생 협력을 지원하고, 격차 해소를 위한 사회적 대화의 장을 마련하는 것이 정부의 역할임을 강조했습니다.\n\n경영계에서는 임금 체계는 기업의 수익성과 생산성에 기반해야 한다며 정부의 개입에 신중한 태도를 보이고 있습니다. 반면, 노동계 일부분에서는 극심한 임금 이중구조 문제를 해결하기 위해 어떤 방식으로든 연대적 노력이 필요하다는 주장이 맞서고 있습니다.\n\n이 문제는 향후 한국의 노동 시장 개혁과 직결된 민감한 사안입니다. 정부는 강제성보다는 세제 혜택이나 인센티브를 통해 기업들의 자발적인 참여를 유도하는 방향으로 정책의 가닥을 잡을 것으로 보이며, 사회적 합의를 도출하기 위한 장기적인 과정이 필요할 것으로 보입니다.",
             "image_prompt": "Labor and management meeting, handshake, salary gap concept, professional office, corporate social responsibility",
             "published_at": "2026-05-28 21:24:49",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "나 대신 해줘 DIFM(Do It For Me)경제의 부상",
@@ -351,7 +406,7 @@
             "content": "과거 스스로 해결하는 'DIY(Do It Yourself)' 시대에서 이제는 비용을 지불하고 시간과 편의를 구매하는 'DIFM(Do It For Me)' 시대가 열리고 있습니다. 현대인들이 '시간의 가성비'를 중시하면서, 가사 노동부터 복잡한 행정 업무, 취미 활동 준비까지 대신해 주는 서비스 시장이 급성장하고 있습니다.\n\nDIFM 경제의 핵심은 '시간 효율성'입니다. 바쁜 일상 속에서 직접 에너지를 쏟기보다는 검증된 전문가나 대행 플랫폼을 활용해 삶의 질을 높이려는 소비 욕구가 반영된 결과입니다. 청소 대행, 식단 배송, 가전 세척 서비스뿐만 아니라 개인 맞춤형 자산 관리와 같은 전문 영역까지 서비스가 확대되고 있습니다.\n\n기업들은 이러한 트렌드에 발맞춰 더 정교한 개인화 서비스를 내놓고 있습니다. 특히 AI와 플랫폼 기술의 발전은 소비자와 공급자를 실시간으로 연결해 주며 DIFM 경제의 접근성을 획기적으로 낮췄습니다. 이는 서비스업 중심의 고용 창출과 새로운 비즈니스 모델 발굴이라는 긍정적인 측면도 가집니다.\n\n앞으로 DIFM 경제는 단순한 편의를 넘어 경험의 영역으로 확장될 전망입니다. 단순히 '대신 해주는 것'에 그치지 않고, 고객이 기대하는 수준 이상의 결과를 제공하는 '프리미엄 서비스' 시장이 더욱 주목받을 것으로 예상됩니다.",
             "image_prompt": "Premium concierge service, time management, modern luxury lifestyle, app service, convenience and efficiency",
             "published_at": "2026-05-28 21:24:49",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "삼전닉스 올해 84.5조 처분…외국인 매도의 진실",
@@ -362,7 +417,7 @@
             "content": "국내 증시의 대장주인 삼성전자와 SK하이닉스를 향한 외국인 투자자들의 매도 공세가 거세지며 시장의 우려가 커지고 있습니다. 올해 들어 외국인들이 처분한 반도체 주식 규모가 수십조 원에 달한다는 통계가 나오면서, 한때 'K-반도체' 열풍으로 유입되었던 자금이 이탈하는 배경에 관심이 쏠리고 있습니다. 이는 단순히 업황에 대한 부정적 전망보다는 글로벌 포트폴리오 재조정의 성격이 강하다는 분석이 나옵니다.\n\n전문가들은 미국 금리 인하 시점이 지연되면서 달러 강세가 유지되자, 외국인들이 환차손을 피하기 위해 신흥국 시장에서 비중을 줄이고 있다고 보고 있습니다. 또한 인공지능(AI) 관련 기대감으로 이미 주가가 상당 부분 오른 상태에서 차익 실현 매물이 쏟아지고 있다는 점도 주요 원인 중 하나입니다. 특히 삼성전자의 경우 고대역폭메모리(HBM) 시장에서의 경쟁력 확보 속도에 대한 시장의 의구심이 매도세를 부추긴 측면이 있습니다.\n\n그러나 이러한 매도세가 반도체 업황의 '피크아웃(정점 통과)'을 의미하는 것은 아니라는 시각도 우세합니다. 서버 및 AI 인프라 확장에 따른 메모리 수요는 여전히 견고하며, 실적 개선세는 하반기에도 이어질 가능성이 높기 때문입니다. 결국 외국인의 수급 변화는 단기적인 변동성 요인이 될 수 있으나, 장기적으로는 각 기업의 기술적 우위 증명과 실적 숫자가 주가의 향방을 결정할 것으로 전망됩니다.",
             "image_prompt": "Stock market sell-off, semiconductor chips, digital data numbers, global trading desk, dramatic lighting",
             "published_at": "2026-05-28 15:53:06",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"폐배터리는 '도시광산'\"…정부, 배터리 순환경제 투자 확대 시사",
@@ -373,7 +428,7 @@
             "content": "정부가 전기차 폐배터리를 '도시광산'으로 명명하며 배터리 순환경제 구축을 위한 대대적인 투자 확대 방침을 밝혔습니다. 이는 탄소 중립 실현과 핵심 광물의 공급망 안정화를 동시에 달성하기 위한 전략적 선택입니다. 폐배터리에서 리튬, 니켈, 코발트 등 고가 희귀 금속을 추출해 신규 배터리 제조에 재투입하는 산업 생태계를 조성하겠다는 것이 핵심입니다.\n\n최근 글로벌 환경 규제가 강화되면서 배터리 재활용은 선택이 아닌 필수가 되었습니다. 특히 유럽연합(EU)의 배터리법 등 주요국들이 재활용 원료 사용 의무화를 추진함에 따라, 국내 배터리 업계가 경쟁력을 유지하기 위해서는 선제적인 인프라 구축이 시급한 상황입니다. 정부는 이에 발맞춰 폐배터리 회수 체계를 정비하고 재활용 기술 개발(R&D)에 대한 세제 혜택과 금융 지원을 아끼지 않기로 했습니다.\n\n현대차 등 주요 대기업들도 폐배터리 자산화와 구독 모델 도입 등 순환경제 실험에 적극적으로 나서고 있습니다. 배터리의 생애 주기를 관리함으로써 전기차 가격의 상당 부분을 차지하는 배터리 비용을 절감하고, 자원 선순환을 통해 ESG 경영을 실천하겠다는 구상입니다. 정부와 민간의 공동 투자가 본격화되면서 폐배터리 시장은 향후 수년 내 폭발적인 성장을 기록할 것으로 기대됩니다.",
             "image_prompt": "EV battery recycling, urban mining concept, green technology, circular economy cycle, futuristic factory",
             "published_at": "2026-05-28 15:53:06",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[속보]李대통령 \"경제, 수출 중심 성장세…골목 상권엔 온기 전해지지 못해\"",
@@ -384,7 +439,7 @@
             "content": "대통령이 최근의 경제 지표 호조세에도 불구하고 서민들이 체감하는 경기 현장은 여전히 차갑다는 점을 공식적으로 언급했습니다. 수출이 반도체를 중심으로 역대급 실적을 기록하며 성장률 전망치를 끌어올리고 있지만, 이러한 거시적 성과가 소상공인과 자영업자가 밀집한 골목상권까지는 제대로 전달되지 않고 있다는 뼈아픈 진단입니다. 이는 이른바 'K자형 회복'에 대한 경계감을 나타낸 것으로 풀이됩니다.\n\n정부는 수출 중심의 성장 동력을 유지하면서도 내수 진작을 위한 정책적 노력을 병행하겠다고 강조했습니다. 물가 안정을 최우선 과제로 삼아 서민 생활비 부담을 완화하고, 고금리로 고통받는 소상공인들을 위해 이자 지원이나 채무 조정 프로그램을 내실화하겠다는 계획입니다. 또한 전통시장 활성화와 지역 소비 촉진을 위한 맞춤형 지원책도 추가로 검토될 것으로 보입니다.\n\n특히 대통령은 우주항공 등 신산업 분야가 미래 경제의 안보 발판이 될 수 있도록 지원하되, 그 과정에서 민간과 지방이 주역이 되어 지역 경제에 활력을 불어넣어야 한다고 당부했습니다. 이는 중앙 정부 주도의 대규모 프로젝트가 지역 풀뿌리 경제와 연계되어야만 실질적인 민생 개선이 가능하다는 철학을 반영한 것입니다. 향후 정부 정책은 거시 지표 관리와 미시적 민생 챙기기 사이의 균형점을 찾는 데 집중될 전망입니다.",
             "image_prompt": "Local market street, contrast between export ships and small shops, government policy meeting, warm light effect",
             "published_at": "2026-05-28 15:53:06",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중기부, 지역기업 협업 기반 생활경제 활성화 나선다…최대 4억3000만원 지원",
@@ -395,7 +450,7 @@
             "content": "중소벤처기업부가 지역 기업들 사이의 협업을 바탕으로 생활 경제의 선순환 구조를 만들기 위한 새로운 지원 사업에 착수했습니다. 이번 사업은 개별 기업에 대한 단발성 지원에서 벗어나, 특정 지역 내 기업들이 연계하여 공동의 비즈니스 모델을 창출할 경우 최대 4억 3000만 원까지 지원하는 것을 골자로 합니다. 인구 감소와 내수 침체로 위기에 처한 지방 도시의 활로를 찾기 위한 고육책입니다.\n\n사업의 핵심은 '협업형 지역경제 실험'입니다. 예를 들어 지역의 특산물을 생산하는 업체와 이를 가공하는 업체, 그리고 유통 및 마케팅을 담당하는 스타트업이 하나의 팀을 이뤄 시너지를 내는 방식입니다. 중기부는 이러한 모델이 정착되면 지역 내 일자리 창출은 물론, 외부 인구 유입을 유도할 수 있는 매력적인 생활권이 형성될 것으로 기대하고 있습니다.\n\n지원 대상 선정 과정에서는 창의적인 아이디어뿐만 아니라 지역 사회와의 상생 가능성, 그리고 지속 가능한 수익 모델 확보 여부가 주요하게 검토될 예정입니다. 정부는 이번 지원을 통해 지역 소상공인과 중소기업들이 스스로 자생력을 키울 수 있는 생태계를 구축하고, 장기적으로는 수도권 집중 현상을 완화하는 데 기여하겠다는 목표를 세우고 있습니다. 지역 경제의 뿌리를 튼튼히 하려는 이번 시도가 어떤 성과를 거둘지 귀추가 주목됩니다.",
             "image_prompt": "Small business collaboration, regional map icon, financial support symbol, handshaking between local owners",
             "published_at": "2026-05-28 15:53:06",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국은행, 올해 경제성장률 2.6%로 상향…기준금리는 11회 연속 동결",
@@ -406,7 +461,7 @@
             "content": "한국은행 금융통화위원회가 올해 우리나라의 실질 국내총생산(GDP) 성장률 전망치를 기존 2.0%에서 2.6%로 대폭 상향 조정했습니다. 이는 최근 1분기 깜짝 성장과 반도체를 중심으로 한 수출 회복세가 반영된 결과로 보입니다. 정부와 OECD의 전망치보다도 높은 수준으로, 한국 경제의 회복 탄력성이 예상보다 강하다는 것을 시사합니다.\n\n하지만 성장률 상향에도 불구하고 기준금리는 연 3.5%로 다시 한번 동결되었습니다. 이번 결정으로 한은은 지난해 2월부터 11회 연속 금리를 유지하게 되었습니다. 소비자물가 상승률이 여전히 2%대 후반에서 머물며 목표치인 2%를 웃돌고 있고, 농산물 가격 불안과 고유가 등 물가 리크스가 여전하기 때문입니다.\n\n이창용 한은 총재는 물가가 목표 수준으로 수렴한다는 확신이 들 때까지 긴축 기조를 충분히 유지할 필요가 있다고 강조했습니다. 시장에서는 하반기 금리 인하 기대감이 존재하지만, 상향된 성장률 수치가 오히려 금리 인하 시점을 늦추는 요인이 될 수 있다는 분석도 나옵니다. 당분간은 고금리 상황 속에서 경기 회복세를 지켜보는 관망세가 이어질 전망입니다.",
             "image_prompt": "Bank of Korea, Central bank, Interest rate freeze, Economic growth graph, Professional financial atmosphere",
             "published_at": "2026-05-28 11:51:21",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "삼성전자·SK하이닉스 84.5조원 처분…외국인 '폭풍 매도'의 배경",
@@ -417,7 +472,7 @@
             "content": "올해 들어 외국인 투자자들이 삼성전자와 SK하이닉스 등 국내 반도체 대표 종목들을 총 84.5조 원 규모로 처분했다는 소식이 전해지며 증권가에 파장이 일고 있습니다. 이는 역대급 규모의 자금 이탈로, 반도체 업황 피크아웃(정점 통과)에 대한 우려와 글로벌 자산 배분 조정의 결과라는 해석이 지배적입니다.\n\n그동안 엔비디아 발 AI 열풍으로 급등했던 반도체 주가에 대해 외국인들이 차익 실현에 나선 것으로 보입니다. 특히 삼성전자의 경우 HBM(고대역폭메모리) 공급망 진입 지연 우려 등이 겹치면서 매도세가 가중된 측면이 있습니다. 반면 일각에서는 이번 매도세가 단순한 이탈이 아닌 포트폴리오 리밸런싱의 과정이라는 분석도 제기됩니다.\n\n외국인의 대규모 매도는 코스피 지수 전체의 상단을 제한하는 압박 요인으로 작용하고 있습니다. 개인 투자자들의 매수세가 이를 일부 방어하고는 있지만, 시장의 주도권을 쥔 외국인의 귀환 없이는 본격적인 상승 랠리를 기대하기 어려운 상황입니다. 향후 반도체 실적 발표와 미국의 통화정책 방향이 외국인 수급의 변곡점이 될 것으로 보입니다.",
             "image_prompt": "Stock market trading floor, Semiconductor chips, Foreign investment sell-off, Red downward arrows, Digital display",
             "published_at": "2026-05-28 11:51:21",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "LG엔솔 vs SK온, 배터리 거인의 엇갈린 운명과 생존 전략",
@@ -428,7 +483,7 @@
             "content": "전기차 시장의 수요 정체기(캐즘)가 길어지면서 국내 배터리 산업을 이끄는 LG에너지솔루션과 SK온의 희비가 엇갈리고 있습니다. LG에너지솔루션은 탄탄한 수주 잔고와 북미 생산 세액공제(AMPC) 수혜를 바탕으로 비교적 견조한 수익성을 유지하고 있는 반면, SK온은 연속 적자와 재무 부담 가중으로 비상경영 체제에 돌입한 모습입니다.\n\nLG에너지솔루션은 다변화된 고객사와 앞선 공정 효율화를 통해 위기를 정면 돌파하고 있습니다. 차세대 배터리인 4680 원통형 배터리 양산을 서두르며 기술 격차를 벌리는 전략을 취하고 있습니다. 반면 SK온은 대규모 설비 투자가 진행 중인 상황에서 전기차 시장 둔화라는 악재를 만나 자금 조달과 흑자 전환 시점 확보에 사활을 걸고 있습니다.\n\n배터리 업계 전문가들은 이번 침체기가 업계 내 '옥석 가리기'를 가속화할 것으로 보고 있습니다. 단순한 규모의 경쟁을 넘어 원가 경쟁력과 차세대 기술력을 확보한 기업만이 살아남을 수 있는 환경이 조성된 것입니다. 두 회사의 엇갈린 행보는 향후 글로벌 배터리 시장 점유율 재편에도 큰 영향을 미칠 전망입니다.",
             "image_prompt": "Electric vehicle battery, High-tech factory, Blue and orange neon lighting, Industrial competition, Innovation",
             "published_at": "2026-05-28 11:51:21",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "AI가 뒤흔드는 컨설팅 시장…'빅4' 회계법인도 규모의 경제 흔들",
@@ -439,7 +494,7 @@
             "content": "전 세계 컨설팅 시장을 장악해온 이른바 '빅4(딜로이트, PwC, EY, KPMG)' 회계법인들이 인공지능(AI)이라는 거대한 변화 앞에 직면했습니다. 과거 수많은 인력을 투입해 데이터를 분석하고 보고서를 작성하던 '규모의 경제' 모델이 AI 자동화로 인해 효율성 측면에서 도전을 받고 있기 때문입니다.\n\n생성형 AI는 초급 컨설턴트들이 수행하던 리서치, 데이터 정리, 초안 작성 등의 업무를 순식간에 처리해냅니다. 이에 따라 기업 고객들은 더 이상 값비싼 자문료를 지불하며 대형 컨설팅사에 의존하지 않고, 내부적으로 AI 툴을 활용하거나 소규모 특화 컨설팅사를 찾는 경향이 늘고 있습니다. 이는 대형사들의 인력 감축과 조직 재편으로 이어지고 있습니다.\n\n빅4 기업들 역시 생존을 위해 수조 원 규모의 AI 투자를 단행하고 있습니다. 자체 AI 플랫폼을 구축해 컨설팅 품질을 높이고, 단순 자문을 넘어 기술 구현까지 지원하는 '테크 기반 서비스'로 체질 개선을 시도 중입니다. 전문가들은 지식 산업의 정점에 있던 컨설팅업마저 AI로 인해 파괴적 혁신을 경험하고 있다고 진단합니다.",
             "image_prompt": "AI robot thinking, Office skyscrapers, Digital data streams, Business consulting, Futuristic technology",
             "published_at": "2026-05-28 11:51:21",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "제퍼슨 연준 부의장 \"미국 통화정책, 데이터에 기반해 적절히 대응 중\"",
@@ -450,7 +505,7 @@
             "content": "필립 제퍼슨 미국 연방준비제도(Fed) 부의장이 현재의 통화정책 기조가 경제 상황에 적절하게 대응할 수 있는 위치에 있다고 평가했습니다. 이는 최근 인플레이션 둔화세가 주춤함에 따라 시장에서 제기된 '추가 금리 인상' 가능성을 일축하면서도, '성급한 인하'에 대해서는 경계감을 나타낸 것으로 풀이됩니다.\n\n제퍼슨 부의장은 인플레이션 수치가 목표치인 2%로 돌아오고 있다는 더 확실한 증거가 필요하다고 강조했습니다. 고용 시장이 여전히 견조한 모습을 보이고 있는 만큼, 서둘러 금리를 내리기보다는 현재의 제약적인 금리 수준을 유지하며 물가 경로를 더 지켜보겠다는 '신중론'을 재확인한 것입니다.\n\n글로벌 금융시장은 연준 인사들의 발언 하나하나에 민감하게 반응하고 있습니다. 이번 발언은 미국 금리 인하 시점이 하반기 늦게나 내년으로 밀릴 수 있다는 관측에 무게를 실어주었습니다. 한국은행의 금리 결정 역시 미국의 이러한 통화정책 향방과 긴밀하게 연동되어 있어, 국내 금융시장에도 장기적인 고금리 환경에 대비해야 한다는 메시지를 던지고 있습니다.",
             "image_prompt": "Federal Reserve Seal, US Dollar bills, Economic stability, Philip Jefferson portrait style, Washington DC",
             "published_at": "2026-05-28 11:51:21",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제][속보] 삼전·닉스 2배 ETF 출시에 코스피 8,228 최고치 마감",
@@ -461,7 +516,7 @@
             "content": "오늘 국내 증시는 삼성전자와 SK하이닉스라는 양대 반도체 거인을 기반으로 한 '2배 레버리지 ETF'의 출시 소식에 힘입어 전례 없는 폭등세를 기록했습니다. 코스피 지수는 단숨에 8,000선을 돌파하며 8,228이라는 경이로운 수치로 마감하여 시장 참여자들을 놀라게 했습니다.\n\n이번 상승은 단순한 수치 이상의 의미를 가집니다. 국내 시가총액의 막대한 비중을 차지하는 반도체 종목에 집중 투자할 수 있는 고수익 상품이 등장하면서 기관과 외국인의 매수세가 강력하게 유입된 결과로 분석됩니다. 투자자들 사이에서는 반도체 업황의 장기적 우상향에 대한 강한 확신이 확산되고 있습니다.\n\n다만, 지수가 단기간에 급격히 상승함에 따라 과열에 대한 경계의 목소리도 나오고 있습니다. 전문가들은 특정 섹터에 편중된 지수 상승이 시장의 변동성을 키울 수 있다고 경고하며, 향후 실적 뒷받침 여부를 면밀히 관찰해야 한다고 조언합니다.\n\n결과적으로 이번 코스피의 역사적 최고치 달성은 한국 경제의 핵심 동력인 반도체 산업에 대한 재평가와 더불어, 자본 시장의 유동성이 첨단 제조 분야로 집중되고 있음을 보여주는 상징적인 사건으로 기록될 전망입니다.",
             "image_prompt": "Stock market graph, dramatic bull run, blue digital numbers, high-tech financial district, professional neon lighting",
             "published_at": "2026-05-28 00:34:15",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李대통령 '경제 대전환' 선언…하반기 구조개혁·슈퍼예산 띄운다",
@@ -472,7 +527,7 @@
             "content": "정부는 오늘 '경제 대전환'을 공식 선언하며 하반기 국정 운영의 무게중심을 구조개혁과 경기 부양에 두겠다고 밝혔습니다. 이번 발표의 핵심은 저성장 기조를 타파하기 위한 산업 구조의 전면적 개편과 이를 뒷받침하기 위한 이른바 '슈퍼 예산'의 투입입니다.\n\n구체적으로는 노동, 교육, 연금 등 이른바 3대 개혁의 고삐를 죄는 동시에, 미래 먹거리 산업인 AI와 바이오, 모빌리티 분야에 파격적인 규제 완화와 세제 혜택을 제공할 방침입니다. 이는 단기적인 경기 회복을 넘어 한국 경제의 체질 자체를 바꾸겠다는 강력한 의지로 풀이됩니다.\n\n재정 측면에서는 하반기 집행 예산을 대폭 늘려 민생 경제의 온기를 확산시키겠다는 복안입니다. 공공 부문의 투자를 조기에 집행하고 소상공인 및 중소기업을 위한 금융 지원책을 병행하여 내수 진작을 꾀할 것으로 보입니다.\n\n시장에서는 정부의 이러한 공세적인 정책 행보가 침체된 투자 심리를 회복시키는 마중물 역할을 할 것으로 기대하고 있습니다. 그러나 막대한 예산 투입에 따른 재정 건전성 악화 우려와 여야 협치 여부에 따라 정책 실현 가능성이 좌우될 것이라는 분석도 함께 제기되고 있습니다.",
             "image_prompt": "Government building assembly, economic reform blueprints, golden scale, official document, futuristic city planning",
             "published_at": "2026-05-28 00:34:15",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "1년새 시총 191% 급증한 로봇 상장사 50곳 대해부",
@@ -483,7 +538,7 @@
             "content": "대한민국의 로봇 산업이 주식 시장의 새로운 주인공으로 떠올랐습니다. 최근 1년간 국내 주요 로봇 상장사 50곳의 시가총액을 분석한 결과, 전년 대비 무려 191%라는 폭발적인 성장세를 기록한 것으로 나타났습니다. 이는 인공지능(AI)과 로봇의 결합이 가속화되면서 실질적인 매출 실현 기대감이 반영된 결과입니다.\n\n이번 성장을 견인한 주역은 협동 로봇과 자율주행 물류 로봇 분야의 기업들입니다. 대기업들이 로봇 기업 지분 투자에 나서거나 직접 사업 진출을 선언하면서 생태계 전체의 가치가 재평가받고 있습니다. 단순 실험 단계를 넘어 실제 산업 현장에 로봇 도입이 본격화되고 있다는 점이 투자자들을 자극했습니다.\n\n특히 제조 현장의 인력 부족 문제와 임금 상승이라는 글로벌 트렌드가 로봇 수요를 폭증시키고 있습니다. 한국 로봇 기업들은 정밀 제어 기술과 소프트웨어 역량을 바탕으로 글로벌 시장에서도 경쟁력을 인정받으며 수출 비중을 높여가고 있는 추세입니다.\n\n다만 전문가들은 단기 급등에 따른 피로감이 존재할 수 있음을 경고합니다. 기업별 기술력 격차가 큰 만큼 실질적인 수주 실적과 기술 장벽을 보유한 우량주 위주의 선별적인 투자가 필요한 시점이라고 분석하고 있습니다.",
             "image_prompt": "Humanoid robot arm, high-tech factory, circuit board patterns, rising stock arrow, silver and white aesthetic",
             "published_at": "2026-05-28 00:34:15",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "독일 경제장관도 중국행…中상무부장, 'EU 보호주의' 우려",
@@ -494,7 +549,7 @@
             "content": "유럽 경제의 엔진인 독일의 경제장관이 대규모 경제 사절단을 이끌고 중국을 방문했습니다. 이번 방문은 최근 전기차 관세 문제 등으로 긴장이 고조된 EU와 중국 간의 관계 속에서 경제적 돌파구를 찾기 위한 행보로 풀이됩니다. 양국은 무역 협력 확대와 공급망 안정화를 주요 의제로 다루고 있습니다.\n\n중국 상무부장은 독일 측과의 회담에서 최근 EU가 추진 중인 각종 무역 장벽과 보호주의 조치들에 대해 강한 우려를 표명했습니다. 특히 중국산 전기차에 대한 보조금 조사 등이 자유 무역의 원칙을 훼손하고 글로벌 공급망의 효율성을 저해할 수 있다는 입장을 전달했습니다.\n\n독일 입장에서는 중국이 최대 교역국 중 하나인 만큼, 지정학적 리스크 관리와 경제적 실익 사이에서 아슬아슬한 줄타기를 이어가고 있습니다. 독일 기업들은 중국 시장의 접근성을 유지하는 동시에 지나친 의존도를 낮춰야 하는 양면적인 과제에 직면해 있습니다.\n\n이번 회담 결과는 향후 EU 전체의 대중국 경제 정책 방향에 중대한 이정표가 될 전망입니다. 보호무역주의의 파고 속에서 국가 간의 경제적 이해관계가 어떻게 조정될지 전 세계 경제 전문가들의 이목이 집중되고 있습니다.",
             "image_prompt": "International diplomacy conference, German and Chinese flags, container ship harbor, global trade map, professional atmosphere",
             "published_at": "2026-05-28 00:34:15",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "상한가 ‘불기둥’ 그린 삼성SDS, 왜? [오늘, 이 종목]",
@@ -505,7 +560,7 @@
             "content": "삼성SDS 주가가 이른바 '불기둥'을 세우며 상한가로 마감했습니다. 정보기술(IT) 서비스 업종 내에서도 이례적인 이번 폭등은 삼성SDS가 야심 차게 추진 중인 생성형 AI 서비스 '패브릭스(FabriX)'와 '브리티 코파일럿(Brity Copilot)'의 본격적인 시장 침투력 덕분인 것으로 분석됩니다.\n\n기업용 AI 시장이 열리면서 보안이 강화된 맞춤형 클라우드 서비스에 대한 수요가 급증하고 있습니다. 삼성SDS는 그룹사 내부 수요를 넘어 금융 및 제조 분야의 외부 고객사까지 빠르게 확보하며 매출 구조의 질적 변화를 이끌어내고 있습니다. 이는 기존 물류 위주의 수익 구조에서 고부가가치 IT 서비스로의 성공적인 전환을 의미합니다.\n\n또한, 클라우드 부문의 가파른 성장률이 실적으로 증명되면서 저평가되어 있던 기업 가치가 제자리를 찾아가는 과정이라는 평가도 나옵니다. 증권가에서는 삼성SDS가 보유한 막대한 현금 동원력을 바탕으로 한 추가적인 M&A나 기술 투자 가능성에도 주목하고 있습니다.\n\n결국 오늘 삼성SDS의 상한가는 단순한 수급의 쏠림이 아니라, AI 시대에 기업들이 필요로 하는 핵심 인프라를 제공할 수 있는 역량을 증명받은 결과로 해석됩니다. 향후 AI 서비스의 유료화 모델이 안착될 경우 추가적인 주가 상승 모멘텀이 이어질 것으로 보입니다.",
             "image_prompt": "Cloud computing data center, glowing AI brain, stock chart shooting up, corporate blue theme, clean glass office building",
             "published_at": "2026-05-28 00:34:15",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제][속보] 코스피 급등세에 매수 사이드카 발동",
@@ -516,7 +571,7 @@
             "content": "오늘 국내 증시는 외국인과 기관의 강력한 매수세에 힘입어 코스피 지수가 폭발적으로 상승했습니다. 장중 지수 급변동으로 인해 프로그램 매수 호가의 효력을 일시 정지하는 '매수 사이드카'가 발동될 정도로 시장의 열기는 뜨거웠습니다. 전문가들은 글로벌 경기 회복에 대한 기대감과 국내 주요 기업들의 실적 개선 전망이 맞물리며 투자 심리가 극도로 고조된 것으로 분석하고 있습니다.\n\n사이드카 발동은 시장의 변동성을 완화하기 위한 조치로, 이번 발동은 최근 침체되었던 증시 분위기를 완전히 반전시키는 상징적인 사건으로 평가받고 있습니다. 개인 투자자들뿐만 아니라 대형 펀드들의 자금이 대거 유입되면서 거래량 또한 평소 대비 수배 이상 증가한 모습을 보였습니다.\n\n하지만 일각에서는 단기간 급등에 따른 피로감과 과열 양상을 우려하는 목소리도 나오고 있습니다. 시장 관계자들은 '지수의 방향성은 긍정적이지만, 사이드카가 발동될 정도의 급격한 변동성에는 주의가 필요하다'며 향후 발표될 주요 경제 지표들을 면밀히 주시해야 한다고 조언했습니다.\n\n향후 증시는 이번 상승 동력을 바탕으로 추가적인 고점 돌파를 시도할 것으로 보이며, 정부의 금융 시장 안정화 정책과 연동되어 당분간 높은 변동성 장세를 이어갈 것으로 전망됩니다.",
             "image_prompt": "Stock market, dynamic green and red graph, trading floor, high energy, professional financial atmosphere",
             "published_at": "2026-05-27 18:40:20",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "상한가 ‘불기둥’ 그린 삼성SDS, 왜?",
@@ -527,61 +582,6 @@
             "content": "삼성SDS의 주가가 거침없는 상승세를 보이며 가격제한폭까지 치솟았습니다. 시장에서는 이를 두고 '불기둥'을 세웠다는 평가가 나올 정도로 강한 매수세가 유입되었습니다. 이번 상한가의 배경으로는 삼성그룹 내 디지털 전환 수요 증가와 더불어 클라우드 및 물류 IT 서비스 분야에서의 괄목할 만한 성과가 꼽힙니다.\n\n특히 최근 발표된 신기술 관련 대규모 수주 소식과 인공지능(AI) 기반 비즈니스 모델 고도화가 투자자들의 기대감을 자극했습니다. 증권가에서는 삼성SDS가 단순 IT 지원 기업을 넘어 글로벌 테크 기업으로 도약하는 변곡점에 서 있다는 긍정적인 리포트를 잇달아 내놓고 있습니다.\n\n기관 투자자들은 이번 주가 급등을 단순히 일시적인 현상으로 보지 않고, 기업 가치의 재평가 과정으로 해석하고 있습니다. 외국인 자금 또한 대거 유입되며 수급 상황이 개선된 점도 상한가 도달의 주요 원인 중 하나로 분석됩니다.\n\n향후 삼성SDS는 확보된 자본력을 바탕으로 차세대 기술 투자를 더욱 확대할 계획입니다. 다만 주가가 단기간에 급등한 만큼 단기 조정의 가능성도 배제할 수 없어, 투자자들은 추격 매수보다는 장기적인 성장 잠재력을 고려한 신중한 접근이 필요해 보입니다.",
             "image_prompt": "Technology, blue neon light, corporate tower, digital code, stock surge visual",
             "published_at": "2026-05-27 18:40:20",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "[경제 포커스] 기업들 해외에 묶어 둔 달러, 1년 만에 3배로 늘어",
-            "source": "Chosunbiz",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZlY0NDBFclBTUG9CelVzc0RybnNrNi1pa21iMG81dk9XWEtoVFEyb0F0MERZdHlISmcxUjNEX3M2T05xUzEyVzlaY01lb3hZQ0lULWxrN1RjdjdVdmM2QWdJVXZub1p5bVROTjUtOF9PUEkxdXNRenFacHR4ZEphcHJTdzlNUQ?oc=5",
-            "category": "거시",
-            "summary": "국내 주요 기업들이 환율 변동과 대외 불확실성에 대비해 해외 유보 달러 비중을 대폭 늘렸습니다.",
-            "content": "국내 주요 기업들이 해외에 보유하고 있는 달러화 자산이 1년 사이 3배 가까이 급증한 것으로 나타났습니다. 이는 환율 변동성에 대비하고 해외 사업 확장을 위한 실탄을 확보하려는 전략적 움직임으로 풀이됩니다. 기업들은 국내로 달러를 들여오기보다 해외 현지에 예치하거나 재투자하는 방식을 택하고 있습니다.\n\n이러한 현상은 달러 강세 기조가 지속될 것이라는 전망과 함께, 국내 금융 시장의 불확실성을 피하려는 기업들의 심리가 반영된 결과입니다. 또한 해외 대규모 M&A나 설비 투자를 앞둔 기업들이 환전 비용을 절감하기 위해 현지에서 달러 자산을 직접 관리하는 경향이 뚜렷해지고 있습니다.\n\n하지만 경제 전문가들은 기업들의 이러한 '달러 쌓기'가 국내 외환 시장의 달러 공급 부족을 초래할 수 있다고 경고합니다. 국내로 유입되어야 할 외화 자금이 해외에 묶이게 되면서 원·달러 환율 안정화에 부정적인 영향을 줄 수 있다는 분석입니다.\n\n정부와 한국은행은 기업들의 외화 유보 현황을 예의주시하며, 필요 시 국내 환류를 유도하기 위한 세제 혜택이나 인센티브 제공 방안을 검토해야 할 시점입니다. 기업의 자율적인 자산 운용과 국가 거시 경제의 안정 사이에서 적절한 균형점을 찾는 것이 중요한 과제로 떠올랐습니다.",
-            "image_prompt": "US Dollar bills, globe, corporate piggy bank, financial security, international trade",
-            "published_at": "2026-05-27 18:40:20",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "이란 '두마리 토끼' 사냥…핵 양보 보류·경제제재 해제 추진",
-            "source": "연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kR2t1LV9yTmpaNUpsM2dnUEtENGthRFl1SWcybXcyQzNBbWRNU0xEM2dTV2NidWs4TVQ4ekcteWNYM29vSGxXY2o0ZmdQZmN6TmF5UnB0bmFnd3RqV19UStIBYEFVX3lxTE5kR2t1LV9yTmpaNUpsM2dnUEtENGthRFl1SWcybXcyQzNBbWRNU0xEM2dTV2NidWs4TVQ4ekcteWNYM29vSGxXY2o0ZmdQZmN6TmF5UnB0bmFnd3RqV19USg?oc=5",
-            "category": "국제",
-            "summary": "이란이 국제 사회와의 협상에서 핵 통제 양보 없이 경제 제재만을 해제하려는 고도의 전략을 구사하고 있습니다.",
-            "content": "이란 정부가 서방 국가들과의 핵 합의 복원 협상에서 자국의 이익을 극대화하기 위한 이른바 '두 마리 토끼' 전략을 본격화하고 있습니다. 핵심은 자국의 핵 개발 역량은 최대한 유지하면서, 경제를 옥죄고 있는 국제 사회의 제재를 조속히 해제받는 것입니다. 이는 고사 위기에 처한 국내 경제를 살리기 위한 절박함과 대외적 협상력을 동시에 챙기려는 포석입니다.\n\n현재 이란은 원유 수출 재개와 동결 자금 해제를 최우선 과제로 내세우고 있습니다. 이를 위해 일부 주변국과의 외교적 관계를 개선하며 서방을 압박하고 있습니다. 특히 에너지 위기를 겪고 있는 유럽 시장의 상황을 이용해 이란산 원유의 필요성을 강조하며 협상의 주도권을 잡으려 노력 중입니다.\n\n그러나 미국을 비롯한 서방 국가들은 '실질적인 핵 포기 없이는 제재 해제도 없다'는 강경한 입장을 고수하고 있어 협상은 평행선을 달리고 있습니다. 국제 원자력 기구(IAEA)의 사찰 수용 문제 등 기술적인 걸림돌도 여전히 산재해 있는 상황입니다.\n\n이번 협상의 결과는 글로벌 오일 시장뿐만 아니라 중동 지역의 지정학적 리스크에도 지대한 영향을 미칠 것으로 보입니다. 이란의 경제 제재가 실제로 해제될 경우 국제 유가 하락 압력으로 작용할 수 있어 전 세계 경제가 협상 테이블의 움직임에 촉각을 곤두세우고 있습니다.",
-            "image_prompt": "Diplomacy, nuclear power plant, oil refinery, world map, international sanctions concept",
-            "published_at": "2026-05-27 18:40:20",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "상장하자마자 55% 폭등…‘삼전·하이닉스 2배 ETF’ 폭주",
-            "source": "조선일보",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00b3R5NVVTV05KMk55QXVXNy11cm1IQWZWNWM0a2kwc2RvcWtLR29sSExCVWdLazItWG54NDRtODQycmQxSTU2U2xyQ3EwUnBmZlpaN2dDWE9nVndGb3RFUXQzMzdyM1hzOURJ0gFuQVVfeXFMTzNwZldLQ09lRnhTQ0xlTW9LM3NFOS02VGZGNkQxdk1pYUE5Qk92cGhWLWpvYThMbmtvVlZQZ2JRSWdfN2h2YkQtVDV1U0NJOW5hSmJ4ZFpVYWdjOThhZ0xGc0s3WjRxZ21FN1Bab0E?oc=5",
-            "category": "시장",
-            "summary": "삼성전자와 SK하이닉스의 수익률을 2배로 추종하는 레버리지 ETF가 상장 직후 폭발적인 상승세를 기록했습니다.",
-            "content": "국내 증시의 핵심 종목인 삼성전자와 SK하이닉스에 집중 투자하는 '단일 종목형 레버리지 ETF'가 시장에 출시되자마자 투자자들의 폭발적인 관심을 받고 있습니다. 상장 첫날부터 50%가 넘는 수익률을 기록하는 상품이 등장하는 등 반도체 상승장에 베팅하려는 공격적인 투자 자금이 대거 유입되고 있는 모습입니다. 이는 특정 우량주에 대한 집중 투자를 선호하는 최근의 트렌드를 반영합니다.\n\n이 상품들은 기초 자산의 하루 수익률을 2배로 추종하도록 설계되어 있어, 주가가 상승할 때 일반 주식보다 훨씬 높은 수익을 기대할 수 있습니다. 특히 최근 엔비디아발 AI 호재로 반도체 업황 개선이 뚜렷해지면서, 국내 반도체 대형주의 추가 상승을 확신하는 소위 '슈퍼 개미'와 젊은 투자자들이 대거 가담하며 거래량을 끌어올렸습니다.\n\n하지만 높은 수익률만큼이나 리스크도 크다는 점이 전문가들의 지적입니다. 레버리지 ETF는 지수가 횡보하거나 하락할 경우 '음의 복리 효과'로 인해 원금 손실이 가속화될 수 있는 위험이 있습니다. 특히 단일 종목에 기반한 레버리지 상품은 해당 기업의 개별 악재에 극도로 취약하기 때문에 분산 투자 효과를 기대하기 어렵다는 단점이 명확합니다.\n\n금융당국과 시장 관계자들은 이러한 과열 양상에 대해 주의를 당부하고 있습니다. 단순한 유행이나 단기 수익률에 매몰되기보다는 상품의 구조와 위험 요인을 충분히 이해한 후 투자에 나서야 한다는 것입니다. 반도체 패권 경쟁 속에서 국내 기업들의 위상이 높아지는 것은 긍정적이나, 이를 활용한 금융 상품 투자는 더욱 신중한 접근이 요구되는 시점입니다.",
-            "image_prompt": "Trading app on smartphone, explosive growth chart, high risk high reward, neon lighting, stock analysis",
-            "published_at": "2026-05-27 12:31:32",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "“경제 상황 엄중 인식” 김용범 발언 진화 나선 청와대",
-            "source": "문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BQVY4MlVqTTdkaWQzYjhQbU1hLVIwZ3k5SXh6V2gyTTFGR3JsRWJVeENuRFhlQUpJMU9NQkJIdU9qQXhaNXB0WmNuSFhseUlp?oc=5",
-            "category": "정책",
-            "summary": "고환율을 '경제 성공의 비용'이라 언급한 김용범 전 차관의 발언이 논란이 되자 청와대가 경제 상황의 엄중함을 강조하며 진화에 나섰습니다.",
-            "content": "최근 김용범 전 기획재정부 차관이 현재의 고금리, 고물가, 고환율 상황을 한국 경제가 도약하는 과정에서 발생하는 '성공의 비용'이자 '역설적 현상'이라고 언급한 것을 두고 정치권과 시장에서 논란이 일고 있습니다. 이에 청와대는 해당 발언이 자칫 정부가 민생의 어려움을 가볍게 여기는 것으로 비춰질까 우려하며, 현재의 경제 상황을 매우 엄중하게 인식하고 있다는 입장을 신속히 내놓았습니다.\n\n김 전 차관의 발언 취지는 한국 경제의 체급이 커지면서 겪게 되는 구조적인 변화를 설명하려는 의도였으나, 고물가와 고환율로 고통받는 서민과 중소기업의 현실과는 동떨어진 '탁상공론'이라는 비판이 제기되었습니다. 특히 환율 상승이 단순히 경제 성장의 결과가 아니라 대외 불확실성과 공급망 위기 등 복합적인 요인에 의한 것임에도 이를 긍정적으로 해석하는 것은 위험하다는 지적이 잇따랐습니다.\n\n청와대 관계자는 정부가 물가 안정과 민생 경제 회복을 최우선 순위에 두고 정책 역량을 집중하고 있음을 재차 강조했습니다. 특히 수입 물가 상승으로 인한 가계 부담을 줄이기 위해 가용한 모든 정책 수단을 동원하고 있으며, 시장과의 소통을 강화해 불필요한 오해를 불식시키겠다는 의지를 보였습니다.\n\n이번 논란은 경제 지표를 바라보는 전문가의 시각과 실제 국민들이 체감하는 경기 사이의 온도 차를 극명하게 보여주었습니다. 향후 정부의 경제 정책 방향이 거시적 지표 관리뿐만 아니라 미시적인 민생 안정에 얼마나 실질적인 도움을 줄 수 있을지가 정책 신뢰 회복의 관건이 될 것으로 보입니다.",
-            "image_prompt": "Government building press room, serious atmosphere, economic policy discussion, professional cinematic lighting",
-            "published_at": "2026-05-27 12:31:32",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "\"경제도약 나선 엘살바도르 … 韓기업 오면 15년간 세금 완전면제\"",
-            "source": "매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSzFwbDdGbGpkTFZzYjdlVlJMLVN1WThONEtxRnZDeEh5TTduV3dtUWhKNEgyYU9WU0J4WmE5SW5jenpBeXBxTVBuWFlXMzdDLXc?oc=5",
-            "category": "테크",
-            "summary": "엘살바도르가 한국 기업 유치를 위해 15년간 법인세 면제라는 파격적인 혜택을 제시하며 경제 협력을 제안했습니다.",
-            "content": "중남미의 엘살바도르가 한국의 우수한 기술력과 자본을 유치하기 위해 유례없는 파격적인 인센티브를 들고 나왔습니다. 엘살바도르 정부 관계자는 한국 기업이 현지에 진출할 경우 향후 15년 동안 법인세를 완전히 면제해주고, 각종 원자재 및 장비 수입에 대한 관세도 철폐하겠다는 파격적인 제안을 내놓으며 한국 기업들의 적극적인 투자를 요청했습니다.\n\n이번 제안은 엘살바도르가 추진 중인 경제 현대화 전략의 일환으로, 특히 IT, 제조, 에너지 분야에서 강점을 가진 한국 기업들을 파트너로 삼아 국가 경제의 기초 체력을 키우겠다는 의지로 풀이됩니다. 엘살바도르는 지리적으로 북미와 남미를 잇는 전략적 요충지에 위치해 있어, 한국 기업들에게는 미주 시장 진출을 위한 새로운 전초 기지로서의 매력이 부각되고 있습니다.\n\n우리 기업들에게 15년 세금 면제는 초기 투자 비용과 운영 부담을 획기적으로 낮출 수 있는 기회입니다. 글로벌 공급망 재편 과정에서 생산 거점 다변화가 절실한 시점에, 중남미 시장의 관문 역할을 할 수 있는 엘살바도르의 제안은 충분히 검토 가치가 있다는 것이 업계의 반응입니다. 다만 현지의 정치적 안정성과 인프라 수준, 노동 환경 등에 대한 면밀한 사전 조사가 선행되어야 할 과제로 남아있습니다.\n\n양국 간의 이러한 경제 협력 논의는 단순히 개별 기업의 진출을 넘어 기술 전수와 문화 교류 등 포괄적인 동반자 관계로 발전할 가능성을 보여줍니다. 정부 차원에서도 우리 기업들이 해외 진출 시 직면할 수 있는 법적, 제도적 리스크를 최소화할 수 있도록 지원 체계를 강화해야 한다는 목소리가 나옵니다.",
-            "image_prompt": "Business handshake, South Korea and El Salvador flags, tax-free certificate icon, industrial park aerial view",
-            "published_at": "2026-05-27 12:31:32",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
