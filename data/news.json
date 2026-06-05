@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-05 18:41:34",
-    "briefing": "오늘의 경제는 원·달러 환율이 1,540원을 돌파하며 금융위기 이후 최고치를 기록하는 등 거시경제적 불안정성이 고조되는 모습입니다. 하지만 역대 2위 수준의 경상수지 흑자와 반도체 수출의 견고한 질주가 하방을 지지하고 있으며, 정부는 공급망 안정을 위해 중동 및 발칸반도 국가들과의 경제 협력 영토를 적극적으로 확장하고 있습니다.",
+    "last_updated": "2026-06-05 23:45:08",
+    "briefing": "오늘 국내 경제는 원·달러 환율이 1,540원을 돌파하며 금융위기 이후 최고치를 기록하는 등 외환 시장의 변동성이 극에 달하고 있습니다. 미국발 반도체 투매 현상과 외국인 매도세로 인해 증시 불안감이 커지는 가운데, 정부와 민간에서는 내수 활성화를 위한 온누리상품권 지원 및 공급망 안정을 위한 중동 협력 등 대응책 마련에 분주한 모습입니다.",
     "indices": [
         {
             "name": "KOSPI",
@@ -12,33 +12,88 @@
         {
             "name": "KOSDAQ",
             "value": "1,002.44",
-            "change": "▼ 2.30%",
+            "change": "▼ 4.50%",
             "is_up": false,
             "is_down": true
         },
         {
             "name": "USD/KRW",
-            "value": "1,537.78",
-            "change": "▲ 0.50%",
+            "value": "1,553.76",
+            "change": "▲ 1.55%",
             "is_up": true,
             "is_down": false
         },
         {
             "name": "NASDAQ",
-            "value": "26,830.96",
-            "change": "▼ 0.09%",
+            "value": "26,350.48",
+            "change": "▼ 1.79%",
             "is_up": false,
             "is_down": true
         },
         {
             "name": "S&P 500",
-            "value": "7,584.31",
-            "change": "▲ 0.41%",
-            "is_up": true,
-            "is_down": false
+            "value": "7,509.98",
+            "change": "▼ 0.98%",
+            "is_up": false,
+            "is_down": true
         }
     ],
     "items": [
+        {
+            "title": "원·달러 환율 1540원 돌파…금융위기 이후 최고",
+            "source": "조선일보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjU1I5VGY4bHktYVZwRTdfbmhCcDU5anptdHRNeWJmZlRSalBxcnVMZ0JHQTV0aUlFaE00c3BlZ29NSmVaNzIwYTQ4VTFjNUxucnM0a0VOdHJsWnpvcTB1eWhSYWpGaXRnN0HSAW5BVV95cUxPUHdrVEYzX0RRZFVpdFdQTmhnbktNanhyTHdELTQ3d2JRbXhsYVFsR3lBUzIzWjdkbUtadWllRkNZZ3M3MlIyQTR2XzFPdzZzNy1iamRNOHcydkFDM3JXd0xWLV9QaWtsRmRJUDBxQQ?oc=5",
+            "category": "금융",
+            "summary": "원·달러 환율이 심리적 저항선인 1,540원을 넘어서며 시장에 큰 충격을 주고 있습니다.",
+            "content": "서울 외환시장에서 원·달러 환율이 전일 대비 급등하며 1,540원선을 돌파했습니다. 이는 2008년 글로벌 금융위기 이후 약 16년 만에 가장 높은 수준으로, 시장 참가자들 사이에서는 환율이 1,600원대까지 치솟을 수 있다는 공포감이 확산되고 있습니다.\n\n최근 달러 강세는 미국의 금리 정책 불확실성과 글로벌 경기 둔화 우려가 맞물린 결과로 풀이됩니다. 특히 국내 증시에서 외국인 투자자들이 자금을 회수하며 달러 수요가 폭증한 것이 환율 상승의 직접적인 원인이 되었습니다. 환율 발작 수준의 변동성은 수입 물가 상승으로 이어져 국내 인플레이션 압박을 가중시키고 있습니다.\n\n정부와 한국은행은 외환시장 개입 가능성을 시사하며 구두 개입에 나섰지만, 글로벌 달러 강세 흐름을 저지하기에는 역부족이라는 평가가 지배적입니다. 기업들은 환차손 피해를 최소화하기 위해 비상 경영 체제에 돌입했으며, 외화 부채가 많은 기업들을 중심으로 재무 건전성 악화 우려가 커지고 있습니다.\n\n향후 환율의 향방은 미 연준의 금리 결정과 한국의 수출 지표에 달려 있습니다. 전문가들은 당분간 높은 수준의 환율이 유지될 것으로 보이며, 개인 투자자들 또한 달러 사재기에 나서는 등 시장의 불안정한 심리가 고조되고 있다고 분석했습니다.",
+            "image_prompt": "Currency exchange crisis, falling Korean Won, rising US Dollar, financial graph, emergency red light",
+            "published_at": "2026-06-05 23:45:08",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "심상치 않은 美 반도체 투매…삼전닉스 투자 전략은?",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ec1lqeVRWbDQ1VFFTd2F6QTRSQVJsS0E2UlBNTmZGWTRFOXVDbWNNQ3pJa2FHbnd3NTZ4ZkROamJHcHg2YkFtblYtcDFqTkJsVXpJaGpTWkxoUdIBVEFVX3lxTE5LQXdwOG80UGpoLUtDWU5QTEpiU0FZQlFxd1Rnbl9Md1NqTkt0dTJpRG44Q3lFQXY0c1d6YWZRenA0RFViSXE3Z3hES1hQMGcxZnFzUw?oc=5",
+            "category": "테크",
+            "summary": "미국 반도체 지수의 급락이 국내 반도체 대장주인 삼성전자와 SK하이닉스에 하방 압력을 가하고 있습니다.",
+            "content": "미국 증시에서 필라델피아 반도체 지수가 급격히 하락하면서 국내 반도체 시장에도 비상이 걸렸습니다. 엔비디아를 비롯한 주요 반도체 기업들의 주가가 조정 국면에 접어들자, 그동안 반도체 상승 랠리에 힘입어 반등했던 삼성전자와 SK하이닉스의 주가 역시 동반 하락세를 보이고 있습니다.\n\n시장에서는 이번 하락을 인공지능(AI) 반도체에 대한 고점 논란과 과도한 밸류에이션에 대한 경계감 때문으로 보고 있습니다. 특히 외국인 투자자들이 국내 반도체 주식을 대거 매도하며 지수를 끌어내리고 있어, 투자자들은 저점 매수와 관망 사이에서 깊은 고민에 빠진 상황입니다.\n\n하지만 일각에서는 이번 조정이 오히려 장기적 관점에서 우량주를 저렴하게 매수할 기회라고 주장합니다. 삼성전자의 HBM(고대역폭메모리) 공급 가시화와 SK하이닉스의 기술적 우위는 여전하기 때문에, 일시적인 수급 불안정 이후 다시 회복세를 탈 것이라는 낙관론도 만만치 않습니다.\n\n결국 관건은 글로벌 AI 수요가 지속될 것인지 여부입니다. 반도체 업종의 변동성이 커진 만큼, 투자자들은 미 대선 결과와 금리 향방 등 거시 경제 변수를 면밀히 살피며 분할 매수 관점의 신중한 전략을 취해야 할 시점입니다.",
+            "image_prompt": "Semiconductor circuit board, stock market crash, digital blue background, technology investment",
+            "published_at": "2026-06-05 23:45:08",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "젠슨 황 방한 목적은 피지컬AI 협력…한국이 좋은 이유는?",
+            "source": "MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WczVlQktfQmhNREJHV0J1RDl0TTFiT2d3b2tHRFJYVURzbFc2UXFOczNxbDVDM3BaWVZKaGloQTkzQkg5OHl2XzlEUk9EUHlIYlhFNUZMVENpOHp5NEJNdlItNS10OG9nODBMMzA5ajJXSEZzY3VrQtIBeEFVX3lxTE56WGx1SV9NdUZGVmFudXhkdUR4MVNiOVczSWg2clA2WXNVVTFKSFJ6aHlGZS10eGRiNFlkMWlCaWRUZ2FFd08zZURvSGJ6c2pYVnVoejJiRXlVc0hlYV9iMEZDby1pZTV4X0VFWnMyQXFwcUhxRUUxcQ?oc=5",
+            "category": "테크",
+            "summary": "엔비디아 CEO 젠슨 황의 방한 키워드는 로봇과 현실 세계를 결합한 '피지컬 AI'입니다.",
+            "content": "글로벌 AI 반도체 시장을 주도하는 엔비디아의 젠슨 황 CEO가 한국을 찾은 핵심 목적이 '피지컬 AI(Physical AI)' 협력인 것으로 밝혀졌습니다. 피지컬 AI는 가상 세계에 머무는 AI를 넘어 로봇, 자율주행, 스마트 팩토리 등 실제 물리적 환경에서 작동하는 지능형 시스템을 의미합니다.\n\n엔비디아가 한국을 파트너로 선호하는 이유는 세계 최고 수준의 제조 역량과 반도체 인프라를 동시에 갖추고 있기 때문입니다. 로봇 하드웨어와 자율주행 기술을 실현하기 위해서는 고성능 컴퓨팅 파워와 정밀 제조 기술이 결합되어야 하는데, 한국의 삼성, 현대차 등 대기업들이 이에 적합한 역량을 보유하고 있습니다.\n\n이번 협력 논의를 통해 한국의 로봇 산업과 모빌리티 분야가 엔비디아의 AI 생태계에 깊숙이 편입될 것으로 기대됩니다. 젠슨 황은 한국의 스타트업과 대기업 모두에게 피지컬 AI 시대의 도래를 예고하며, 함께 새로운 비즈니스 기회를 창출하자고 제안한 것으로 알려졌습니다.\n\n국내 산업계는 이번 방한이 단순한 반도체 공급 계약을 넘어 미래 산업의 주도권을 잡는 전환점이 될 것으로 보고 있습니다. 인공지능이 실제 기계와 결합하는 시대가 열리면서 한국의 '제조 강국' 지위가 AI 시대에도 계속될 수 있을지 귀추가 주목됩니다.",
+            "image_prompt": "Humanoid robot, AI brain glow, futuristic manufacturing, NVIDIA green neon",
+            "published_at": "2026-06-05 23:45:08",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "삼성전자 제품 구매액 20% 온누리상품권 지급…지역경제 활성화",
+            "source": "뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuUUFXVnZyU3ZNZERpTUQwS0VfTUJvSE5xTEgyUEliZEpCc0FhZEk4R2xnZktTc294TnczMkx3YjYtOXhkZEFRNVRpdFFmSWNWMGRYMHlBcXZUYUZ3bExNStIBeEFVX3lxTE1LSFZyeGdhbTRXN3oyWUFyNXB4VEhRZno5bjBVUVBIdnNwSGU3LVIxSmpXY3lKX2M4T1o3NEZZWW9mb2h4SUVpOG1EeWM1dDdPVHR1ZnY1YkRNQ3Q5T21BMS10NUZNYzM0dEs4Q1o5TWpyU1pHS2VBZQ?oc=5",
+            "category": "정책",
+            "summary": "대기업 가전 구매 혜택을 전통시장 온누리상품권으로 환급하는 내수 진작책이 시행됩니다.",
+            "content": "삼성전자 가전제품을 구매하면 결제 금액의 20%를 온누리상품권으로 되돌려주는 파격적인 소비 진작책이 도입됩니다. 이번 조치는 위축된 민생 경제를 살리고, 대기업의 매출 상승이 전통시장과 골목상권의 소비로 이어지는 선순환 구조를 만들기 위해 기획되었습니다.\n\n정부와 삼성전자가 협력하여 진행하는 이번 프로그램은 에어컨, 세탁기 등 대형 가전을 중심으로 적용됩니다. 소비자 입장에서는 실질적인 할인 혜택을 누릴 수 있고, 환급받은 온누리상품권을 인근 전통시장에서 사용하게 됨으로써 지역 소상공인들에게도 직접적인 도움이 될 것으로 보입니다.\n\n특히 고물가 시대에 가계 부담을 덜어주면서도 국내 소비를 진작시키는 일석이조의 효과가 기대됩니다. 지역 경제 전문가들은 이러한 민관 협업 모델이 일회성에 그치지 않고 다양한 산업군으로 확대되어야 한다고 조언합니다.\n\n이 밖에도 정부는 지역 밀착형 경제 활성화 정책을 강화할 방침입니다. 이번 삼성전자의 온누리상품권 연계 캠페인이 실제 전통시장 매출 증대로 연결될 수 있도록 지자체와 상인회 또한 연계 할인 행사 등 다양한 마케팅을 준비하고 있습니다.",
+            "image_prompt": "Shopping bags, Korean gift certificates, electronic store, happy consumer, vibrant colors",
+            "published_at": "2026-06-05 23:45:08",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "푸틴 경제 책사 \"러시아 성장 동력 소진…새 경제모델 필요\"",
+            "source": "뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAySlNEUlpvZ3VtU3dtZm96aWpVVUZPc3g4eVBaRkpRVnpsUXFGRWRhdHdzX1psbVpTNTlJLXc2bG1EUVFra2lLQlhYLWt3bUxvNjhj?oc=5",
+            "category": "시장",
+            "summary": "러시아 내부에서 현재의 전시 경제 체제가 한계에 다다랐다는 자성의 목소리가 나오고 있습니다.",
+            "content": "푸틴 러시아 대통령의 핵심 경제 참모들 사이에서 현재 러시아의 경제 성장 모델이 한계에 직면했다는 진단이 제기되었습니다. 우크라이나 전쟁 이후 서방의 강력한 제재 속에서도 예상외의 회복력을 보였던 러시아 경제가 이제는 근본적인 성장 동력 고갈 문제에 봉착했다는 분석입니다.\n\n전쟁 장기화로 인한 인력 부족과 군비 증강에 치중된 왜곡된 산업 구조가 장기적인 경제적 안정을 위협하고 있습니다. 푸틴의 책사는 현재의 성장세가 정부 지출에 의한 일시적 착시 현상일 수 있음을 경고하며, 기술 혁신과 수출 다변화를 포함한 새로운 경제 모델의 필요성을 강조했습니다.\n\n동시에 푸틴 대통령은 프랑스 등 서방 국가들의 높은 국가 채무를 조롱하며 자국의 재정 건전성을 과시하고 있지만, 내부적으로는 급격한 물가 상승과 생산성 저하라는 난제에 부딪혀 있습니다. 특히 해외 자본 유입이 끊긴 상황에서 독자적인 경제 생존 전략을 마련해야 하는 압박이 커지고 있습니다.\n\n글로벌 전문가들은 러시아가 새로운 경제 모델을 찾지 못할 경우, 장기적인 침체 국면에 빠질 수 있다고 전망합니다. 이는 국제 원자재 가격 및 글로벌 공급망에도 영향을 미칠 수 있는 만큼, 세계 경제가 러시아의 경제적 노선 변화를 예의주시하고 있습니다.",
+            "image_prompt": "Russia Kremlin, dark economic clouds, chess pieces, global map, oil and gas pipes",
+            "published_at": "2026-06-05 23:45:08",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "원·달러 환율 1540원 돌파…금융위기 이후 최고치 기록",
             "source": "조선일보",
@@ -48,7 +103,7 @@
             "content": "최근 외환 시장에서 원·달러 환율이 가파른 상승세를 보이며 1,540원을 돌파했습니다. 이는 2008년 글로벌 금융위기 이후 약 16년 만에 가장 높은 수준으로, 시장 전문가들 사이에서는 고환율이 일시적인 현상이 아닌 '뉴노멀'로 고착화될 수 있다는 우려가 확산되고 있습니다. 내란이나 국가적 위기 상황에 준하는 수준의 환율 상승에 시장 참여자들의 심리는 극도로 위축된 상태입니다.\n\n이번 환율 급등의 배경에는 미-이란 갈등으로 인한 지정학적 리스크 심화와 미국의 고금리 유지 전망이 복합적으로 작용하고 있습니다. 피치 등 글로벌 신용평가사들이 세계 경제 성장 전망치를 하향 조정하면서 안전 자산인 달러화에 대한 수요가 폭증한 것이 결정적인 원인으로 분석됩니다. 이로 인해 국내 수입 물가 상승과 외화 부채 부담 가중 등 경제 전반에 걸친 타격이 불가피해 보입니다.\n\n전문가들은 단순한 시장 개입만으로는 이번 고환율 파고를 넘기 어렵다고 진단합니다. 파이낸셜뉴스 등 주요 매체들은 기고문을 통해 경제 체력을 근본적으로 키우는 방어책이 절실하다고 강조하고 있습니다. 기업들의 수출 경쟁력을 강화하고 에너지 의존도를 낮추는 등 구조적인 체질 개선만이 환율 변동성에 대응할 수 있는 유일한 해결책이라는 분석입니다.\n\n향후 환율의 향방은 미 연준의 금리 정책과 중동의 지정학적 상황에 따라 결정될 전망입니다. 정부는 시장 모니터링을 강화하고 구두 개입을 포함한 가능한 모든 시장 안정 조치를 검토하고 있으나, 1,500원대 환율이 장기화될 경우를 대비한 기업들의 비상 경영 계획 수립도 시급한 시점입니다.",
             "image_prompt": "Currency exchange, Dollar and Won bills, sharp rising graph, financial crisis atmosphere, 3D render, dark blue professional background",
             "published_at": "2026-06-05 18:41:34",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "4월 경상수지 282.9억 달러 흑자...역대 2번째 기록 달성",
@@ -59,7 +114,7 @@
             "content": "대한민국 경제의 펀더멘털을 보여주는 경상수지가 지난 4월 282.9억 달러의 흑자를 기록하며 역대 두 번째로 높은 수치를 달성했습니다. 이는 36개월 연속 흑자 행진으로, 대외 불확실성 속에서도 한국의 수출 경쟁력이 견고함을 입증한 결과입니다. 특히 반도체와 자동차를 중심으로 한 수출 질주가 이번 실적을 견인한 핵심 동력으로 꼽힙니다.\n\n세부 항목별로 살펴보면 상품수지의 흑자 규모가 압도적이었습니다. 삼성전자와 SK하이닉스를 필두로 한 반도체 수출이 '역대급' 기록을 경신하며 전체 실적을 이끌었습니다. 고유가 상황 속에서도 에너지 수입액을 상회하는 수출 실적을 거두었다는 점에서 큰 의미가 있습니다. 이는 우리 경제의 기초 체력이 환율 변동성에도 불구하고 견강하게 유지되고 있음을 시사합니다.\n\n하지만 이러한 기록적인 흑자에도 불구하고 원·달러 환율이 1,540원대에 머물고 있는 '디커플링' 현상은 숙제로 남았습니다. 일반적으로 경상수지 흑자는 통화 가치 상승으로 이어져야 하지만, 현재는 글로벌 달러 강세 압력이 워낙 강력해 흑자 효과가 환율에 즉각 반영되지 못하고 있는 실정입니다. 매일경제TV 등은 이러한 현상을 '수출은 웃지만 환율은 우는' 역설적인 상황으로 표현하고 있습니다.\n\n정부와 한국은행은 이번 흑자 기록이 하반기 경제 운용에 큰 힘이 될 것으로 기대하고 있습니다. 안정적인 경상수지 관리를 통해 대외 신인도를 유지하고, 확보된 외화 유동성을 바탕으로 외환 시장의 불안정성을 완화하는 데 주력할 방침입니다. 수출 품목 다변화와 공급망 안정이 지속된다면 연간 흑자 목표치 달성도 무난할 것으로 보입니다.",
             "image_prompt": "Cargo ship with containers, semiconductor wafer, golden coin stack, global trade flow, bright and successful tone",
             "published_at": "2026-06-05 18:41:34",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "코스피 급락에 올해 10번째 '매도 사이드카' 발동",
@@ -70,7 +125,7 @@
             "content": "국내 주식 시장이 거센 풍랑에 직면했습니다. 코스피 지수가 개장 직후부터 가파르게 하락하며 프로그램 매도 호가의 효력을 일시 정지하는 '매도 사이드카'가 발동되었습니다. 이는 올해 들어 벌써 10번째로, 시장의 변동성이 극도로 높아졌음을 의미합니다. 투자자들 사이에서는 이른바 'S.T.O.R.M(스태그플레이션, 테러, 유가, 경기후퇴, 통화 긴축)' 공포가 엄습하며 투매 양상까지 나타나고 있습니다.\n\n이번 폭락의 직접적인 도화선은 환율 폭등과 대외 지정학적 위기였습니다. 원·달러 환율이 1,540원을 넘어서자 외국인 투자자들이 환차손을 우려해 대규모 물량을 쏟아냈습니다. 또한 '검은 금요일'로 불릴 만큼 뉴욕 증시의 기술주 폭락세가 국내 반도체 대형주에 그대로 전이되면서 시장 전체를 끌어내렸습니다. 투자자들은 젠슨 황(엔비디아 CEO)을 믿고 베팅했던 고수들조차 포트폴리오 조정에 나서는 등 혼란스러운 모습입니다.\n\n서울경제 등 주요 언론은 '기존 경제 상식만으로는 해법을 찾기 힘든 상황'이라며 현재의 위기를 진단했습니다. 전통적인 거시경제 지표와 시장의 움직임이 엇박자를 내면서 개인 투자자들의 손실이 커지고 있습니다. 특히 증권가에서는 이번 사이드카 발동이 향후 시장의 추가 하락을 예고하는 신호인지, 아니면 과도한 공포에 따른 일시적 현상인지에 대해 치열한 논쟁이 벌어지고 있습니다.\n\n금융당국은 긴급 시장 점검 회의를 소집하고 시장 안정화 대책 마련에 착수했습니다. 과도한 불안 심리 확산을 차단하기 위해 공매도 규제 점검 및 증시 안정 펀드 투입 고려 등 모든 가능성을 열어두고 있습니다. 하지만 글로벌 거시 환경이 개선되지 않는 한 국내 증시의 독자적인 반등은 당분간 어려울 것이라는 신중론이 지배적입니다.",
             "image_prompt": "Stock market trading floor, red falling arrow, digital stock board, panic atmosphere, dramatic lighting, high contrast",
             "published_at": "2026-06-05 18:41:34",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한-세르비아 포괄적경제동반자협정(EPA) 타결…발칸 첫 교두보",
@@ -81,7 +136,7 @@
             "content": "한국 정부가 유럽의 신흥 시장으로 주목받는 발칸반도의 세르비아와 '포괄적경제동반자협정(EPA)'을 타결했습니다. 이는 발칸 지역 국가와 맺은 최초의 자유무역협정(FTA) 성격의 계약으로, 한국 기업들이 동유럽 및 발칸 지역으로 진출할 수 있는 중요한 교두보를 마련했다는 평가를 받습니다. 이번 협정은 상품뿐만 아니라 서비스, 투자, 디지털 등 폭넓은 분야를 아우르고 있습니다.\n\n세르비아는 풍부한 광물 자원과 우수한 노동력을 보유하고 있으며, 지리적으로도 서유럽과 중동을 잇는 요충지에 위치해 있습니다. 이번 EPA 타결을 통해 한국의 자동차 부품, 가전, 기계류의 수출 관세가 대폭 낮아지거나 철폐될 예정입니다. 또한 에너지와 바이오, IT 산업에서의 공동 프로젝트 추진도 탄력을 받을 것으로 보입니다. 이는 특히 공급망 다변화가 절실한 시점에서 유럽 내 생산 기지를 다각화하려는 우리 기업들에게 큰 기회가 될 것입니다.\n\n브릿지경제 등 언론 매체들은 이번 협정이 단순히 교역량을 늘리는 것을 넘어, 공급망 안정성 확보라는 전략적 측면이 크다고 분석합니다. 세르비아는 최근 핵심 광물 자원 개발에 적극적으로 나서고 있어, 향후 이차전지 소재 등 미래 산업 분야에서의 협력 가치가 매우 높습니다. 이번 타결은 '경제 영토 확장'의 의미와 함께 경제 안보 강화라는 두 마리 토끼를 잡는 성과로 기록될 전망입니다.\n\n산업통상자원부는 이번 EPA의 정식 서명과 국회 비준 절차를 신속히 진행하여 우리 기업들이 조기에 혜택을 볼 수 있도록 할 방침입니다. 또한 세르비아를 시작으로 주변 발칸 국가들과의 추가적인 경제 협력 논의도 가속화할 예정이어서, 향후 동유럽 시장에서의 'K-경제' 영향력이 더욱 커질 것으로 기대됩니다.",
             "image_prompt": "South Korea and Serbia flags, handshake, world map zoom on Balkan region, diplomatic meeting, clean corporate style",
             "published_at": "2026-06-05 18:41:34",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "외교부, '한-중동 포괄적 경제협력 TF' 설치…공급망 안정 총력",
@@ -92,18 +147,7 @@
             "content": "외교부가 중동 지역과의 경제 협력을 체계적으로 관리하고 에너지 및 핵심 자원 공급망의 안정성을 확보하기 위해 '한-중동 포괄적 경제협력 태스크포스(TF)'를 전격 설치했습니다. 최근 이스라엘-하마스 충돌 및 이란-미국 간 긴장 고조로 중동 정세가 불안정해지자, 이에 따른 국내 경제의 충격을 최소화하고 자원 안보를 강화하겠다는 의지가 반영된 조치입니다.\n\n이 TF는 중동 주요 국가들과의 경제 협력 프로젝트를 총괄 조율하며, 특히 원유와 가스 등 에너지 자원의 원활한 수입 경로를 확보하는 데 주력할 예정입니다. 또한 네옴시티 등 사우디아라비아를 비롯한 중동 국가들이 추진하는 대규모 인프라 건설 사업에 우리 기업이 원활하게 참여할 수 있도록 외교적 지원을 아끼지 않을 방침입니다. '공급망 안정성 확보'는 이번 TF의 가장 시급한 목표이자 핵심 과업입니다.\n\n뉴스1과 SPN 서울평양뉴스 등은 이번 조치가 단순히 위기 대응을 넘어 중동과의 관계를 '포괄적 파트너십'으로 격상시키려는 포석이라고 분석했습니다. 기존의 에너지 구매자 관계에서 벗어나 건설, 디지털 전환, 친환경 에너지 등 미래 산업 전반에서 협력의 깊이를 더하겠다는 것입니다. 특히 전 세계적인 공급망 재편 과정에서 중동의 전략적 가치가 높아짐에 따라 선제적인 외교 대응이 필수적이라는 판단입니다.\n\n정부는 이 TF를 통해 민관 합동 경제 사절단 파견과 고위급 회담을 정례화하고, 중동 내 발생할 수 있는 돌발 변수에 대한 24시간 모니터링 체계를 구축하기로 했습니다. 고환율과 고유가라는 이중고 속에서 이번 TF가 우리 경제의 숨통을 틔워주는 실질적인 가교 역할을 할 수 있을지 귀추가 주목됩니다.",
             "image_prompt": "Oil refinery with sunset background, Middle Eastern city skyline, logistic link icons, global supply chain, professional map",
             "published_at": "2026-06-05 18:41:34",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "원·달러 환율 1540원 돌파…금융위기 이후 최고",
-            "source": "조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjU1I5VGY4bHktYVZwRTdfbmhCcDU5anptdHRNeWJmZlRSalBxcnVMZ0JHQTV0aUlFaE00c3BlZ29NSmVaNzIwYTQ4VTFjNUxucnM0a0VOdHJsWnpvcTB1eWhSYWpGaXRnN0HSAW5BVV95cUxPUHdrVEYzX0RRZFVpdFdQTmhnbktNanhyTHdELTQ3d2JRbXhsYVFsR3lBUzIzWjdkbUtadWllRkNZZ3M3MlIyQTR2XzFPdzZzNy1iamRNOHcydkFDM3JXd0xWLV9QaWtsRmRJUDBxQQ?oc=5",
-            "category": "금융",
-            "summary": "원-달러 환율이 장중 1,540원을 넘어서며 15년 만에 가장 높은 수준을 기록했습니다.",
-            "content": "서울 외환시장에서 원-달러 환율이 심리적 저항선이었던 1,500원을 넘어 1,540원선에 진입했습니다. 이는 2008년 글로벌 금융위기 당시였던 2009년 3월 이후 약 15년 만에 처음 있는 일로, 시장에서는 '환율 발 경제 위기'에 대한 공포감이 확산되고 있습니다.\n\n최근 달러 강세 현상이 지속되는 가운데 국내 경제의 불확실성이 커지면서 원화 가치가 급격히 하락한 것으로 풀이됩니다. 특히 글로벌 금리 인상 기조와 지정학적 리스크가 맞물리면서 안전 자산인 달러에 대한 수요가 폭증한 것이 이번 환율 급등의 주요 원인으로 지목됩니다.\n\n환율이 1,500원 중반대에 안착할 경우 수입 물가 상승으로 인한 국내 인플레이션 압력이 더욱 거세질 전망입니다. 전문가들은 외환 당국의 구두 개입에도 불구하고 시장의 불안이 쉽게 가라앉지 않고 있어, 향후 추가적인 시장 안정화 대책이 절실하다고 입을 모으고 있습니다.",
-            "image_prompt": "Exchange rate, rising arrow, Korean Won, US Dollar, financial crisis, dramatic chart",
-            "published_at": "2026-06-05 12:30:18",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "코스피 5000 넘어 9000 눈앞…1년 만에 3배 뛰었지만 웃지 못하는 이유",
@@ -114,7 +158,7 @@
             "content": "코스피 지수가 역사상 유례없는 속도로 상승하며 5000포인트를 돌파, 9000선을 바라보고 있습니다. 불과 1년 전과 비교했을 때 지수가 3배 가까이 뛰어오른 수치로, 표면적으로는 기록적인 불마켓(강세장)을 연출하고 있습니다.\n\n하지만 이러한 기록적인 지수 상승에도 불구하고 국민들의 체감 경기는 여전히 냉랭합니다. 지수 상승이 특정 우량주나 테크 기업에 집중된 현상을 보이면서 소득 양극화가 심화되고 있으며, 가파른 물가 상승과 금리 부담이 서민들의 발목을 잡고 있기 때문입니다.\n\n정부 측은 자본 시장의 활성화를 성과로 내세우고 있지만, 전문가들은 실물 경제 뒷받침 없는 지수 폭등은 '거품'의 위험성을 내포하고 있다고 경고합니다. 주식 시장의 숫자가 아닌 실제 민생 경제의 회복으로 이어지기 위한 근본적인 경제 체질 개선이 필요한 시점입니다.",
             "image_prompt": "Stock market, soaring graph, KOSPI index, skyscraper reflection, golden bull",
             "published_at": "2026-06-05 12:30:18",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "구윤철 경제 부총리 \"금융외환시장 변동성 확대·민생물가에 각별한 경각심 갖고 대응\"",
@@ -125,7 +169,7 @@
             "content": "구윤철 신임 경제부총리는 취임 후 첫 행보로 금융 및 외환시장의 변동성 관리를 최우선 과제로 꼽았습니다. 최근 원-달러 환율 폭등과 원자재 가격 상승으로 인한 민생 물가 불안이 심각한 수준에 이르렀다는 판단에 따른 것입니다.\n\n구 부총리는 범정부 차원의 모니터링 시스템을 강화하고, 시장이 비정상적으로 쏠리는 현상이 발생할 경우 신속하고 과감한 시장 안정 조치를 취하겠다고 강조했습니다. 특히 서민 생활과 직결된 주요 품목의 물가를 안정시키기 위해 가용할 수 있는 모든 정책 수단을 동원할 계획입니다.\n\n동시에 한국 경제의 장기적인 도약을 위한 '구조 혁신'에도 속도를 낼 전망입니다. 단기적인 시장 대응에 그치지 않고 규제 혁파와 신산업 육성을 통해 경제의 펀더멘털을 강화하겠다는 구상을 밝혔으며, 이는 대내외 불확실성을 극복하기 위한 정부의 핵심 전략이 될 것으로 보입니다.",
             "image_prompt": "Economy minister, press conference, professional setting, stability and growth, South Korea flag",
             "published_at": "2026-06-05 12:30:18",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국, 2027∼2029년 유엔 경제사회이사회 이사국 맡는다",
@@ -136,7 +180,7 @@
             "content": "대한민국이 유엔의 3대 핵심 기구 중 하나인 경제사회이사회(ECOSOC)의 이사국으로 다시 한번 선출되었습니다. 이번 선출을 통해 한국은 2027년부터 2029년까지 임기를 수행하게 되며, 이는 우리나라의 11번째 이사국 수임 기록입니다.\n\n경제사회이사회는 전 세계의 경제, 사회, 환경 정책을 논의하고 국제적인 협력을 조율하는 중요한 역할을 담당합니다. 한국의 이사국 선출은 그동안 국제 사회에서 보여준 경제적 영향력과 기여도를 인정받은 결과로 평가받으며, 향후 글로벌 이슈 결정 과정에서 목소리를 높일 수 있게 되었습니다.\n\n정부는 이번 이사국 진출을 계기로 지속 가능한 발전 목표(SDGs) 달성과 글로벌 격차 해소를 위한 선도적인 역할을 수행할 계획입니다. 특히 개발도상국 지원과 경제 협력 분야에서 한국의 발전 경험을 공유하며 국제 사회에서의 위상을 더욱 공고히 할 것으로 기대됩니다.",
             "image_prompt": "UN headquarters, international flags, global cooperation, diplomatic meeting, world map",
             "published_at": "2026-06-05 12:30:18",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[외신 헤드라인] \"세계 경제 '스파이크플레이션' 진입\"",
@@ -147,7 +191,7 @@
             "content": "글로벌 경제 전문가들 사이에서 '스파이크플레이션(Spikeflation)'에 대한 경고음이 커지고 있습니다. 스파이크플레이션은 공급망 붕괴나 원자재 가격의 급격한 상승 등 외부 충격으로 인해 물가가 일시적으로 날카롭게 치솟는 현상을 의미합니다.\n\n최근 전쟁 장기화와 자원 민족주의의 확산으로 주요 에너지와 식량 가격이 불규칙하게 급등하면서 전 세계가 이 현상의 영향권에 들어섰다는 분석입니다. 이는 기존의 완만한 인플레이션과는 달리 대응이 어렵고, 생산 비용을 급격히 높여 기업 활동을 위축시키는 특징이 있습니다.\n\n외신들은 세계 주요 중앙은행들이 금리 인상 카드를 만지작거리고 있지만, 공급 측면에서 발생하는 스파이크플레이션을 제어하기에는 한계가 있다고 지적합니다. 각국 정부는 단순한 금리 조절을 넘어 공급망 다변화와 자원 확보를 위한 새로운 경제 안보 전략을 수립해야 하는 과제에 직면해 있습니다.",
             "image_prompt": "Inflation, price spike, oil drums, wheat, global economy crisis, dark background",
             "published_at": "2026-06-05 12:30:18",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD, 한국 올해 성장률 전망 2.6%로 파격 상향… 반도체 수출 견인",
@@ -158,7 +202,7 @@
             "content": "경제협력개발기구(OECD)가 올해 한국의 경제성장률 전망치를 종전 2.2%에서 2.6%로 0.4%포인트 대폭 상향 조정했습니다. 이는 지난 2월 전망치(2.2%)보다도 높고, 정부나 한국은행의 전망치를 웃도는 수준입니다. 이러한 낙관적인 전망의 배경에는 최근 AI 열풍과 함께 폭발적으로 성장하고 있는 반도체 수출의 영향이 가장 큰 것으로 분석됩니다.\n\nOECD는 한국 경제가 글로벌 IT 수요 회복에 힘입어 견조한 수출 성장세를 보이고 있다고 평가했습니다. 특히 반도체를 필두로 한 수출 호조가 설비 투자 증가로 이어지며 내수 부진을 상당 부분 상쇄할 것으로 내다봤습니다. 이는 중동 전쟁 등 지정학적 리스크 속에서도 한국 경제가 상대적으로 높은 기초 체력을 유지하고 있음을 보여주는 지표입니다.\n\n다만, 고물가와 고금리 상황이 지속됨에 따라 민간 소비 회복 속도는 여전히 완만할 것으로 예상되었습니다. OECD는 인플레이션이 목표치로 수렴할 때까지 현재의 긴축적인 통화 정책 기조를 유지할 것을 권고하면서도, 향후 경기 회복 흐름에 맞춰 정책적 유연성을 발휘해야 한다고 조언했습니다.\n\n결론적으로 이번 전망치 상향은 한국이 주요 선진국 중에서도 눈에 띄는 성장 가속도를 붙이고 있음을 의미합니다. 반도체라는 확실한 성장 엔진을 확보한 가운데, 이제는 수출의 온기가 내수 시장 전반으로 퍼져 나갈 수 있도록 하는 정책적 뒷받침이 관건이 될 전망입니다.",
             "image_prompt": "South Korea economy growth, OECD report, rising arrow graph, semiconductor city, professional blue",
             "published_at": "2026-06-04 23:53:06",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "원·달러 환율 1,530원 돌파… 금융위기 이후 최악의 약세 기록",
@@ -169,7 +213,7 @@
             "content": "서울 외환시장에서 원·달러 환율이 개장과 동시에 1,530원을 돌파하며 금융권에 긴장감을 불어넣고 있습니다. 이는 2008년 글로벌 금융위기 당시 기록했던 수준에 육박하는 수치로, 최근 미국 달러화의 강세와 더불어 원화 가치가 주변국 통화인 엔화, 위안화와 동반 하락하고 있는 양상을 반영합니다.\n\n환율 폭등의 주된 원인은 미국의 견조한 경제 지표로 인해 금리 인하 시점이 늦춰질 것이라는 '피벗 지연' 우려 때문입니다. 여기에 중동 지역의 불안정한 정세가 안전 자산인 달러 수요를 더욱 자극하고 있습니다. 특히 야간 거래에서는 1,540원을 넘어서는 등 변동성이 극도로 커지며 외환 당국의 구두 개입 가능성도 제기되고 있습니다.\n\n고환율 현상은 수입 물가를 자극해 국내 소비자 물가 상승의 기폭제가 될 수 있다는 점에서 우려가 큽니다. 에너지와 원자재를 수입에 의존하는 한국 기업들에게는 생산 비용 상승이라는 직격탄이 될 수 있으며, 이는 다시 제품 가격 인상으로 이어져 서민 경제에 부담을 주는 악순환을 초래할 수 있습니다.\n\n전문가들은 당분간 달러 강세 기조가 꺾이기 어려울 것으로 보이며, 환율의 변동폭이 커진 만큼 수출입 기업들의 리스크 관리가 어느 때보다 중요하다고 강조하고 있습니다. 시장에서는 1,550원선이 심리적 저항선이 될 것으로 보며 당국의 추가적인 시장 안정 조치를 주시하고 있습니다.",
             "image_prompt": "Exchange rate display, falling Korean Won, rising US Dollar, financial crisis mood, red numeric volatility",
             "published_at": "2026-06-04 23:53:06",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "반도체가 쏘아 올린 성장, 그러나 커지는 시장 쏠림 현상에 대한 우려",
@@ -180,7 +224,7 @@
             "content": "최근 한국 경제의 성장 동력은 단연 반도체입니다. AI 서버 시장의 확대로 HBM(고대역폭메모리) 등 고부가가치 제품 수요가 급증하면서 삼성전자와 SK하이닉스 등 주요 기업들의 실적이 개선되고, 이것이 국가 전체의 수출 지표를 끌어올리고 있습니다. 하지만 이러한 '반도체 단독 질주'가 시장의 불균형을 초래하고 있다는 지적이 나옵니다.\n\n유가증권시장을 보면 반도체 관련 대형주 위주로 자금이 쏠리면서 중소형주나 다른 산업군 종목들은 소외되는 현상이 뚜렷합니다. 이는 지수는 상승하지만 일반 투자자들이 체감하는 경기나 수익률은 낮을 수밖에 없는 괴리를 만듭니다. 산업 구조 측면에서도 반도체 편중이 심해지면 글로벌 반도체 사이클 변화에 국가 경제 전체가 휘청일 수 있는 리스크를 안게 됩니다.\n\n또한, 반도체 산업은 기술 집약적 산업으로 고용 창출 효과가 과거 제조업만큼 크지 않다는 점도 문제입니다. 성장의 결실이 가계 소득 증대로 이어지는 낙수효과가 약해지면서 대기업과 중소기업, 수출 기업과 내수 기업 간의 양극화가 더욱 심화될 수 있다는 우려가 제기됩니다.\n\n따라서 전문가들은 반도체가 벌어다 주는 기회를 활용해 AI 생태계를 제조업 전반으로 확산시키고, 서비스업이나 바이오 등 차세대 성장 동력을 다변화하는 노력이 병행되어야 한다고 조언합니다. 특정 분야의 성장에만 의존하는 '외발자전거' 경제 구조에서 탈피해 보다 균형 잡힌 성장이 필요하다는 제언입니다.",
             "image_prompt": "Semiconductor wafer, neon glow, binary code background, tech dominance, industrial imbalance",
             "published_at": "2026-06-04 23:53:06",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "핌코의 경고 \"미국 가계 구매력 침식 중… 경제 내실 곪고 있다\"",
@@ -191,7 +235,7 @@
             "content": "글로벌 자산운용사 핌코(PIMCO)가 현재 미국 경제의 외형적인 지표 이면에 숨겨진 위험을 경고하고 나섰습니다. 핌코는 보고서를 통해 미국 가계의 저축이 고갈되고 고물가가 지속되면서 실질적인 구매력이 빠르게 잠식되고 있다고 분석했습니다. 이는 향후 미국 소비 시장의 급격한 위축을 불러올 수 있는 잠재적 뇌관으로 지목됩니다.\n\n현재 미국 경제는 고금리에도 불구하고 낮은 실업률과 견조한 GDP 성장률을 보이고 있으나, 핌코는 이것이 저소득층과 중산층의 가계 건전성 악화를 가리고 있다고 주장합니다. 신용카드 연체율 상승과 자동차 할부금 연체 증가 등이 그 증거로 제시되었습니다. 소비자들의 지갑이 닫히기 시작하면 미국 경제의 70%를 차지하는 소비 부문이 무너질 수 있다는 경고입니다.\n\n특히 '가계 구매력 침식'은 단순한 소비 위축을 넘어 글로벌 경제 전반에 충격을 줄 수 있습니다. 세계 최대 소비 시장인 미국의 수요가 줄어들면 한국과 같은 수출 주도형 국가들의 수출 실적에 악영향을 미칠 수밖에 없기 때문입니다. 이는 현재의 수출 호조가 지속 가능하지 않을 수 있다는 신호로 해석될 수 있습니다.\n\n결국 연준(Fed)의 금리 결정이 늦어질수록 가계의 이자 부담은 커지고 구매력은 더 떨어지는 진퇴양난의 상황이 벌어질 수 있습니다. 핌코는 시장이 현재의 성장 지표에 안주하기보다는 가계의 실질적인 경제적 고통 지수를 면밀히 살펴야 한다고 강조했습니다.",
             "image_prompt": "Empty wallet on a table, US inflation, consumer stress, dollar bills fading, global economy warning",
             "published_at": "2026-06-04 23:53:06",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "기후부 출범과 탈탄소 경제 전환… 미래 산업 구조 재편 가속화",
@@ -202,7 +246,7 @@
             "content": "대한민국이 '탈탄소 경제'로의 전환을 위한 제도적 기반을 공고히 하고 있습니다. 최근 기후 대응을 전담하는 부처의 역할이 강화되면서, 환경 보호라는 소극적 차원을 넘어 경제 전반의 패러다임을 탄소 중립 중심으로 재편하려는 움직임이 가시화되고 있습니다. 이는 글로벌 무역 장벽으로 부상한 탄소국경조정제도(CBAM) 등에 선제적으로 대응하기 위한 전략입니다.\n\n정부는 에너지 믹스의 재조정뿐만 아니라, 철강, 석유화학 등 탄소 배출이 많은 전통 제조 산업의 공정 전환을 지원하는 데 대규모 예산을 투입하고 있습니다. 이를 통해 탄소를 줄이면서도 경쟁력을 유지하는 '녹색 경쟁력' 확보를 목표로 하고 있습니다. 관련 기업들에게는 친환경 설비 투자 시 세제 혜택과 금융 지원을 대폭 확대하는 추세입니다.\n\n탈탄소 전환은 단순히 규제가 아니라 새로운 시장을 창출하는 기회이기도 합니다. 신재생 에너지 인프라 구축, 수소 경제 활성화, 전기차 생태계 확장 등은 미래 일자리를 창출하는 핵심 분야로 주목받고 있습니다. 정부는 이러한 흐름이 지역 경제 활성화와 연계될 수 있도록 지자체와의 협력 체계도 강화하고 있습니다.\n\n앞으로 탄소 배출권 거래제의 고도화와 민간 자본의 녹색 투자 유도를 통해 한국 경제의 저탄소 고효율화를 가속화할 방침입니다. 이는 전 지구적인 기후 위기 대응에 동참함과 동시에, 대한민국이 미래 경제 주도권을 놓치지 않기 위한 생존 전략으로 풀이됩니다.",
             "image_prompt": "Green energy technology, wind turbines and solar panels, futuristic eco city, carbon neutral industry",
             "published_at": "2026-06-04 23:53:06",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD, 한국 경제성장률 2.6%로 상향…'K-반도체' 저력 확인",
@@ -213,7 +257,7 @@
             "content": "경제협력개발기구(OECD)가 한국의 올해 경제성장률 전망치를 기존 1.7%에서 2.6%로 0.9%포인트 파격 상향 조정했습니다. 이는 주요 20개국(G20) 국가 중 가장 높은 상향 폭으로, 한국 경제의 강력한 회복세를 국제 기구가 공식 인정한 것으로 풀이됩니다.\n\n이러한 낙관적인 전망의 배경에는 'K-반도체'의 부활이 자리 잡고 있습니다. 인공지능(AI) 열풍에 따른 고대역폭메모리(HBM) 등 고성능 반도체 수요가 폭발하면서 수출 실적이 개선되었고, 이것이 전체 경제 지표를 견인하는 핵심 동력이 되었습니다.\n\n다만 OECD는 이러한 성장세가 내수 소비로까지 온전히 전이되지 못하고 있다는 점을 지적했습니다. 반도체 수출 중심의 성장이 '온기'를 민생 전반으로 퍼뜨리기 위해서는 금리와 물가 안정 등 정책적 뒷받침이 필수적인 상황입니다.\n\n정부는 이번 발표를 고무적으로 받아들이면서도, 대외 불확실성이 상존하는 만큼 수출 경쟁력을 유지하고 내수 활력을 제고하기 위한 추가 대책 마련에 집중할 방침입니다.",
             "image_prompt": "South Korea GDP growth, blue arrow soaring up, semiconductor chip, global economy map, professional digital art",
             "published_at": "2026-06-04 18:52:16",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "코스피 1.8% 급락하며 8,600선 후퇴…시장 공포 확산",
@@ -224,7 +268,7 @@
             "content": "국내 증시의 이정표인 코스피 지수가 하루 만에 1.8% 하락하며 투자자들에게 충격을 주었습니다. 지수는 8,600선 아래로 밀려났으며, 이는 최근의 상승분을 상당 부분 반납한 수치입니다.\n\n하락의 주요 원인으로는 미국의 금리 인하 지연 우려와 가계 구매력 침식에 따른 경기 침체 가능성이 꼽힙니다. 특히 글로벌 자산운용사 핌코(PIMCO)가 미국 경제의 내부적 한계를 지적하면서 위험 자산에 대한 투자 심리가 급격히 위축된 것이 국내 증시에도 직격탄이 되었습니다.\n\n외국인 투자자들은 반도체와 자동차 등 주요 대형주를 중심으로 매도 물량을 쏟아냈습니다. 성장에 대한 기대감은 높지만, 고금리 상황이 길어지면서 밸류에이션 부담을 느낀 투자자들이 차익 실현에 나선 것으로 분석됩니다.\n\n전문가들은 당분간 변동성 장세가 이어질 것으로 보고 있으며, 원화 가치 하락과 맞물려 외국인 자금 유출 추이를 예의주시해야 한다고 조언하고 있습니다.",
             "image_prompt": "Stock market crash, red falling graph, financial district, trading screen, dark and dramatic lighting",
             "published_at": "2026-06-04 18:52:16",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘경제검찰’ 공정위 과징금 1.7조원 역대 최고…규제 논란 심화",
@@ -235,7 +279,7 @@
             "content": "공정거래위원회가 부과한 연간 과징금 액수가 1.7조 원을 넘어서며 역대 최고치를 경신했습니다. 독과점 금지와 불공정 거래 행위에 대한 '경제 검찰'로서의 역할을 강화한 결과라는 평가가 나옵니다.\n\n공정위는 최근 물가 상승의 원인이 되는 담합 행위와 거대 플랫폼 기업의 갑질 등에 대해 엄격한 잣대를 들이대고 있습니다. 정부 측은 이러한 강력한 규제가 시장 질서를 바로잡고 소비자 물가를 안정시키는 '효자' 역할을 할 것이라고 강조합니다.\n\n하지만 재계의 시각은 다릅니다. 지나치게 공격적인 과징금 부과가 기업의 투자 의욕을 꺾고 글로벌 경쟁력을 약화시킨다는 목소리가 높습니다. 특히 모호한 기준에 의한 규제가 남발될 경우 기업 경영의 불확실성만 키울 수 있다는 우려입니다.\n\n이번 역대 최고 과징금 기록을 계기로 공정거래법 집행의 공정성과 기업 친화적 환경 조성 사이의 균형점을 찾기 위한 사회적 논의가 더욱 활발해질 것으로 전망됩니다.",
             "image_prompt": "Fair trade commission gavel, gold scales of justice, corporate building background, authoritative and formal",
             "published_at": "2026-06-04 18:52:16",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한-뉴질랜드 외교차관회담…경제안보 및 에너지 공급망 논의",
@@ -246,7 +290,7 @@
             "content": "한국과 뉴질랜드의 외교차관이 만나 양국 간의 경제 안보 협력을 강화하기로 합의했습니다. 이번 회담은 급변하는 국제 정세 속에서 안정적인 공급망을 확보하고 에너지 안보를 굳건히 하기 위한 목적으로 개최되었습니다.\n\n양측은 수소 에너지 등 미래 친환경 에너지 분야에서의 기술 협력을 확대하기로 했으며, 핵심 광물 공급망 다변화를 위해 공동 노력할 것을 약속했습니다. 이는 특정 국가에 대한 의존도를 낮추고 자원 안보를 강화하려는 전략적 포석으로 풀이됩니다.\n\n또한, 국방 및 방산 분야에서의 협력 가능성도 타진되었습니다. 인도-태평양 지역의 평화와 안정을 위해 양국이 공유하는 가치를 확인하고, 경제와 안보를 통합적으로 고려하는 실질적인 협력 플랫폼을 구축하기로 했습니다.\n\n이번 회담은 한국이 가치를 공유하는 국가들과의 연대를 강화함으로써 대외 경제 리스크를 분산시키는 계기가 될 것으로 기대됩니다.",
             "image_prompt": "Diplomatic meeting, South Korea and New Zealand flags, handshake, energy cooperation icons, clean and professional",
             "published_at": "2026-06-04 18:52:16",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "수출 호조에도 원화 가치 약세…'성장의 역설' 지속",
@@ -257,7 +301,7 @@
             "content": "한국 경제가 반도체를 필두로 견조한 성장세를 보이고 있음에도 불구하고, 외환 시장에서 원화 가치는 오히려 달러와 위안, 엔화 대비 약세를 보이고 있습니다. 경제 성장률 전망은 오르는데 환율은 불안한 '성장의 역설' 상황이 이어지고 있습니다.\n\n원화 약세의 주된 배경으로는 미국 달러화의 강세 지속이 꼽힙니다. 미국의 고금리 정책이 예상보다 길어질 것이라는 전망이 지배적인 가운데, 자산가들이 안전 자산인 달러로 몰리면서 원화의 매력도가 상대적으로 떨어졌기 때문입니다.\n\n여기에 더해 국내 수출 기업들이 벌어들인 달러를 국내로 즉각 환전하지 않거나, 서학개미로 불리는 개인 투자자들의 해외 주식 투자가 급증하면서 달러 수요가 상시적으로 높은 점도 원화 가치를 압박하는 요인입니다.\n\n원화 약세가 지속될 경우 수입 물가 상승으로 이어져 이제 막 잡히기 시작한 인플레이션을 다시 자극할 수 있다는 우려가 제기됩니다. 당국은 환율 변동성을 줄이기 위해 시장 모니터링을 강화하고 있습니다.",
             "image_prompt": "Currency exchange, Korean Won and US Dollar, world map with data lines, financial volatility, digital blue neon",
             "published_at": "2026-06-04 18:52:16",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD, 한국 경제성장률 2.6%로 상향... G20 중 상향폭 최고",
@@ -268,7 +312,7 @@
             "content": "경제협력개발기구(OECD)가 올해 한국의 경제성장률 전망치를 기존 1.7%에서 2.6%로 0.9%포인트 대폭 상향 조정했습니다. 이는 G20 국가 중에서도 가장 큰 상향폭으로, 최근 'K-반도체'를 중심으로 한 수출 회복세가 결정적인 역할을 한 것으로 분석됩니다.\n\nOECD는 한국 경제가 반도체와 자동차 등 주요 품목의 수출 호조에 힘입어 강력한 성장 모멘텀을 확보했다고 평가했습니다. 특히 글로벌 IT 수요 회복이 한국의 경상수지 개선과 생산 지표에 긍정적인 영향을 미치고 있다는 점을 강조했습니다.\n\n하지만 이러한 긍정적인 전망 속에서도 고물가와 고금리로 인한 내수 위축은 여전히 위험 요인으로 꼽힙니다. OECD는 민간 소비 회복 속도가 상대적으로 느릴 수 있다는 점을 지적하며, 수출과 내수의 균형 있는 성장이 중요하다고 제언했습니다.\n\n정부 관계자는 이번 발표에 대해 한국 경제의 펀더멘털이 외부에서 높게 평가받고 있음을 보여주는 지표라고 환영하면서도, 국민들이 체감할 수 있는 경기 회복을 위해 민생 경제 안정 정책을 지속하겠다고 밝혔습니다.",
             "image_prompt": "South Korea economy, 2.6% growth chart, semiconductor chip technology, global trade, blue professional background",
             "published_at": "2026-06-04 12:42:19",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "원·달러 환율 1,530원 돌파... 금융위기 후 처음",
@@ -279,7 +323,7 @@
             "content": "서울 외환시장에서 원·달러 환율이 1,530원대에서 개장하며 금융 시장에 비상이 걸렸습니다. 이는 2008년 글로벌 금융위기 당시 이후 처음 있는 일로, 시장 참가자들 사이에서는 자본 유출과 수입 물가 폭등에 대한 우려가 확산되고 있습니다.\n\n글로벌 달러 강세 현상이 지속되는 가운데, 주요국 통화 대비 원화의 약세가 두드러지는 모습입니다. 미 연준의 금리 정책과 국제 유가 불안 등 대외적인 변수들이 원화 가치를 압박하고 있으며, 이는 기업들의 수입 비용 상승과 가계의 장바구니 물가 부담으로 직결되고 있습니다.\n\n외환 당국은 시장의 과도한 쏠림 현상을 예의주시하며 구두 개입 등 시장 안정화 조치 가능성을 시사했습니다. 전문가들은 당분간 환율 변동성이 극심할 것으로 예상하며, 1,500원대 중반까지 추가 상승 가능성도 열어두어야 한다고 경고하고 있습니다.\n\n이에 따라 수출 기업들은 환차익을 기대할 수 있으나, 에너지 및 원자재 수입 비중이 높은 기업들은 채산성 악화라는 직격탄을 맞게 되었습니다. 향후 정부의 대응과 글로벌 통화 정책의 변화가 환율의 향방을 가를 중요한 분수령이 될 전망입니다.",
             "image_prompt": "US dollar vs Korean Won, exchange rate 1530, financial crisis alert, red graph, stock market urgency",
             "published_at": "2026-06-04 12:42:19",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"젠슨 황 온다\" 41% 급등... 증권가는 '냉정한 경고'",
@@ -290,7 +334,7 @@
             "content": "엔비디아의 수장 젠슨 황 CEO의 방한 소식이 전해지자마자 국내 AI 반도체 관련 종목들이 40% 이상 폭등하는 기현상이 벌어졌습니다. 시장은 엔비디아와의 협력 강화 가능성에 배팅하며 뜨거운 열기를 보이고 있지만, 여의도 증권가는 이를 경계하는 분위기입니다.\n\n증권가 전문가들은 특정 인사나 이벤트에 따른 단기적 급등은 펀더멘털과 괴리가 있을 수 있다고 경고합니다. 기업의 실제 실적이나 기술력이 아닌 단순한 기대감만으로 주가가 오를 경우, 차익 실현 매물이 쏟아질 때 개인 투자자들이 큰 손실을 볼 수 있다는 지적입니다.\n\n특히 글로벌 AI 산업의 경쟁이 심화되는 가운데, 한국 기업들이 엔비디아 공급망 내에서 어떤 실질적인 이득을 얻을 수 있을지를 냉정하게 따져봐야 한다고 조언합니다. '서늘한 경고'라는 표현이 나올 정도로 시장의 과열 양상을 우려하는 목소리가 높습니다.\n\n투자자들은 장기적인 관점에서 AI 반도체 산업의 흐름을 파악하되, 단기 급등주에 대한 추격 매수는 신중해야 할 것으로 보입니다. 이번 사태는 AI 테마주가 여전히 국내 증시의 중심에 서 있음을 보여주는 동시에, 시장의 불안정한 심리를 단적으로 드러내고 있습니다.",
             "image_prompt": "Jensen Huang, Nvidia, AI semiconductor, stock market bubble, green digital circuits, professional warning",
             "published_at": "2026-06-04 12:42:19",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "추경호 대구시장 당선... \"경제 부활과 GRDP 200조 목표\"",
@@ -301,7 +345,7 @@
             "content": "지방선거 결과 추경호 후보가 대구시장으로 당선되며 대구 경제의 대대적인 변화를 예고했습니다. 추 당선인은 취임과 동시에 '경제 시장'으로서 대구의 경제 활력을 다시 뛰게 만들겠다는 포부를 밝혔습니다.\n\n그의 핵심 공약은 대구의 지역내총생산(GRDP)을 200조 원 시대로 끌어올리는 것입니다. 이를 위해 첨단 산업 유치와 기업하기 좋은 환경 조성에 행정력을 집중할 계획입니다. 특히 대구가 '돈과 사람이 모이는 도시'가 될 수 있도록 규제 완화와 인프라 확충에 박차를 가하겠다고 선언했습니다.\n\n경쟁자였던 김부겸 후보와의 화합을 강조하며, 선거 기간 동안 갈라진 민심을 수습하고 오직 시민들의 먹고사는 문제인 '민생 경제'에 집중하겠다는 의지도 표명했습니다. 지역 사회는 경제 전문가 출신인 추 당선인이 대구의 고질적인 경제 정체를 극복해 줄 것을 기대하고 있습니다.\n\n대구의 경제 부활 시나리오가 성공할 경우, 이는 영남권 전반의 산업 생태계에도 긍정적인 영향을 미칠 것으로 보입니다. 추 당선인의 향후 행보에 지역 기업인들과 시민들의 이목이 쏠리고 있습니다.",
             "image_prompt": "Daegu city skyline, economic growth, local election victory, prosperity, business building, modern korea",
             "published_at": "2026-06-04 12:42:19",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "공정위 과징금 1.7조 역대 최고... 기업들 \"규제 부담 호소\"",
@@ -312,7 +356,7 @@
             "content": "'경제 검찰'로 불리는 공정거래위원회가 작년 한 해 동안 부과한 과징금이 1조 7천억 원을 넘어서며 역대 최고치를 기록했습니다. 이는 독과점 남용과 담합 등 불공정 행위에 대한 무관용 원칙을 적용한 결과로 해석됩니다.\n\n공정위는 강력한 과징금 부과가 장기적으로 시장 경쟁을 촉진하고 소비자 물가를 잡는 데 기여한다고 주장합니다. 특히 서민 생활과 밀접한 분야에서의 부당 이득을 환수함으로써 공정한 시장 질서를 확립하겠다는 의지를 보이고 있습니다.\n\n반면 재계에서는 우려의 목소리가 높습니다. 지나친 규제와 높은 과징금이 기업의 투자 위축과 경쟁력 저하를 초래할 수 있다는 논리입니다. 특히 경영 환경이 어려운 상황에서 징벌적 성격의 과징금이 남발될 경우 기업활동 자체가 위축될 수 있다는 입장입니다.\n\n이번 역대급 과징금 집행은 공정위의 위상이 강화되었음을 보여주는 동시에, 정부의 시장 개입 범위와 수위를 둘러싼 논란을 증폭시키고 있습니다. 향후 법적 소송 등 기업들의 반격도 만만치 않을 것으로 예상되어 정책적 갈등은 당분간 지속될 전망입니다.",
             "image_prompt": "KFTC building, fair trade gavel, money penalty concept, business regulation, court scales",
             "published_at": "2026-06-04 12:42:19",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘K-반도체’에 놀란 OECD, 한국 경제성장률 2.6%로 크게 높여",
@@ -323,7 +367,7 @@
             "content": "경제협력개발기구(OECD)는 한국의 올해 실질 국내총생산(GDP) 성장률 전망치를 기존 2.2%에서 2.6%로 0.4%포인트 대폭 상향 조정했습니다. 이는 지난 2월 전망치 발표 이후 3개월 만의 조정으로, G20 국가들 중에서도 가장 큰 상향폭을 보이며 한국 경제의 강한 회복세를 시사했습니다.\n\n이러한 낙관적인 전망의 배경에는 단연 'K-반도체'의 부활이 자리 잡고 있습니다. 인공지능(AI) 열풍으로 인해 고대역폭메모리(HBM)를 포함한 첨단 반도체 수요가 급증하면서, 한국의 수출 실적이 예상치를 크게 웃돌고 있기 때문입니다. 반도체 수출의 견고한 흐름이 전체 경제 성장을 견인하는 강력한 엔진 역할을 하고 있다는 분석입니다.\n\n내수 시장 역시 점진적인 회복세를 보일 것으로 예측되었습니다. 고물가와 고금리 여파로 위축되었던 소비 심리가 물가 안정세와 함께 하반기부터 서서히 풀릴 것으로 기대하고 있습니다. OECD는 한국의 인플레이션 수치도 점차 목표치인 2%대에 근접할 것으로 내다봤습니다.\n\n다만, 이러한 긍정적인 신호에도 불구하고 글로벌 공급망의 변동성과 고금리 기조 유지 기간은 여전히 잠재적 리스크로 남아 있습니다. 정부와 전문가들은 이번 상향 조정을 계기로 수출 경쟁력을 더욱 공고히 하는 한편, 내수 활성화를 위한 정책적 노력을 병행해야 한다고 강조하고 있습니다.",
             "image_prompt": "Semiconductor chip, Rising economic graph, Korea flag, Blue neon technology",
             "published_at": "2026-06-04 01:43:14",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD, 올해 세계 경제 성장률 2.8%로 낮춰…중동발 위기 여파",
@@ -334,7 +378,7 @@
             "content": "한국의 긍정적인 전망과는 달리, OECD는 올해 세계 경제 성장률 전망치를 2.8%로 소폭 하향 조정하며 신중한 입장을 보였습니다. 이는 중동 지역의 군사적 갈등 심화와 그에 따른 에너지 가격 변동성 확대가 세계 경제에 하방 압력으로 작용하고 있음을 반영한 결과입니다.\n\n특히 이란과 이스라엘 간의 갈등 등 중동발 지정학적 위기는 글로벌 공급망을 위협하고 있습니다. 유가의 불확실성이 커지면서 각국 중앙은행들의 금리 인하 시점 결정도 복잡해지고 있습니다. 에너지 비용 상승은 곧 생산 비용 상승과 직결되어 인플레이션 둔화 속도를 늦출 수 있기 때문입니다.\n\n또한, 고금리 기조가 예상보다 길어지면서 주요 선진국들의 가계 부채 부담과 투자 위축도 성장의 걸림돌이 되고 있습니다. 미국과 유럽의 소비 및 투자 지표가 엇갈리는 가운데, 글로벌 자산 시장의 변동성도 확대되는 추세입니다.\n\nOECD는 세계 경제가 급격한 경기 침체인 '하드 랜딩'은 피하겠지만, 저성장 국면이 지속될 가능성이 높다고 경고했습니다. 이에 따라 국가 간 공조를 통한 공급망 안정화와 재정 건전성 확보가 향후 세계 경제의 지속 가능한 성장을 위한 핵심 과제로 부상하고 있습니다.",
             "image_prompt": "World map, Red oil barrels, Middle East conflict icon, Global economic shadow",
             "published_at": "2026-06-04 01:43:14",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국, 캐나다산 원유 도입 3배 확대…강훈식 ‘경제특사’ 지원 사격",
@@ -345,7 +389,7 @@
             "content": "대한민국이 에너지 공급망 다변화를 위해 캐나다산 원유 수입을 기존 대비 3배 이상 확대하기로 했습니다. 이는 최근 중동 정세의 불안정으로 인해 원유 수급의 리스크가 커진 상황에서, 북미 지역으로 눈을 돌려 에너지 안보를 강화하려는 전략적 선택으로 풀이됩니다.\n\n이번 성과는 국회 산업통상자원중소벤처기업위원회 소속 강훈식 의원이 '경제특사' 자격으로 캐나다를 방문하여 적극적인 지원 사격을 펼친 결과이기도 합니다. 캐나다 정부 및 주요 에너지 기업들과의 협상을 통해 안정적인 원유 공급 물량을 확보하고, 장기적인 에너지 파트너십을 구축하는 데 성공했습니다.\n\n캐나다는 세계적인 오일샌드 보유국으로, 최근 송유관 확충 작업을 통해 아시아 시장으로의 수출 역량을 높여왔습니다. 한국 입장에서는 지리적 거리는 멀지만 중동 의존도를 낮춤으로써 유가 변동 리스크를 분산하고, 질 좋은 원유를 안정적으로 확보할 수 있는 통로를 마련하게 된 셈입니다.\n\n전문가들은 이러한 에너지 다변화 정책이 향후 국제 유가 급등락 시 한국 경제에 가해지는 충격을 완화하는 완충 장치가 될 것으로 보고 있습니다. 정부는 앞으로도 자원 부국들과의 경제 외교를 강화하여 핵심 자원의 안정적 확보에 주력할 방침입니다.",
             "image_prompt": "Oil tanker ship, Canada flag and Korea flag, Blue ocean, Energy pipe",
             "published_at": "2026-06-04 01:43:14",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "세계 경제의 생명줄 ‘수중 인프라’의 중요성 조명",
@@ -356,7 +400,7 @@
             "content": "전 세계 데이터의 99%와 막대한 양의 에너지가 흐르는 '해저 케이블' 및 '수중 파이프라인'이 세계 경제의 새로운 생명줄로 급부상하고 있습니다. 보이지 않는 바다 밑 인프라가 디지털 전환과 에너지 전환 시대의 핵심 요소가 된 것입니다.\n\n최근 우크라이나 전쟁과 중동 분쟁을 겪으며 이러한 수중 인프라에 대한 물리적 위협이나 사보타주(파괴 공작) 가능성이 커지고 있습니다. 해저 케이블 한 곳만 손상되어도 국가 간 금융 결제가 마비되거나 인터넷 접속이 불가능해질 수 있어, 이는 단순한 기술 문제를 넘어 국가 안보의 핵심 과제가 되었습니다.\n\n특히 주요 강대국들은 수중 인프라를 보호하고 관리하기 위한 해군력 강화와 첨단 감시 기술 도입에 막대한 예산을 투입하고 있습니다. 한국 역시 반도체와 배터리 등 핵심 산업의 데이터 전송과 에너지 수입을 위해 해상 루트와 수중 경로의 안전 확보가 절실한 상황입니다.\n\n미래 경제는 '바다 밑을 누가 장악하느냐'에 따라 결정될 수 있다는 전망이 나옵니다. 수중 로봇, 고성능 센서 등 관련 기술 산업의 동반 성장도 기대되는 만큼, 수중 인프라에 대한 민관의 전략적 투자가 필요한 시점입니다.",
             "image_prompt": "Underwater fiber optic cable, Deep sea infrastructure, Glowing blue data pulses, Ocean floor",
             "published_at": "2026-06-04 01:43:14",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "WIPO 다렌 탕 사무총장 재선출, “지식재산을 경제 중심으로”",
@@ -367,7 +411,7 @@
             "content": "세계지식재산기구(WIPO)의 다렌 탕 사무총장이 회원국들의 압도적인 지지로 재선출되었습니다. 이는 지식재산(IP)을 단순히 법적인 권리 보호의 수단을 넘어, 국가 경제 성장을 견인하는 핵심 동력으로 바라보는 그의 정책 기조가 세계적인 공감대를 얻었음을 의미합니다.\n\n다렌 탕 사무총장은 지난 임기 동안 개발도상국과 중소기업들이 지식재산을 활용해 비즈니스 기회를 창출할 수 있도록 지원하는 '포용적 IP 생태계' 구축에 힘써왔습니다. 그는 재선 소감을 통해 미래 경제의 중심은 아이디어와 혁신에 있으며, 이를 자산화하는 지식재산 제도가 더욱 공고해져야 한다고 강조했습니다.\n\n한국 역시 세계 4위 수준의 특허 출원 대국으로서 WIPO와의 긴밀한 협력이 중요합니다. K-컬처와 K-테크가 글로벌 시장을 선도하는 상황에서, 우리 기업들의 지식재산권을 보호하고 글로벌 표준을 선점하는 데 이번 사무총장의 재선은 긍정적인 환경을 조성할 것으로 보입니다.\n\n향후 WIPO는 AI로 생성된 저작물의 권리 관계 정립, 디지털 플랫폼 내에서의 상표권 보호 등 급변하는 기술 환경에 맞춘 새로운 국제 규범 마련에 속도를 낼 것으로 예상됩니다. 지식재산이 국가 간의 새로운 무역 장벽이 아닌, 공통의 성장 발판이 될 수 있을지 주목됩니다.",
             "image_prompt": "Lightbulb icon, Intellectual property documents, Global networking, Golden emblem",
             "published_at": "2026-06-04 01:43:14",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD, 韓 경제성장률 2.6%로 상향…'K-반도체'의 저력",
@@ -378,7 +422,7 @@
             "content": "경제협력개발기구(OECD)가 한국의 올해 경제성장률 전망치를 기존 1.7%에서 2.6%로 무려 0.9%포인트 상향 조정했습니다. 이는 G20 국가 중 가장 큰 상향폭으로, 한국 경제가 예상보다 훨씬 빠르게 회복 궤도에 진입했음을 시사합니다.\n\n이번 전망치 수정의 결정적인 배경은 '반도체 수출 호조'입니다. 전 세계적인 AI 열풍에 힘입어 한국의 주력 수출 품목인 반도체 수요가 폭발적으로 증가하면서 무역 수지가 크게 개선되었습니다. OECD는 반도체 중심의 수출 증대가 한국의 실질 GDP 성장을 견인하고 있다고 분석했습니다.\n\n또한, 고물가와 고금리로 인해 위축되었던 민간 소비도 점진적으로 회복될 것으로 내다봤습니다. 물가 상승세가 둔화됨에 따라 가계의 실질 구매력이 회복되고, 이에 따라 내수 시장에도 훈풍이 불 것이라는 낙관적인 관측이 나오고 있습니다.\n\n다만, OECD는 중동 지역의 지정학적 불안정성과 원자재 가격 변동성 등 대외적인 불확실성이 여전히 존재한다고 경고했습니다. 한국 경제가 안정적인 성장을 이어가기 위해서는 수출 다변화와 함께 내수 경제의 자생력을 강화하는 정책적 노력이 병행되어야 할 시점입니다.",
             "image_prompt": "South Korea economy, semiconductor chips, rising financial graph, blue high-tech background, professional",
             "published_at": "2026-06-03 19:53:30",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "OECD, 세계 경제 성장률 2.8%로 하향…중동 위기 여파",
@@ -389,7 +433,7 @@
             "content": "OECD는 올해 세계 경제 성장률 전망치를 2.8%로 하향 조정하며 글로벌 경제의 불확실성을 강조했습니다. 가장 큰 원인은 중동 지역에서 확산되고 있는 지정학적 분쟁과 그에 따른 에너지 가격 불안정입니다.\n\n이스라엘과 하마스 간의 갈등이 장기화되면서 홍해 항로 이용에 차질이 생기고, 이는 글로벌 물류 비용 상승과 공급망 교란으로 이어지고 있습니다. 에너지 가격이 다시 반등할 경우 전 세계적인 인플레이션 압력이 가중되어 각국 중앙은행의 금리 인하 시점이 늦춰질 가능성이 큽니다.\n\n특히 유럽 국가들은 에너지 수입 의존도가 높아 이번 중동 위기의 직접적인 타격을 받고 있습니다. OECD는 주요 선진국들이 고금리 기조를 유지하는 가운데 소비와 투자가 위축되면서 세계 경제의 전반적인 성장 동력이 약화되고 있다고 진단했습니다.\n\n전문가들은 이러한 대외 리스크가 한국과 같은 수출 중심 국가에 부정적인 영향을 미칠 수 있다고 조언합니다. 글로벌 수요 둔화와 원가 상승이라는 이중고를 극복하기 위해 기업들의 선제적인 리스크 관리와 정부의 기민한 대응이 요구되는 상황입니다.",
             "image_prompt": "Global map, oil pump jack, red alarm lighting, economic crisis, dark moody cinematic",
             "published_at": "2026-06-03 19:53:30",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'젠슨 황 믿고 간다'…엔비디아 주가 150% 급등에도 추가 상승 기대",
@@ -400,7 +444,7 @@
             "content": "엔비디아의 주가가 올해 들어서만 150% 이상 폭등하며 전 세계 투자자들의 시선을 사로잡고 있습니다. 'AI 황제'로 불리는 젠슨 황 CEO의 리더십 아래 엔비디아는 그래픽처리장치(GPU) 시장을 독점하며 전례 없는 성장을 기록 중입니다.\n\n시장에서는 엔비디아의 주가가 이미 너무 많이 올랐다는 우려와 함께, 아직 고점이 아니라는 낙관론이 팽팽하게 맞서고 있습니다. 하지만 최근 발표된 실적과 향후 가이던스를 고려할 때, AI 인프라 구축을 위한 기업들의 투자가 여전히 초기 단계에 머물러 있다는 분석이 지배적입니다.\n\n엔비디아의 성공은 단순히 한 기업의 성장을 넘어 반도체, 클라우드, 소프트웨어 등 IT 산업 전반의 생태계를 재편하고 있습니다. 국내 서학개미들 사이에서도 '젠슨 형(젠슨 황)'에 대한 신뢰가 두터워지며 추격 매수세가 이어지고 있는 형국입니다.\n\n다만, 기술주의 특성상 변동성이 크고 미 연준의 통화 정책 방향에 따라 가격 조정이 일어날 수 있다는 점을 유의해야 합니다. 전문가들은 단기적인 시세 차익보다는 AI 산업의 장기적인 성장 잠재력을 보고 신중하게 투자에 임할 것을 권고하고 있습니다.",
             "image_prompt": "Jensen Huang, Nvidia GPU chip, golden light, futuristic AI server, stock market trend",
             "published_at": "2026-06-03 19:53:30",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'원화 약세=경제 위기' 공식 흔들…변화하는 외환시장 논리",
@@ -411,7 +455,7 @@
             "content": "과거에는 원/달러 환율이 상승하면 곧바로 '경제 위기' 신호로 받아들여졌지만, 최근 들어 이러한 시장의 공식이 흔들리고 있습니다. 원화 가치가 떨어졌음에도 불구하고 한국 경제의 기초 체력(펀더멘털)은 견고하다는 평가가 나오고 있기 때문입니다.\n\n첫째, 한국의 수출 경쟁력이 가격 중심에서 품질 및 기술 중심으로 이동했습니다. 원화 약세가 수입 물가를 올려 부담이 되기도 하지만, 반도체나 자동차 등 고부가가치 제품의 수출 실적은 환율 변동보다는 글로벌 수요에 더 큰 영향을 받고 있습니다.\n\n둘째, 한국 투자자들의 해외 자산 보유가 크게 늘어났습니다. 환율이 오르면 해외 자산의 원화 환산 가치도 함께 상승하여 거시경제 차원에서 일종의 완충 작용(버퍼)을 하고 있다는 분석입니다. 이는 과거 외환보유액에만 의존하던 구조에서 탈피했음을 의미합니다.\n\n셋째, 글로벌 달러 강세 현상이 한국만의 문제가 아닌 전 세계적인 흐름이라는 점입니다. 다른 주요국 통화들도 달러 대비 약세를 보이고 있어, 원화만의 독자적인 위기로 보기 어렵다는 시각이 확산되고 있습니다. 외환 당국은 환율의 변동성 자체를 관리하는 데 집중하며 시장의 과도한 불안 심리를 차단하고 있습니다.",
             "image_prompt": "Korean Won and US Dollar, currency exchange, Seoul skyline at night, financial stability, abstract",
             "published_at": "2026-06-03 19:53:30",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美, 이란 가상화폐 거래소 제재…경제적 압박 수위 높여",
@@ -422,7 +466,7 @@
             "content": "미국 재무부가 이란의 경제적 자금 세탁을 돕거나 제재를 회피하는 데 이용된 가상화폐 거래소 4곳에 대해 강력한 제재를 발표했습니다. 이는 이란의 군사 활동 및 테러 지원 자금줄을 원천 차단하겠다는 미국의 강력한 의지가 반영된 조치입니다.\n\n해당 거래소들은 이란 정부와 연계되어 디지털 자산을 법정 화폐로 전환하거나 무기 거래 자금을 세탁하는 통로 역할을 해온 것으로 밝혀졌습니다. 미국 정부는 이번 제재를 통해 해당 거래소들의 미국 내 자산을 동결하고 미국인과의 모든 금융 거래를 금지했습니다.\n\n가상화폐는 그동안 익명성과 국경 없는 거래 특성으로 인해 국제 제재를 피하는 유용한 수단으로 이용되어 왔습니다. 그러나 미국을 비롯한 주요국들이 블록체인 추적 기술을 강화하고 규제 망을 좁히면서, 디지털 자산을 활용한 그림자 금융의 설 자리가 좁아지고 있습니다.\n\n이번 조치는 글로벌 가상화폐 시장의 규제 강화 흐름을 가속화할 것으로 보입니다. 투자자들은 각국 정부의 규제 리스크가 시장 변동성을 키울 수 있다는 점을 인지해야 하며, 가상화폐 거래소들의 투명성 요구는 앞으로 더욱 거세질 전망입니다.",
             "image_prompt": "Bitcoin on chains, cyber security, US Treasury seal, digital finance war, dramatic blue neon",
             "published_at": "2026-06-03 19:53:30",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "뉴욕증시 상승과 美 경제 성장 낙관론 확산",
@@ -433,7 +477,7 @@
             "content": "미국 뉴욕증시가 부채한도 협상의 지속적인 진전과 주요 경제지표의 호조에 힘입어 일제히 상승 마감했습니다. 투자자들은 정치권의 협상 타결 가능성에 무게를 두며 시장의 불확실성을 해소하는 모습입니다. 특히 고용과 소비 지표가 예상보다 견고하게 나타나면서 경기 침체 우려를 상쇄하고 있습니다.\n\n이와 더불어 백악관 경제자문위원회는 미국의 경제 성장률이 4%에 달할 것이라는 낙관적인 전망을 내놓았습니다. 이는 기존의 저성장 우려를 뒤집는 수치로, 미국 경제의 강력한 복원력을 시사합니다. 위원장은 강달러 현상에 대해서도 미국 경제의 경쟁력을 반영하는 것이라며 긍정적인 입장을 견지했습니다.\n\n증권가에서는 이러한 미국의 성장세가 글로벌 증시 전반에 훈풍을 불어넣을 것으로 기대하고 있습니다. 다만 금리 인상 경로에 대한 연준의 태도가 변수가 될 수 있어, 향후 발표될 물가 지표에 대한 시장의 관심이 집중되고 있습니다. 투자자들은 위험 자산에 대한 비중을 조절하며 신중한 낙관론을 유지하는 추세입니다.\n\n결과적으로 미국의 경제적 자신감은 글로벌 금융 시장의 유동성을 자극하고 있습니다. 부채 한도 문제가 완전히 해결될 경우, 시장은 본격적인 랠리에 진입할 가능성도 제기되고 있습니다. 한국을 포함한 주요국 증시 또한 이러한 뉴욕발 훈풍의 영향을 직접적으로 받을 것으로 보입니다.",
             "image_prompt": "Wall Street, Stock market graph, Upward trend, Bull market, Financial center, Professional blue",
             "published_at": "2026-06-03 12:47:40",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'원화 약세=경제 위기' 공식 흔들린 3가지 이유",
@@ -444,7 +488,7 @@
             "content": "과거 한국 경제에서 '원·달러 환율 상승(원화 약세)'은 곧 경제 위기의 전조로 받아들여졌으나, 최근에는 이러한 공식이 깨지고 있다는 분석이 힘을 얻고 있습니다. 전문가들은 환율 상승에도 불구하고 한국 경제가 견디는 이유로 세 가지 주요 변화를 꼽고 있습니다. 첫째는 한국의 대외 순자산 구조가 과거 채무국에서 채권국으로 바뀌었다는 점입니다.\n\n둘째로 거론되는 이유는 기업들의 글로벌 공급망 다변화와 현지화 전략입니다. 환율 변동에 민감한 수출 구조가 개선되면서 원화 가치 하락이 기업 수익성에 미치는 부정적 영향이 상쇄되고 있다는 것입니다. 오히려 환율 상승이 일부 수출 기업의 가격 경쟁력을 높여주는 전통적인 효과도 여전히 유효한 상황입니다.\n\n셋째는 외환보유액의 질적 개선과 통화스와프 등 금융 안전망의 강화입니다. 과거처럼 외화 유동성이 순식간에 메마르는 구조적 결함이 상당 부분 해소되었다는 평가입니다. 시장은 이제 환율의 '절대 수치'보다는 '변동의 속도'와 '주변국 통화와의 동조화 현상'에 더 주목하고 있습니다.\n\n이러한 인식의 변화는 통화 정책 운용에도 유연성을 부여할 전망입니다. 단순히 환율을 방어하기 위해 금리를 올리는 방식에서 벗어나, 펀더멘털을 고려한 종합적인 대응이 가능해졌기 때문입니다. 다만 원자재 수입 비용 상승에 따른 국내 물가 압박은 여전히 해결해야 할 과제로 남아 있습니다.",
             "image_prompt": "Currency exchange, Korean Won, Dollar bills, Financial stability, Modern economy, Abstract digital art",
             "published_at": "2026-06-03 12:47:40",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국 반도체 수입 1위는 중국… 지정학적 공급망 재편 가속",
@@ -455,7 +499,7 @@
             "content": "최근 발표된 자료에 따르면 한국의 반도체 수입 대상국 중 중국이 압도적인 1위를 차지하고 있는 것으로 나타났습니다. 이는 한국 반도체 산업이 제조 공정상 중국산 범용 반도체나 관련 부품에 대한 의존도가 여전히 높음을 보여줍니다. 반면 미국은 수입액 기준 4위에 머물러 대조적인 모습을 보였습니다.\n\n이러한 데이터는 현재 진행 중인 미국 주도의 '칩4(Chip 4)' 동맹과 공급망 재편 흐름 속에서 한국이 처한 복합적인 상황을 대변합니다. 첨단 기술은 미국과 협력하되, 실질적인 생산과 원자재 조달 측면에서는 중국과의 연결고리를 끊기 어려운 현실이 반영된 것입니다. 전문가들은 이를 '경제적 실리와 안보적 선택의 기로'라고 평가합니다.\n\n반도체 업계에서는 중국으로부터의 수입 비중이 높은 이유로 저렴한 단가와 인근에 위치한 물류 편의성을 꼽습니다. 하지만 미-중 갈등이 심화될수록 이러한 의존도는 리스크로 작용할 가능성이 큽니다. 이에 따라 우리 정부와 기업들은 수입선 다변화와 핵심 부품의 국산화를 가속화하기 위한 전략 마련에 부심하고 있습니다.\n\n향후 한국 반도체 산업의 경쟁력은 중국에 대한 의존도를 관리하면서도 미국과의 기술 동맹을 강화하는 '투트랙 전략'의 성공 여부에 달려 있습니다. 글로벌 공급망의 불확실성이 커지는 가운데, 데이터에 기반한 정교한 경제 외교와 산업 정책이 절실한 시점입니다.",
             "image_prompt": "Semiconductor chip, Silicon wafer, Global logistics, High-tech supply chain, World map background",
             "published_at": "2026-06-03 12:47:40",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "젠슨 황의 '에이전트 경제' 선언과 비트코인 비중 확대",
@@ -466,7 +510,7 @@
             "content": "엔비디아의 수장 젠슨 황이 미래 경제의 핵심 키워드로 '에이전트 경제(Agent Economy)'를 제시했습니다. 이는 단순히 인간을 돕는 AI를 넘어, 스스로 판단하고 행동하는 AI 에이전트들이 경제 활동의 주체가 되는 시대를 의미합니다. 이러한 변화는 비즈니스 모델의 근본적인 혁신을 예고하고 있으며 전 세계 기술 기업들의 시선을 집중시키고 있습니다.\n\n증권가와 금융권에서는 이러한 에이전트 경제의 도래가 가상화폐 시장, 특히 비트코인에 미칠 영향에 주목하고 있습니다. AI 에이전트 간의 자율적인 거래가 활발해질 경우, 국경과 제약이 없는 디지털 자산인 비트코인이 주요 결제 수단이 될 수 있다는 논리입니다. 실제로 일부 분석가들은 비트코인에 대한 포트폴리오 비중을 차츰 확대하라는 조언을 내놓고 있습니다.\n\n이러한 흐름은 엔비디아의 하드웨어 지배력과 소프트웨어 에코시스템이 결합된 결과물입니다. AI 연산을 위한 고성능 GPU 수요가 폭증하는 가운데, 이를 기반으로 구현된 AI 에이전트들이 만들어낼 부가가치는 상상을 초월할 것으로 보입니다. 시장은 기술의 진보가 금융 자산의 가치를 재정의하는 과정을 목도하고 있습니다.\n\n결국 에이전트 경제는 인간의 노동과 자산 운용 방식 모두를 변화시킬 것입니다. 기업들은 AI 에이전트를 도입해 운영 효율성을 극대화하고, 투자자들은 새로운 기술 패러다임에 적합한 자산군을 찾아 이동하고 있습니다. 기술과 금융의 경계가 무너지는 새로운 경제 생태계가 열리고 있습니다.",
             "image_prompt": "AI Agent, Artificial Intelligence network, Bitcoin, Futuristic technology, Glowing neon light",
             "published_at": "2026-06-03 12:47:40",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "캐나다산 원유 도입 3배 확대, 에너지 공급망 다변화 가속",
@@ -477,7 +521,7 @@
             "content": "대한민국이 에너지 안보 강화를 위해 캐나다산 원유 도입량을 기존 대비 3배 이상 확대하기로 결정했습니다. 이는 중동 지역의 지정학적 리스크에 따른 유가 변동성에 대응하고, 원유 수입선을 다변화하려는 전략적 움직임의 일환입니다. 이번 조치는 정부의 경제 특사 파견과 외교적 지원 사격이 주효했던 것으로 분석됩니다.\n\n캐나다는 세계적인 원유 매장량을 보유하고 있으며, 특히 환경 규제에 민감한 서구권 시장에서 안정적인 공급처로 평가받습니다. 한국 기업들은 캐나다산 원유 도입을 통해 안정적인 원료 수급뿐만 아니라, 장기적으로는 가격 협상력 제고 효과까지 기대하고 있습니다. 공급망의 다변화는 에너지 수입 비용을 안정시켜 국내 물가 관리에도 긍정적인 기여를 할 전망입니다.\n\n정부 관계자는 이번 캐나다와의 협력을 시작으로 자원 부국들과의 경제 협력을 더욱 공고히 할 계획이라고 밝혔습니다. 특히 핵심 광물과 에너지 자원을 아우르는 포괄적인 파트너십을 구축해, 글로벌 공급망 위기 상황에서도 흔들리지 않는 경제 구조를 만드는 것이 목표입니다.\n\n에너지 전문가들은 이러한 '에너지 다각화' 전략이 국가 경쟁력의 핵심이 될 것이라고 입을 모읍니다. 특정 지역에 편중된 에너지 수입 구조를 탈피함으로써, 외부 충격에 강한 유연한 경제 체질을 갖추게 될 것입니다. 향후 캐나다뿐만 아니라 북미, 호주 등과의 자원 외교는 더욱 강화될 것으로 보입니다.",
             "image_prompt": "Oil tanker ship, Canada Korea flag, Industrial oil refinery, Energy security, Ocean sunset",
             "published_at": "2026-06-03 12:47:40",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'상승 전환' 코스피 8,801 마감...종가 기준 최고치 경신",
@@ -488,7 +532,7 @@
             "content": "국내 증시의 이정표가 새로 쓰였습니다. 2026년 6월 2일 코스피 지수는 전일 대비 큰 폭으로 상승하며 8,800선을 돌파, 8,801포인트로 장을 마감했습니다. 이는 종가 기준 역대 최고치를 경신한 수치로, 국내 증시의 견고한 펀더멘털과 글로벌 유동성 유입이 맞물린 결과로 풀이됩니다.\n\n시장을 주도한 것은 단연 반도체와 대형 우량주들이었습니다. 외국인과 기관의 동반 매수세가 유입되면서 지수를 강하게 끌어올렸으며, 특히 삼성전자를 비롯한 주요 기술주들이 신고가 행진에 동참하며 시장 분위기를 주도했습니다. 장 초반에는 혼조세를 보였으나, 오후 들어 매수세가 집중되면서 상승 폭을 확대했습니다.\n\n전문가들은 이번 최고치 경신이 단순한 기술적 반등을 넘어 국내 기업들의 이익 개선 전망이 반영된 결과라고 평가하고 있습니다. 다만, 고금리 기조의 장기화 가능성과 국제 정세의 불안정성이 여전한 만큼, 지수의 변동성에 대비한 신중한 투자 전략이 필요하다는 조언도 잇따르고 있습니다.\n\n향후 코스피가 9,000선이라는 심리적 마의 벽을 넘을 수 있을지에 시장의 이목이 쏠리고 있습니다. 기업들의 실적 발표 시즌과 맞물려 추가적인 상승 동력이 확보될 수 있을지가 관건이 될 전망입니다.",
             "image_prompt": "Stock market, record high graph, bull market, neon blue trading screen, professional",
             "published_at": "2026-06-03 01:18:26",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "고유가에 5월 물가 3.1% 상승...26개월 만에 최고 폭",
@@ -499,7 +543,7 @@
             "content": "중동 지역의 지정학적 리스크가 국내 장바구니 물가를 직격하고 있습니다. 5월 소비자물가 상승률이 3.1%를 기록하며 26개월 만에 가장 높은 상승 폭을 나타냈습니다. 이는 정부의 물가 안정 목표치를 웃도는 수준으로, 서민 경제에 비상등이 켜졌습니다.\n\n가장 큰 원인은 국제 유가의 가파른 상승입니다. 중동 전쟁의 장기화와 공급망 불안으로 인해 휘발유와 경유 등 석유류 제품 가격이 급등했고, 이는 물류비 상승으로 이어져 가공식품과 외식 물가 전반을 끌어올리는 도미노 현상을 일으키고 있습니다. 통계청 발표에 따르면, 특히 서민들의 체감도가 높은 신선식품과 에너지 가격 상승이 두드러졌습니다.\n\n정부는 유류세 인하 조치 연장과 할당관세 적용 등 물가 안정 대책을 총동원하고 있으나, 대외적인 변수가 워낙 커 한계가 있다는 지적이 나옵니다. 한국은행 또한 이번 물가 지표를 예의주시하며 향후 금리 결정에 있어 고심이 깊어질 것으로 보입니다.\n\n소비자들은 체감 물가가 지표상 수치보다 훨씬 높다고 호소하고 있습니다. 프랜차이즈 카페의 음료 가격 인상과 식재료비 상승이 겹치면서 실질 소득이 감소하는 효과를 낳고 있어, 내수 소비 위축에 대한 우려도 함께 커지고 있는 상황입니다.",
             "image_prompt": "Gas station price board, rising inflation arrow, grocery shopping basket, economic pressure",
             "published_at": "2026-06-03 01:18:26",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국, 캐나다산 원유 도입 3배 확대…에너지 안보 강화",
@@ -510,7 +554,7 @@
             "content": "한국이 에너지 안보를 위해 중동 중심의 원유 수입 구조에서 탈피하려는 전략적 행보를 가속화하고 있습니다. 정부는 최근 캐나다산 원유 도입량을 기존 대비 3배 이상 확대하기로 결정했으며, 이는 강훈식 '경제특사'의 지원 사격 등 정무적인 노력이 뒷받침된 결과로 알려졌습니다.\n\n이번 조치는 중동 전쟁 등 지정학적 리스크가 발생할 때마다 국내 기름값이 요동치는 '에너지 취약성'을 극복하기 위한 포석입니다. 캐나다는 세계적인 원유 매장량을 보유한 국가로, 캐나다산 원유 비중을 높임으로써 수급 안정성을 꾀하겠다는 전략입니다. 특히 북미 지역과의 에너지 협력 강화는 한미 경제 동맹의 연장선상에서도 큰 의미를 가집니다.\n\n업계 전문가들은 수송 비용이 중동에 비해 높다는 단점은 있으나, 장기적인 에너지 자립도 향상과 가격 변동성 완화 측면에서 긍정적인 효과가 더 클 것으로 보고 있습니다. 정유사들도 캐나다산 원유 처리를 위한 설비 최적화 작업에 착수하는 등 수입처 다변화에 발맞추고 있습니다.\n\n정부는 앞으로도 북미뿐만 아니라 아프리카, 중앙아시아 등과의 에너지 협력을 지속적으로 확대해 나갈 방침입니다. 이는 전 세계적인 자원 무기화 추세 속에서 국가 경제의 동맥인 에너지를 안정적으로 확보하려는 필수적인 선택으로 평가받습니다.",
             "image_prompt": "Oil tanker ship, Canada and South Korea flags, oil barrels, ocean logistics, energy security",
             "published_at": "2026-06-03 01:18:26",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "젠슨 황 \"한국 로보틱스 발전에 기여 희망\"...기술 협력 급물살",
@@ -521,7 +565,7 @@
             "content": "세계 AI 반도체 시장의 거물인 엔비디아의 젠슨 황 CEO가 한국 로보틱스 산업의 잠재력을 높게 평가하며, 기술 발전에 직접 기여하고 싶다는 뜻을 밝혔습니다. 이 발언은 대만에서 열린 컴퓨텍스 행사 중 언급된 것으로, 한국의 IT 제조 역량과 AI 소프트웨어의 결합 가능성을 시사합니다.\n\n젠슨 황 CEO는 한국이 세계 최고 수준의 제조 기술과 하이테크 인프라를 갖추고 있어, 차세대 로보틱스 기술 구현의 최적의 파트너라고 치켜세웠습니다. 특히 삼성전자, 현대차 등 로봇 산업에 대규모 투자를 진행 중인 한국 기업들과의 협업 가능성이 열려 있음을 암시하며, AI 칩을 넘어선 지능형 로봇 생태계 확장에 대한 야심을 드러냈습니다.\n\n이러한 소식이 전해지자 국내 로봇 관련 주들은 일제히 급등세를 보였습니다. 시장에서는 엔비디아의 강력한 컴퓨팅 파워와 한국의 하드웨어 기술력이 결합할 경우, 글로벌 로봇 시장의 패러다임을 바꿀 수 있는 시너지가 발생할 것으로 기대하고 있습니다.\n\n향후 엔비디아와 한국 기업들 간의 구체적인 업무협약(MOU)이나 공동 프로젝트 추진 여부에 이목이 쏠리고 있습니다. AI 로보틱스가 미래 먹거리 산업의 핵심으로 떠오른 만큼, 정부 차원에서도 관련 산업의 규제 완화와 R&D 지원을 강화해야 한다는 목소리가 높습니다.",
             "image_prompt": "Jensen Huang, humanoid robot, AI microchip, high-tech laboratory, futuristic partnership",
             "published_at": "2026-06-03 01:18:26",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "반도체는 초호황, 지역경제는 뒷걸음질...성장 격차 심화",
@@ -532,7 +576,7 @@
             "content": "대한민국 경제의 대들보인 반도체 산업이 사상 최대 실적을 갈아치우며 초호황기를 누리고 있지만, 그 온기가 지역 실물 경제까지는 전달되지 못하고 있다는 비판의 목소리가 높습니다. 수출 지표는 화려한 숫자를 기록하는 반면, 지방 도시는 상가 공실률이 높아지고 소비가 얼어붙는 등 극명한 대조를 보이고 있습니다.\n\n인천일보의 사설에 따르면, 반도체 생산 기지가 집중된 일부 지역을 제외하고는 대부분의 지방 경제가 뒷걸음질 치고 있습니다. 이는 대기업 중심의 수출 성장이 낙수 효과를 내지 못하고 있으며, 고물가와 고금리로 인해 자영업자와 중소기업들의 경영난이 한계점에 도달했기 때문으로 분석됩니다.\n\n특히 2026년 지방선거를 앞두고 '경제 살리기'가 화두로 떠오른 가운데, 민선 9기 출범을 앞둔 각 지자체들은 이러한 지역 경제 위기를 타개할 나침반을 찾기에 분주합니다. 수도권 집중 현상과 지방 소멸 위기가 가속화되면서, 국가 전체의 성장 동력이 약화될 수 있다는 우려도 제기됩니다.\n\n전문가들은 반도체 호황으로 얻은 이익이 내수 시장으로 흘러 들어갈 수 있도록 하는 정책적 설계가 시급하다고 지적합니다. 지역 특화 산업 육성과 소상공인 지원 강화 등 수출과 내수의 균형 발전을 위한 근본적인 대책 마련이 필요한 시점입니다.",
             "image_prompt": "Microchip vs empty city street, economic disparity concept, luxury factory, struggling small business",
             "published_at": "2026-06-03 01:18:26",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "롤러코스터 탄 코스피...8,800 돌파하며 최고치 경신",
@@ -542,50 +586,6 @@
             "summary": "코스피 지수가 변동성 장세 속에서도 역사적 고점을 돌파하며 새로운 기록을 세웠습니다.",
             "content": "최근 국내 증시는 유례없는 변동성을 동반하면서도 코스피 지수가 8,800선을 돌파하는 기염을 토했습니다. 글로벌 금리 인하 기대감과 반도체 업황 회복이라는 호재가 맞물리며 외국인 투자자들의 강력한 매수세가 시장을 견인한 것으로 분석됩니다. 장중 한때 차익 실현 매물이 쏟아지며 불안한 모습을 보이기도 했으나, 대형주를 중심으로 지탱하며 강세 마감했습니다.\n\n전문가들은 이번 최고치 경신이 한국 경제의 펀더멘털에 대한 재평가 기회가 될 것으로 보고 있습니다. 특히 AI 반도체 수요 폭증에 따른 국내 IT 대형주들의 실적 개선 전망이 지수 상승의 핵심 동력으로 작용했습니다. 다만, 급격한 지수 상승에 따른 가격 부담감과 미국 대선 등 대외적인 정치적 불확실성이 여전히 변수로 남아 있어 투자자들의 주의가 요구됩니다.\n\n시장 관계자들은 코스피가 한 단계 레벨업된 구간에 진입했다고 평가하면서도, 종목별 차별화 장세가 뚜렷해질 것으로 전망하고 있습니다. 특정 섹터에 쏠린 수급이 다른 소외 업종으로 확산될지가 향후 추가 상승의 관건이 될 것입니다. 당분간은 글로벌 매크로 지표 발표에 따른 일시적 조정이 발생할 수 있는 롤러코스터 장세가 지속될 가능성이 큽니다.\n\n결과적으로 이번 지수 돌파는 단순한 수치를 넘어 국내 자본시장의 체력이 강화되었음을 시사합니다. 정부의 기업 밸류업 프로그램에 대한 기대감도 일조한 만큼, 실질적인 주주 환원 정책과 기업 지배구조 개선이 뒤따른다면 코스피의 장기적인 우상향 곡선은 더욱 탄력을 받을 것으로 보입니다.",
             "image_prompt": "Stock market bull, rising green graph, financial district background, dynamic motion blur, high-tech financial terminal",
-            "published_at": "2026-06-02 19:18:43",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "젠슨 황 \"한국 로보틱스 발전에 기여 희망\"",
-            "source": "MBC 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1falpMOUhhWFlURWJXNmZyZXZDeHIxRFVOQUVrOGdBWTQ0d2VheTFQNTNWS2kzTnlac3dwSHI1UnM4UWJ0VUxYajIzY0JEZjhENi1LWG5IM0pnZ2E1SnJvbVVsZ2NlTFFFS0lZclVWODVreF9hOXMzeNIBeEFVX3lxTE5PLS1fWnB6LTBPQkxHNVpxNXBWU0NaNnpnZDNuWlRvTkVMeDZzdjBlWnloNU40R2RNT1Z3RHhvMXJsakJMc09mX2hkRlcwZmlHdjJKSWw5Zjg2ay1sd2hsVzU0RlVhblRSbEtueHZOM2tyWkl2OTJvbg?oc=5",
-            "category": "테크",
-            "summary": "엔비디아 CEO 젠슨 황이 한국 로보틱스 산업과의 협력 의지를 피력하며 기술적 연대를 강조했습니다.",
-            "content": "세계 최고의 AI 반도체 기업 엔비디아의 수장 젠슨 황이 한국의 로보틱스 산업에 대해 깊은 관심을 표명했습니다. 그는 최근 인터뷰와 행사를 통해 한국이 보유한 정밀 제조 역량과 IT 인프라가 미래 AI 로보틱스 시대의 핵심 자산이 될 것이라고 평가했습니다. 특히 엔비디아의 소프트웨어 생태계와 한국의 하드웨어 기술력이 결합할 경우 폭발적인 시너지가 발생할 것이라는 기대를 내비쳤습니다.\n\n젠슨 황의 이러한 발언은 한국 로봇 기업들에 큰 호재로 작용하고 있습니다. 현재 국내 주요 대기업들은 미래 성장 동력으로 서비스 로봇과 산업용 로봇을 낙점하고 대규모 투자를 진행 중입니다. 엔비디아와의 협력이 구체화될 경우, 국내 기업들은 AI 가속기 및 시뮬레이션 플랫폼을 활용해 로봇의 지능화와 상용화 속도를 획기적으로 높일 수 있을 것으로 보입니다.\n\n정부 차원에서도 로보틱스를 국가 전략 산업으로 육성하고 있는 만큼, 글로벌 테크 거물과의 협력은 국내 생태계 확장에 중대한 전환점이 될 전망입니다. AI가 물리적 세계와 상호작용하는 '피지컬 AI' 시대에 있어 로봇은 그 중심에 있으며, 한국은 이를 실구현할 수 있는 최적의 파트너로 꼽힙니다. 젠슨 황은 한국 개발자 및 기업들과의 지속적인 소통을 통해 기술 발전에 기여하고 싶다는 구체적인 의지를 전했습니다.\n\n업계 전문가들은 이번 발언이 단순한 립서비스를 넘어 실질적인 공급망 협력이나 공동 R&D로 이어질지에 주목하고 있습니다. 한국의 반도체와 로봇 산업이 결합된 형태의 'K-로보틱스'가 글로벌 표준을 선도할 수 있는 기회가 열린 셈입니다. 앞으로 엔비디아의 차세대 칩셋이 한국산 로봇에 탑재되는 사례가 늘어날 것으로 기대됩니다.",
-            "image_prompt": "Futuristic humanoid robot, semiconductor chip interface, Jensen Huang aesthetic, neon circuits, AI innovation",
-            "published_at": "2026-06-02 19:18:43",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "중동 전쟁發 물가 3% 돌파…고물가·고금리·고환율 삼중고 현실화",
-            "source": "티제이비",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxbVRLc1EzTm1sUXF4ejlMZXFyLVpFVlRzdUhKaXJtNVF3N0ZDS3NuRnNGWDYxckU0Ym95cF9EcWRMSlAxNnlNc0lBNU9VXzVVQzVJNG1BaTdBWW8?oc=5",
-            "category": "거시",
-            "summary": "지정학적 리스크로 인한 국제 유가 상승이 국내 소비자 물가를 압박하며 경제적 부담이 가중되고 있습니다.",
-            "content": "중동 지역의 긴장 고조로 국제 유가가 요동치면서 국내 소비자 물가 상승률이 다시 3%대를 넘어섰습니다. 이는 당초 정부와 중앙은행이 예상했던 안정화 경로를 벗어난 수치로, 서민 경제에 비상등이 켜졌음을 의미합니다. 특히 에너지 가격 상승은 생산 원가 상승으로 이어져 식료품을 포함한 전반적인 생활 물가를 끌어올리는 악순환을 만들고 있습니다.\n\n여기에 더해 고금리와 고환율이 겹치는 '3고(高) 현상'이 심화되며 가계와 기업의 고통이 가중되고 있습니다. 환율 상승은 수입 물가를 높여 인플레이션을 자극하고, 높은 금리는 가계 대출 이자 부담을 늘려 내수 소비를 위축시키고 있습니다. 기업들 역시 원자재 가격 상승과 금융 비용 부담이라는 이중고에 처해 투자를 주저하고 있는 실정입니다.\n\n정부는 유류세 인하 연장과 공공요금 동결 등 다양한 물가 안정 대책을 내놓고 있지만, 대외 변수가 워낙 강력해 통제에 어려움을 겪고 있습니다. 전문가들은 물가가 잡히지 않을 경우 한국은행의 금리 인하 시점이 뒤로 밀릴 수밖에 없으며, 이는 경기 침체의 골을 더 깊게 만들 수 있다고 경고합니다. 현재의 삼중고는 단순한 일시적 충격을 넘어 구조적인 리스크로 고착화될 우려가 있습니다.\n\n소상공인과 중소기업의 폐업률이 증가하는 등 현장의 위기감은 최고조에 달해 있습니다. 정부는 맞춤형 금융 지원과 취약 계층 보호 대책을 강화하는 동시에, 대외 리스크 관리에 만전을 기해야 하는 상황입니다. 소비자들 역시 고물가 시대를 반영한 지출 구조 조정이 불가피해 보이며, 당분간 엄중한 경제 상황이 지속될 것으로 전망됩니다.",
-            "image_prompt": "Oil barrels in desert, burning fire, currency symbols dropping, dark stormy clouds, inflation concept",
-            "published_at": "2026-06-02 19:18:43",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "국방반도체법 국무회의 통과…\"자립역량 확보·국가경제 활성화\"",
-            "source": "머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFPE6aMu2Ww9sTCETS1WovL4LUWWzR2VEDo_V4ecGkr5WD5orO5xbc8cBl_AhYRKCQTOTt_t_mkr1nkSYyjEYdjkQ40xymAs6WV028BrSBckFVX3lxTE1NcmpUT2NXYUNCZXRMMEJnbjV4MTBJbUdUOHQ0aGNFYi1xemo0TE1tZm1RbzhOcXdlQWdQVmNRLTN3ZS1pYkIteFRZMU1Ha1ZMa1lpbjFRU0ZnVVJ5T3gzYk1NVGxXMVZHckNrTmRBYzZTUQ?oc=5",
-            "category": "정책",
-            "summary": "무기 체계의 핵심인 국방 반도체의 국산화를 지원하는 전담 법안이 마련되어 산업 경쟁력이 강화될 전망입니다.",
-            "content": "정부가 '국방반도체법' 시행령을 국무회의에서 의결함으로써, 국방 산업의 '두뇌' 역할을 하는 반도체 자립을 위한 법적 토대를 마련했습니다. 이번 법안은 해외 의존도가 높았던 유도무기, 전투기, 함정용 반도체를 국내 기술로 설계하고 생산할 수 있도록 R&D와 인프라 구축을 지원하는 내용을 골자로 합니다. 이는 단순한 군사력 강화를 넘어 국내 반도체 산업에 새로운 시장을 열어주는 조치로 평가받습니다.\n\n국방 반도체는 일반 민수용과 달리 극한의 환경에서도 작동해야 하는 높은 신뢰성을 요구하기 때문에 기술 장벽이 높습니다. 하지만 이번 법안 통과를 통해 정부 주도의 대규모 프로젝트가 가동되면, 국내 팹리스와 파운드리 기업들이 국방이라는 안정적인 수요처를 확보하게 됩니다. 이는 기업들이 고부가가치 기술을 축적하고 글로벌 방산 시장으로 진출하는 든든한 발판이 될 것으로 기대됩니다.\n\n또한, 지정학적 위기 시 반도체 공급망 차질로 인해 국방력이 약화되는 리스크를 사전에 차단한다는 전략적 의미도 큽니다. 반도체 패권 경쟁이 심화되는 가운데, 자국 군사 장비에 들어가는 칩을 스스로 생산할 수 있는 능력은 국가 안보와 직결되는 문제입니다. 정부는 이를 위해 국방 반도체 특화 클러스터를 조성하고 전문 인력 양성에도 박차를 가할 계획입니다.\n\n산업계는 이번 법안 시행이 민간 반도체 기술의 국방 전용과 국방 기술의 민간 이전이라는 선순환 구조를 만들 것으로 보고 있습니다. '국방 반도체 자립'이라는 목표가 달성되면 한국은 반도체 강국을 넘어 반도체 안보 강국으로 거듭나게 됩니다. 앞으로 국방 반도체 분야가 한국 경제의 새로운 성장 엔진 중 하나로 자리매김할 수 있을지 귀추가 주목됩니다.",
-            "image_prompt": "Military microchip, futuristic shield, national flag background, metallic texture, defense technology",
-            "published_at": "2026-06-02 19:18:43",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "[BOK 컨퍼런스] 이수형 금통위원 \"디지털경제서 통화정책 파급경로 중요\"",
-            "source": "연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOREIwaUtzamFDV3JjbUJxaGVaSGRqbTZzUTJJTmRRV3YyeWJ5MXJrbFpiVmROVWVORlZucFZNWkx3VngyemdXMW5WMDdGbFlHb25LSHdIeFlBQkRnakdQV3JNUmxPY3FseTBCWnc1d2Q?oc=5",
-            "category": "금융",
-            "summary": "디지털 전환 가속화에 따라 한국은행의 금리 결정이 실물 경제에 미치는 경로가 변하고 있다는 진단이 나왔습니다.",
-            "content": "이수형 한국은행 금융통화위원이 디지털 경제 시대를 맞아 기존의 통화정책 전달 체계가 중대한 변화에 직면했다고 강조했습니다. 디지털 결제 수단의 확산과 핀테크의 부상은 중앙은행이 금리를 조정했을 때 소비와 투자로 이어지는 속도와 파급력을 과거와 다르게 만들고 있습니다. 이 위원은 이러한 변화를 정확히 파악해야만 정교한 통화정책 수립이 가능하다고 주장했습니다.\n\n특히 디지털 금융 환경에서는 자금 이동이 실시간으로 이루어지기 때문에 통화 정책의 즉각적인 반영이 강화될 수 있지만, 동시에 예상치 못한 유동성 쏠림 현상이 발생할 수도 있습니다. 비은행 금융기관의 역할이 커지면서 전통적인 은행 중심의 정책 효과가 반감될 수 있다는 점도 주요 우려 사항 중 하나입니다. 이에 따라 한국은행은 데이터 기반의 실시간 모니터링 체계를 고도화하고 있습니다.\n\n이번 컨퍼런스에서는 CBDC(중앙은행 디지털 화폐) 도입 가능성과 그것이 통화 정책에 미칠 영향에 대해서도 심도 있는 논의가 오갔습니다. 디지털 경제 하에서는 물가와 성장의 관계가 과거와 다른 양상을 보일 수 있어, 중앙은행이 고려해야 할 변수가 훨씬 복잡해졌다는 분석입니다. 정책 입안자들은 기술적 진보가 금융 안정을 저해하지 않도록 새로운 안전장치를 마련해야 한다는 데 공감대를 형성했습니다.\n\n이 위원의 발언은 향후 한국은행의 정책 방향이 단순히 금리 수치를 조정하는 것을 넘어, 금융 생태계 전반의 디지털 구조를 반영하는 방향으로 진화할 것임을 시사합니다. 디지털 경제에 최적화된 통화 정책 모델 개발은 글로벌 중앙은행들의 공통 과제이기도 합니다. 한국은행은 이번 논의를 바탕으로 급변하는 금융 환경 속에서 물가 안정과 금융 안정을 동시에 달성하기 위한 전략을 재정비할 것으로 보입니다.",
-            "image_prompt": "Digital currency network, central bank building, data flows, golden coins and binary code, professional finance",
             "published_at": "2026-06-02 19:18:43",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
