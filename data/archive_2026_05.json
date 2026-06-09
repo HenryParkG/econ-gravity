@@ -1,6 +1,50 @@
 {
-    "last_updated": "2026-06-09 11:50:23",
+    "last_updated": "2026-06-09 20:58:27",
     "items": [
+        {
+            "title": "호르무즈 사실상 봉쇄…한국 경제와 물류시장 ‘초비상’",
+            "source": "전주일보",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50a25HVFFkN1REaEUya09KcHJwSFlJZEctOXZHcUdHOVpBYi1wanpqOVV3NnVQeXVsTjcybGt5QXRURFJ2dDM1X3hSdjdkUFJGX0JmXzZqMEV4UVB2YUQzNHSaUkxrMzlkVlI1Qg?oc=5",
+            "category": "물류",
+            "summary": "중동의 지정학적 위기로 호르무즈 해협이 봉쇄되면서 국내 수출입 물류에 비상이 걸렸습니다.",
+            "content": "중동의 화약고인 호르무즈 해협이 사실상 봉쇄 국면에 접어들면서 국내 물류업계와 에너지 시장에 초비상이 걸렸습니다. 이곳은 전 세계 원유 물동량의 상당 부분이 통과하는 핵심 요충지로, 봉쇄가 장기화될 경우 국내 유가 급등은 피할 수 없는 수순입니다.\n\n수출 주도형 국가인 한국에게 해상 물류 경로의 차단은 제조 원가 상승과 납기 지연이라는 치명적인 결과를 초래합니다. 이미 주요 해운사들은 우회 항로를 검토하고 있으나, 이로 인한 운송비 상승과 컨테이너선 확보 전쟁이 다시금 가열되고 있는 상황입니다.\n\n정부는 비상경제대책을 가동하여 에너지 수급 상황을 점검하고 물류비 지원 방안을 모색하고 있습니다. 하지만 지정학적 불안이 해소되지 않는 한, 글로벌 공급망 교란에 따른 인플레이션 압력은 당분간 국내 경제의 가장 큰 리스크 요인으로 작용할 것으로 보입니다.",
+            "image_prompt": "Strait of Hormuz map, Cargo ship stuck, Oil barrel flame, Global logistics crisis",
+            "published_at": "2026-05-10 11:42:03",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "현대경제연구원 \"원화 환율 10% 상승시 물가 0.3~0.5%포인트 높여\"",
+            "source": "조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkNTdTBrSXFNdGgxMjdQRk0xN1l2NHZzVjBPUVMwRE9kWmNPenliVFJ3dUx3YTdhV3lhMlBBYVhJTWF0T1pma1h1Rmo3UktaVGdPbmVlWlRZVlNEQVNOcUdfMXpjQzZiZXh0MXhpSTExbHhxS2VPNF9qcE51MWJ0REJNNFVVUkhhLUxyUkVB?oc=5",
+            "category": "시장",
+            "summary": "환율 급등이 수입 물가를 자극해 국내 소비자 물가를 직접적으로 끌어올리고 있다는 분석입니다.",
+            "content": "현대경제연구원의 최근 보고서에 따르면 원·달러 환율이 10% 상승할 때마다 국내 소비자 물가는 약 0.3%에서 0.5%포인트 가량 추가 상승하는 효과가 발생하는 것으로 나타났습니다. 고환율이 단순히 외환 시장의 문제를 넘어 서민 경제의 장바구니 물가까지 직접 타격하고 있다는 분석입니다.\n\n최근 미국 연준의 고금리 유지 기조와 지정학적 불안이 겹치면서 원화 가치는 약세를 면치 못하고 있습니다. 이는 원자재와 중간재를 수입해 가공하는 국내 기업들의 비용 부담을 가중시키며, 결국 최종 소비재 가격 인상으로 이어지는 '비용 인상 인플레이션'을 유발합니다.\n\n연구원은 환율 변동성이 물가 안정 목표를 저해하지 않도록 정교한 미세조정과 함께 원자재 수급 다변화 등의 구조적 대책이 시급하다고 제언했습니다. 고환율·고물가·고금리의 '3고' 현상이 지속되면서 내수 소비 위축에 대한 우려도 깊어지고 있습니다.",
+            "image_prompt": "Currency exchange rate graph, Korean Won vs US Dollar, Inflation pressure, Price tags",
+            "published_at": "2026-05-10 11:42:03",
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "미국 조선업 재건 '협력거점' 세운다…한미 '맞손' 첫 단추",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KdnlXc1p5aG04RHV1VmpiOVdVMXI1bWFhMS1wNzdrVEYwTVlUTUMxMU51YnNUZnRDaVVUTUNlaFZ4R2ZJQko2clViS3Y0dG9RRVM4NTNpTVMyQdIBVEFVX3lxTE9qZWF6OHVaN2VqVERIMHRkMGFtTDVOS21DM0R3V1AwTFBMa0dLVXRXc0tlTmNQbVZoQ1dKUXRGNHkzSkY2MzJUNThtdjRaeEVVZXFRMQ?oc=5",
+            "category": "산업",
+            "summary": "한국의 뛰어난 조선 기술이 미국의 노후화된 조선업 재건을 위한 핵심 파트너로 선택되었습니다.",
+            "content": "대한민국과 미국이 미국의 조선업 부활을 위해 전략적 파트너십을 체결하고 본격적인 협력에 나섰습니다. 이번 협력은 미국의 노후한 조선소 인프라를 현대화하고, 한국의 세계적인 선박 건조 및 유지보수 기술을 전수하는 것을 골자로 합니다.\n\n미국은 안보적 측면에서 자국 내 함정 건조 능력을 회복하길 원하며, 이에 기술력이 검증된 한국 조선사들과의 협력을 강력히 희망해 왔습니다. 이는 우리 기업들에게 미국 시장 진출의 교두보를 마련해 줄 뿐만 아니라, 향후 군수 및 민간 선박 시장에서의 점유율을 확대할 수 있는 절호의 기회로 평가됩니다.\n\n양국은 기술 표준화와 전문 인력 교류를 통해 협력 거점을 구축할 예정입니다. 이번 '조선 동맹'은 단순한 비즈니스를 넘어 동맹국 간의 공급망 결속을 강화하고, 미래 해양 산업의 주도권을 확보하기 위한 포석으로 풀이됩니다.",
+            "image_prompt": "Shipyard construction, South Korea and USA flags, High-tech vessel, Global industry cooperation",
+            "published_at": "2026-05-10 11:42:03",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[이번주 경제]4월 취업자 20만명대 유지할까…KDI 성장률 전망 주목",
+            "source": "뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zOEhVV3gzNEMta291QTVaLWRCUjZGY2M4c0pNY2hhNjRIaFZhUUk2V3ZiXzdJSHAxcTM0NU5yenRLeUNQeU5lLVZRNXJlanJsRm1EeA?oc=5",
+            "category": "정책",
+            "summary": "고용 지표의 지속 가능성과 국책연구기관의 경제 전망치가 이번 주 시장의 주요 관심사입니다.",
+            "content": "이번 주 발표될 4월 고용동향과 한국개발연구원(KDI)의 경제전망에 시장의 이목이 집중되고 있습니다. 특히 지난달까지 이어온 '취업자 수 20만 명대 증가' 흐름이 유지될 수 있을지가 경기 회복의 강도를 가늠하는 핵심 지표가 될 것으로 보입니다.\n\nKDI가 발표할 수정 경제전망은 올해 우리나라의 실질 GDP 성장률이 정부와 한국은행의 예상치에 부합할지, 아니면 대외 리스크를 반영해 하향 조정될지를 결정짓는 중요한 척도가 될 것입니다. 수출 호조에도 불구하고 고물가·고금리로 인한 내수 부진이 지표에 어떻게 반영될지가 관건입니다.\n\n전문가들은 청년층과 고령층의 고용 양극화 문제, 그리고 건설업 등 일부 업종의 고용 위축 가능성을 경고하고 있습니다. 이번 주 발표될 지표들은 하반기 정부의 경제 정책 운용 방향을 설정하는 데 결정적인 근거가 될 것으로 보입니다.",
+            "image_prompt": "Employment chart, KDI building, Professional economic analysis, Growth forecast documents",
+            "published_at": "2026-05-10 11:42:03",
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "'금리 인상' 꺼낸 한은 부총재도 \"반도체 꺾이면 경제 우려\" - YTN",
             "source": "YTN",
