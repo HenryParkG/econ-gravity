@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-14 18:29:35",
-    "briefing": "오늘의 경제는 원화 가치 하락과 반도체 중심의 양극화된 성장이라는 명암이 공존하고 있습니다. 특히 중국의 기술 추격과 국내 정치권의 상임위 쟁탈전이 이어지는 가운데, 문화 산업과 AI를 통한 장기적인 성장 동력 확보가 핵심 과제로 부상했습니다.",
+    "last_updated": "2026-06-14 22:56:45",
+    "briefing": "오늘의 경제는 원화 가치 하락에 따른 외환 시장의 불안정성과 이를 타개하기 위한 한미 외환 당국의 공조 노력이 핵심 화두였습니다. 동시에 반도체(HBM)와 AI 기술을 중심으로 한 미래 성장 동력 확보, 그리고 대통령의 유럽 순방을 통한 경제 외교 성과가 주요하게 다뤄졌습니다.",
     "indices": [
         {
             "name": "KOSPI",
@@ -40,6 +40,61 @@
     ],
     "items": [
         {
+            "title": "원화 가치 하락 경고등... 한미 외환당국 '구두 개입' 및 공조 강화",
+            "source": "YTN, 연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZTdjejhJdGxlMUkyOEFCUWZlbUZDOUNKZUpqcm9CczNycWdwYTd5UmdVa1pFMDJ3RVhHNXJVd085R1FvZ1Q5bDBhc1cwSTNfRXZ5bW1XVFRaWUlQRUtoWUhEdTQtUHpsUUREZ2lPQlk?oc=5",
+            "category": "금융",
+            "summary": "원화 가치가 주요 통화 중 최약세를 보이자 한미 외환당국이 시장 안정화에 나섰습니다.",
+            "content": "최근 원화 가치가 주요국 통화 대비 급격히 하락하며 한국 경제에 '소리 없는 경고'를 보내고 있습니다. 실제로 원화보다 가치가 더 떨어진 통화는 사실상 없다는 분석이 나올 정도로 원·달러 환율의 변동성이 확대되는 추세입니다. 이는 수입 물가 상승으로 이어져 국내 인플레이션 압력을 가중시킬 수 있다는 우려를 낳고 있습니다.\n\n이에 대응하기 위해 한국과 미국의 외환당국 수장들은 미국 현지에서 회동을 갖고 원화 약세 대응에 대한 공조 의지를 확인했습니다. 양국은 최근의 환율 움직임이 펀더멘털을 과도하게 이탈했다는 인식을 공유하며, 필요한 경우 시장 안정을 위해 협력하기로 합의했습니다. 이는 시장에 강력한 구두 개입 메시지를 전달한 것으로 풀이됩니다.\n\n금융 전문가들은 이번 공조가 단기적인 환율 진정 효과를 가져올 수 있으나, 근본적인 원화 강세를 위해서는 수출 경쟁력 강화와 국내 경기 회복이 뒷받침되어야 한다고 지적합니다. 특히 미국의 통화 정책 방향과 글로벌 경기 흐름에 따라 원화의 향방이 결정될 것으로 보입니다.\n\n정부는 향후 외환 시장 모니터링을 강화하고, 급격한 쏠림 현상이 발생할 경우 적절한 시장 안정 조치를 시행할 방침입니다. 또한 대외 신인도를 관리하고 경상수지 흑자 기조를 유지함으로써 원화 가치의 하향 안정화를 도모할 계획입니다.",
+            "image_prompt": "Korean Won and US Dollar, currency exchange rate, financial market stability, blue professional charts",
+            "published_at": "2026-06-14 22:56:45",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "SK 최태원 회장의 AX 승부수... 'HBM 시대' 선점으로 미래 기회 확보",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWFpyUS1lTDN5TVBETEpZaTBMaHZ4MFYxNElua09OSnJMaEdRZjFtSXNfbXNteldiVU1qbXFqLVZWcnNHQndlLTljNlczMjdJSTNoMzgxSUMzUdIBVEFVX3lxTE05TzQ2NUw0X3ZTZi1QSXJzc0s0bU8yWThuV0VPN1Q4LWxxd0hnZV9Va1VKRFNDU0VWUi1JM3VqUkhCdWRrX3ZZR3pkTVBTblVkcXhHcg?oc=5",
+            "category": "테크",
+            "summary": "최태원 SK 회장이 AI 전환(AX)의 중요성을 강조하며 HBM 시장 주도권 유지를 선언했습니다.",
+            "content": "최태원 SK그룹 회장이 고대역폭메모리(HBM)의 중요성을 강조하며 인공지능 전환(AX) 시대를 선도하겠다는 강력한 의지를 표명했습니다. 최 회장은 최근 열린 경영 회의에서 'AI 혁신을 하지 않으면 다시는 기회가 오지 않을 것'이라며, 현재의 반도체 호황에 안주하지 말고 기술 격차를 더욱 벌려야 한다고 독려했습니다.\n\n특히 SK하이닉스는 엔비디아 등 글로벌 테크 기업들에 HBM 제품을 공급하며 시장에서 독보적인 위치를 점하고 있습니다. 최 회장은 이러한 성과를 바탕으로 메모리 반도체를 넘어 시스템 반도체와 AI 서비스 영역까지 아우르는 생태계를 구축해야 한다고 역설했습니다. 이는 SK그룹 전반의 사업 구조를 AI 중심으로 재편하겠다는 전략으로 풀이됩니다.\n\n전문가들은 SK의 이러한 행보가 한국 반도체 산업의 위상을 한 단계 높이는 계기가 될 것으로 보고 있습니다. HBM은 고성능 연산이 필요한 AI 서버에 필수적인 부품인 만큼, 관련 시장 규모는 매년 급격히 성장할 전망입니다. 최 회장은 이 기회를 놓치지 않기 위해 과감한 투자와 인재 확보를 지속할 것을 주문했습니다.\n\n결국 'AX(AI Transformation)'는 단순한 기술 도입을 넘어 기업의 생존 전략이 되었습니다. SK그룹은 앞으로도 AI 가치 사슬 전반에서 경쟁력을 강화하며, 글로벌 시장에서 '퍼스트 무버'로서의 입지를 공고히 할 계획입니다.",
+            "image_prompt": "HBM Semiconductor chip, AI neural network background, futuristic technology, golden circuit light",
+            "published_at": "2026-06-14 22:56:45",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "대통령 유럽 순방 성과... '경제 외교' 확장 및 G7 정상회의 참석",
+            "source": "이투데이, 재외동포신문",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kd2hKdlpQX0tiSGJpTmVSOTNqc3lTbGt2cFlmQ3o4UDJ5ZkRaaEY3cVV4azlzc2M0SFVPZzlTcW5rS0VGLWhINGJLR2dRcEJrdVJaMA?oc=5",
+            "category": "정책",
+            "summary": "유럽 국가들과의 철강, AI 협력을 공고히 한 대통령이 G7 정상회의를 통해 글로벌 보폭을 넓힙니다.",
+            "content": "윤석열 대통령의 이번 유럽 순방은 한국 기업들의 글로벌 시장 진출을 돕고, 핵심 산업 분야에서의 협력을 강화하는 '경제 외교'에 초점이 맞춰졌습니다. 특히 철강 관세 문제와 AI 기술 협력 등 민감하면서도 중요한 경제 현안들이 심도 있게 논의되었습니다. 삼성, 현대차, 네이버 등 국내 주요 기업인들이 대거 동행하여 실질적인 비즈니스 성과를 창출했습니다.\n\n순방 기간 동안 한국과 유럽 국가들은 공급망 안정화와 탄소 중립 대응을 위한 공동 협력을 약속했습니다. 이는 자국 우선주의가 강화되는 글로벌 통상 환경에서 한국의 입지를 확보하는 데 기여할 것으로 보입니다. 또한 디지털 기술 협력을 통해 미래 산업의 주도권을 확보하겠다는 의지도 재확인했습니다.\n\n대통령은 유럽 순방 일정을 마무리한 후 16일 이탈리아에서 열리는 G7 정상회의에 참석합니다. 한국은 이번 회의를 통해 글로벌 현안에 적극적으로 목소리를 내며 '글로벌 중추 국가'로서의 위상을 높일 계획입니다. 특히 식량 안보, 보건, 기후 위기 등 인류 공동의 과제 해결을 위한 한국의 기여 방안을 제시할 예정입니다.\n\n이번 순방과 G7 참석은 한국 경제가 직면한 대외 불확실성을 해소하고, 새로운 성장 동력을 발굴하는 중요한 전환점이 될 것으로 기대됩니다. 정부는 순방 성과가 실제 수출 증대와 일자리 창출로 이어질 수 있도록 후속 조치에 만전을 기할 방침입니다.",
+            "image_prompt": "Global diplomacy summit, European flags, business handshake, elegant conference room",
+            "published_at": "2026-06-14 22:56:45",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "CNBC \"BTS, 한국 경제의 장기적인 성장 동력\"... K-컬처 경제적 가치 재조명",
+            "source": "연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOejZ4eV9YRTZxSXEyUnV3VjlaUllhd2ZQRUxKbVozV3BKY3FzYlRLQW14SEp4RlSaOFpwQ28tZm9rbExKd1dYXzNta0hwQlVsU182WHluSTJGbnVlWjRMZWN3Q0JCMnpONldlRlRpazc?oc=5",
+            "category": "문화",
+            "summary": "외신은 BTS가 단순한 아티스트를 넘어 한국 경제 성장의 핵심 축으로 자리 잡았다고 분석했습니다.",
+            "content": "미국 경제 전문 매체 CNBC가 방탄소년단(BTS)을 한국 경제의 장기적인 성장 동력으로 지목하며 주목했습니다. 보고서에 따르면 BTS의 활동은 관광 수익 증대뿐만 아니라 한국산 소비재 수출 확대, 한국어 학습 열풍 등 전방위적인 경제 파급 효과를 일으키고 있습니다. 이는 단순한 문화 현상을 넘어 국가 브랜드 가치를 높이는 전략적 자산으로 평가받습니다.\n\nBTS가 군 복무 등으로 활동 공백기를 가졌음에도 불구하고, 그들의 콘텐츠와 영향력은 여전히 강력합니다. CNBC는 BTS가 복귀한 이후 창출될 경제적 가치는 이전보다 더욱 거대할 것으로 예상했습니다. 특히 K-팝을 중심으로 한 팬덤 경제는 디지털 플랫폼과 결합하여 전 세계적으로 거대한 시장을 형성하고 있습니다.\n\n한국 정부와 관련 산업계는 이러한 K-컬처의 성공을 지속 가능하게 만들기 위한 방안을 고심하고 있습니다. 문화 콘텐츠와 첨단 기술(AI, 메타버스 등)을 결합하여 고부가가치를 창출하는 것이 핵심 과제입니다. 또한 중소기업들의 해외 진출을 돕는 마케팅 도구로서 K-컬처를 활용하는 전략도 강화되고 있습니다.\n\n결국 BTS라는 글로벌 아이콘은 한국 경제가 제조업 중심에서 서비스 및 콘텐츠 중심의 고부가가치 구조로 전환하는 데 결정적인 역할을 하고 있습니다. 전문가들은 K-컬처의 인기가 단발성에 그치지 않도록 체계적인 지원과 생태계 조성이 필요하다고 강조합니다.",
+            "image_prompt": "K-pop concert purple lights, BTS silhouette, global map connected by music, economic growth graph",
+            "published_at": "2026-06-14 22:56:45",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "미국 노동 시장의 변화 경고... \"5년 뒤 고학력자도 저임금 일자리로\"",
+            "source": "서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mbm5KLVRsUmEtb01sN2tyak5XdVZqQVVZN3llM0dobTNfRmhBY1dfMS1JUXo3T1hmZUtRVmRlT3JjRFZKRHRFQW1hV0ZPcm50U3fSAVNBVV95cUxOcWxLc1oyZ29oSEtGNHZobGpud0lhMGxGZjlhUDRwOVpZNUZqUW1IXzhDN2RPeTN4STBrcE1YaEpKa0V3cERGQ2tHcWxSdmdNR1Q4RQ?oc=5",
+            "category": "시장",
+            "summary": "AI 기술 발전과 경제 구조 변화로 미국의 고학력자들이 아르바이트 시장으로 내몰릴 수 있다는 분석이 제기되었습니다.",
+            "content": "향후 5년 이내에 미국의 고학력자 상당수가 기존의 전문직 대신 저임금 아르바이트나 파트타임 일자리로 내몰릴 수 있다는 충격적인 전망이 나왔습니다. 이는 인공지능(AI) 기술의 급격한 발전이 화이트칼라 업무를 상당 부분 대체할 것이라는 공포와 맥을 같이 합니다. 자동화와 효율성을 앞세운 기업들이 전문직 채용을 줄이면서 고학력 구직자들 간의 경쟁이 더욱 치열해지고 있습니다.\n\n특히 법률, 금융, 데이터 분석 등 고도의 지적 능력이 요구되던 분야에서도 AI의 영향력이 커지고 있습니다. 이러한 구조적 변화는 대학 교육의 가치에 대한 근본적인 의문을 제기하게 합니다. 많은 비용과 시간을 들여 학위를 취득했음에도 불구하고, 시장이 요구하는 기술(Skills)과 불일치가 발생하면서 '학력 인플레이션' 현상이 심화되고 있다는 지적입니다.\n\n전문가들은 이러한 현상이 미국만의 문제가 아니라고 경고합니다. 한국을 포함한 선진국들 역시 비슷한 흐름을 보일 가능성이 큽니다. 노동 시장의 유연성이 높아지는 동시에 고용의 질은 저하되는 '긱 경제(Gig Economy)'의 확산이 가속화될 수 있습니다. 이는 사회적 불평등 심화와 소득 양극화라는 새로운 사회적 비용을 초래할 수 있습니다.\n\n이에 대응하기 위해서는 교육 시스템의 전면적인 개편과 재교육 프로그램 강화가 필수적입니다. 단순히 지식을 습득하는 것을 넘어, AI가 대체하기 어려운 창의성과 비판적 사고, 협업 능력을 키우는 교육이 중요해지고 있습니다. 정부와 기업은 변화하는 노동 환경에 맞춰 고용 안전망을 재설계해야 할 시점입니다.",
+            "image_prompt": "University diploma in a trash bin, AI robot performing office work, gig economy symbols, frustrated office worker",
+            "published_at": "2026-06-14 22:56:45",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "원화보다 가치 떨어진 통화는 사실상 없다...한국 경제의 소리 없는 경고",
             "source": "YTN",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBET0h1QlNDQ1BvN21RSkdBSkZTT3ZrMENZYnlNN0E1TEFzTVRYdk9MRGJJRHNWRVhReE5PUXo1cVlJYnZKaTd2LWZxV2pGd0ptQjlaUTdQRjlrMmlBY0E?oc=5",
@@ -48,7 +103,7 @@
             "content": "최근 외환시장에서 원화의 가치가 주요국 통화 중 가장 큰 폭으로 하락하며 경제계에 비상벨이 울리고 있습니다. 이는 단순히 달러 강세에 따른 현상을 넘어, 한국 경제의 성장 잠재력과 대외 신인도에 대한 소리 없는 경고로 해석되고 있습니다.\n\n전문가들은 원화 약세의 주요 원인으로 수출 구조의 편중과 내수 부진을 꼽고 있습니다. 반도체 수출은 호조를 보이고 있으나, 그 외 산업의 경쟁력 약화와 고물가·고금리로 인한 가계 소비 위축이 원화 가치를 끌어내리는 요인이 되고 있습니다.\n\n이러한 원화 가치 하락은 수입 물가 상승으로 이어져 국내 인플레이션 압력을 가중시킬 위험이 있습니다. 또한 외화 자금 유출 가능성을 높여 금융 시장의 변동성을 키울 수 있다는 점에서 정부의 세밀한 환율 관리와 구조적 대책 마련이 시급한 시점입니다.",
             "image_prompt": "Korean Won falling, currency exchange chart, financial crisis red light, global market volatility, professional banking style",
             "published_at": "2026-06-14 18:29:35",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국경제, 50년 만의 고성장…반도체 호황 속 청년은 고용한파",
@@ -59,7 +114,7 @@
             "content": "한국 경제가 반도체 수출 호조에 힘입어 수치상으로는 50년 만의 기록적인 성장을 보이고 있지만, 정작 청년 세대가 체감하는 고용 시장은 여전히 '빙하기'에 머물러 있는 'K자형 성장'의 단면을 보이고 있습니다.\n\n삼성전자와 SK하이닉스 등 대형 IT 기업들의 실적 개선이 전체 수출 실적을 견인하고 있으나, 이러한 성장이 양질의 일자리 창출로 직접 연결되지 못하고 있습니다. 자동화 설비 확충과 고도화된 기술 요구로 인해 신규 채용 규모는 과거에 미치지 못하는 실정입니다.\n\n이로 인해 고학력 청년들이 눈높이에 맞는 일자리를 찾지 못하고 단기 아르바이트나 플랫폼 노동으로 내몰리는 현상이 심화되고 있습니다. 지표상의 풍요 속에서 청년층의 박탈감은 커져만 가고 있으며, 이는 장기적으로 한국 경제의 인적 자원 경쟁력을 약화시킬 수 있다는 우려가 나옵니다.",
             "image_prompt": "High-tech semiconductor chips, frustrated young job seeker, K-shaped growth graph, blue and cold tone, economic contrast",
             "published_at": "2026-06-14 18:29:35",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "돈 빌려주고 수주하는 中, 고부가 선박까지 점령하나",
@@ -70,7 +125,7 @@
             "content": "과거 저가 수주에 집중했던 중국 조선업계가 이제는 거대 자본을 바탕으로 한 금융 지원 전략을 펼치며 LNG 운반선 등 고부가가치 선박 시장을 빠르게 잠식하고 있습니다. 중국 정부와 국영 은행의 전폭적인 지지가 한국 조선업의 아성을 흔들고 있는 것입니다.\n\n중국은 선주들에게 파격적인 금융 리스 조건을 제시하며 계약을 따내는 방식을 취하고 있습니다. 이는 기술력 차이를 금융 자본력으로 메우려는 전략으로, 한국 기업들이 기술 격차를 유지하더라도 수주 경쟁에서 밀릴 수 있는 위험한 상황을 만들고 있습니다.\n\n한국 조선업계는 이에 맞서 친환경 선박 기술 고도화와 자율운항 시스템 도입 등 초격차 기술 확보에 사활을 걸고 있습니다. 하지만 정부 차원의 정책 금융 지원이 뒷받침되지 않는다면 글로벌 시장 점유율 방어에 한계가 있을 것이라는 지적이 힘을 얻고 있습니다.",
             "image_prompt": "Giant cargo ship in shipyard, China vs South Korea flag, maritime industry competition, financial investment icons, metallic blue",
             "published_at": "2026-06-14 18:29:35",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "CNBC \"BTS, 韓 경제 장기 성장 동력 될 수도\"",
@@ -81,7 +136,7 @@
             "content": "미국 경제 전문 매체 CNBC가 그룹 방탄소년단(BTS)의 멤버들이 군 복무를 마치고 완전체로 돌아올 경우, 한국 경제에 엄청난 활력을 불어넣을 '장기 성장 동력'이 될 것이라는 분석을 내놓았습니다. 이는 단순한 엔터테인먼트의 성공을 넘어 국가 브랜드 가치 제고와 직결된다는 평가입니다.\n\n보고서에 따르면 BTS의 활동은 외국인 관광객 유치, 한국 화장품 및 음식(K-Food) 수출 증대, 그리고 한국어 학습 열기 확산 등 연쇄적인 경제적 효과를 창출합니다. 실제로 BTS 한 팀이 창출하는 경제적 부가가치는 중소기업 수백 개의 매출과 맞먹는 수준으로 추산됩니다.\n\n이러한 현상은 제조업 중심의 한국 경제 구조에서 문화 콘텐츠가 새로운 수출 효자 종목으로 자리 잡았음을 보여줍니다. 외신은 한국 정부가 이러한 소프트파워를 지속 가능한 경제 성장 동력으로 연결하기 위한 전략적 인프라 구축에 더욱 힘써야 한다고 조언했습니다.",
             "image_prompt": "BTS concert stadium lights, South Korea economy grow chart, K-culture global impact, dynamic purple glow, vibrant energy",
             "published_at": "2026-06-14 18:29:35",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "여야, 법사위·경제상임위 쟁탈전 예고... 국회 원 구성 협상 난항",
@@ -92,7 +147,7 @@
             "content": "여야 정치권이 국회 후반기 원 구성을 두고 법제사법위원회와 더불어 정무위원회, 기획재정위원회 등 주요 경제 상임위원장 자리를 차지하기 위한 가파른 대치를 이어가고 있습니다. 이는 차기 대선을 앞두고 경제 입법 주도권을 확보하려는 전략적 포석으로 풀이됩니다.\n\n국민의힘은 정부의 경제 정책 기조를 뒷받침하기 위해 경제 관련 상임위 사수가 필수적이라는 입장인 반면, 더불어민주당은 정부의 실정을 견제하고 민생 입법을 추진하기 위해 위원장직을 가져와야 한다고 맞서고 있습니다. 특히 세제 개편과 규제 완화 등 민감한 경제 현안이 산적해 있어 협상은 더욱 난항을 겪고 있습니다.\n\n이러한 정치적 갈등으로 인해 시급한 경제 법안 처리가 지연될 수 있다는 우려가 커지고 있습니다. 기업들과 시장 참여자들은 정치권의 기싸움이 민생 경제 회복의 발목을 잡지 않도록 조속한 합의와 정책적 안정을 촉구하고 있는 상황입니다.",
             "image_prompt": "National Assembly building of Korea, political debate atmosphere, gavel and law books, golden and gray tones, professional news illustration",
             "published_at": "2026-06-14 18:29:35",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국 경제, 50년 만의 고성장에도 청년층은 '고용 한파' 몸살",
@@ -103,7 +158,7 @@
             "content": "최근 한국 경제는 반도체 업황의 기록적인 회복세에 힘입어 약 50년 만에 가장 높은 수준의 성장을 기록하고 있습니다. 하지만 이러한 수치상의 화려한 지표 이면에는 심각한 고용 불균형과 내수 침체라는 어두운 그림자가 짙게 깔려 있습니다. 수출 대기업 중심의 성장이 전체 민생 경제로 온기가 퍼지지 못하는 이른바 '낙수효과'의 부재가 현실화되고 있는 상황입니다.\n\n특히 청년층이 체감하는 경제적 고통은 극에 달하고 있습니다. 고숙련 기술 위주의 산업 구조 재편으로 인해 신규 채용 시장이 좁아지면서, 청년 고용률은 성장률과 반대로 움직이는 기현상을 보이고 있습니다. 이는 미래 성장 동력인 젊은 세대의 경제 활동 참여를 저해하여 장기적으로 한국 경제의 잠재 성장력을 갉아먹는 요인이 될 수 있다는 우려가 나옵니다.\n\n또한, 소득 분배 지표 역시 악화 일로를 걷고 있습니다. 상위 소득 계층과 하위 계층 간의 격차가 벌어지는 'K-양극화'가 심화되면서, 성장의 결실이 특정 산업과 계층에만 집중되는 구조적 결함이 드러나고 있습니다. 정부의 적극적인 재정 정책과 고용 창출 대책이 병행되지 않는다면, 현재의 호황은 통계상의 숫자에 불과할 것이라는 비판이 거셉니다.\n\n전문가들은 이러한 '고용 없는 성장'을 해결하기 위해 서비스업 경쟁력 강화와 규제 혁신을 통한 민간 부문의 일자리 창출 능력을 회복해야 한다고 조언합니다. 변동성이 큰 수출 중심 구조에서 벗어나 내수와 수출이 균형을 이루는 경제 생태계를 조성하는 것이 한국 경제가 직면한 가장 큰 숙제입니다.",
             "image_prompt": "South Korea economy growth chart, dramatic contrast between golden semiconductor chips and dark silhouettes of job seekers, high-tech vs reality, professional blue and gray tones",
             "published_at": "2026-06-14 12:42:37",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "호르무즈 해협 리스크 재부각…중동 전쟁 100일, 한국 경제 '시험대'",
@@ -114,7 +169,7 @@
             "content": "중동 전쟁이 발발한 지 100일이 넘어가면서 지정학적 위기가 전 세계 공급망을 흔들고 있습니다. 특히 원유와 천연가스의 핵심 수송로인 호르무즈 해협의 긴장이 고조되면서, 에너지의 대부분을 수입에 의존하는 한국 경제에 직접적인 타격이 우려되고 있습니다. 해상 물류 비용 상승과 공급 불안정은 국내 물가를 자극하는 뇌관이 되고 있습니다.\n\n현재 한국 경제는 고환율과 고물가라는 이중고를 겪고 있는 가운데, 이번 중동발 리스크는 수입 원가를 추가로 상승시켜 기업들의 생산 비용 부담을 가중시키고 있습니다. 특히 에너지 집약적인 제조업 비중이 높은 국내 산업 구조상, 유가 불안은 곧바로 수출 경쟁력 약화로 이어질 수 있다는 분석입니다.\n\n정부와 관련 업계는 비상 대응 체계를 가동하고 있으나, 글로벌 지정학적 갈등은 통제 불가능한 변수라는 점이 가장 큰 위협입니다. 호르무즈 해협이 봉쇄되거나 운항 차질이 장기화될 경우, 국내 물가 상승률은 정부 목표치를 크게 상회할 가능성이 높으며 이는 소비 위축과 경기 침체라는 악순환으로 이어질 수 있습니다.\n\n결국 공급망 다변화와 에너지 자립도 향상이라는 근본적인 대책 마련이 시급한 시점입니다. 이번 사태를 계기로 대외 변수에 취약한 한국 경제의 체질을 개선하고, 글로벌 공급망 재편 과정에서 안정적인 자원 확보를 위한 외교적·경제적 역량을 총동원해야 한다는 목소리가 높습니다.",
             "image_prompt": "Hormuz Strait map, oil tanker ships navigating dangerous waters, fire and smoke indicators, global energy crisis, dramatic red and black cinematic lighting",
             "published_at": "2026-06-14 12:42:37",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경총 \"음식점 등 영세 업종 못 버텨\"…최저임금 차등 적용 요구",
@@ -125,7 +180,7 @@
             "content": "최근 고물가와 금리 인상 여파로 소비 심리가 위축되면서 자영업자와 소상공인들의 경영난이 심화되고 있습니다. 한국경영자총협회(경총)를 비롯한 사용자 측은 특히 지불 능력이 한계에 도달한 음식점업 등 일부 영세 업종에 대해 최저임금을 차등 적용해야 한다는 요구를 강력하게 제기하고 나섰습니다.\n\n경총은 현재의 일률적인 최저임금 적용이 오히려 고용을 위축시키고 폐업을 가속화하고 있다고 주장합니다. 최저임금의 급격한 상승을 감당하기 어려운 업종에서는 '쪼개기 알바'가 성행하거나 키오스크 도입을 통한 무인화가 급진전되면서 오히려 취약계층의 일자리가 사라지는 역효과가 발생하고 있다는 분석입니다.\n\n반면 노동계는 최저임금 차등 적용이 특정 업종에 대한 낙인효과를 가져오고, 저임금 노동자의 생존권을 위협할 것이라며 강하게 반발하고 있습니다. 업종별 차등 적용은 최저임금 제도의 근본 취지를 훼손하고 사회적 갈등을 유발할 수 있다는 입장입니다. 양측의 견해차가 극명하여 향후 최저임금위원회 논의 과정에서 상당한 진통이 예상됩니다.\n\n이 논란의 핵심은 단순한 임금 수준 결정을 넘어, 한계 상황에 내몰린 소상공인 지원과 저임금 노동자의 소득 보전 사이에서 어떻게 적절한 균형점을 찾느냐에 있습니다. 정부는 단순히 임금 가이드라인을 정하는 것을 넘어, 자영업자의 구조적 어려움을 해소할 수 있는 실질적인 지원책 마련을 병행해야 할 것입니다.",
             "image_prompt": "Small restaurant owner looking stressed, open sign on glass window, stacks of bills, minimum wage documents, realistic and emotional atmosphere",
             "published_at": "2026-06-14 12:42:37",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한일 경제안보협력 포럼 개최…반도체 공급망 공동 대응 모색",
@@ -136,7 +191,7 @@
             "content": "글로벌 패권 경쟁이 기술 분야로 확산되는 가운데, 한국과 일본이 반도체를 중심으로 한 경제 안보 협력을 강화하기 위해 머리를 맞댑니다. 오는 19일 개최되는 '한일 경제안보협력 포럼'은 양국 간의 신뢰 회복을 넘어, 급변하는 글로벌 공급망 질서 속에서 공동의 생존 전략을 모색하는 자리가 될 전망입니다.\n\n이번 포럼에서는 특히 반도체 제조 장비 및 소재 분야에서 강점을 가진 일본과 제조 공정에서 세계 최고 수준인 한국의 시너지를 극대화하는 방안이 집중 논의될 예정입니다. 미·중 갈등으로 인한 공급망 불확실성이 커지는 상황에서, 지리적으로 인접하고 가치를 공유하는 양국 간의 협력은 공급망 안정성을 확보하는 데 필수적이라는 인식이 확산되고 있습니다.\n\n양국은 단순히 민간 차원의 교류를 넘어 정부 간의 기술 표준화 및 연구개발(R&D) 협력을 구체화할 것으로 보입니다. 차세대 반도체 기술 선점을 위한 공동 투자와 인력 교류 프로그램 등 구체적인 실천 방안이 도출될 경우, 동북아 지역의 기술 블록화 흐름 속에서 양국의 위상은 더욱 공고해질 것으로 기대됩니다.\n\n하지만 과거사 문제와 정치적 변수가 여전한 상황에서 경제적 협력이 얼마나 지속 가능할지에 대한 회의적인 시각도 존재합니다. 이번 포럼이 일회성 행사에 그치지 않고, 양국 경제가 상생할 수 있는 실질적인 제도적 장치 마련으로 이어질 수 있을지 주목됩니다.",
             "image_prompt": "South Korea and Japan flags side by side, futuristic semiconductor circuit patterns, professional business handshake, high-tech cooperation, sleek and modern",
             "published_at": "2026-06-14 12:42:37",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "CNBC \"BTS, 한국 경제의 장기적 성장 동력 될 것\"",
@@ -147,7 +202,7 @@
             "content": "미국의 대표적 경제 전문 방송인 CNBC가 그룹 방탄소년단(BTS)의 영향력을 한국 경제 성장 모델의 핵심 요소로 주목했습니다. 보도에 따르면 BTS는 단순한 엔터테인먼트 콘텐츠를 넘어, 관광·소비재·교육 등 연관 산업에 수조 원 단위의 경제적 파급 효과를 일으키는 이른바 '움직이는 중소기업'이자 국가 브랜드의 상징으로 자리 잡았습니다.\n\nBTS가 창출하는 경제적 가치는 공연 티켓 매출이나 앨범 판매에 국한되지 않습니다. 이들이 영상에서 소비하는 한국 음식, 화장품, 패션 아이템은 전 세계적인 유행을 선도하며 'K-브랜드'의 프리미엄을 형성하고 있습니다. 이는 제조업 중심의 한국 경제 구조에서 무형의 가치인 소프트파워가 어떻게 새로운 성장 동력이 될 수 있는지를 보여주는 완벽한 사례입니다.\n\n특히 군 복무 등으로 인한 활동 공백기에도 불구하고 이들이 구축한 팬덤 경제(Fandom Economy)는 견고하게 유지되고 있습니다. 전문가들은 BTS의 복귀 이후 활발해질 활동이 한국의 서비스 수지 개선과 외국인 관광객 유치에 결정적인 역할을 할 것으로 내다보고 있습니다. 국가 이미지 제고를 통한 수출 촉진 효과 역시 수치로 환산하기 어려울 정도로 막대합니다.\n\nCNBC는 한국 정부가 이러한 문화적 성공을 일시적인 현상이 아닌 지속 가능한 산업 생태계로 발전시켜야 한다고 제언했습니다. 문화 예술 콘텐츠를 차세대 주력 산업으로 육성하고, 이를 첨단 기술과 접목하는 전략이 한국 경제의 미래를 결정짓는 중요한 열쇠가 될 것입니다.",
             "image_prompt": "Global map glowing with purple lights, BTS logo, K-pop influence over cityscapes, world economy icons, energetic and vibrant purple neon",
             "published_at": "2026-06-14 12:42:37",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "내년 잠재성장률 1.5% 미만 전망… “반도체 착시에 빠져선 안돼”",
@@ -158,7 +213,7 @@
             "content": "한국 경제의 기초 체력을 의미하는 잠재성장률이 내년 1.5% 미만으로 떨어질 것이라는 암울한 전망이 나왔습니다. 이는 고령화에 따른 노동 공급 감소와 생산성 정체가 맞물린 결과로, 한국 경제가 본격적인 저성장 궤도에 진입했음을 시사합니다.\n\n최근 반도체 수출 호조로 경제 지표가 개선되는 흐름을 보이고 있으나, 전문가들은 이를 '반도체 착시'라고 경고합니다. 특정 산업에 의존한 성장은 내수 부진과 자영업 위기 등 체감 경기의 악화를 가릴 수 있으며, 전반적인 경제 활력 저하를 방치할 위험이 있기 때문입니다.\n\n잠재성장률 하락은 투자 위축과 소비 감소의 악순환을 초래할 수 있습니다. 노동 시장의 유연성 확보와 신산업 규제 혁파를 통한 생산성 향상이 이뤄지지 않는다면, 한국은 장기 불황의 늪에 빠질 수 있다는 지적이 지배적입니다.\n\n따라서 정부와 기업은 반도체 이후의 차세대 먹거리 발굴과 더불어 구조적 모순을 해결하기 위한 근본적인 대책을 마련해야 합니다. 인구 구조 변화에 대응하는 한편, 기술 혁신을 통해 노동 효율성을 극대화하는 전략이 절실한 시점입니다.",
             "image_prompt": "South Korea GDP chart, descending arrow, semiconductor silhouette, gray urban office, industrial stagnation",
             "published_at": "2026-06-13 22:53:16",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "인류를 위한다던 앤스로픽, 사다리 걷어차나… AI 주도권 경쟁 가속",
@@ -169,7 +224,7 @@
             "content": "오픈AI의 대항마로 꼽히는 앤스로픽이 최근 수익화와 폐쇄적인 개발 환경을 강화하면서 AI 업계에 파장이 일고 있습니다. 초기 '인류를 위한 안전한 AI'를 표방했던 것과 달리, 거대 자본이 유입되면서 독점적 이익을 추구하는 행태로 변하고 있다는 비판이 나오고 있습니다.\n\n이러한 변화는 글로벌 AI 시장의 '사다리 걷어차기' 논란으로 번지고 있습니다. 선두 주자들이 이미 확보한 데이터를 바탕으로 장벽을 높이면서 후발 주자들의 진입을 차단하고 있으며, 이는 AI 기술의 민주화를 저해할 수 있다는 우려를 낳고 있습니다.\n\n앤스로픽뿐만 아니라 구글, 메타 등 빅테크 기업들도 독자적인 AI 생태계 구축에 막대한 자금을 쏟아붓고 있습니다. AI 모델의 연산 능력과 데이터 확보량이 곧 경쟁력이 되는 상황에서, 중소 규모의 AI 기업들은 생존의 기로에 서게 되었습니다.\n\n전문가들은 AI 기술이 소수 기업에 집중될 경우 발생할 수 있는 윤리적 문제와 시장 독과점에 대해 경계해야 한다고 입을 모읍니다. 기술 프런티어들의 책임 있는 태도와 더불어, 공정한 경쟁 환경을 조성하기 위한 국제적인 공조가 필요한 때입니다.",
             "image_prompt": "Artificial Intelligence neural network, climbing a digital ladder, glowing blue brain, corporate dominance, high-tech background",
             "published_at": "2026-06-13 22:53:16",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'고용 없는 성장' 현실로...정부 \"청년 고용 최우선 순위\"",
@@ -180,7 +235,7 @@
             "content": "최근 한국 경제는 수출 중심으로 소폭 반등하고 있으나, 실제 고용 창출 능력은 크게 떨어지는 '고용 없는 성장' 단계에 진입했습니다. 특히 기업들이 자동화와 AI 도입을 서두르면서 전통적인 일자리가 사라지고 있으며, 이는 청년층의 구직난을 가속화하고 있습니다.\n\n정부는 이러한 문제를 인식하고 청년 고용을 정책의 최우선 순위에 두겠다고 밝혔습니다. 고용 시장의 불균형을 해소하기 위해 민간 기업의 채용 지원금을 확대하고, 신산업 분야의 직업 훈련 프로그램을 강화하겠다는 방침입니다.\n\n하지만 단순히 단기 일자리 창출에 그쳐서는 안 된다는 지적이 나옵니다. 청년들이 원하는 양질의 일자리를 제공하기 위해서는 신산업 규제 완화를 통해 기업들이 적극적으로 투자할 수 있는 환경을 조성하는 것이 무엇보다 중요합니다.\n\n결국 지속 가능한 일자리 창출은 민간의 경제 활력에서 나옵니다. 정부는 시장의 변화에 유연하게 대응할 수 있는 노동 교육 개혁과 함께, 기업들이 인재를 직접 육성하고 채용할 수 있는 생태계를 구축하는 데 집중해야 합니다.",
             "image_prompt": "Young professional looking at a city horizon, empty job desk, industrial automation arm, professional atmosphere, soft lighting",
             "published_at": "2026-06-13 22:53:16",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[6월 둘째 주 세계경제동향 브리핑]코스피 숨 고르기…美 증시는 일제히 반등",
@@ -191,7 +246,7 @@
             "content": "이번 주 국내 증시는 상승 피로감과 불확실성으로 인해 숨 고르기 장세에 들어갔습니다. 반면 미국 증시는 기술주 중심의 반등에 성공하며 일제히 상승세를 보였는데, 이는 미 연준의 금리 동결 가능성과 인플레이션 완화 기대감이 반영된 결과입니다.\n\n글로벌 투자자들은 다가오는 경제 지표 발표와 연준 위원들의 발언에 촉각을 곤두세우고 있습니다. 특히 생산자 물가지수(PPI)와 수출입 물동량 수치가 예상치를 밑돌 경우, 금리 인하에 대한 기대감이 다시 확산될 수 있는 상황입니다.\n\n코스피 시장에서는 개인 투자자들이 향후 방향성을 두고 매수와 매도 사이에서 고심하고 있습니다. 최근의 변동성 확대는 단순한 조정일 수 있으나, 글로벌 거시경제 환경이 급변하고 있는 만큼 신중한 투자 접근이 요구됩니다.\n\n전문가들은 하반기 금리 인하 시점과 폭이 확정되기 전까지는 시장의 변동성이 지속될 것으로 보고 있습니다. 특정 종목에 집중하기보다는 실적 기반의 우량주와 배당주 위주의 포트폴리오 다변화가 유효한 전략이 될 수 있습니다.",
             "image_prompt": "Stock market trading floor, KOSPI vs NASDAQ display, digital charts, financial data stream, professional blue tone",
             "published_at": "2026-06-13 22:53:16",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "CNBC \"BTS, 韓 경제 장기 성장 동력 될 수도\" - 연합인포맥스",
@@ -202,7 +257,7 @@
             "content": "미국 경제 매체 CNBC는 그룹 BTS의 멤버들이 군 복무를 마치고 본격적으로 활동을 재개할 경우, 이들이 한국 경제의 강력한 장기 성장 동력이 될 것이라고 분석했습니다. 이는 단순한 음반 판매를 넘어 관광, 소비재 수출, 국가 브랜드 제고 등 광범위한 경제적 효과를 포함합니다.\n\n보고서에 따르면 BTS의 활동이 활발할 때 유입되는 외국인 관광객과 K-컬처 소비는 수조 원 규모에 달합니다. 특히 한국의 소프트파워가 강화됨에 따라 화장품, 가공식품 등 관련 산업의 수출 동반 상승 효과도 무시할 수 없는 수준입니다.\n\nCNBC는 BTS가 가진 글로벌 팬덤이 일시적인 유행에 그치지 않고 하나의 강력한 지식재산권(IP) 생태계를 구축했다고 평가했습니다. 이는 제조업 중심의 한국 경제가 고부가가치 서비스업으로 체질 개선을 시도하는 과정에서 중요한 역할을 할 것입니다.\n\n정부와 산업계도 이러한 문화 콘텐츠의 경제적 가치를 극대화하기 위한 전략을 고민해야 합니다. K-팝이 단순히 즐기는 문화를 넘어, 한국 경제의 미래를 견인하는 핵심 산업으로 자리매김할 수 있도록 인프라 지원과 글로벌 마케팅 협력이 필요합니다.",
             "image_prompt": "Global concert arena, BTS purple light, Korean flag icon, economic growth symbol, vibrant purple neon lighting",
             "published_at": "2026-06-13 22:53:16",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'도대체 얼마 만이야'…삼전닉스 2조 쓸어담았다",
@@ -213,7 +268,7 @@
             "content": "최근 국내 증시에서 외국인과 기관 투자자들의 행보가 심상치 않습니다. 반도체 양대 산맥인 삼성전자와 SK하이닉스를 중심으로 약 2조 원 규모의 순매수세가 유입되면서 시장에서는 반도체 업황의 본격적인 턴어라운드를 기대하는 목소리가 커지고 있습니다. 이는 AI 서버 수요 급증에 따른 고대역폭메모리(HBM) 시장의 확대가 주요 원인으로 분석됩니다.\n\n글로벌 빅테크 기업들이 AI 인프라 구축을 위해 천문학적인 비용을 쏟아붓고 있는 상황에서, 핵심 부품인 메모리 반도체를 공급하는 한국 기업들의 가치가 재부각되고 있습니다. 특히 SK하이닉스의 독주 체제에 삼성전자가 가세하면서 공급망 전반에 활기가 돌고 있습니다. 투자자들은 엔비디아의 실적 발표와 연계된 국내 반도체주의 동반 상승 가능성에 주목하고 있습니다.\n\n하지만 일각에서는 이러한 매수세가 특정 섹터에만 쏠려 있어 증시 전반의 기초체력(펀더멘털) 개선으로 이어질지에 대해서는 신중한 입장을 보이고 있습니다. 대형주 중심의 장세가 이어질 경우 중소형주 소외 현상이 심화될 수 있다는 우려도 나옵니다. 향후 미국의 금리 정책과 연동된 환율 변동성이 외국인 자금 흐름의 변수가 될 전망입니다.",
             "image_prompt": "Semiconductor chip, stock market chart, massive capital flow, blue tech neon, Samsung SK Hynix logos",
             "published_at": "2026-06-13 20:12:27",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[다음주 경제] 5월 수출입·생산자물가 얼마나 뛰었나",
@@ -224,7 +279,7 @@
             "content": "정부와 경제 전문가들이 다음 주 발표될 5월 수출입 동향과 생산자물가지수(PPI) 결과에 촉각을 곤두세우고 있습니다. 수출은 한국 경제를 지탱하는 핵심 축으로, 반도체와 자동차를 필두로 한 실적 개선세가 5월에도 이어졌을지가 관건입니다. 만약 무역수지 흑자 폭이 확대된다면 하반기 GDP 성장률 전망에도 긍정적인 영향을 미칠 것으로 보입니다.\n\n함께 발표되는 생산자물가지수는 소비자물가의 선행지표 역할을 합니다. 최근 국제 유가 변동과 환율 상승 압박이 거센 상황에서 생산자물가가 크게 뛰었을 경우, 향후 장바구니 물가 등 서민 경제에 미칠 타격이 우려됩니다. 한은의 기준금리 인하 시점을 결정하는 데 있어 물가 안정 여부는 가장 중요한 판단 근거가 될 것입니다.\n\n시장 관계자들은 특히 수출 품목별 다변화 여부에 주목하고 있습니다. 반도체에 과도하게 쏠린 수출 구조는 대외 환경 변화에 취약할 수 있기 때문입니다. 에너지 수입 비용 통제와 원자재 가격 안정화가 동반되어야만 내실 있는 경제 성장이 가능하다는 분석이 힘을 얻고 있습니다.",
             "image_prompt": "Cargo ship in sunset, economic indicators, price index icons, global trade, professional analytical style",
             "published_at": "2026-06-13 20:12:27",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'고용없는 성장' 현실로...정부 \"청년 고용 최우선 순위\"",
@@ -235,7 +290,7 @@
             "content": "한국 경제가 거시적인 수치상으로는 회복 국면에 접어들었음에도 불구하고, 체감 경기의 핵심인 고용 지표는 여전히 차갑기만 합니다. 기업들이 설비 투자를 늘리고 수익성을 개선하고 있지만, 자동화와 AI 도입 등으로 인해 과거만큼 신규 인력을 채용하지 않는 '고용 없는 성장'이 현실화되고 있기 때문입니다.\n\n특히 청년층의 구직난은 심각한 수준입니다. 신산업 분야에서 필요로 하는 인재상과 기존 교육 시스템의 괴리, 그리고 대기업 선호 현상이 겹치면서 구인난과 구직난이 동시에 발생하는 미스매치 현상이 지속되고 있습니다. 정부는 이에 대응해 청년 고용을 최우선 국정과제로 설정하고 직무 교육 지원 및 기업 인센티브를 강화하겠다는 방침을 밝혔습니다.\n\n전문가들은 단순히 일자리 개수를 늘리는 정책보다는 '양질의 일자리'를 만드는 생태계 조성이 시급하다고 지적합니다. 스타트업 활성화를 통한 신규 고용 창출과 노동 시장의 유연성 확보를 통해 고용 시장의 경직성을 해소해야 한다는 제언이 잇따르고 있습니다.",
             "image_prompt": "Young job seekers, office building background, unemployment and growth gap, modern digital workspace",
             "published_at": "2026-06-13 20:12:27",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“스페이스X 주식 1주도 못 줘”···골드만삭스의 ‘코리아패싱’ 대체 왜?",
@@ -246,7 +301,7 @@
             "content": "일론 머스크의 우주 기업 스페이스X의 주식 거래에서 골드만삭스가 한국 투자자들을 배제한 것으로 알려져 충격을 주고 있습니다. 이는 글로벌 비상장 주식 거래 시장에서 한국의 자본이 소외되는 '코리아 패싱'의 전형적인 사례로 꼽힙니다. 우량 자산에 투자할 기회 자체가 차단되었다는 점에서 국내 기관 투자자들의 우려가 깊습니다.\n\n이러한 현상의 배경으로는 한국의 까다로운 외환 거래 규정과 복잡한 세무 행정, 그리고 글로벌 자본 시장에서의 낮은 네트워크 신뢰도가 원인으로 지목됩니다. 글로벌 투자은행(IB) 입장에서는 절차가 복잡한 한국 투자자들을 굳이 포함시키기보다는 절차가 간소하고 자금력이 풍부한 다른 국가의 투자자들을 선호한다는 분석입니다.\n\n이번 사태를 계기로 국내 투자 환경의 글로벌 스탠다드화가 시급하다는 목소리가 커지고 있습니다. 혁신적인 글로벌 테크 기업들에 대한 투자 기회를 잃는 것은 국가 차원의 미래 자산 확보 기회를 놓치는 것과 같기 때문입니다. 금융 당국의 규제 완화와 더불어 민간 금융사의 글로벌 경쟁력 강화가 요구되는 시점입니다.",
             "image_prompt": "SpaceX rocket, financial barriers, Goldman Sachs logo, world map, exclusion symbol",
             "published_at": "2026-06-13 20:12:27",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“스페이스X 주식 1주도 못 줘”···골드만삭스의 ‘코리아패싱’ 논란",
@@ -257,7 +312,7 @@
             "content": "최근 일론 머스크의 우주 기업 스페이스X가 구주 매각을 통한 자금 조달에 나선 가운데, 주관사인 골드만삭스가 한국 기관 투자자들을 배정 대상에서 완전히 제외한 것으로 알려졌습니다. 이는 최근 국내 자본의 해외 우량 자산 접근성이 낮아진 '코리아 패싱'의 단면을 보여주는 사례로 평가받고 있습니다.\n\n금융투자업계에 따르면 스페이스X는 현재 기업 가치가 약 2000억 달러(한화 약 275조 원)에 육박하며 비상장 기업 중 세계 최대 규모를 자랑합니다. 한국의 주요 기관들이 대규모 자금을 동원해 매수 의사를 타진했음에도 불구하고, 골드만삭스 측은 공급 물량 부족과 전략적 투자자 위주의 배분을 이유로 한국 측에 단 1주도 배정하지 않았습니다.\n\n이러한 현상은 단순히 한 기업의 사례를 넘어, 글로벌 금융 시장에서 한국 자본의 영향력이나 신뢰도가 시험대에 올랐음을 시사합니다. 전문가들은 글로벌 사모펀드 시장에서 한국 기관들의 까다로운 심사 절차나 자금 집행 속도가 글로벌 속도를 따라가지 못하는 점이 원인 중 하나일 수 있다고 분석하고 있습니다.\n\n국내 투자자들은 이에 대응해 향후 스페이스X의 정식 상장(IPO) 시점이나 관련 테마주로 눈을 돌리고 있지만, 가장 수익성이 높은 비상장 단계에서의 투자 기회를 놓친 것에 대해 큰 아쉬움을 표하고 있습니다. 이는 향후 국내 금융사들의 글로벌 네트워크 강화가 시급함을 시사하는 대목입니다.",
             "image_prompt": "SpaceX Rocket, Golden Gate Bridge, Global Finance, Stock Market, Exclusion",
             "published_at": "2026-06-13 17:54:36",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[다음주 경제] 5월 수출입·생산자물가 얼마나 뛰었나... 경제 변곡점 주목",
@@ -268,7 +323,7 @@
             "content": "정부와 한국은행이 다음 주 5월 수출입 현황과 생산자물가지수를 연이어 발표합니다. 이번 지표는 한국 경제가 1분기의 깜짝 성장을 이어갈 수 있을지, 아니면 다시 고물가와 수출 둔화의 늪에 빠질지를 결정짓는 중대한 분수령이 될 것으로 보입니다.\n\n먼저 수출의 경우 반도체와 자동차를 중심으로 한 견조한 흐름이 지속되었을지가 관건입니다. 반도체 가격의 회복세와 글로벌 IT 수요 증가가 수출 실적을 뒷받침했을 것으로 기대되지만, 최근 불거진 해상 운임 상승과 글로벌 공급망 불안 요소가 수출 채산성에 어떤 영향을 미쳤을지 면밀한 분석이 필요합니다.\n\n생산자물가지수는 향후 소비자물가의 선행지표 역할을 합니다. 지난달 국제 유가와 원자재 가격이 요동친 가운데, 생산 비용 상승분이 제품 가격으로 전가되는 '비용 인플레이션' 압력이 어느 정도인지 확인될 예정입니다. 만약 생산자물가가 큰 폭으로 올랐다면, 한국은행의 금리 인하 시점은 더욱 늦춰질 가능성이 높습니다.\n\n시장 전문가들은 이번 지표들이 한국 경제의 '연착륙' 여부를 판단하는 근거가 될 것으로 보고 있습니다. 특히 내수 소비 부진이 이어지는 상황에서 수출만이 경제를 지탱하는 '외발자전거' 구조가 심화되고 있어, 균형 잡힌 성장을 위한 정책적 대안 마련이 시급하다는 목소리가 나오고 있습니다.",
             "image_prompt": "Economic Graph, Shipping Containers, Korean Currency, Inflation, Market Analysis",
             "published_at": "2026-06-13 17:54:36",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "종전 기대에 유가 꺾이나 … 한국경제 '3고 압박' 변곡점",
@@ -279,7 +334,7 @@
             "content": "지정학적 리스크로 치솟았던 국제 유가가 최근 종전 기대감과 글로벌 수요 둔화 우려가 겹치며 하락세로 돌아섰습니다. 이는 고물가, 고금리, 고환율이라는 '3고(高)' 현상으로 고통받던 한국 경제에 가뭄의 단비 같은 소식이 되고 있습니다.\n\n국제 유가가 안정되면 국내 정유 및 화학 업계의 원가 부담이 줄어들 뿐만 아니라, 수입 물가 하락을 통해 전반적인 소비자 물가 안정에 기여하게 됩니다. 이는 결국 한국은행의 통화 정책 운용에 여유를 주고, 고금리 상황으로 위축된 가계 소비를 진작시키는 선순환 구조를 만들 수 있습니다.\n\n하지만 전문가들은 '로켓과 깃털 효과(Rocket and Feather Effect)'를 경고합니다. 유가가 오를 때는 로켓처럼 빠르게 국내 가격에 반영되지만, 내릴 때는 깃털처럼 천천히 내려오는 현상 때문에 체감 물가 하락까지는 상당한 시간이 걸릴 수 있다는 지적입니다. 또한, 중동 정세의 불확실성이 여전해 유가가 다시 반등할 가능성도 배제할 수 없습니다.\n\n따라서 기업들은 유가 하락기에 대비한 비용 구조 최적화에 나서고 있으며, 정부는 에너지 가격 인하분이 소비자 가격에 적절히 반영되는지 모니터링을 강화할 방침입니다. 유가 안정화가 실제 민생 경제 회복으로 이어질지가 향후 몇 달간의 관전 포인트가 될 전망입니다.",
             "image_prompt": "Oil Barrel, Falling Graph, Gasoline Pump, Middle East Peace, Energy Economy",
             "published_at": "2026-06-13 17:54:36",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘반도체 호황 쌍둥이’ 한국과 대만, 고용 성적표는 정반대",
@@ -290,7 +345,7 @@
             "content": "AI 열풍으로 반도체 시장이 유례없는 호황을 맞이했지만, 이를 대하는 한국과 대만의 고용 지표는 사뭇 다른 양상을 보이고 있습니다. 대만은 TSMC를 중심으로 반도체 생태계 전반에서 신규 고용이 폭발적으로 늘어나는 반면, 한국은 반도체 수출 실적 개선에도 불구하고 고용 창출 효과는 기대에 미치지 못하고 있다는 분석입니다.\n\n이러한 차이는 양국 반도체 산업의 구조적 특성에서 기인합니다. 대만은 설계(팹리스), 생산(파운드리), 후공정(OSAT)으로 이어지는 촘촘한 생태계를 구축하고 있어 산업 전반에 걸친 인력 수요가 높습니다. 반면 한국은 대규모 장비 중심의 메모리 반도체에 편중되어 있어, 매출 증대가 곧바로 대규모 고용으로 연결되기보다는 자동화된 설비 확충에 집중되는 경향이 있습니다.\n\n또한 대만의 경우 반도체 학과 정원 확대 및 인재 유입을 위한 국가적 지원이 실질적인 취업으로 빠르게 연결되는 선순환 구조를 가진 반면, 한국은 수도권 대학 정원 규제와 이공계 기피 현상 등으로 인해 현장에서 필요로 하는 숙련 인력을 제때 공급받지 못하는 미스매치 현상이 심화되고 있습니다.\n\n전문가들은 한국 반도체 산업이 '수출 효자' 노릇을 넘어 '고용 효자'가 되기 위해서는 파운드리와 팹리스 등 비메모리 분야의 생태계를 강화하고, 단순 생산직보다는 설계와 소프트웨어 중심의 고부가가치 인력을 양성하는 전략적 변화가 필요하다고 제언합니다.",
             "image_prompt": "Semiconductor Wafer, Recruitment, Taiwan vs Korea, High Tech Jobs, Factory",
             "published_at": "2026-06-13 17:54:36",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "김민수 대표 \"하반기 골든 포트폴리오의 절반은 AI\" [경제일타강사]",
@@ -301,7 +356,7 @@
             "content": "금융 투자 전문가들 사이에서 올해 하반기 증시를 주도할 유일한 테마로 'AI(인공지능)'가 다시 한번 꼽혔습니다. 특히 김민수 대표는 최근 강연에서 투자 포트폴리오의 절반을 AI 관련 기업과 인프라에 집중해야 한다고 강조하며, AI 산업이 단순한 유행을 넘어 실질적인 수익 구간에 진입했음을 시사했습니다.\n\n과거 AI 투자가 단순히 챗GPT와 같은 소프트웨어 중심이었다면, 하반기에는 이를 지탱하는 하드웨어인 고대역폭메모리(HBM), 전력 인프라, 그리고 데이터센터 효율화 장비 기업들로 온기가 확산될 전망입니다. 또한 AI를 실제 비즈니스 모델에 접용해 비용을 절감하거나 매출을 올리는 'AI 적용 기업'들에 대한 옥석 가리기가 본격화될 것으로 보입니다.\n\n하지만 주의점도 제기됩니다. 앤스로픽 등 AI 선도 기업들의 전략 변화나 규제 강화 움직임이 변수가 될 수 있습니다. 무분별한 추격 매수보다는 기술적 해자를 가진 기업을 선별하는 것이 중요하며, 금리 인하 시점과 맞물려 성장주로서의 가치가 재평가될 때를 대비해야 합니다.\n\n결론적으로 하반기 투자는 'AI 그 자체'가 아니라 'AI가 만드는 파생 효과'를 누가 선점하느냐에 달려 있습니다. 개인 투자자들에게는 분산 투자보다는 핵심 AI 테마에 대한 집중과 장기적인 관점에서의 포지셔닝이 유효할 것이라는 분석이 힘을 얻고 있습니다.",
             "image_prompt": "Artificial Intelligence, Neural Network, Digital Gold, Stock Portfolio, Future City",
             "published_at": "2026-06-13 17:54:36",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이 대통령, 한-이탈리아 글로벌 경제 불확실성 함께 해쳐나가길...비지니스 라운드테이블",
@@ -312,7 +367,7 @@
             "content": "윤석열 대통령은 이탈리아와의 비즈니스 라운드테이블에 참석하여 양국 간의 견고한 경제 협력 의지를 피력했습니다. 이번 회동은 글로벌 공급망 재편과 경제 불확실성이 심화되는 상황에서 자유 민주주의 가치를 공유하는 국가 간의 연대가 필수적이라는 공감대 아래 이루어졌습니다.\n\n특히 한국의 강점인 반도체, 이차전지 등 첨단 제조 기술과 이탈리아의 원천 기술 및 디자인 경쟁력을 결합한 시너지 창출이 논의되었습니다. 양국은 미래 모빌리티와 항공우주 산업에서의 공동 연구 및 투자를 확대하여 글로벌 시장에서의 주도권을 확보한다는 전략입니다.\n\n삼성전자 이재용 회장을 비롯한 주요 기업인들도 자리를 함께하여 민간 차원의 실질적인 비즈니스 기회를 모색했습니다. 이탈리아 측은 한국을 '영감의 시장'으로 평가하며 페라리와 같은 럭셔리 브랜드뿐만 아니라 에너지, 바이오 분야에서의 협력 확대를 강력히 희망했습니다.\n\n정부는 이번 행사를 계기로 유럽 내 주요 경제 대국인 이탈리아와의 교역을 다변화하고, 에너지 안보 및 디지털 전환 분야에서 긴밀한 파트너십을 구축해 나갈 계획입니다.",
             "image_prompt": "Korea and Italy cooperation, Business handshake, Tech icons, Professional meeting, Futuristic flags",
             "published_at": "2026-06-13 12:26:46",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "집값 뛰는데 성장도 양극화…한은 \"무주택 청년 경제 위상 하락\"",
@@ -323,7 +378,7 @@
             "content": "한국은행의 최근 보고서에 따르면 부동산 가격 상승과 소득 양극화 현상이 맞물리면서 무주택 청년 세대의 경제적 입지가 과거에 비해 크게 좁아진 것으로 나타났습니다. 자산 가치의 가파른 상승은 유주택자와 무주택자 사이의 격차를 벌리는 결정적 요인이 되었습니다.\n\n청년층 내에서도 부모의 자산 정도에 따라 주거 안정성이 결정되는 '자산 대물림' 현상이 뚜렷해지고 있으며, 이는 소비 위축으로 이어져 전체 경제 성장에도 부정적인 영향을 미치고 있습니다. 주거비 부담이 늘어난 무주택 청년들은 가처분 소득이 줄어들며 미래를 위한 투자나 결혼, 출산을 포기하는 경향을 보입니다.\n\n보고서는 이러한 경제적 위상 하락이 단순히 개인의 문제를 넘어 세대 간 갈등과 사회적 활력 저하로 번질 수 있음을 경고했습니다. 특히 저성장 기조 속에서 자산 형성의 기회가 차단된 청년들이 느끼는 상대적 박탈감은 노동 의욕 감소로까지 이어질 우려가 큽니다.\n\n전문가들은 청년층의 주거 안정을 위한 획기적인 정책 대안과 자산 형성 지원책이 시급하다고 입을 모읍니다. 금융 지원 확대뿐만 아니라 양질의 일자리 창출을 통해 실질적인 소득 기반을 강화하는 근본적인 처방이 필요하다는 지적입니다.",
             "image_prompt": "Housing price graph, Young person silhouette looking at skyscrapers, Economic gap, Piggy bank, Modern city",
             "published_at": "2026-06-13 12:26:46",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제 포커스] ‘반도체 호황 쌍둥이’ 한국과 대만, 고용 성적표는 정반대",
@@ -334,7 +389,7 @@
             "content": "AI 반도체 수요 폭발로 인해 한국의 삼성전자와 SK하이닉스, 대만의 TSMC가 사상 최대 실적을 기록하고 있지만, 정작 자국 내 고용 지표는 상반된 모습을 보이고 있습니다. 대만은 반도체 생태계 전반에 걸쳐 고용이 활발히 일어나고 있는 반면, 한국은 수출액 증가에 비해 신규 일자리 창출 속도가 더딘 상황입니다.\n\n이러한 차이는 반도체 산업의 구조적 특성에서 기인합니다. 대만은 팹리스(설계), 파운드리(위탁생산), 후공정(OSAT)으로 이어지는 촘촘한 분업 생태계가 형성되어 있어 중소·중견기업들의 고용 흡수력이 높습니다. 반면 한국은 소수의 대기업 위주 수직 계열화 구조가 강해 고용 파급 효과가 특정 계층에 집중되는 경향이 있습니다.\n\n또한 대만 정부의 적극적인 인재 양성 및 유턴 기업 지원 정책도 고용 지표 격차를 벌리는 요인이 되었습니다. 한국은 반도체 공장 자동화 비중이 높고, 고급 인력난을 겪으면서 수출 성장이 실제 가계 소득 증대나 고용으로 이어지는 연결고리가 약화되었다는 분석이 나옵니다.\n\n전문가들은 한국 반도체 산업이 고용 성장을 동반하기 위해서는 생태계 전반의 경쟁력을 강화하고, 소재·부품·장비(소부장) 기업들의 자생력을 높여야 한다고 조언합니다. 수출 지표의 화려함 뒤에 숨은 낙수효과 부재 문제를 해결하는 것이 향후 한국 경제의 핵심 과제입니다.",
             "image_prompt": "Semiconductor chip, Factory workers, Comparison chart, Tech circuit, Blue and gold theme",
             "published_at": "2026-06-13 12:26:46",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "2026 북중미 월드컵: 경제 논리가 만든 역대 가장 '극단적인' 대회",
@@ -345,7 +400,7 @@
             "content": "2026년 미국, 캐나다, 멕시코 3개국에서 공동 개최되는 북중미 월드컵은 참가국 확대와 경기 수 증가로 역대 최대 규모의 상업적 성공을 예고하고 있습니다. FIFA는 중계권료와 스폰서십 수익을 극대화하기 위해 대회 방식을 대대적으로 개편했으며, 이는 '경제 논리'가 스포츠의 정체성보다 앞선 사례로 기록될 전망입니다.\n\n이번 대회는 넓은 대륙을 가로지르는 광범위한 이동 거리와 그에 따른 천문학적인 물류 비용, 탄소 배출 문제 등 극단적인 효율성 시험대에 올랐습니다. 개최 도시들은 관광 수입과 인프라 낙수효과를 기대하고 있지만, 대규모 경기장 관리 비용과 보안 유지비 등 재정적 부담 또한 상당할 것으로 보입니다.\n\n특히 미국 시장의 중계권 가치가 폭등하면서 축구의 상업화는 정점에 달할 것으로 보입니다. 이는 글로벌 기업들의 마케팅 경쟁을 격화시키고 전 세계 스포츠 비즈니스 생태계에 큰 파장을 일으키고 있습니다. 자본의 논리가 스포츠 이벤트의 규모를 얼마나 확장시킬 수 있는지 보여주는 이정표가 될 것입니다.\n\n결국 2026 월드컵의 성공 여부는 화려한 수익 수치뿐만 아니라, 극단적인 규모의 대회를 얼마나 효율적이고 지속 가능하게 운영할 수 있느냐에 달려 있습니다. 이는 향후 글로벌 메가 스포츠 이벤트의 지속 가능성을 가늠하는 중요한 척도가 될 것입니다.",
             "image_prompt": "World cup trophy, North America map, Dollar signs, Football stadium, Global business, High energy",
             "published_at": "2026-06-13 12:26:46",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한·이탈리아 경제협력 '가속', 사회연대경제 및 첨단기술 MOU 체결",
@@ -356,7 +411,7 @@
             "content": "한국과 이탈리아가 윤석열 대통령과 조르자 멜로니 총리의 정상회담을 계기로 '특별 전략적 동반자 관계'를 더욱 공고히 하고 있습니다. 양국은 사회연대경제 협력을 위한 양해각서(MOU)를 체결하며, 관련 사례 공유와 인적 교류를 본격화하기로 합의했습니다.\n\n이번 경제 행보에는 이재용 삼성전자 회장을 비롯한 국내 주요 경제인들이 대거 출동하여 민간 차원의 협력 의지를 다졌습니다. 특히 우주항공, 반도체 등 첨단 기술 분야에서의 협력이 중점적으로 논의되었으며, 이는 양국 기업 간의 시너지 효과를 극대화할 것으로 기대됩니다.\n\n이탈리아와의 협력은 단순한 교역 확대를 넘어, 사회적 가치 창출과 지속 가능한 성장을 위한 모델을 공동으로 구축한다는 점에서 의미가 큽니다. 양국은 향후 고령화 문제 해결과 지역 경제 활성화 등 공통의 사회적 과제에 대해서도 긴밀히 소통할 예정입니다.",
             "image_prompt": "South Korea Italy, Business cooperation, Economic summit, Global partnership, Professional handshake",
             "published_at": "2026-06-12 23:52:59",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "내년 잠재성장률 1.5% 미만 하락 경고... \"반도체 착시 주의해야\"",
@@ -367,7 +422,7 @@
             "content": "최근 경제 전문가들 사이에서 내년 한국의 잠재성장률이 1.5% 미만으로 떨어질 수 있다는 우려가 확산되고 있습니다. 이는 저출산·고령화로 인한 노동 공급 감소와 자본 투자 둔화가 복합적으로 작용한 결과로 분석됩니다.\n\n특히 전문가들은 최근 반도체 수출 회복세가 한국 경제의 전반적인 구조적 문제를 가리는 '착시 현상'을 일으킬 수 있다고 경고합니다. 반도체라는 특정 산업에 대한 의존도가 지나치게 높아, 이 산업의 변동성에 따라 국가 전체 경제지표가 좌지우지되는 위험성을 지적한 것입니다.\n\n경제 체질 개선을 위해서는 규제 혁신과 노동 시장 유연화, 그리고 신성장 동력 확보가 시급하다는 목소리가 높습니다. 단순히 단기적인 경기 부양책에 의존하기보다, 중장기적으로 생산성을 높일 수 있는 근본적인 대책 마련이 필요한 시점입니다.",
             "image_prompt": "Declining growth graph, Economic structural reform, Warning light, Red arrow down, Industrial landscape",
             "published_at": "2026-06-12 23:52:59",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "노무라의 파격 전망, \"반도체 슈퍼사이클로 코스피 11,000 간다\"",
@@ -378,7 +433,7 @@
             "content": "글로벌 투자은행(IB) 노무라 증권이 한국 반도체 산업의 새로운 슈퍼사이클 진입을 선언하며, 장기적으로 코스피 지수가 11,000포인트까지 도달할 수 있다는 파격적인 리포트를 내놓았습니다. 이는 AI(인공지능) 혁명으로 인한 메모리 반도체 수요의 폭발적 증가를 근거로 합니다.\n\n노무라는 과거의 단순한 사이클을 넘어, 이번에는 HBM(고대역폭메모리) 등 고부가가치 제품을 중심으로 한국 기업들이 시장 주도권을 완전히 장악할 것이라고 분석했습니다. 이러한 수익성 개선이 국내 증시 전체의 리레이팅(재평가)을 이끌 것이라는 시각입니다.\n\n비록 실현 가능성에 대해서는 시장 내 의견이 분분하지만, 글로벌 자본이 한국 반도체 기업의 가치를 얼마나 높게 평가하고 있는지를 보여주는 사례로 평가받습니다. 다만 고금리와 지정학적 리스크 등 대외 변수에 대한 신중한 접근도 여전히 요구됩니다.",
             "image_prompt": "Stock market graph rising, Semiconductor chip, Bull market, Future city skyline, Blue neon lighting",
             "published_at": "2026-06-12 23:52:59",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "스페이스X 상장 및 IPO 관심 집중... 국내 우주항공 관련주 '들썩'",
@@ -389,7 +444,7 @@
             "content": "글로벌 민간 우주 기업 스페이스X의 기업 공개(IPO) 가능성과 천문학적인 기업 가치 평가 소식에 국내 증시에서도 우주항공 관련 종목들이 강세를 보이고 있습니다. 스페이스X는 최근 약 2,600조 원에 달하는 기업 가치를 인정받으며 시장의 게임 체인저로 부상했습니다.\n\n국내에서는 스페이스X에 부품을 공급하거나 협력 관계에 있는 기업들이 주요 수혜주로 거론됩니다. 특히 위성 통신, 발사체 기술, 탄소 섬유 소재 분야의 기업들이 투자자들의 집중적인 관심을 받고 있으며, 이는 국내 우주항공 산업 생태계 전반에 대한 긍정적인 신호로 해석됩니다.\n\n정부의 우주항공청 개청과 맞물려 민간 주도의 '뉴 스페이스' 시대가 열리고 있는 상황에서, 스페이스X의 행보는 국내 기업들에게도 커다란 자극제가 되고 있습니다. 글로벌 공급망 진입을 위한 기술 경쟁이 더욱 치열해질 전망입니다.",
             "image_prompt": "SpaceX rocket launch, Space technology, Satellite orbit, High-tech engineering, Stars and galaxy",
             "published_at": "2026-06-12 23:52:59",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "앤트로픽, AI 경제 영향 연구에 2억 달러 투자... 일자리 해법 제시",
@@ -400,7 +455,7 @@
             "content": "생성형 AI 스타트업 앤트로픽(Anthropic)이 인공지능 기술이 경제 체계와 노동 시장에 미치는 영향을 심층적으로 분석하기 위해 2억 달러 규모의 연구 기금을 조성했습니다. 이는 기술 발전에 따른 사회적 부작용을 사전에 진단하고 해법을 모색하려는 차원입니다.\n\n이번 연구는 AI가 기존 직업군을 어떻게 대체할 것인지, 그리고 어떤 새로운 형태의 일자리를 창출할 것인지에 대한 데이터를 수집하는 데 집중합니다. 특히 단순 반복 업무의 자동화를 넘어 전문직 영역까지 확장되는 AI의 영향력을 면밀히 검토할 예정입니다.\n\n앤트로픽은 단순히 기술력 과시를 넘어, AI가 인류의 경제적 복지에 기여할 수 있는 정책적 제언까지 내놓겠다는 계획입니다. 이는 향후 정부의 AI 관련 규제 및 고용 정책 수립에 중요한 가이드라인이 될 것으로 보입니다.",
             "image_prompt": "AI brain and money, Future workplace, Digital labor, Research and development, Human and AI collaboration",
             "published_at": "2026-06-12 23:52:59",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "세계은행, 올해 세계 성장률 2.5%로 하향… '코로나19 이후 최저치'",
@@ -411,7 +466,7 @@
             "content": "세계은행(WB)은 최근 발표한 보고서를 통해 올해 세계 경제성장률 전망치를 2.5%로 제시했습니다. 이는 코로나19 팬데믹 직후의 회복기를 제외하면 최근 몇 년 사이 가장 낮은 수준으로, IMF와 OECD의 부정적 전망에 이어 글로벌 경제의 불확실성이 다시 한번 확인된 셈입니다.\n\n지역별로 살펴보면 미국은 2.2%, 중국은 4.2%의 성장이 예상되고 있습니다. 세계은행은 고금리 기조의 유지, 지속되는 인플레이션 압력, 그리고 지정학적 갈등이 전 세계 소비와 투자를 위축시키는 주요 원인이라고 분석했습니다.\n\n특히 개발도상국과 저소득 국가들의 부채 위기가 심화될 수 있다는 우려가 커지고 있습니다. 세계은행은 각국 정부에 재정 건전성을 확보하는 동시에 성장을 촉진할 수 있는 구조적 개혁을 촉구하며, 글로벌 공급망 안정화를 위한 국제적 협력이 절실하다고 강조했습니다.\n\n이러한 전망은 글로벌 투자 심리에 즉각적인 영향을 미칠 것으로 보입니다. 투자자들은 경기 침체 가능성에 대비해 자산 배분 전략을 재점검하고 있으며, 각국 중앙은행의 향후 금리 결정에 촉각을 곤두세우고 있는 상황입니다.",
             "image_prompt": "Global economy downturn, financial report, downward graph, gray map, economic stagnation",
             "published_at": "2026-06-12 19:06:14",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미국·이란 '종전 MOU' 공개 임박… 경제 제재 해제 및 호르무즈 재개 기대",
@@ -422,7 +477,7 @@
             "content": "미국과 이란이 오랜 갈등을 뒤로하고 '종전 양해각서(MOU)'를 체결할 가능성이 커지고 있다는 외신 보도가 나왔습니다. 이번 협상의 핵심은 이란에 대한 경제 제재 해제와 세계 최대 석유 수송로인 호르무즈 해협의 완전한 통행 재개에 초점이 맞춰져 있습니다.\n\n이번 MOU는 그간 국제 유가를 불안하게 만들었던 중동의 지정학적 리스크를 크게 낮출 수 있는 변수로 작용할 전망입니다. 특히 이란의 원유 수출이 정상화될 경우, 글로벌 에너지 공급망에 숨통이 트이며 인플레이션 압력을 완화하는 데 기여할 것으로 보입니다.\n\n다만, 이번 협상 과정에서 이란의 미사일 프로그램은 제외되고 핵 문제와 경제적 실익에만 집중한 것으로 알려져 일각에서는 반쪽짜리 협상이라는 지적도 나옵니다. 미국 내 정치권에서도 이란에 대한 양보가 너무 크다는 비판이 제기될 수 있어 최종 서명까지는 진통이 예상됩니다.\n\n전문가들은 이번 합의가 성사될 경우 한국을 포함한 주요 에너지 수입국들에게는 호재가 될 것으로 보고 있습니다. 물류 비용 감소와 에너지 가격 안정은 기업들의 생산 비용 절감으로 이어져 실물 경제 전반에 긍정적인 영향을 미칠 가능성이 큽니다.",
             "image_prompt": "Diplomatic agreement, US and Iran flags, oil tanker, Strait of Hormuz, geopolitical peace",
             "published_at": "2026-06-12 19:06:14",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "삼성전자 12% 폭등·코스피 사이드카… 외국인 투자자 35일 만의 귀환",
@@ -433,7 +488,7 @@
             "content": "국내 증시의 대장주인 삼성전자가 하루 만에 12% 넘게 폭등하며 시장을 놀라게 했습니다. 이와 함께 SK하이닉스 등 주요 반도체 관련주들도 동반 상승하며 코스피 지수가 7% 넘게 급등, 시장 과열을 막기 위한 '매수 사이드카'가 발동되는 진풍경이 벌어졌습니다.\n\n이번 급등의 주역은 외국인 투자자들이었습니다. 한 달 넘게 순매도세를 유지하던 외국인들은 이날 35일 만에 대규모 순매수로 전환하며 지수 상승을 이끌었습니다. 인공지능(AI) 수요 증가에 따른 반도체 업황 회복 기대감과 더불어 원화 약세가 어느 정도 진정되면서 저가 매수세가 유입된 것으로 풀이됩니다.\n\n개인 투자자들은 이른바 '5만 전자'에서 탈출해 '9만 전자'와 '500만 닉스'를 향한 기대감을 키우고 있습니다. 증권가에서는 이번 반등이 단기적인 기술적 반등에 그치지 않고, 실적 개선을 바탕으로 한 추세적 상승의 시작이 될 수 있다는 낙관론이 조심스럽게 고개를 들고 있습니다.\n\n하지만 전문가들은 변동성에 주의해야 한다고 경고합니다. 글로벌 거시 경제 환경이 여전히 불안정한 상황에서 특정 섹터에 쏠린 상승세는 차익 실현 매물 출회 시 급격한 조정을 받을 수 있기 때문에 신중한 접근이 필요하다는 분석입니다.",
             "image_prompt": "Stock market rally, Samsung Electronics logo, green trading charts, busy exchange floor, bull market",
             "published_at": "2026-06-12 19:06:14",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "부동산 양극화에 청년층 경제 위상 추락… 한국은행 '경고등'",
@@ -444,7 +499,7 @@
             "content": "한국은행은 최근 보고서를 통해 부동산 가격 상승이 자산 양극화를 심화시키고 있으며, 특히 무주택 청년층의 경제적 위상이 과거에 비해 크게 낮아졌다고 분석했습니다. 자산 형성이 미비한 청년들이 급등하는 주거 비용을 감당하지 못하면서 소비 여력이 줄어들고 사회적 성취 동기마저 꺾이고 있다는 지적입니다.\n\n보고서에 따르면 부모로부터 자산을 물려받은 '금수저' 청년층과 그렇지 못한 청년층 사이의 격차는 역대 최대 수준으로 벌어졌습니다. 이는 단순히 개인의 불행을 넘어, 장기적으로는 내수 소비 위축과 저출산 문제를 심화시켜 국가 전체의 잠재 성장률을 갉아먹는 치명적인 요인이 됩니다.\n\n한은은 이러한 경제적 소외 현상이 청년들을 고위험 자산 투자로 내몰고 있다고 덧붙였습니다. 근로 소득만으로는 집을 살 수 없다는 절망감이 '영끌' 대출과 가상화폐 등 투기적 시장에 몰입하게 만들며, 이는 금융 시스템의 불안정성을 높이는 악순환을 초래하고 있습니다.\n\n정부의 정책적 개입이 시급하다는 목소리가 높습니다. 단순히 주택 공급을 늘리는 것을 넘어, 청년층의 실질 소득을 높이고 주거 사다리를 복원할 수 있는 다각적인 사회연대경제 모델과 금융 지원 대책이 병행되어야 할 시점입니다.",
             "image_prompt": "Real estate inequality, frustrated youth, rising house prices, financial gap, social issue",
             "published_at": "2026-06-12 19:06:14",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한-미 경제협력 확대 및 '정상외교' 강화… 통상 현안 해결 주력",
@@ -455,7 +510,7 @@
             "content": "정부는 급변하는 글로벌 통상 환경에 대응하기 위해 미국과의 경제 협력을 최우선 순위로 두고 정상외교의 역량을 집중하고 있습니다. 특히 인플레이션 감축법(IRA)과 반도체법 등 한국 기업들의 생존과 직결된 현안을 해결하기 위해 고위급 채널을 가동하고 실질적인 협상력을 높이는 데 주력하고 있습니다.\n\n산업통상자원부 장관은 최근 열린 간담회에서 \"경제 현안 해결의 열쇠는 결국 정상외교의 힘에서 나온다\"고 강조하며, 동맹국과의 굳건한 신뢰를 바탕으로 우리 기업들의 수출 시장을 확보하겠다고 밝혔습니다. 이는 안보와 경제가 하나로 묶이는 '경제 안보' 시대에 발맞춘 전략으로 풀이됩니다.\n\n동시에 이탈리아 등 유럽 주요국들과의 사회연대경제 협력도 강화되고 있습니다. 협동조합 사례 공유와 인적 교류를 통해 국내 사회적 경제의 내실을 다지고, 새로운 성장 동력을 발굴하겠다는 계획입니다. 이는 대외 의존도가 높은 한국 경제의 포트폴리오를 다변화하려는 시도로 보입니다.\n\n이러한 정부의 행보가 실제 기업들의 경영 환경 개선으로 이어질지는 미지수입니다. 글로벌 보호무역주의가 강화되는 추세 속에서 실익을 챙기기 위해서는 정교한 외교 전략과 함께 국내 산업의 근본적인 경쟁력을 높이는 노력이 병행되어야 한다는 전문가들의 조언이 잇따르고 있습니다.",
             "image_prompt": "Diplomatic meeting, international cooperation, Korea-US relations, economic summit, global trade",
             "published_at": "2026-06-12 19:06:14",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제][속보] 코스피 급등...올해 13번째 '매수 사이드카' 발동",
@@ -466,7 +521,7 @@
             "content": "국내 증시가 유례없는 폭등세를 기록하며 시장의 뜨거운 관심을 받고 있습니다. 한국거래소는 코스피 시장의 변동성이 극심해짐에 따라 올해 들어 13번째 매수 사이드카를 발동했다고 밝혔습니다. 이는 시장이 비정상적으로 과열되거나 급격한 매수세가 유입될 때 시장을 진정시키기 위한 조치입니다.\n\n이번 급등세의 배경에는 글로벌 경기 회복에 대한 기대감과 더불어 주요 기술주들에 대한 기관 및 외국인 투자자들의 집중적인 매수세가 자리 잡고 있는 것으로 풀이됩니다. 특히 반도체와 미래 모빌리티 등 핵심 산업군을 중심으로 강력한 매수세가 유입되며 지수 전체를 견인하고 있습니다.\n\n전문가들은 이러한 현상이 국내 증시의 기초 체력이 강화된 결과라고 분석하면서도, 단기간의 급등에 따른 조정 가능성에 대해서도 경고하고 있습니다. 투자자들은 시장의 변동성에 유의하며 개별 기업의 실적과 매크로 지표를 면밀히 살필 필요가 있습니다.\n\n향후 시장은 금리 정책의 방향성과 글로벌 공급망 안정화 여부에 따라 추가적인 방향성을 결정할 것으로 보입니다. 이번 사이드카 발동은 단순한 지수 상승을 넘어 한국 증시의 역동성을 보여주는 상징적인 사건으로 기록될 전망입니다.",
             "image_prompt": "Stock market, dynamic graph, trading floor, blue neon light, professional",
             "published_at": "2026-06-12 12:39:14",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李대통령 \"美 경제협력 확대, 안보 직접책임…국익기반 새 접근\"(종합)",
@@ -477,7 +532,7 @@
             "content": "이 대통령은 최근 공식 발표를 통해 미국과의 경제 협력을 전례 없는 수준으로 확대하겠다는 의지를 강력히 표명했습니다. 이는 단순한 무역 교류를 넘어 반도체, 배터리, 핵심 광물 등 전략 자산을 포함한 경제 안보 동맹을 공고히 하겠다는 전략으로 해석됩니다.\n\n대통령은 경제적 번영이 곧 국가 안보의 핵심이며, 이를 위해 정부가 직접적인 책임을 지고 국익을 최우선으로 하는 새로운 접근 방식을 취할 것임을 명확히 했습니다. 특히 미국과의 첨단 기술 협력은 미래 먹거리 확보뿐만 아니라 지정학적 리스크를 관리하는 데 필수적임을 강조했습니다.\n\n정부는 향후 미국 정부 및 주요 기업들과의 소통 채널을 상설화하고, 국내 기업들의 미국 시장 진출을 지원하기 위한 파격적인 정책적 인센티브를 마련할 계획입니다. 또한, 한미 경제 협력이 지역 사회의 고용 창출과 경제 활성화로 이어질 수 있도록 세부적인 실행 방안도 검토 중입니다.\n\n이번 발표는 대외 의존도가 높은 한국 경제에 있어 새로운 돌파구를 마련하려는 시도로 평가받고 있습니다. 다만, 글로벌 공급망 재편 과정에서 발생할 수 있는 타국과의 이해관계 조정은 향후 외교적 역량이 시험대에 오를 지점이 될 것입니다.",
             "image_prompt": "South Korea USA flags, international cooperation, economic security, modern office meeting",
             "published_at": "2026-06-12 12:39:14",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[리얼]“북한 맞아?” 경제대박난 북한 근황",
@@ -488,7 +543,7 @@
             "content": "폐쇄적이었던 북한 경제 내부에서 이례적인 활력 징후가 포착되고 있다는 소식이 전해졌습니다. 최근 보고에 따르면 북한 주요 도시를 중심으로 상업 활동이 활발해지고 있으며, 과거와는 다른 형태의 경제 운영 방식이 목격되고 있어 '북한 경제 대박론'까지 조심스럽게 고개를 들고 있습니다.\n\n이러한 변화의 핵심에는 장마당의 공식화와 더불어 기업소들의 자율권 확대가 있는 것으로 보입니다. 소비재 생산이 늘어나고 주민들의 가처분 소득이 증가하면서 내수 시장이 조금씩 형성되고 있다는 분석입니다. 또한, 특정 지역을 중심으로 한 소규모 건설 붐과 IT 기술의 응용 사례도 늘고 있는 것으로 파악됩니다.\n\n전문가들은 이러한 현상이 북한의 전면적인 개방을 의미하는지에 대해서는 신중한 입장을 보이고 있습니다. 대북 제재가 여전한 상황에서 내부 자원 배분의 효율화만으로는 한계가 분명하기 때문입니다. 하지만 내부적인 경제 구조의 질적 변화가 일어나고 있다는 점에는 많은 이들이 동의하고 있습니다.\n\n한반도 정세에 있어 북한의 경제적 안정이 갖는 의미는 매우 큽니다. 만약 이러한 변화가 지속 가능한 경제 성장으로 이어진다면, 향후 남북 경제 협력의 새로운 가능성을 열어줄 수도 있을 것으로 기대됩니다. 지속적인 모니터링이 필요한 시점입니다.",
             "image_prompt": "North Korea city development, market activity, economic change, satellite view, urbanization",
             "published_at": "2026-06-12 12:39:14",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "라가르드 \"보험성 금리 인상 아냐…유가 충격 영향 경제에 확산\"",
@@ -499,7 +554,7 @@
             "content": "크리스틴 라가르드 유럽중앙은행(ECB) 총재는 최근 발언을 통해 현재 단행되고 있는 금리 인상이 단순히 예방적인 차원의 '보험성 인상'이 아님을 분명히 했습니다. 이는 인플레이션 압력이 생각보다 강력하며, 특히 에너지 가격의 변동성이 경제 전반에 미치는 영향이 심상치 않다는 판단에 근거한 것입니다.\n\n라가르드 총재는 유가 충격으로 인한 비용 상승이 이미 서비스와 제조 전반에 확산되고 있다고 진단했습니다. 고유가가 지속될 경우 생산 비용이 상승하고 이는 결국 소비자 물가 상승으로 이어지는 악순환이 발생할 수 있다는 우려입니다. 따라서 중앙은행은 물가 안정이라는 본연의 임무를 수행하기 위해 단호한 통화 정책 기조를 유지하겠다는 방침입니다.\n\n글로벌 금융 시장은 이번 발언을 통해 긴축 기조가 예상보다 길어질 수 있다는 신호로 받아들이고 있습니다. 금리 인상은 기업의 조달 비용을 높이고 가계의 소비를 위축시킬 수 있지만, 걷잡을 수 없는 인플레이션을 막기 위해서는 불가피한 선택이라는 것이 ECB의 입장입니다.\n\n향후 세계 경제는 유가의 향방과 각국 중앙은행의 금리 결정에 따라 큰 영향을 받을 것으로 보입니다. 특히 에너지 수입 비중이 높은 국가들은 환율 변동과 물가 상승이라는 이중고를 겪을 가능성이 커, 이에 대비한 정책적 방어막 구축이 시급해 보입니다.",
             "image_prompt": "Central bank building, Christine Lagarde, oil pump silhouette, inflation graph, golden coins",
             "published_at": "2026-06-12 12:39:14",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이탈리아 국빈만찬에 이재용 등 경제인 출동…한·이 경제협력 '가속'",
@@ -510,7 +565,7 @@
             "content": "한국과 이탈리아의 우호 관계가 경제 분야에서 더욱 견고해지고 있습니다. 최근 열린 이탈리아 국빈 만찬에는 삼성전자 이재용 회장을 비롯한 국내 주요 그룹 총수들이 대거 참석하여 양국 간 경제 협력의 중요성을 시각적으로 증명했습니다. 이번 만남을 계기로 한국의 첨단 제조 기술과 이탈리아의 전통적인 명품 산업 및 정밀 기계 분야의 시너지 창출이 기대됩니다.\n\n양국은 특히 항공우주, 바이오, 재생 에너지 등 미래 성장 동력 산업에서의 공동 연구 개발과 투자를 확대하기로 뜻을 모았습니다. 이탈리아는 유럽 내 중요한 경제 파트너로서 한국 기업들에게 유럽 시장 진출의 교두보 역할을 할 수 있으며, 한국은 이탈리아에 첨단 ICT 솔루션과 인프라 기술을 제공할 수 있는 파트너입니다.\n\n재계 관계자들은 이번 국빈 방문을 통해 실질적인 사업 수주나 합작 법인 설립 논의가 진전될 것으로 보고 있습니다. 단순한 외교적 의례를 넘어 기업 간의 실질적인 네트워크를 강화하고 새로운 비즈니스 모델을 발굴하는 중요한 장이 되었다는 평가입니다.\n\n글로벌 경제 블록화가 심화되는 상황에서 이탈리아와 같은 우방국과의 경제적 결속력 강화는 공급망 다변화와 시장 확대 측면에서 매우 전략적인 선택입니다. 앞으로 양국 간의 교역 규모가 얼마나 확대될지 귀추가 주목됩니다.",
             "image_prompt": "Luxury banquet hall, business leaders shaking hands, Italy Korea flags, high-end lifestyle",
             "published_at": "2026-06-12 12:39:14",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제 포커스] 내년 잠재성장률 1.5% 미만 전망… “반도체 착시에 빠져선 안돼” - 조선비즈 - Chosunbiz",
@@ -520,7 +575,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-06-12 00:57:15",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[유레카] 북한의 경제 성장 - 한겨레",
@@ -530,58 +585,6 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-06-12 00:57:15",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "\"북한은 지금 세계에서 가장 놀라운 경제 성공담\" - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoaWh3QjBOOV9wUVdzNjkxa2hUWjZjRGcxUmdKVVBqbmNYZWg3MHdkM3YzN1FPR0hwY2diZHFYbXNtVi1TYWMwbGwxdmIxa2NEcTJYWG5YcG1BeDg?oc=5",
-            "source": "연합뉴스",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-06-12 00:57:15",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "[리얼]“북한 맞아?” 경제대박난 북한 근황 - 문화일보",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40Umx3QVVTOFl0d2ZidzNNblVMaWM0RXR0Z1Y5NnZza0J6MkhJRGxWZWVXMUU2c1VuVVZWRThwSWVQcTVyU2ItZFdUSnhQeXY4?oc=5",
-            "source": "문화일보",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-06-12 00:57:15",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "이 대통령 “미국과 경제협력 확대…안보에선 자강 공고하게” - 경향신문",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YbFJSdXVnQmhOV2NydzJmQUhvRkI5WmE0TlRjdWpLQ0VrUm80TER5elNXbmlTUG5ETmdONTlyZTdHOVAwVTF0bVp5cVVXTlVmY1pVSzhDbThXUdIBX0FVX3lxTE1XSHlLaWNQTkFFSmotNUFqcVptcnJfOHB0NW4teFp5NUN3Z3RPZXMya2lseDdEMnZ5OHdGX3dHMEw3Q29INEE1ZXBJOHpCYU1HY2ZPaVpBX0drTU9pOTdr?oc=5",
-            "source": "경향신문",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-06-12 00:57:15",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "경제 6단체 “수도권 레미콘 운송거부 우려…국민경제 전체 피해”",
-            "source": "KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdXpCb3FxNHZseFNiQUx1cjBId01MT3BpSnY5R3N0T1E0UF9CS0dUbmhDV2VuUS1QN1lFQ013WUtid0IwcjBWOHVPT0FMT1VCdEg5elVKb1EwT2s?oc=5",
-            "category": "산업",
-            "summary": "레미콘 운송 거부 장기화 시 건설업 셧다운 및 국가 경제 전반에 심각한 피해 우려",
-            "content": "대한상공회의소, 한국경영자총협회 등 주요 경제 6단체는 수도권 레미콘 운송 거부 사태에 대해 심각한 우려를 표명하는 공동 성명을 발표했습니다. 이들은 운송 거부가 장기화될 경우 건설 현장의 공사 중단(셧다운)이 불가피하며, 이는 결국 건설업계를 넘어 국가 경제 전반에 막대한 손실을 초래할 것이라고 경고했습니다.\n\n경제계는 이번 사태가 건설 원가 상승과 주택 공급 차질로 이어져 서민 주거 안정에도 악영향을 미칠 수 있음을 강조했습니다. 특히 레미콘은 제품 특성상 적기에 운송되지 않으면 폐기해야 하는 특성이 있어, 운송 중단은 곧바로 생산 중단으로 이어지는 구조적 취약성을 지니고 있다고 설명했습니다.\n\n단체들은 노동계의 정당한 권리 행사는 존중받아야 하지만, 법 테두리를 벗어난 집단행동은 자제되어야 한다고 촉구했습니다. 정부에 대해서는 법과 원칙에 따른 엄정 행정을 통해 물류 흐름이 조속히 정상화될 수 있도록 적극적인 중재와 대책 마련에 나서줄 것을 요청했습니다.\n\n현재 수도권 건설 현장 곳곳에서는 이미 레미콘 수급에 차질이 빚어지고 있으며, 관련 중소 협력업체들의 연쇄 도산 우려까지 제기되고 있는 상황입니다. 이번 사태의 해결 여부가 하반기 건설 경기 회복의 분수령이 될 것으로 보입니다.",
-            "image_prompt": "Construction site, concrete mixer truck, industrial protest, economic crisis, industrial machinery",
-            "published_at": "2026-06-11 19:20:00",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "한-EU \"고위급 경제대화 신설…경제 안보·무역·산업정책 협력 심화\"",
-            "source": "대한민국 정책브리핑",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yM21wd0FZU2FlOEg4OG53ZWxtWjFSOUw0X1NhWnZvMmw1YjA0bWxjaEU3ZHVNVzJRMExiblV4b2ltb0VfWnRVY3dPRHlnSzRkbDVvLTFxdDl5czV2eWt3bE9Va25BaUVTWEdiTQ?oc=5",
-            "category": "정책",
-            "summary": "한국과 EU, 경제 안보 및 공급망 협력을 위한 장관급 고위급 경제대화 가동",
-            "content": "한국과 유럽연합(EU)이 변화하는 글로벌 경제 환경에 대응하기 위해 '고위급 경제대화(HLED)'를 신설하기로 합의했습니다. 이번 대화 채널은 경제 안보, 공급망 안정화, 그리고 디지털 및 그린 전환과 같은 핵심 산업 정책 전반에 걸친 협력을 심화하기 위한 목적으로 마련되었습니다.\n\n양측은 특히 반도체, 배터리 등 전략 자산의 공급망 회복력을 높이기 위한 구체적인 협력 방안을 논의했습니다. 글로벌 보호무역주의가 확산되는 가운데, 자유무역 가치를 공유하는 파트너로서 통상 현안에 대해 긴밀히 소통하고 공동 대응 체계를 구축한다는 방침입니다.\n\n또한, EU의 탄소국경조정제도(CBAM)와 같은 새로운 환경 규제가 한국 기업에 미칠 영향을 최소화하기 위한 실무적 논의도 병행될 예정입니다. 우리 정부는 한국 기업들이 유럽 시장에서 공정한 경쟁을 할 수 있도록 제도적 뒷받침을 강화해 줄 것을 EU 측에 요청했습니다.\n\n이번 고위급 대화 신설은 한-EU FTA 발효 이후 양국 경제 관계가 단순한 상품 교역을 넘어 가치 사슬 전반을 아우르는 전략적 동반자 관계로 격상되었음을 의미합니다. 향후 정례적인 회의를 통해 실질적인 성과를 도출해 나갈 계획입니다.",
-            "image_prompt": "South Korea and EU flags, diplomatic meeting, global supply chain, international trade, high-tech cooperation",
-            "published_at": "2026-06-11 19:20:00",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
