@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "id": "2026_06",
+        "name": "2026년 06월",
+        "filename": "archive_2026_06.json"
+    },
+    {
+        "id": "2026_05",
+        "name": "2026년 05월",
+        "filename": "archive_2026_05.json"
+    },
+    {
+        "id": "2026_04",
+        "name": "2026년 04월",
+        "filename": "archive_2026_04.json"
+    },
+    {
+        "id": "2026_03",
+        "name": "2026년 03월",
+        "filename": "archive_2026_03.json"
+    },
+    {
+        "id": "2026_02",
+        "name": "2026년 02월",
+        "filename": "archive_2026_02.json"
+    }
+]
