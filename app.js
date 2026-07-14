@@ -332,9 +332,9 @@ function openModalWithItem(item) {
 
     if (item.link && item.link.startsWith('http')) {
         formattedContent += `
-            <strong>출처:</strong> <a href="${item.link}" target="_blank" style="color: var(--accent-color); text-decoration: underline; font-weight: 500;">${item.source || '해당 언론사'}</a><br>
+            <strong>출처:</strong> <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="color: var(--accent-color); text-decoration: underline; font-weight: 500;">${item.source || '해당 언론사'}</a><br>
             <span style="font-size: 0.8rem; opacity: 0.8;">※ 본 내용은 AI(Gemini)에 의해 자동 수집 및 요약되었습니다. 원문 기사의 저작권은 출처 언론사에 있으며, 자세한 내용은 
-            <a href="${item.link}" target="_blank" style="color: var(--accent-color); font-weight: 600; text-decoration: none;">[🔗 원문 기사 보러가기]</a>를 클릭하여 주시기 바랍니다.</span>
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" style="color: var(--accent-color); font-weight: 600; text-decoration: none;">[🔗 원문 기사 보러가기]</a>를 클릭하여 주시기 바랍니다.</span>
         </div>
         `;
     } else {
