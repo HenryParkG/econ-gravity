@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-18 14:22:21",
-    "briefing": "국내외 경제가 금리 결정의 분수령이 될 GDP 발표를 앞두고 긴장감이 고조되는 가운데, 반도체 가격과 수출 지표가 핵심 변수로 부상하고 있습니다. 특히 고물가와 폭염 등 민생 경제의 불확실성이 커지는 상황에서 주요 기업들의 실적 전망과 정부의 성장 동력 확보 노력이 교차하고 있습니다.",
+    "last_updated": "2026-07-18 16:45:18",
+    "briefing": "반도체 가격과 2분기 GDP 성장률이 향후 금리 정책의 핵심 지표로 부상한 가운데, 반도체 업황에 대한 긍정적 전망과 피크아웃 우려가 교차하고 있습니다. 한편으로는 폭염으로 인한 경제적 손실과 식탁 물가 상승이 민생 경제의 부담으로 작용하고 있으며, 부동산 시장 안정을 위한 보유세 카드 검토와 우주 경제와 같은 미래 산업에 대한 장기적 전망이 동시에 주목받고 있습니다.",
     "indices": [
         {
             "name": "KOSPI",
@@ -40,6 +40,61 @@
     ],
     "items": [
         {
+            "title": "\"韓 핵심 지표는 반도체 가격…물가·GDP 본 뒤 추가인상 결정\"",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03MlB5dUxsYTMwTzJyQ1diMmlFb0pmRTRCX0M4MnVpbWc2djFGQW5Fd29yWXM5clhyaVFhamJfek5BUXpfNzl6enp1VkxfUzBzN3c1SXJBYnppdw?oc=5",
+            "category": "금융/경제",
+            "summary": "한국 경제의 향후 금리 향방을 결정할 핵심 지표로 반도체 가격과 2분기 GDP가 지목되었습니다.",
+            "content": "최근 한국 은행권과 경제 전문가들은 대한민국 경제의 향방을 가늠할 가장 중요한 척도로 반도체 가격 추이를 꼽고 있습니다. 반도체는 국내 수출의 막대한 비중을 차지하는 만큼, 가격 회복세와 수요 강도가 전체 경제 성장률(GDP)과 직결되기 때문입니다. 특히 전문가들은 반도체 업황이 하반기에도 견고한 흐름을 유지할 수 있을지가 통화 정책 결정의 분수령이 될 것으로 내다보고 있습니다.\n\n이와 더불어 다가오는 2분기 GDP 성장률 발표에도 시장의 이목이 쏠리고 있습니다. 지난 1분기 예상치를 상회하는 '깜짝 성장'을 기록했던 한국 경제가 2분기에도 그 탄력을 유지했을지가 관건입니다. 만약 성장세가 가파르고 물가 상승 압력이 여전하다면, 한국은행은 기준금리 추가 인상에 대한 압박을 느낄 수밖에 없는 상황입니다.\n\n통화 당국은 물가 안정화 경로를 확인하는 데 주력하고 있습니다. 단순히 반도체 호황에 따른 경제 지표 개선뿐만 아니라, 일반 소비자물가가 목표치인 2%대에 안착하는지를 면밀히 검토한 뒤 금리 조정 여부를 결정할 방침입니다. 이는 내수 부진과 고금리 부담 사이에서 최적의 균형점을 찾기 위한 신중한 행보로 풀이됩니다.\n\n결국 하반기 한국 경제는 반도체 가격의 고공행진 지속 여부와 거시경제 지표의 안정적 흐름이 맞물리며 금리 인하 혹은 인상의 중요한 기로에 서게 될 전망입니다. 투자자들은 이러한 핵심 지표들의 발표 시점에 맞춰 포트폴리오를 재점검할 필요가 있습니다.",
+            "image_prompt": "Semiconductor chips, interest rate concept, financial graph, central bank building, professional blue tone",
+            "published_at": "2026-07-18 16:45:18",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "월요일 국장 비상?...삼성·SK하이닉스 해외지표 보니",
+            "source": "아주경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTT2M3YlR4NTdaenRmRmhacnBsbVE2SnQ3N3hYYkQ0eVZ0V1cxTWt6N1BfNDIxdHM1Y2d1X1RjWUVXd0M1eHJ4R1ZaeU1YUnRKcDRNV3kwQjR5d9IBWEFVX3lxTE9oblNPeU5aOWVYR1R1UlZna2h3b3RkaWN6dk9HcTNsYXFQRDVyenUyV2FkSl9KM29Wd3lRY2RMRlJGc3pueG43UFhMSE15Sk85b0ZVbXZrTmU?oc=5",
+            "category": "증시/테크",
+            "summary": "해외 반도체 지표의 변동성에 따라 삼성전자와 SK하이닉스 등 국내 대형주의 주가 흐름이 주목됩니다.",
+            "content": "미국 증시에서 엔비디아를 비롯한 주요 반도체 기업들의 주가가 널뛰기를 기록하면서, 월요일 개장을 앞둔 국내 증시(국장)에도 긴장감이 감돌고 있습니다. 삼성전자와 SK하이닉스는 글로벌 반도체 공급망의 핵심 축인 만큼, 필라델피아 반도체 지수 등 해외 지표의 움직임에 민감하게 반응할 것으로 예상됩니다. \n\n최근 시장에서는 이른바 '반도체 피크아웃(정점 통과)' 논란이 다시 고개를 들고 있습니다. AI 서버 수요는 여전히 강력하지만, PC와 스마트폰 등 소비자 가전 부문의 수요 회복이 더디다는 점이 우려 요인으로 꼽힙니다. 하지만 박홍근 의원을 비롯한 업계 전문가들은 이번 반도체 호황이 쉽게 꺾이지 않을 것이라며 낙관적인 견해를 유지하고 있습니다.\n\nSK그룹 최태원 회장 역시 하이닉스 주가와 관련하여 '시간을 두고 지켜보면 우상향할 것'이라며 단기 매매보다는 장기적 관점의 투자를 강조했습니다. 이는 고대역폭메모리(HBM) 시장에서의 선점 효과와 차세대 반도체 기술 경쟁력이 충분하다는 자신감을 내비친 것으로 해석됩니다.\n\n투자자들은 월요일 장 초반 외국인과 기관의 수급 동향을 예의주시해야 합니다. 해외 시장에서의 반도체 섹터 조정이 국내 기업들에 대한 저가 매수 기회로 작용할지, 아니면 추가 하락의 신호탄이 될지에 따라 코스피 지수의 방향성이 결정될 것으로 보입니다.",
+            "image_prompt": "Stock market trading screen, candlestick charts, SK Hynix and Samsung logos, dynamic trading floor, glowing technology",
+            "published_at": "2026-07-18 16:45:18",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "UBS, 우주 경제 시장 규모 2040년까지 1.3조 달러 전망",
+            "source": "Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZNnMzVWU4YXhWS2FMMDRjYW9jY1ZzYkF2amw0cTdrekFpTDZBNjF1ckp6UXkycnJobGI3ckh4dTJ4ZXQ5UG1UYV9NeUNGNDR6T0lHQzRrWU9FRzhIREg5RkFxQzktMjZzd1hKQjBCVnE?oc=5",
+            "category": "글로벌/미래",
+            "summary": "글로벌 투자은행 UBS가 우주 산업의 폭발적 성장을 예고하며 2040년까지 시장 규모가 1.3조 달러에 이를 것으로 내다봤습니다.",
+            "content": "글로벌 투자은행 UBS가 발간한 최신 보고서에 따르면, 인류의 차세대 먹거리로 불리는 '우주 경제' 시장 규모가 2040년경에는 현재의 수 배를 뛰어넘는 1조 3천억 달러(약 1,800조 원)에 달할 것으로 전망되었습니다. 이는 위성 통신, 우주 탐사, 자원 채굴 등 우주를 활용한 비즈니스 모델이 본격적으로 수익을 창출하는 단계에 진입할 것임을 의미합니다.\n\n특히 저궤도 위성망을 활용한 초고속 인터넷 서비스와 민간 우주여행 분야가 시장 성장을 주도할 핵심 동력으로 지목되었습니다. 기존 국가 주도의 '올드 스페이스' 시대에서 민간 기업이 주도하는 '뉴 스페이스' 시대로의 전환이 가속화되면서 혁신적인 기술들이 쏟아져 나오고 있다는 평가입니다.\n\n그러나 장밋빛 전망만 있는 것은 아닙니다. 최근 세계 최대 민간 우주 기업인 스페이스X의 시가총액이 한 달 만에 급감하는 등 시장의 변동성 또한 커지고 있습니다. 이는 우주 산업이 막대한 초기 투자 비용과 기술적 난도를 동반하며, 실제 수익성 확보까지는 상당한 시일이 걸릴 수 있음을 시사합니다.\n\n결국 우주 경제는 장기적인 안목에서 접근해야 할 투자처로 분류됩니다. 전문가들은 우주 관련 기술이 방위 산업뿐만 아니라 물류, 환경 감시 등 다양한 민간 분야와 융합하며 거대한 생태계를 형성할 것으로 보고 있으며, 대한민국 기업들도 이 거대한 흐름 속에서 경쟁력을 확보하기 위한 전략적 노력이 필요한 시점입니다.",
+            "image_prompt": "Futuristic rocket launch, satellite orbit, deep space exploration, digital currency flow, cinematic lighting",
+            "published_at": "2026-07-18 16:45:18",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "일손 놓고 에어컨 앞으로...팬데믹 버금가는 폭염, 7경원 녹았다",
+            "source": "머니투데이",
+            "category": "사회/환경",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tWVZ5ZmlSV0Z2eVdPdFJuMmR2SnVtY2RyTGEwaEV3ZjlSQl9uRkt6SGlCbXJUVFlEUHV1b3duVHc3U3A2V3VGZU5aUnFQVExxUi1oMjZXdXNxcE5VVTEydkd0NHBKY1gx0gFuQVVfeXFMTlVfTEU2NzBJRG1tVFhtbl9XRU1FYmxZQkNVRkdhaG5Fei1VeG5NRUtSWnBkbURIT0pRdjBUUlVOWWNEcWlZWHpORkEyS1BfRFBkamN2dlA5Y0lTd1VVakxQYTQ2bVFLSGxPN185QWc?oc=5",
+            "summary": "전 세계를 강타한 기록적인 폭염으로 인해 막대한 경제적 손실이 발생하고 있으며 물가 상승 압력까지 더해지고 있습니다.",
+            "content": "지구 온난화로 인한 폭염이 단순한 자연현상을 넘어 전 세계 경제에 '열병'을 앓게 하고 있습니다. 최근 발표된 분석에 따르면 극심한 더위로 인한 노동 생산성 저하와 농작물 피해 등으로 발생한 누적 경제 손실액이 약 7경 원에 달하는 것으로 추산되었습니다. 이는 지난 코로나19 팬데믹 기간에 버금가는 충격파를 경제 전반에 던지고 있습니다.\n\n폭염은 특히 야외 활동이 많은 건설업과 농업에 직접적인 타격을 입히고 있습니다. 지나친 고온으로 인해 일손을 놓는 시간이 늘어나면서 공기가 지연되거나 수확량이 급감하고 있으며, 이는 곧바로 공급망 차질과 가격 상승으로 이어지고 있습니다. 실제로 최근 카레와 케첩 등 가공식품의 원료가 되는 농산물 가격이 급등하며 식탁 물가 비상등이 켜진 상황입니다.\n\n이러한 현상은 '히트플레이션(Heatflation)'이라는 신조어를 만들어낼 정도로 심각합니다. 기온 상승이 물가 상승을 견인하는 구조가 고착화되면서, 중앙은행의 물가 관리 노력에도 불구하고 기후 위기가 새로운 변수로 떠올랐습니다. 폭염으로 인한 전력 수요 급증과 에너지 비용 상승 역시 기업의 생산 원가 부담을 가중시키는 요인입니다.\n\n정부와 지자체는 소상공인과 취약계층을 위한 폭염 대책 마련에 부심하고 있습니다. 소상공인들 사이에서는 폭염으로 인한 매출 급감 시 '휴업권'을 보장해 달라는 목소리까지 나오고 있습니다. 기후 변화가 경제 시스템의 근간을 위협하는 만큼, 탄소 중립과 기후 적응 전략이 경제 정책의 핵심 과제로 다뤄져야 할 시점입니다.",
+            "image_prompt": "Extreme heat haze over city, melting ice globe, withered crops, rising price tags, red alert color palette",
+            "published_at": "2026-07-18 16:45:18",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "공급만으론 집값 못 잡는다...다시 떠오른 ‘보유세 카드’",
+            "source": "투데이신문",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXVVNlWWQ5NzYySXRXbDFOOW9TVXRBbnAyejd5Z2htMUdPQWJVaDVWT1FGX3VtMDZkenJjd2xOYmc3SmdHQ1pXTGNaQklEdW1jVUlkYTNKaXY1bkV1Q0xvQ3RhcVRLTEJZNHBN0gFvQVVfeXFMTmFwN1dvQU1UQW5uaDVBWGlRefXG16Z09Y5ZVkhEdklmMWtwYXVMeDJXYkY3eFJVdE96RmdPUzlEY0JQejFQeldUVURlcUpjRU5waEhzTGs1YU4xTHVRcVNULVl3T1A2eXVjYmFR?oc=5",
+            "category": "부동산/정책",
+            "summary": "정부의 주택 공급 대책에도 불구하고 집값 상승세가 꺾이지 않자 보유세 강화를 통한 수요 억제책이 다시 논의되고 있습니다.",
+            "content": "최근 서울과 수도권을 중심으로 아파트값이 다시 오름세를 보이자, 정부의 부동산 정책 기조에 변화의 기류가 감지되고 있습니다. 그동안 신규 주택 공급 확대에 주력해왔으나, 금리 인하 기대감과 투심 회복으로 인해 공급만으로는 시장의 열기를 식히기에 역부족이라는 지적이 나오고 있기 때문입니다. 이에 따라 과거 강력한 규제책이었던 '보유세 강화'가 다시금 수면 위로 떠오르고 있습니다.\n\n부동산 전문가들 사이에서는 다주택자의 매물을 시장으로 유도하기 위해 종부세와 재산세 등 보유세를 상향 조정해야 한다는 의견이 힘을 얻고 있습니다. 시중의 풍부한 유동성이 주택 시장으로 쏠리는 현상을 막기 위해서는 투기적 수요를 차단할 실효성 있는 과세 체계가 뒷받침되어야 한다는 논리입니다.\n\n하지만 보유세 카드는 조세 저항과 내수 위축이라는 부작용도 만만치 않습니다. 지난 정부 시절 보유세 급증으로 인해 은퇴자 등 실소유자들의 부담이 컸던 경험이 있는 만큼, 정부는 매우 신중한 태도를 보이고 있습니다. 단순히 세금을 올리는 것보다는 거래세를 낮추고 보유세를 높이는 방식의 세제 개편안 등 다양한 시나리오가 검토 중인 것으로 알려졌습니다.\n\n결국 향후 부동산 시장의 방향성은 정부가 내놓을 공급 대책의 속도와 보유세 개편 여부에 달려 있습니다. 실수요자들은 무리한 영끌(영혼까지 끌어모으기) 투자보다는 정부의 추가적인 규제 및 공급 시그널을 확인하며 시장을 관망할 필요가 있다는 조언이 지배적입니다.",
+            "image_prompt": "Luxury apartment buildings, taxes document, scale weighing house and money, professional architecture photo, soft sunlight",
+            "published_at": "2026-07-18 16:45:18",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "2분기 GDP·청년고용 통계 공개…한은 추가 금리 결정 '분수령'",
             "source": "v.daum.net",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3R0x5Yl9fbXI0cXdNV3BlOEhFZFdyQzJvVGdjS25lNDlDbDhiTHBJOV9wU3ZTNzdSVDY3ZVgyR1p4aFQwUG5LcGVRcFJ2ZEE?oc=5",
@@ -48,7 +103,7 @@
             "content": "이번 주는 한국 경제의 향후 방향성을 가늠할 수 있는 중대한 시기입니다. 한국은행은 2분기 실질 국내총생산(GDP) 성장률 속보치를 발표할 예정이며, 이는 지난 1분기의 깜짝 성장이 일시적이었는지 혹은 견고한 회복세인지를 판단하는 기준이 될 것입니다.\n\n동시에 발표되는 청년층 고용 통계는 내수 경기의 이면을 보여줄 것으로 예상됩니다. 수출 호조에도 불구하고 고물가와 고금리로 인해 위축된 소비 심리가 고용 시장, 특히 청년층에 어떤 영향을 미쳤는지가 관전 포인트입니다.\n\n시장 전문가들은 이번 GDP 결과와 물가 지표에 따라 한국은행 금융통화위원회의 금리 인하 시점이 결정될 것으로 보고 있습니다. 가계부채 증가세와 환율 변동성 속에서 한은이 어떤 선택을 할지 귀추가 주목됩니다.\n\n만약 성장률이 예상치를 밑돌 경우 경기 부양을 위한 금리 인하 압박이 거세질 수 있으나, 여전히 높은 물가 수준이 발목을 잡을 수 있어 한국은행의 고심이 깊어질 전망입니다.",
             "image_prompt": "Central Bank, Interest Rate, GDP Chart, Economic Growth, Professional Silver",
             "published_at": "2026-07-18 14:22:21",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'수출 호조에도 왜?' 중국 경제성장률 급락, 연간 목표치를 밑돌아",
@@ -59,40 +114,7 @@
             "content": "중국의 최근 경제 성장률이 시장의 예상치를 하회하며 급락했습니다. 수출 실적은 비교적 양호한 흐름을 보였음에도 불구하고, 고질적인 부동산 경기 침체와 내수 부진이 발목을 잡은 것으로 분석됩니다.\n\n중국 정부가 제시한 연간 성장률 목표치 달성에 빨간불이 켜지면서, 추가적인 경기 부양책이 나올지 여부에 세계 경제의 시선이 쏠리고 있습니다. 소비자들의 지출 감소는 곧바로 생산 위축으로 이어지는 악순환을 보이고 있습니다.\n\n특히 청년 실업률 문제와 저물가 기조가 고착화되는 디플레이션 우려가 제기되면서 중국 경제의 기초 체력에 대한 의구심이 커지고 있습니다. 이는 중국과 밀접한 경제 관계를 맺고 있는 한국 등 주변국에도 부정적인 영향을 미칠 수 있습니다.\n\n글로벌 투자은행들은 중국의 성장 전망치를 하향 조정하고 있으며, 이는 원자재 가격 하락과 글로벌 공급망 재편 속도를 더욱 가속화하는 요인이 되고 있습니다.",
             "image_prompt": "China Economy, Red Falling Graph, Factory Silhouette, Global Trade, Tense Atmosphere",
             "published_at": "2026-07-18 14:22:21",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "월요일 국장 비상?...삼성·SK하이닉스 해외지표 보니",
-            "source": "아주경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTT2M3YlR4NTdaenRmRmhacnBsbVE2SnQ3N3hYYkQ0eVZ0V1cxTWt6N1BfNDIxdHM1Y2d1X1RjWUVXd0M1eHJ4R1ZaeU1YUnRKcDRNV3kwQjR5d9IBWEFVX3lxTE9oblNPeU5aOWVYR1R1UlZna2h3b3RkaWN6dk9HcTNsYXFQRDVyenUyV2FkSl9KM29Wd3lRY2RMRlJGc3pueG43UFhMSE15Sk85b0ZVbXZrTmU?oc=5",
-            "category": "시장",
-            "summary": "해외 기술주들의 부진으로 인해 국내 반도체 대장주들의 주가 변동성이 커지고 있습니다.",
-            "content": "미국 증시에서 기술주 중심의 하락세가 나타나면서 월요일 국내 증시에도 비상이 걸렸습니다. 특히 삼성전자와 SK하이닉스 등 국내 시가총액 상위 반도체 종목들의 향방에 투자자들의 관심이 집중되고 있습니다.\n\n최근 엔비디아를 비롯한 글로벌 AI 관련주들의 차익 실현 매물이 쏟아지면서 필라델피아 반도체 지수가 흔들린 것이 국내 시장에 직접적인 하방 압력으로 작용할 가능성이 큽니다.\n\n반도체 가격의 흐름은 양호하지만, 대외적인 매크로 환경과 정치적 불확실성이 투자 심리를 위축시키고 있습니다. 외국인 투자자들의 수급 변화가 월요일 장세의 결정적인 변수가 될 것으로 보입니다.\n\n전문가들은 단기적인 변동성은 불가피하나, 반도체 업황의 근본적인 회복세는 여전하다고 분석합니다. 다만 고점에서 물량이 쏟아질 경우 지수 하락 폭이 예상보다 커질 수 있어 주의가 필요합니다.",
-            "image_prompt": "Semiconductor Chip, Stock Market Screen, Rapid Volatility, Dark Blue, Tech Industry",
-            "published_at": "2026-07-18 14:22:21",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "일손 놓고 에어컨 앞으로...팬데믹 버금가는 폭염, 7경원 녹았다",
-            "source": "머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tWVZ5ZmlSV0Z2eVdPdFJuMmR2SnVtY2RyTGEwaEV3ZjlSQl9uRkt6SGlCbXRUVFlEUHV1b3duVHc3U3A2V3VGZU5aUnFQVExxUi1oMjZXdXNxcE5VVTEydkd0NHBKY1gx0gFuQVVfeXFMTlVfTEU2NzBJRG1tVFhtbl9XRU1FYmxZQkNVRkdhaG5Fei1VeG5NRUtSWnBkbURIT0pRdjBUUlVOWWNEcWlZWHpORkEyS1BfRFBkamN2dlA5Y0lTd1VVakxQYTQ2bVFLSGxPN185QWc?oc=5",
-            "category": "정책",
-            "summary": "기후 변화로 인한 극심한 폭염이 전 세계 경제에 심각한 손실을 초래하고 있습니다.",
-            "content": "최근 전 세계를 덮친 기록적인 폭염이 단순한 자연현상을 넘어 경제 재앙으로 다가오고 있습니다. 폭염으로 인한 노동 생산성 저하와 에너지 비용 상승은 과거 팬데믹 시기에 준하는 경제적 타격을 주고 있다는 분석입니다.\n\n야외 작업이 불가능해지면서 건설 및 농업 분야의 손실이 막대하며, 이는 곧바로 신선식품 물가 상승으로 이어지는 '히트플레이션' 현상을 야기하고 있습니다. 전 세계적으로 수조 달러 규모의 경제 가치가 증발하고 있다는 경고가 나옵니다.\n\n냉방 수요 폭증으로 인한 전력 과부하 문제는 산업 현장의 가동 중단 리스크를 높이고 있습니다. 정부 차원의 폭염 대책이 단순한 복지를 넘어 경제 안보 차원에서 다뤄져야 한다는 목소리가 힘을 얻고 있습니다.\n\n장기적으로 기후 변화에 대응하기 위한 인프라 투자 비용이 천문학적으로 늘어날 것으로 예상되며, 이는 국가 재정에도 상당한 부담이 될 것으로 전망됩니다.",
-            "image_prompt": "Scorching Sun, Melting Earth, Economic Loss, Orange and Red Heat, Global Warming",
-            "published_at": "2026-07-18 14:22:21",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "공급만으론 집값 못 잡는다...다시 떠오른 ‘보유세 카드’",
-            "source": "투데이신문",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXVVNlWWQ5NzYySXRXbDFOOW9TVXRBbnAyejd5Z2htMUdPQWJVaDVWT1FGX3VtMDZkenJjd2xOYmc3SmdHQ1pXTGNaQklEdW1jVUlkYTNKaXY1bkV1Q0xvQ3RhcVRLTEJZNHBN0gFvQVVfeXFMTmFwN1dvQU1UQW5uaDVBWGlWeEs0bHp2ekdPWE5ZVkhEdklmMWtwYXVMeDJXYkY3eFJVdE96RmdPUzlEY0JQejFQeldUVURlcUpjRU5waEhzTGs1YU4xTHVRcVNULVl3T1A2eXVjYmFR?oc=5",
-            "category": "정책",
-            "summary": "부동산 시장 과열을 막기 위해 공급 확대 외에도 조세 정책이 필요하다는 주장이 제기되었습니다.",
-            "content": "최근 수도권을 중심으로 주택 가격이 다시 상승세를 보이면서 정부의 부동산 정책에 대한 실효성 논란이 일고 있습니다. 단순한 주택 공급 확대만으로는 시장의 투기 수요를 억제하기에 한계가 있다는 지적입니다.\n\n이에 따라 과거 시장 안정화에 기여했던 '보유세' 강화 카드가 다시금 정치권과 전문가들 사이에서 논의되고 있습니다. 다주택자에 대한 세 부담을 높여 매물을 유도해야 한다는 논리입니다.\n\n하지만 세금 강화가 오히려 임대료 상승으로 전가되어 무주택 서민들의 고통을 가중시킬 수 있다는 우려도 만만치 않습니다. 정부는 규제 완화 기조와 시장 안정 사이에서 정교한 정책 조합을 찾아야 하는 숙제를 안게 되었습니다.\n\n향후 금리 추이와 함께 정부의 추가적인 부동산 대책이 시장의 향방을 결정할 핵심 변수가 될 것으로 보이며, 실수요자들의 혼란도 당분간 지속될 전망입니다.",
-            "image_prompt": "Real Estate, Apartment Building, Tax Policy, Golden Key, Stability Concept",
-            "published_at": "2026-07-18 14:22:21",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제]연내 3%대 기준금리 전망...주담대 최고 금리 8% 눈앞에",
@@ -103,7 +125,7 @@
             "content": "최근 금융시장에서는 한국은행이 연내 기준금리를 현재 수준인 3%대 중반에서 추가적으로 인상하거나 고금리 상태를 장기간 유지할 것이라는 전망이 지배적입니다. 이러한 긴축 기조는 시중은행의 대출 금리에 즉각 반영되고 있으며, 특히 서민 경제와 직결된 주택담보대출 금리의 상단이 8%에 육박하면서 차주들의 이자 부담이 임계점에 달하고 있다는 분석이 나옵니다.\n\n물가 상승 압력이 여전한 상황에서 한은은 통화 정책의 고삐를 죄고 있으며, 이는 부동산 시장의 거래 절벽과 가계 부채 부실화라는 부작용을 낳을 수 있다는 우려를 사고 있습니다. 금융당국은 모니터링을 강화하고 있으나, 글로벌 금리 환경과 맞물려 금리 하락 전환 시점을 예측하기 어려운 상황입니다.\n\n전문가들은 이러한 '고금리 장기화' 시나리오에 대비해 자산 포트폴리오를 재점검하고 부채 관리에 만전을 기해야 한다고 조언합니다. 특히 소득 대비 원리금 상환 부담이 큰 영끌족이나 소상공인들의 경우, 금리 변동 리스크에 직접적으로 노출되어 있어 정부 차원의 정교한 금융 지원책 마련이 시급한 시점입니다.",
             "image_prompt": "High interest rate, mortgage stress, golden coins, rising red arrow, finance",
             "published_at": "2026-07-18 11:08:32",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[다음주 경제] 2분기 성장률 발표…1분기 깜짝 성장 이어갈까",
@@ -114,7 +136,7 @@
             "content": "대한민국 경제의 향방을 결정지을 올해 2분기 실질 국내총생산(GDP) 성장률 발표가 코앞으로 다가왔습니다. 지난 1분기 수출 호조와 내수 회복세에 힘입어 기록했던 '깜짝 성장'이 2분기에도 지속될 수 있을지가 관건입니다. 시장에서는 1분기의 기저 효과로 인해 다소 둔화된 수치가 나올 수 있다는 신중론과 반도체 수출 강세로 견고한 흐름을 이어갈 것이라는 낙관론이 팽팽히 맞서고 있습니다.\n\n주요 분석 포인트는 민간 소비의 회복 속도와 기업들의 설비 투자 추이입니다. 고물가와 고금리가 지속되면서 가계의 실질 구매력이 저하된 상태라 내수가 성장의 발목을 잡을 수 있다는 우려가 제기됩니다. 반면 인공지능(AI) 열풍으로 인한 반도체 수요 폭발은 우리 수출 지표를 탄탄하게 지지하며 전체 성장률을 방어하는 핵심 동력이 될 것으로 보입니다.\n\n정부는 이번 성장률 데이터를 바탕으로 하반기 경제 정책 방향을 미세 조정할 계획입니다. 만약 성장세가 예상보다 견조하다면 금리 인하 시점은 늦춰질 수 있으며, 반대로 지표가 부진할 경우 경기 부양을 위한 적극적인 재정 및 통화 정책의 필요성이 다시금 대두될 전망입니다.",
             "image_prompt": "Economic growth, skyscraper building, data analytics, professional blue, GDP chart",
             "published_at": "2026-07-18 11:08:32",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "심상찮은 식탁 물가…카레·케첩 죄다 오른다 [많이 본 경제기사]",
@@ -125,7 +147,7 @@
             "content": "최근 대형 식품업체들이 카레, 케첩 등 국민 생활과 밀접한 가공식품 가격을 줄줄이 인상하면서 '식탁 물가'에 비상이 걸렸습니다. 원재료 가격 상승과 물류비, 인건비 부담이 한계치에 달했다는 것이 업체들의 설명이지만, 외식 물가에 이어 가공식품 물가까지 치솟으면서 소비자들의 지갑은 더욱 굳게 닫히고 있습니다.\n\n이번 인상은 단순히 몇몇 품목에 그치지 않고 도미노 인상으로 번질 기미를 보이고 있습니다. 이미 설탕, 식용유 등 기초 식자재 가격이 높은 수준을 유지하고 있는 가운데, 소스류와 가공식품 가격까지 더해지면서 일반 가정은 물론 자영업자들의 원가 부담도 심화되고 있습니다. 이는 결국 최종 제품 가격 인상으로 이어져 인플레이션을 자극하는 악순환을 초래할 수 있습니다.\n\n정부는 장바구니 물가 안정을 위해 유통 구조 개선과 업체들의 가격 인상 자제를 요청하고 있으나, 글로벌 원자재 시장의 불확실성이 큰 탓에 실효성 있는 대책 마련에 고심하고 있습니다. 당분간 식료품 가격 강세가 이어질 것으로 보여 서민들의 생활고는 당분간 지속될 전망입니다.",
             "image_prompt": "Grocery store, price tag inflation, food basket, household budget, supermarket",
             "published_at": "2026-07-18 11:08:32",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "성장률 3%, 수출 1조달러…'지도에 없는 길' 가는 韓 경제",
@@ -136,7 +158,7 @@
             "content": "한국 경제가 과거의 저성장 기조를 탈피하고 연간 성장률 3%대 회복과 사상 최대 규모인 수출 1조 달러 달성을 목표로 내걸었습니다. 이는 글로벌 공급망 재편과 보호무역주의 강화라는 어려운 대외 여건 속에서 나온 공격적인 수치로, 정부와 산업계가 힘을 합쳐 '지도에 없는 길'을 개척하겠다는 강력한 의지를 표명한 것입니다.\n\n수출 1조 달러 시대는 반도체, 자동차 등 기존 주력 품목의 고도화뿐만 아니라 신산업 분야의 폭발적인 성장이 뒷받침되어야 가능합니다. 전문가들은 이를 위해 규제 혁신과 민간 주도의 성장 생태계 구축이 필수적이라고 지적합니다. 특히 기술 패권 경쟁 속에서 초격차 기술을 확보하는 것이 이번 목표 달성의 핵심 열쇠가 될 전망입니다.\n\n하지만 대내외적인 불확실성도 적지 않습니다. 고물가와 고금리로 인한 내수 위축이 잠재적 위험 요소로 꼽히며, 주요국들의 경기 둔화 가능성 역시 수출 전선에 변수로 작용할 수 있습니다. 정부는 체질 개선을 위한 구조개혁을 병행하며 성장 동력을 확보하는 데 총력을 기울일 것으로 보입니다.\n\n결국 이번 도전의 성공 여부는 민관이 얼마나 유기적으로 협력하여 글로벌 시장의 변화에 기민하게 대응하느냐에 달려 있습니다. 한국 경제가 다시 한번 도약의 발판을 마련하여 선진 경제 강국으로서의 입지를 공고히 할 수 있을지 귀추가 주목됩니다.",
             "image_prompt": "South Korea economy, 3 percent growth, 1 trillion dollar export, futuristic cargo ship, blue neon skyline, professional.",
             "published_at": "2026-07-17 22:21:45",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "긴축 고삐 죄는 한은, 다시 ‘고금리 예금’ 및 주담대 8% 시대 오나",
@@ -147,7 +169,7 @@
             "content": "한국은행이 물가 안정과 가계부채 관리를 위해 긴축의 고삐를 늦추지 않으면서 금융시장의 금리가 다시금 요동치고 있습니다. 8월 추가 금리 인상 가능성이 제기되면서 한동안 주춤했던 '고금리 예금' 상품들이 다시 등장하기 시작했고, 이는 안전자산 선호 심리를 자극하고 있습니다.\n\n대출 시장의 상황은 더욱 엄중합니다. 시중은행의 주택담보대출 최고 금리가 8% 선에 근접하면서 대출자들의 이자 부담이 극대화되고 있습니다. 영끌(영혼까지 끌어모음)을 통해 내 집 마련에 나섰던 서민들과 추가 자금이 필요한 자영업자들에게는 견디기 힘든 압박이 되고 있으며, 이는 소비 위축으로 이어질 우려가 큽니다.\n\n금융 전문가들은 한은의 기준금리 인하 시점이 예상보다 늦어질 수 있다고 경고합니다. 물가 상승률이 목표치에 안착하기까지 시간이 걸릴 것으로 예상되는 데다, 한미 금리 차 확대로 인한 자본 유출 우려도 무시할 수 없기 때문입니다. 이에 따라 '고금리 장기화(Higher for Longer)' 시나리오에 대비한 자산 관리가 필요해졌습니다.\n\n이러한 금리 상승기는 가계와 기업 모두에게 건전성 관리를 요구합니다. 부실 위험이 있는 대출 비중을 줄이고 리스크 관리에 집중해야 하는 시기입니다. 향후 통화 정책의 향방과 시중 금리의 변화가 실물 경제에 미칠 파급 효과를 면밀히 주시해야 할 시점입니다.",
             "image_prompt": "Interest rate hike, gold coins falling, high mortgage rate, 8 percent digital display, financial stress, dark navy background.",
             "published_at": "2026-07-17 22:21:45",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이란-미국 보복 타격에 호르무즈 긴장 '최고조'… 에너지 안보 비상",
@@ -158,7 +180,7 @@
             "content": "이란의 '피의 복수' 선언과 함께 시작된 미국의 보복 타격으로 중동 지역의 지정학적 위기가 새로운 국면에 접어들었습니다. 특히 전 세계 원유 수송의 동맥이라 불리는 호르무즈 해협을 둘러싼 군사적 긴장이 최고조에 달하면서, 글로벌 에너지 시장에는 즉각적인 경고등이 켜졌습니다.\n\n호르무즈 해협이 봉쇄되거나 수송에 차질이 생길 경우 국제 유가는 통제 불능의 상태로 치솟을 가능성이 높습니다. 이는 에너지 수입 의존도가 높은 한국 경제에 치명적인 타격을 줄 수 있습니다. 유가 상승은 생산 원가 상승을 유발하고, 결국 소비자 물가를 끌어올려 스태그플레이션(경기 침체 속 물가 상승)의 공포를 현실화할 수 있습니다.\n\n현재 주요 국가들은 이번 사태의 확산을 막기 위해 긴박하게 움직이고 있습니다. 그러나 양국 간의 보복 사이클이 멈추지 않을 경우, 국지적 충돌을 넘어선 대규모 분쟁으로 번질 위험이 상존합니다. 기업들은 공급망 다변화와 원가 절감 등 비상 경영 체제 돌입을 검토해야 하는 상황입니다.\n\n정부 역시 중동 사태 추이를 24시간 모니터링하며 에너지 수급 대책을 재점검하고 있습니다. 지정학적 리스크가 실물 경제와 금융 시장에 미치는 영향을 최소화하기 위한 선제적 대응이 그 어느 때보다 절실한 시점입니다.",
             "image_prompt": "Middle East conflict, Strait of Hormuz, oil tanker in dark sea, fiery sky, global energy crisis, cinematic.",
             "published_at": "2026-07-17 22:21:45",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "노동의 경제성장 기여도 사상 첫 마이너스… 인구 재앙의 경고",
@@ -169,7 +191,7 @@
             "content": "대한민국 경제 성장 모델에 빨간불이 켜졌습니다. 통계 작성 이래 처음으로 노동의 경제성장 기여도가 마이너스로 돌아섰다는 충격적인 분석이 나왔습니다. 이는 일할 사람이 줄어들고, 일하는 시간마저 감소하면서 더 이상 노동 투입만으로는 성장을 지속할 수 없음을 의미합니다.\n\n저출산·고령화라는 인구 구조의 변화가 단순히 사회적 문제를 넘어 경제의 잠재성장력을 갉아먹는 실질적인 위협으로 다가온 것입니다. 생산가능인구가 급격히 줄어들면서 노동력이 경제 활력을 뒷받침하던 시대가 막을 내렸으며, 이는 잠재성장률 하락으로 이어지는 연쇄 반응을 일으키고 있습니다.\n\n이러한 상황을 타개하기 위해서는 노동 생산성의 획기적인 향상이 유일한 대안으로 꼽힙니다. 인공지능(AI)과 로봇 기술을 활용한 자동화, 고부가가치 산업으로의 노동력 전환, 그리고 여성과 고령층의 경제활동 참가율을 높이는 근본적인 대책이 시급합니다. 교육 시스템 또한 미래 산업 수요에 맞춰 전면 재편되어야 합니다.\n\n정부와 기업은 이번 마이너스 기여도 기록을 '국가 비상사태'로 인식해야 합니다. 인구 위기에 대응하는 단기적인 처방을 넘어, 노동력 부족을 기술과 혁신으로 메울 수 있는 장기적인 경제 패러다임의 대전환이 필요한 시기입니다.",
             "image_prompt": "Shrinking workforce, hourglass with falling people figures, declining bar graph, futuristic AI automation, gray and silver tones.",
             "published_at": "2026-07-17 22:21:45",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "최태원 회장 “하이닉스는 우상향 자산… 단기 변동성에 흔들리지 마라”",
@@ -180,7 +202,7 @@
             "content": "최태원 SK그룹 회장이 최근 반도체 시장의 변동성에 대해 언급하며 투자자들에게 긴 호흡의 투자를 당부했습니다. 최 회장은 SK하이닉스에 대해 \"사고 파는 단기 매매의 대상이 아닌, 시간을 두면 반드시 우상향할 자산\"이라며 반도체 기술력과 시장 지배력에 대한 강한 자부심을 드러냈습니다.\n\n이는 인공지능(AI) 시대의 도래와 함께 필수 부품인 고대역폭메모리(HBM) 등의 수요가 폭발적으로 증가할 것이라는 확신에 근거합니다. 단기적인 주가 등락이나 시황 변화에 일희일비하기보다는, 반도체가 가진 미래 핵심 인프라로서의 가치에 주목해야 한다는 메시지입니다. SK그룹 차원에서도 반도체를 핵심 성장 동력으로 삼고 집중적인 투자를 이어갈 방침입니다.\n\n반도체 산업은 사이클의 영향을 크게 받지만, AI라는 거대한 파도가 산업 전반을 재편하고 있는 현재 상황은 과거와 다르다는 평가가 많습니다. 데이터 센터의 확장과 온디바이스 AI의 확산은 SK하이닉스에게 새로운 도약의 기회를 제공하고 있습니다. 최 회장의 발언은 이러한 기술적 변곡점에서 시장의 불안감을 잠재우기 위한 행보로 풀이됩니다.\n\nSK하이닉스는 향후 차세대 메모리 기술 개발에 박차를 가하며 글로벌 선두 자리를 굳건히 할 계획입니다. 리더의 확고한 비전이 실제 성과로 이어져 한국 반도체 산업의 경쟁력을 다시 한번 증명해낼 수 있을지 기대가 모아지고 있습니다.",
             "image_prompt": "SK Hynix semiconductor chip, upward glowing graph, AI technology, high-tech cleanroom, silver and electric blue.",
             "published_at": "2026-07-17 22:21:45",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "성장률 3% 달성 가시화…수출 1조 달러 향해 '순항'",
@@ -191,7 +213,7 @@
             "content": "최근 발표된 경제 지표들에 따르면, 한국 경제는 수출 중심의 강력한 회복세를 바탕으로 연간 성장률 3% 달성 가능성을 높이고 있습니다. 지난달 발표된 경제 선행지수가 26년 만에 최고치를 기록하면서 경기 회복에 대한 기대감이 그 어느 때보다 높은 상황입니다.\n\n정부와 주요 경제 기관들은 수출 1조 달러라는 미답의 고지를 향해 정책적 역량을 집중하고 있습니다. 반도체와 자동차를 필두로 한 주력 품목들이 글로벌 시장에서 선전하며 무역 수지 개선을 견인하고 있으며, 이는 국가 경제 전반의 활력으로 이어지고 있습니다.\n\n다만, 이러한 성장세가 민생 경제 현장까지 골고루 확산되기 위해서는 내수 진작을 위한 추가적인 노력이 필요하다는 지적이 나옵니다. 대외적인 불확실성 속에서도 안정적인 성장 궤도를 유지하기 위해 수출 다변화와 공급망 안정을 꾀하는 '지도에 없는 길'을 개척해야 하는 시점입니다.\n\n전문가들은 현재의 긍정적인 신호가 실질적인 경제 체질 개선으로 이어지려면 기업 투자 확대와 고용 창출이 병행되어야 한다고 조언합니다. 앞으로의 경제 정책은 성장의 온기를 전 산업 분야로 확산시키는 데 초점이 맞춰질 전망입니다.",
             "image_prompt": "South Korean economy, high-rise buildings, upward stock chart, export containers, golden glowing 3 percent, professional blue tones",
             "published_at": "2026-07-17 19:44:38",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "삼성전자·SK하이닉스, HBM 패권 경쟁과 장기 성장론 확산",
@@ -202,7 +224,7 @@
             "content": "글로벌 인공지능(AI) 열풍 속에서 필수 부품인 고대역폭메모리(HBM) 시장의 패권 전쟁이 치열합니다. 삼성전자는 차세대 제품인 HBM4와 HBM4E를 앞세워 시장의 주도권을 탈환하겠다는 강력한 의지를 드러내며 기술 개발에 박차를 가하고 있습니다.\n\n이와 관련하여 SK그룹 최태원 회장은 최근 SK하이닉스 주식에 대해 '샀다 팔지 마라'며 장기적인 우상향 가능성을 강조했습니다. 단기적인 주가 변동에 일희일비하기보다는 AI 산업의 장기적인 성장 모멘텀과 기술 경쟁력을 믿고 시간을 두고 투자해야 한다는 메시지입니다.\n\n반도체 업계는 향후 몇 년간 HBM 수요가 폭발적으로 증가할 것으로 내다보고 있습니다. 이에 따라 국내 양대 반도체 기업은 생산 시설 확충과 공정 미세화에 사활을 걸고 있으며, 글로벌 빅테크 기업들과의 협력 관계를 더욱 공고히 하고 있습니다.\n\n결국 차세대 반도체 전쟁의 승패는 수율 확보와 고객 맞춤형 솔루션 제공 능력에서 갈릴 것으로 보입니다. 대한민국 경제의 중추인 반도체 산업이 기술 격차를 유지하며 글로벌 시장에서 어떤 성과를 거둘지 전 세계의 이목이 쏠리고 있습니다.",
             "image_prompt": "Semiconductor wafer, HBM chip, futuristic technology, SK Hynix and Samsung buildings, golden upward arrow, high-tech neon lighting",
             "published_at": "2026-07-17 19:44:38",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "주담대 금리 8% 육박…연내 3%대 기준금리 전망 유지",
@@ -213,7 +235,7 @@
             "content": "시장에서는 한국은행이 연내 3%대의 기준금리를 유지할 것으로 보고 있지만, 실제 차주들이 느끼는 체감 금리는 가파르게 오르고 있습니다. 특히 시중 은행의 주택담보대출 최고 금리가 8%에 육박하면서 내 집 마련을 꿈꾸는 서민들과 기존 대출자들의 이자 부담이 임계치에 도달했다는 우려가 나옵니다.\n\n금리 상승의 주요 배경으로는 은행채 금리 상승과 금융당국의 가계부채 관리 강화 기조가 꼽힙니다. 기준금리가 동결되더라도 시장 금리가 선반영되거나 리스크 관리를 위한 가산금리가 붙으면서 대출 문턱은 더욱 높아지고 있는 형국입니다.\n\n이러한 고금리 상황은 가계의 가처분 소득을 줄여 내수 소비를 위축시키는 요인으로 작용하고 있습니다. 특히 변동금리 비중이 높은 대출자들은 추가적인 금리 인상 가능성에 촉각을 곤두세우며 지출을 줄이는 등 허리띠를 졸라매고 있습니다.\n\n정부와 금융당국은 고금리 부담을 완화하기 위한 정책금융 상품을 내놓고 있지만, 시장 전체의 금리 흐름을 되돌리기에는 역부족이라는 지적입니다. 향후 통화 정책 방향과 물가 안정 흐름이 대출 금리 하락의 관건이 될 것으로 보입니다.",
             "image_prompt": "Banking concept, soaring house and percentage icon, stress on people, coins stacked, gloomy office atmosphere, warm and cold contrast",
             "published_at": "2026-07-17 19:44:38",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "레버리지 ETF 92% 폭락 후 상폐…'F4 회의' 대응책 논의",
@@ -224,7 +246,7 @@
             "content": "최근 삼성전자와 SK하이닉스 등 주요 종목의 주가 변동에 베팅하는 레버리지 상품들이 대거 폭락하며 상장폐지되는 사태가 발생했습니다. 일부 상품은 무려 92%라는 기록적인 손실률을 보이며 투자자들에게 막대한 피해를 안겼으며, 사실상 한 푼도 건지지 못하는 사례가 속출하고 있습니다.\n\n이에 따라 거시경제 및 금융당국 수장들이 모이는 'F4 회의'에서는 소위 '삼전닉스 레버리지'와 같은 고위험 투자 상품에 대한 관리 및 보완책을 긴급하게 논의할 예정입니다. 상품 설계 단계에서의 위험 고지 강화와 변동성 완화 장치 도입 등이 주요 안건으로 다뤄질 전망입니다.\n\n개인 투자자들 사이에서는 고수익을 노린 공격적인 투자가 오히려 독이 되었다는 자성의 목소리와 함께, 상품의 위험 구조를 충분히 이해하지 못한 채 투기판에 뛰어든 것이 화근이었다는 지적이 나옵니다. 금융당국은 시장 질서를 교란하거나 투자자 보호가 미흡한 상품에 대해 강력한 규제를 검토하고 있습니다.\n\n이번 사태는 파생상품 투자의 위험성을 다시 한번 각인시키는 계기가 되었습니다. 건전한 투자 환경 조성을 위해 금융 교육의 강화와 함께 자본 시장의 투명성을 높이는 제도적 뒷받침이 시급해 보입니다.",
             "image_prompt": "Stock market crash, red candles going down, shattered glass icons, financial crisis meeting, warning signs, dark and dramatic",
             "published_at": "2026-07-17 19:44:38",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "노동 성장 기여도 첫 마이너스…인구 감소 직격탄",
@@ -235,7 +257,7 @@
             "content": "대한민국 경제 성장 모델에 빨간불이 켜졌습니다. 최근 발표된 통계에 따르면 경제 성장에 대한 노동의 기여도가 사상 처음으로 마이너스를 기록했습니다. 이는 일할 사람이 줄어들고 근로 시간까지 감소하면서 나타난 결과로, 인구 절벽의 위기가 실물 경제로 전이되었음을 의미합니다.\n\n그동안 한국 경제는 풍부한 노동 인력과 교육열을 바탕으로 성장을 이어왔으나, 저출생·고령화 문제가 심화되면서 이제는 노동력이 성장의 발목을 잡는 상황에 이르렀습니다. 인구 감소 지역이 늘어나고 젊은 층의 노동 시장 진입이 늦어지는 등 구조적 문제가 고착화되고 있습니다.\n\n정부와 지자체는 사회연대경제 청년 일경험 사업이나 인구 감소 지역 활성화 대책을 내놓고 있지만, 근본적인 인구 흐름을 바꾸기에는 역부족이라는 평가가 많습니다. 노동 기여도의 하락을 상쇄하기 위해서는 기술 혁신을 통한 노동 생산성 향상이 유일한 대안으로 제시되고 있습니다.\n\n전문가들은 외국인 인력의 효율적 활용, 여성 및 고령층의 경제활동 참가율 제고 등 노동 공급 확대를 위한 과감한 정책 전환이 필요하다고 강조합니다. 성장 잠재력을 확충하기 위한 근본적인 구조 개혁이 지체될 경우 저성장의 늪에 빠질 수 있다는 경고가 잇따르고 있습니다.",
             "image_prompt": "Aging workforce, empty desks, population pyramid chart, clock ticking, declining line graph, gray and muted professional style",
             "published_at": "2026-07-17 19:44:38",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "엔비디아 '어닝 서프라이즈', AI 반도체 독주 체제 굳히나",
@@ -246,7 +268,7 @@
             "content": "글로벌 AI 칩 시장의 선두주자인 엔비디아가 다시 한번 시장의 기대를 뛰어넘는 실적을 기록하며 전 세계의 이목을 집중시켰습니다. 이번 실적 발표에서 엔비디아는 데이터센터 부문의 폭발적인 성장을 바탕으로 역대 최대 매출을 경신했으며, 이는 생성형 AI 열풍이 단순한 거품이 아닌 실질적인 기업 수요로 이어지고 있음을 시사합니다.\n\n특히 차세대 AI 칩인 '블랙웰(Blackwell)' 출시를 앞두고 기존 제품인 H100에 대한 수요도 여전히 강력한 것으로 나타났습니다. 젠슨 황 CEO는 컨퍼런스 콜을 통해 '다음 산업 혁명이 시작되었다'고 언급하며, 제조, 의료, 금융 등 전 산업 분야에서 AI 인프라 구축이 가속화될 것이라고 전망했습니다.\n\n이러한 엔비디아의 독주는 국내 반도체 생태계에도 직접적인 영향을 미치고 있습니다. HBM(고대역폭메모리)을 공급하는 SK하이닉스와 삼성전자의 주가는 엔비디아의 실적 향방에 따라 민감하게 반응하고 있으며, 국내 부품 및 장비 업체들의 낙수 효과에 대한 기대감도 커지고 있는 상황입니다.\n\n다만 일각에서는 과도한 AI 의존도에 대한 우려도 제기됩니다. 빅테크 기업들의 인프라 투자 속도가 조절되거나, 가성비를 앞세운 경쟁사들의 추격이 거세질 경우 엔비디아의 높은 밸류에이션이 부담으로 작용할 수 있다는 분석입니다. 시장은 향후 금리 추이와 함께 AI 수익화 모델의 구체화 여부를 예의주시하고 있습니다.",
             "image_prompt": "Nvidia GPU, AI semiconductor chip, glowing circuits, futuristic data center, golden light",
             "published_at": "2026-07-17 17:04:43",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미 연준 FOMC 의사록 공개, '금리 인하 신중론'에 시장 긴장",
@@ -257,7 +279,7 @@
             "content": "최근 공개된 미 연방공개준비위원회(FOMC) 의사록에 따르면, 다수의 연준 위원들은 인플레이션이 목표치인 2%로 향하고 있다는 확신을 갖기까지 더 많은 시간이 소요될 것이라고 판단하고 있습니다. 특히 일부 위원들은 물가 상승 압력이 지속될 경우 추가 금리 인상 가능성까지 배제하지 말아야 한다는 매파적인 의견을 내놓은 것으로 알려졌습니다.\n\n이러한 연준의 기조는 올해 하반기 조기 금리 인하를 기대했던 시장의 낙관론에 찬물을 끼얹었습니다. 고용 시장이 여전히 견조한 모습을 보이고 있고, 주거비와 서비스 물가가 쉽게 떨어지지 않으면서 '라스트 마일(Last Mile)' 단계에서의 물가 잡기가 예상보다 험난함을 보여주고 있습니다.\n\n미 국채 금리는 의사록 발표 직후 상승세를 보였으며, 이는 달러 강세로 이어져 신흥국 시장의 자금 유출 우려를 키우고 있습니다. 한국은행 역시 미국의 금리 결정 향방에 따라 국내 기준금리 인하 시점을 저울질해야 하는 어려운 상황에 놓이게 되었습니다.\n\n전문가들은 향후 발표될 소비자물가지수(CPI)와 개인소비지출(PCE) 데이터가 연준의 행보를 결정할 핵심 지표가 될 것으로 보고 있습니다. 인플레이션 수치가 뚜렷한 하향 곡선을 그리지 않는 한, 시장의 변동성은 당분간 지속될 가능성이 높습니다.",
             "image_prompt": "Federal Reserve building, interest rate graph, falling red arrow, financial crisis prevention, professional",
             "published_at": "2026-07-17 17:04:43",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "K-수출의 부활, 반도체·자동차 쌍두마차 실적 견인",
@@ -268,7 +290,7 @@
             "content": "대한민국의 수출 전선에 다시 파란불이 켜졌습니다. 산업통상자원부의 발표에 따르면, 반도체 수출이 전년 대비 두 자릿수 이상의 증가율을 기록하며 전체 수출 회복을 주도하고 있습니다. AI 서버 수요 폭증에 따른 메모리 가격 상승과 물량 확대가 맞물린 결과로 분석됩니다.\n\n자동차 산업 역시 친환경차와 SUV를 중심으로 북미 시장에서 높은 판매고를 올리며 수출의 또 다른 축을 든든히 받치고 있습니다. 특히 고부가가치 차량 위주의 판매 믹스 개선을 통해 단순 물량 증대를 넘어 수익성 강화라는 두 마리 토끼를 잡고 있다는 평가를 받습니다.\n\n하지만 대외적인 환경은 여전히 녹록지 않습니다. 미-중 갈등 심화에 따른 공급망 재편 압박과 중동 지역의 지정학적 리스크로 인한 물류비 상승은 수출 기업들에 부담이 되고 있습니다. 또한 원자재 가격 변동에 따른 채산성 악화 우려도 상존합니다.\n\n정부는 수출 동력을 유지하기 위해 금융 지원과 규제 완화 등 전방위적인 지원책을 펼치고 있습니다. 향후 하반기에도 이러한 흐름이 이어질 경우, 올해 경제 성장률 전망치 달성에도 긍정적인 신호가 될 것으로 보입니다.",
             "image_prompt": "Cargo ship at port, semiconductors and electric cars, blue dynamic sky, South Korea flag, economic growth",
             "published_at": "2026-07-17 17:04:43",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이더리움 현물 ETF 승인 가능성... 가상자산 시장 급등",
@@ -279,7 +301,7 @@
             "content": "비트코인 현물 ETF 승인에 이어 이더리움 현물 ETF 승인 여부가 가상자산 시장의 최대 화두로 떠올랐습니다. 미 증권거래위원회(SEC)가 그동안 회의적인 태도를 보여왔던 것과 달리, 최근 거래소들에게 서류 업데이트를 요청했다는 소식이 전해지면서 승인 가능성이 비약적으로 높아졌다는 분석이 나옵니다.\n\n이러한 소식에 이더리움 가격은 단기간에 급등세를 보였으며, 시장 전반의 투자 심리를 자극하고 있습니다. 현물 ETF가 승인될 경우 기관 투자자들의 자금이 대거 유입될 수 있는 통로가 열리게 되어, 가상자산이 제도권 금융 자산으로 완전히 편입되는 중요한 이정표가 될 전망입니다.\n\n다만 승인 이후의 실제 자금 유입 규모와 규제 당국의 향후 감시 체계에 대해서는 신중한 접근이 필요합니다. 비트코인과는 다른 이더리움만의 지분증명(PoS) 방식에 대한 증권성 논란이 완전히 해소되지 않았기 때문에, 법적 리스크가 잔존한다는 의견도 있습니다.\n\n투자자들은 변동성이 큰 시장 특성을 고려하여 포트폴리오를 구성해야 합니다. 전문가들은 이번 ETF 이슈가 단순한 가격 상승을 넘어, 블록체인 생태계 전반의 기술적 가치를 재평가받는 계기가 될 것으로 기대하고 있습니다.",
             "image_prompt": "Ethereum logo neon, digital gold, blockchain network visualization, professional trading terminal",
             "published_at": "2026-07-17 17:04:43",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "장바구니 물가 비상... 정부, 민생 안정 총력전",
@@ -290,7 +312,7 @@
             "content": "반도체 수출 등 거시 경제 지표는 개선되고 있지만, 서민들이 체감하는 내수 경기는 여전히 차갑기만 합니다. 특히 기후 변화로 인한 작황 부진과 유가 상승의 영향으로 과일, 채소 등 신선식품 가격이 급등하면서 가계의 소비 여력이 크게 위축되고 있습니다.\n\n정부는 마트 할인 지원과 수입 과일 공급 확대 등을 통해 물가 안정에 총력을 기울이고 있습니다. 긴급 농축산물 가격 안정 자금을 투입하여 시장 가격에 직접 개입하고 있지만, 근본적인 수급 불균형과 유통 구조 문제를 해결하기 전까지는 물가 안정이 쉽지 않을 것이라는 지적이 나옵니다.\n\n고물가에 고금리 상황까지 겹치면서 자영업자들의 시름도 깊어지고 있습니다. 대출 이자 부담과 매출 감소라는 이중고를 겪고 있는 소상공인들을 위해 정부는 저금리 대환 대출 및 경영 컨설팅 지원 프로그램을 강화하고 있습니다.\n\n내수 활성화를 위해서는 물가 안정이 최우선 과제인 만큼, 정부는 하반기에도 민생 안정을 정책의 최우선 순위에 두겠다고 밝혔습니다. 소비자들의 소비 심리가 언제쯤 회복될 수 있을지가 향후 국내 경기 반등의 핵심 열쇠가 될 것입니다.",
             "image_prompt": "Shopping cart with vegetables, rising price tag, inflation concept, Korean supermarket, family economy",
             "published_at": "2026-07-17 17:04:43",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[사설] 한은 금리 인상은 ‘양날의 칼’…경제 충격 최소화가 관건",
@@ -301,7 +323,7 @@
             "content": "한국은행의 기준금리 인상 조치가 물가 상승 압력을 억제하기 위한 필수적인 선택임과 동시에, 우리 경제 전반에 심각한 하방 압력을 가할 수 있는 '양날의 칼'이 되고 있습니다. 고금리 상황이 지속됨에 따라 가계의 이자 부담은 한계치에 다다르고 있으며, 이는 곧 소비 위축으로 이어져 내수 경기 회복을 더디게 만드는 주요 원인으로 작용하고 있습니다.\n\n특히 주택담보대출 금리가 연 8%를 넘어설 수 있다는 우려가 확산되면서 영끌족(영혼까지 끌어모아 대출)과 중소기업들의 금융 비용 부담이 임계점에 도달했다는 분석이 나옵니다. 물가 안정이라는 대전제를 달성하면서도 가계 부채의 연착륙을 유도해야 하는 중앙은행의 고민이 깊어지고 있는 시점입니다.\n\n정부와 금융당국은 금리 인상의 충격이 취약 계층과 소상공인에게 집중되지 않도록 세밀한 맞춤형 지원책을 마련해야 합니다. 또한, 금리 인상 속도 조절을 통해 시장의 예측 가능성을 높이고 금융 시스템 전반의 건전성을 유지하는 리스크 관리가 그 어느 때보다 중요해진 상황입니다.",
             "image_prompt": "Interest rates, golden balance scale, central bank, debt pressure, professional financial chart",
             "published_at": "2026-07-17 14:39:32",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "HBM4, HBM4E… 삼전이 꺼내든 무기와 HBM 패권전쟁",
@@ -312,7 +334,7 @@
             "content": "인공지능(AI) 열풍으로 인해 필수 부품인 고대역폭메모리(HBM) 시장이 반도체 업계의 최대 격전지로 부상했습니다. 삼성전자는 HBM4와 HBM4E 등 차세대 제품 개발에 박차를 가하며, 앞서 나가는 경쟁사들을 추격하고 시장 주도권을 되찾기 위한 총력전을 펼치고 있습니다.\n\nHBM4는 기존 제품 대비 데이터 전송 속도와 에너지 효율을 획기적으로 개선한 기술로, 초거대 AI 모델을 구동하는 서버용 GPU의 핵심 사양입니다. 삼성전자는 공정 고도화와 패키징 기술 혁신을 통해 고객사들의 까다로운 요구를 충족시키고, 맞춤형(Custom) HBM 시장에서도 우위를 점하겠다는 청사진을 제시했습니다.\n\n전문가들은 이번 기술 전쟁이 향후 10년의 반도체 패권을 결정지을 분수령이 될 것으로 보고 있습니다. 메모리 반도체 1위 기업인 삼성전자가 파운드리와의 시너지를 극대화하여 AI 가속기 시장의 핵심 파트너로서 입지를 굳힐 수 있을지 전 세계 투자자들의 이목이 쏠리고 있습니다.",
             "image_prompt": "HBM4 microchip, AI brain connection, futuristic semiconductor laboratory, golden light circuits",
             "published_at": "2026-07-17 14:39:32",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "F4회의, 오늘 오후 열릴듯…'삼전닉스 레버리지' 보완책 발표",
@@ -323,7 +345,7 @@
             "content": "최근 특정 레버리지 상품의 기록적인 폭락과 상장폐지 위기로 인해 개인 투자자들의 피해가 커지자, 정부와 금융당국이 긴급 점검에 나섰습니다. 거시경제 및 금융 전문가들이 참여하는 이른바 'F4(Finance 4) 회의'를 통해 시장 변동성을 완화할 수 있는 구체적인 보완책이 발표될 예정입니다.\n\n이번 사태는 반도체 관련 레버리지 상품에 투자금이 쏠린 상황에서 시장 지표가 예상과 다르게 움직이며 발생했습니다. 특히 레버리지 92% 폭락이라는 초유의 사태는 고수험-고수익 상품에 대한 위험 관리 체계의 허점을 드러냈으며, 투자자 보호를 위한 공시 강화와 상품 구조 개선의 필요성을 촉발했습니다.\n\n금융당국은 이번 회의에서 과도한 투기적 수요를 억제하고 시장 교란 행위를 차단하기 위한 모니터링 시스템 강화를 논의할 방침입니다. 또한, 변동성이 큰 파생상품에 대한 개인 투자자의 진입 장벽이나 위험 고지 의무를 재검토하여 제2의 레버리지 대참사를 막겠다는 의지입니다.",
             "image_prompt": "Stock market monitor, red downward arrow, financial crisis meeting, glass building reflect",
             "published_at": "2026-07-17 14:39:32",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“여성기업이 대구경제 성장 중심축 되어 달라”…추경호 대구시장, '2026 대구 여성경제인대회' 참석",
@@ -334,7 +356,7 @@
             "content": "대구광역시가 지역 경제의 새로운 활로를 모색하기 위해 여성 기업인들의 혁신 역량에 주목하고 있습니다. 추경호 대구시장은 '2026 대구 여성경제인대회'에 참석하여 여성 기업이 대구 경제의 미래 성장 동력이자 중심축으로서 적극적인 역할을 해줄 것을 당부하며 전폭적인 지원을 약속했습니다.\n\n현재 대구 지역 경제는 산업 구조 전환과 인구 감소라는 복합적인 위기에 직면해 있습니다. 이러한 상황에서 여성 기업 특유의 섬세한 리더십과 창의적인 아이디어는 고부가가치 서비스업과 신산업 분야에서 차별화된 경쟁력을 발휘할 수 있을 것으로 기대됩니다.\n\n지자체는 여성 기업의 판로 개척, 금융 지원, 디지털 전환 교육 등 실질적인 도움을 줄 수 있는 맞춤형 정책을 확대할 계획입니다. 이는 단순한 젠더 이슈를 넘어 지역 경제의 다양성을 확보하고 역동성을 불어넣기 위한 전략적 선택으로 풀이됩니다.",
             "image_prompt": "Business conference, female leader speaking, city landscape of Daegu, modern office, collaboration",
             "published_at": "2026-07-17 14:39:32",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국은행 기준금리 2.75%로 인상, 3년 반 만의 ‘긴축’ 전환",
@@ -345,7 +367,7 @@
             "content": "한국은행 금융통화위원회가 기준금리를 기존보다 0.25%포인트 인상한 2.75%로 결정하며, 약 3년 6개월간 이어온 완화적 통화정책에서 긴축 기조로 완전히 돌아섰습니다. 이번 인상은 치솟는 물가를 잡고 가계부채 증가 속도를 조절하기 위한 선제적 조치로 풀이됩니다.\n\n바클레이즈 등 주요 글로벌 금융기관들은 향후 발표될 경제지표가 예상치를 상회할 경우 8월에도 연속적인 금리 인상이 단행될 리스크가 있다고 경고하고 있습니다. 이는 시장이 예상했던 것보다 더욱 가파른 금리 인상 궤적이 그려질 수 있음을 시사합니다.\n\n이러한 '금리 한파'는 지역 경제에도 직접적인 타격을 주고 있습니다. 대구 지역 등 지방 경제계에서는 이자 부담 급증으로 인한 소비 위축과 기업 투자 감소를 우려하는 목소리가 높으며, 부동산 시장의 경색 속도도 빨라질 것으로 전망됩니다.\n\n전문가들은 한은의 이번 결정이 단순한 일회성 인상이 아니라, 글로벌 인플레이션 압력에 대응하기 위한 장기적인 긴축 사이클의 시작점이라고 분석하고 있습니다. 이에 따라 가계와 기업의 자산 관리 전략에도 전면적인 수정이 불가피해 보입니다.",
             "image_prompt": "Central bank building, interest rate arrow upward, gold coins balancing, professional blue tone, financial stability",
             "published_at": "2026-07-17 11:23:49",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "정부 ‘3·4·5 비전’ 선포, 올해 성장률 목표 3%로 전격 상향",
@@ -356,7 +378,7 @@
             "content": "정부는 하반기 경제정책방향을 발표하며 올해 경제성장률 전망치를 기존 2%에서 3%로 1%포인트 대폭 상향 조정했습니다. 이는 최근 수출 호조세와 내수 회복 조짐을 반영한 결과로, '3·4·5 비전(성장률 3%, 고용률 74%, 소득 5만 달러)' 달성을 위한 강력한 의지를 담고 있습니다.\n\n하지만 동아일보 등 주요 언론의 사설에서는 이러한 장밋빛 전망에 대해 우려를 표하고 있습니다. 고물가, 고금리, 고환율이라는 이른바 '3고(高)' 현상이 지속되는 상황에서 체감 경기가 개선되지 않는다면 정부의 비전은 실현 가능성이 낮은 '빛바랜 잔치'가 될 수 있다는 지적입니다.\n\n특히 소상공인과 취약계층의 부채 문제가 해결되지 않은 상태에서의 성장률 중심 정책은 양극화를 심화시킬 수 있다는 우려도 나옵니다. 정부는 이를 극복하기 위해 민간 투자 활성화와 규제 혁신을 통해 경제 활력을 불어넣겠다는 구상을 구체화하고 있습니다.\n\n향후 정부는 반도체 등 핵심 전략 산업에 대한 지원을 강화하는 한편, 민생 경제 안정을 위한 보완 대책을 병행할 것으로 보입니다. 이번 목표 상향이 실제 경제 지표의 개선으로 이어질 수 있을지 시장의 이목이 쏠리고 있습니다.",
             "image_prompt": "Future vision chart, economic growth 3 percent, rising graph, sunset skyline, strategic planning",
             "published_at": "2026-07-17 11:23:49",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "코스피 6% 급락과 워런 버핏의 경고, ‘도박판이 된 증시’",
@@ -367,7 +389,7 @@
             "content": "코스피 지수가 하루 만에 6% 가까이 폭락하며 투자자들에게 큰 충격을 안겼습니다. 특히 반도체 대장주인 SK하이닉스 등에 대한 매도세가 거세지며 시장 변동성이 극에 달했습니다. 이러한 급락장 속에서도 소위 '초고수' 투자자들은 기술주를 매도하고 안정적인 자산이나 특정 테마주로 갈아타는 움직임을 보였습니다.\n\n이와 때를 같이하여 '투자의 귀재' 워런 버핏은 최근 시장 상황을 두고 \"모두가 도박만 하고 있다\"며 강한 경고장을 꺼내 들었습니다. 가치 투자보다는 단기 시세 차익을 노린 투기적 거래가 시장을 지배하고 있다는 분석으로, 이는 현재 증시의 불안정성이 매우 높음을 의미합니다.\n\n시장 전문가들은 이번 폭락이 단순한 기술적 조정을 넘어, 글로벌 경기 침체 우려와 통화 긴축 정책의 부작용이 복합적으로 작용했기 때문이라고 분석합니다. 개미 투자자들의 신용 거래가 많은 종목들을 중심으로 반대매매 물량이 쏟아지며 하락 폭을 키운 측면도 큽니다.\n\n결국 변동성이 큰 장세에서는 무리한 레버리지 투자보다는 현금 비중을 확보하고 우량주 중심의 방어적인 포트폴리오를 구성하는 것이 중요하다는 조언이 잇따르고 있습니다. 버핏의 경고처럼 기본으로 돌아가는 투자 원칙이 절실한 시점입니다.",
             "image_prompt": "Stock market crash, red candles, frantic trading floor, chess pieces, dark dramatic lighting",
             "published_at": "2026-07-17 11:23:49",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "레버리지 투자 규제 강화, ‘삼전닉스’ 예탁금 3천만 원으로 상향",
@@ -378,7 +400,7 @@
             "content": "정부와 금융당국(F4 회의)은 최근 '삼전닉스 레버리지(삼성전자·SK하이닉스 3배 추종 상품)' 등 고위험 파생 상품에 대한 투자자 보호 보완책을 발표했습니다. 핵심은 기존 1천만 원 수준이던 기본 예탁금을 3천만 원으로 3배 높여 무분별한 개인 투자자의 진입을 억제하는 것입니다.\n\n이번 조치는 최근 증시 변동성이 확대되면서 레버리지 상품에 투자했던 개인 투자자들이 막대한 손실을 입는 사례가 급증함에 따라 마련되었습니다. 2026년 7월부터 적용될 예정인 이 제도는 투기적 수요를 줄이고 시장의 건전성을 높이는 데 초점을 맞추고 있습니다.\n\n당국은 예탁금 상향 외에도 레버리지 상품에 대한 사전 교육을 강화하고, 상품 위험성에 대한 공지 의무를 확대할 방침입니다. 이는 단순한 규제를 넘어 시장의 과열을 방지하고 시스템 리스크로 번지는 것을 막기 위한 안전장치 역할을 할 것으로 기대됩니다.\n\n업계에서는 이번 조치가 단기적으로는 거래량 감소를 가져올 수 있으나, 장기적으로는 건전한 투자 문화 정착에 기여할 것으로 보고 있습니다. 다만 일각에서는 소액 투자자들의 투자 기회를 과도하게 제한한다는 비판도 제기되고 있어 향후 논란이 예상됩니다.",
             "image_prompt": "Financial documents, safe lock, high risk warning sign, gold bars, digital security interface",
             "published_at": "2026-07-17 11:23:49",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중국 경제성장률 급락 비상, 한국 경제 파급효과 ‘우려’",
@@ -389,7 +411,7 @@
             "content": "수출 호조세에도 불구하고 중국의 경제성장률이 급락하며 연간 목표치를 크게 밑돌고 있다는 소식이 전해졌습니다. 부동산 시장의 장기 침체와 소비 심리 위축이 주요 원인으로 꼽히며, '세계의 공장'인 중국의 엔진이 식어가는 것에 대해 글로벌 경제의 우려가 깊어지고 있습니다.\n\n특히 중국 의존도가 높은 한국 경제에는 빨간불이 켜졌습니다. 대중국 수출 비중이 큰 반도체와 석유화학 등 주력 산업들이 중국의 수요 부진으로 인해 직접적인 타격을 입을 가능성이 크기 때문입니다. 이는 우리 정부가 내세운 성장률 3% 달성에도 큰 변수가 될 전망입니다.\n\n전문가들은 중국 정부가 부양책을 내놓고는 있지만 효과가 미진하다며, 부채 문제와 인구 감소 등 구조적 문제가 성장의 발목을 잡고 있다고 분석합니다. 이에 따라 한국은 중국 중심의 수출 구조에서 탈피하여 시장을 다변화해야 한다는 목소리가 커지고 있습니다.\n\n결국 중국 경제의 경착륙 여부는 향후 글로벌 증시와 환율 시장의 향방을 결정지을 핵심 요소가 될 것입니다. 한국 정부와 기업들은 중국발 리스크에 대비한 시나리오별 대응책 마련에 박차를 가해야 할 시점입니다.",
             "image_prompt": "Forbidden City background, slowing gear, red dragon, foggy landscape, global trade puzzle",
             "published_at": "2026-07-17 11:23:49",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "정부 ‘3·4·5’ 비전 발표, 올해 경제성장률 목표 3%로 상향",
@@ -400,7 +422,7 @@
             "content": "정부는 하반기 경제 성장 전략의 핵심으로 '3·4·5 비전'을 선포했습니다. 이는 성장률 3%, 고용률 4%대 증가, 물가 상승률 5% 이내 억제를 목표로 하는 포괄적인 경제 도약 플랜입니다. 반년 만에 성장률 전망치를 1%포인트나 올린 것은 수출 회복세에 대한 강한 자신감을 반영한 것으로 풀이됩니다.\n\n이번 전략의 중심에는 하반기 경제 대전환 가속화가 자리 잡고 있습니다. 정부는 공공기관 이전 발표를 앞당기고 지방 주도의 성장을 강화하여 수도권 집중 현상을 완화하고 지역 경제 활력을 제고할 방침입니다. 특히 '하루를 단축하면 100일을 벌 수 있다'는 속도감 있는 집행을 강조하고 있습니다.\n\n하지만 일각에서는 고금리와 고물가가 지속되는 상황에서 3% 성장이 다소 낙관적이라는 지적도 나옵니다. 내수 소비가 아직 충분히 살아나지 않았고, 글로벌 공급망 불안정 등 대외 변수가 여전하기 때문입니다. 정부는 이에 대응해 민간 투자 활성화와 규제 혁신을 병행하며 성장 동력을 확보할 계획입니다.",
             "image_prompt": "South Korea economy growth, upward arrow graph, golden 3 percent sign, skyscraper background, optimistic professional atmosphere",
             "published_at": "2026-07-16 22:43:19",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국은행 기준금리 0.25%p 인상, 시장 금리 2.75% 시대 진입",
@@ -411,7 +433,7 @@
             "content": "한국은행이 오늘 열린 금융통화위원회에서 기준금리를 연 2.50%에서 2.75%로 0.25%포인트 인상하기로 결정했습니다. 이는 최근 불안정한 물가 흐름과 가계부채 증가세를 억제하기 위한 선제적인 조치로 해석됩니다. 금리 인상 발표 직후 코스피 지수가 출렁이며 시장의 긴장감이 고조되었습니다.\n\n이창용 한국은행 총재는 인상 배경에 대해 '물가 상승 압력이 여전히 높고 환율 변동성이 커지는 상황에서 통화 정책의 유연한 대응이 필요했다'고 설명했습니다. 시장에서는 이미 예상했던 결과라는 반응이 지배적이지만, 향후 '언제, 얼마나 더 금리를 올릴지'에 대한 불확실성은 여전히 투자 심리를 위축시키고 있습니다.\n\n금융권 전문가들은 이번 인상으로 대출 금리가 추가로 상승하면서 차주들의 이자 부담이 가중될 것으로 우려하고 있습니다. 특히 바클레이즈 등 외신은 향후 경제지표가 예상을 상회할 경우 8월에도 연속 인상 가능성이 있다는 리스크를 제기하며 하반기 금리 향방에 촉각을 곤두세우고 있습니다.",
             "image_prompt": "Bank of Korea building, golden gavel, percentage symbol, financial market volatility, dark blue professional palette",
             "published_at": "2026-07-16 22:43:19",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "고위험 레버리지 상품 '철퇴', 예탁금 상향 및 신규상장 중단",
@@ -422,7 +444,7 @@
             "content": "최근 특정 종목의 주가를 추종하는 레버리지 상품이 90% 이상 폭락하며 상장 폐지되는 사태가 발생함에 따라, 금융당국이 긴급 처방을 내놨습니다. 이른바 'F4 회의(재정·통화·금융당국 수장 회의)'를 통해 논의된 이번 대책은 개인 투자자 보호와 시장 교란 방지에 초점을 맞추고 있습니다.\n\n주요 대책으로는 단일종목 레버리지 상품에 투자하기 위한 최소 예탁금을 기존보다 대폭 높은 3,000만 원으로 상향 조정하는 방안이 포함되었습니다. 또한, 시장의 과열을 막기 위해 당분간 관련 상품의 신규 상장을 잠정 중단하기로 했습니다. 이는 충분한 위험 고지 없이 투기적 수요가 몰리는 것을 막겠다는 강력한 의지로 풀이됩니다.\n\n전문가들은 이번 조치가 소위 '한탕주의'식 투자를 억제하는 효과가 있을 것으로 보고 있습니다. 하지만 한편으로는 투자자의 선택권을 과도하게 제약한다는 목소리도 일부 나오고 있습니다. 금융당국은 이번 보완책을 시작으로 고위험 파생상품 전반에 대한 모니터링을 강화할 계획입니다.",
             "image_prompt": "Stock market warning sign, red downward candle chart, digital safety lock, financial regulation concept, sharp focus",
             "published_at": "2026-07-16 22:43:19",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "현대차그룹, 보스턴다이내믹스 100% 인수 완료... 로봇 사업 가속",
@@ -433,7 +455,7 @@
             "content": "현대차그룹이 미래 모빌리티 솔루션 기업으로의 전환을 위해 미국의 세계적인 로봇 전문 기업인 보스턴다이내믹스를 100% 인수했습니다. 이는 단순히 지분 투자를 넘어 현대차의 제조 역량과 보스턴다이내믹스의 최첨단 로봇 기술을 완전히 결합하겠다는 전략적 선택입니다.\n\n이번 인수를 기점으로 보스턴다이내믹스의 대표적인 이족보행 로봇 '아틀라스'의 공장 투입이 가속화될 전망입니다. 현대차는 인공지능(AI)과 로보틱스 기술을 자동차 생산 라인에 도입하여 공정 효율성을 극대화하고, 나아가 물류 및 개인용 비서 로봇 시장까지 선점하겠다는 구상을 가지고 있습니다.\n\n정의선 회장의 주도하에 진행된 이번 M&A는 현대차그룹이 단순한 완성차 제조사를 넘어 종합 모빌리티 기업으로 거듭나는 중요한 이정표가 될 것입니다. 현대차는 앞으로 로보틱스 기술을 자율주행, UAM(도심항공교통) 등 그룹 내 핵심 사업들과 연계하여 시너지를 창출할 계획입니다.",
             "image_prompt": "Futuristic humanoid robot, Atlas Boston Dynamics, modern automotive factory, high-tech engineering, neon blue lighting",
             "published_at": "2026-07-16 22:43:19",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이창용 총재 \"반도체 가격 추시... 韓 경제 미래의 핵심 지표\"",
@@ -444,7 +466,7 @@
             "content": "이창용 한국은행 총재는 오늘 기자간담회를 통해 반도체 가격의 흐름을 집중적으로 주시하고 있다고 밝혔습니다. 반도체는 한국 전체 수출의 약 20%를 차지하는 핵심 품목으로, 최근의 가격 회복세가 전체 경상수지와 성장률에 막대한 시사점을 던져주고 있기 때문입니다.\n\n이 총재는 '반도체 사이클이 과거보다 짧아지고 변동성이 커진 만큼, 이에 따른 우리 경제의 대응 능력이 미래 경쟁력을 결정할 것'이라고 언급했습니다. 특히 AI(인공지능) 수요 폭증으로 인한 고대역폭메모리(HBM) 시장의 성장이 우리 경제에 새로운 기회가 될 수 있음을 시사했습니다.\n\n반도체 업황의 개선은 단순히 기업의 실적 향상을 넘어 국가 세수 증대와 환율 안정에도 기여하는 만큼, 정부와 중앙은행 모두 반도체 수출 실적에 정책적 역량을 집중하고 있습니다. 하지만 글로벌 공급망 재편과 경쟁국의 추격 등 리스크 요인에 대한 철저한 대비도 주문했습니다.",
             "image_prompt": "Microchips and semiconductor wafers, glowing circuits, digital data flow, economic indicator concept, cinematic lighting",
             "published_at": "2026-07-16 22:43:19",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'삼전닉스' 레버리지 예탁금 1000만→3000만원 강화",
@@ -455,7 +477,7 @@
             "content": "금융위원회와 금융감독원 등 금융당국은 최근 '삼전닉스'로 불리는 반도체 레버리지 상장지수펀드(ETF) 및 상장지수증권(ETN)의 변동성이 과도하다고 판단, 투자자 보호를 위한 강도 높은 보완책을 발표했습니다. 핵심은 기본 예탁금의 상향 조정입니다. 기존 1,000만 원이었던 레버리지 상품의 기본 예탁금은 이제 3,000만 원으로 세 배 인상됩니다.\n\n이번 조치는 최근 반도체 업황의 급격한 변화에 따라 레버리지 상품에 몰린 개인 투자자들이 막대한 손실을 입는 사례가 속출한 데 따른 대응입니다. 특히 고위험 상품에 대한 무분별한 추종 매매를 억제하고, 충분한 자금력과 리스크 관리 능력을 갖춘 투자자 중심으로 시장을 재편하겠다는 당국의 의지가 반영되었습니다.\n\n정부는 오늘 오후 열린 거시경제·금융현안 간담회(F4 회의)에서 이 같은 방안을 확정 지었습니다. 예탁금 증액 외에도 증권사들의 판매 지침 강화와 위험 고지 의무 확대 등 추가적인 안전장치가 마련될 예정입니다. 이는 단순한 규제를 넘어 시장의 건전성을 확보하기 위한 필수적인 조치로 풀이됩니다.\n\n전문가들은 이번 조치로 인해 단기적으로는 해당 상품들의 거래량이 감소할 수 있으나, 장기적으로는 투기적 수요가 억제되어 시장의 비정상적인 쏠림 현상이 완화될 것으로 기대하고 있습니다. 개인 투자자들은 자신의 자산 규모와 위험 감수 능력을 다시 한번 점검해야 할 시점입니다.",
             "image_prompt": "Stock market leverage, high risk warning, golden coins, financial protection, digital graph",
             "published_at": "2026-07-16 19:57:04",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[하반기 경제] '주가누르기 방지' 주식평가 개편…저PBR 명단 공개",
@@ -466,7 +488,7 @@
             "content": "정부가 하반기 경제정책 방향을 발표하며 '코리아 디스카운트' 해소를 위한 강력한 드라이브를 겁니다. 가장 눈에 띄는 대목은 상속 및 증여 시 적용되는 주식 평가 제도의 전면 개편입니다. 그동안 일부 대주주들이 상속세를 줄이기 위해 의도적으로 기업의 주가를 낮게 유지한다는 지적이 끊이지 않았던 만큼, 이를 원천 차단하겠다는 취지입니다.\n\n새로운 제도에 따르면 주가 순자산비율(PBR)이 현저히 낮은 기업들의 명단이 주기적으로 공개됩니다. 이는 기업 스스로 주주 가치를 제고하도록 압박하는 수단이 될 전망입니다. 정부는 저평가된 기업들이 자사주 소각이나 배당 확대 등 적극적인 밸류업 정책을 펼칠 경우 다양한 세제 혜택을 제공할 방침입니다.\n\n또한 가업 상속 공제 대상을 확대하고 세율을 조정하는 등 세 부담을 완화해주는 대신, 기업들이 자발적으로 시장 가치를 올릴 수 있는 환경을 조성합니다. 이는 기업 경영권 승계 과정에서 발생하는 불필요한 주가 왜곡을 방지하고 일반 소액 주주들의 이익을 보호하는 효과를 가져올 것으로 기대됩니다.\n\n금융시장 전문가들은 이번 정책이 한국 증시의 신뢰도를 높이는 중요한 전환점이 될 것으로 보고 있습니다. 주가 누르기 관행이 사라지고 기업 가치가 정당하게 평가받는 문화가 정착된다면 외국인 투자자들의 자금 유입도 더욱 활발해질 것으로 전망됩니다.",
             "image_prompt": "Corporate value-up, stock valuation reform, transparent financial document, professional office setting",
             "published_at": "2026-07-16 19:57:04",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "현대차, 美 보스턴다이내믹스 100% 인수…'아틀라스' 공장 투입 가속",
@@ -477,7 +499,7 @@
             "content": "현대자동차그룹이 세계 최고의 로봇 기술력을 보유한 미국의 '보스턴 다이내믹스' 지분 100%를 인수하며 완전 자회사화를 완료했습니다. 이번 결정은 정의선 회장 취임 이후 추진해온 '스마트 모빌리티 솔루션 기업'으로의 전환을 가속화하겠다는 강력한 의지의 표현으로 해석됩니다.\n\n특히 기대를 모으는 부분은 2족 보행 휴머노이드 로봇 '아틀라스'의 실제 산업 현장 투입입니다. 현대차는 보스턴 다이내믹스의 고도화된 로봇 기술을 자동차 제조 공정에 결합하여 생산 효율성을 극대화하고, 인간이 하기 어려운 위험한 작업을 로봇이 대신하는 스마트 팩토리를 구축할 계획입니다.\n\n또한 로보틱스 기술은 단순 제조를 넘어 자율주행, 도심 항공 모빌리티(UAM), 물류 서비스 등 그룹의 핵심 미래 사업과 결합되어 시너지를 낼 전망입니다. 현대차는 이미 물류 로봇 '스트레치'를 상업화한 데 이어, 다양한 형태의 모빌리티 로봇 라인업을 강화하고 있습니다.\n\n이번 인수는 현대차가 글로벌 테크 리더로서의 입지를 공고히 하는 계기가 될 것입니다. 단순한 자동차 제조사를 넘어 로봇과 인공지능(AI)이 결합된 종합 모빌리티 플랫폼 기업으로 도약하려는 현대차의 행보에 전 세계 투자자들의 이목이 쏠리고 있습니다.",
             "image_prompt": "Humanoid robot Atlas, futuristic factory, blue tech lighting, robotic arm, innovation",
             "published_at": "2026-07-16 19:57:04",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"종부세, 가액 기준으로 변경\"·\"양도세 완화로 매물 유도\"",
@@ -488,7 +510,7 @@
             "content": "정부와 여당이 부동산 시장의 경직성을 해소하기 위해 종합부동산세(종부세)와 양도소득세 체제에 대한 대대적인 수술에 착수했습니다. 가장 큰 변화는 종부세의 부과 기준을 기존 '주택 수'에서 '보유 가액'으로 전환하는 방안입니다. 이는 다주택자라는 이유만으로 과도한 징벌적 과세를 적용받던 불합리함을 바로잡겠다는 취지입니다.\n\n양도소득세 완화 카드도 만지작거리고 있습니다. 보유세 부담으로 매물을 내놓고 싶어도 양도세가 무서워 팔지 못하는 이른바 '매물 잠김' 현상을 해소하기 위함입니다. 일정 기간 양도세를 한시적으로 감면하거나 세율 구조를 조정하여 다주택자들이 보유한 매물이 시장에 원활하게 공급되도록 유도할 계획입니다.\n\n이러한 세제 개편은 실거주 목적의 1주택자에게는 세 부담을 덜어주고, 투자 목적의 보유자들에게는 시장 퇴로를 열어주어 전체적인 주택 시장의 선순환 구조를 만들려는 의도가 깔려 있습니다. 부동산 시장은 이번 발표가 실제 매수세 회복과 가격 안정에 어떤 영향을 미칠지 촉각을 곤두세우고 있습니다.\n\n하지만 세수 감소에 대한 우려와 부자 감세 논란 등 넘어야 할 산도 많습니다. 정부는 향후 국회 논의 과정에서 야당과의 협의를 통해 구체적인 시행령과 법 개정안을 확정할 예정입니다. 부동산 시장의 향방을 가를 중대한 정책 변화인 만큼 투자자들의 주의 깊은 관찰이 필요합니다.",
             "image_prompt": "Modern luxury apartment, tax document, golden key, real estate market stability",
             "published_at": "2026-07-16 19:57:04",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한은 총재 \"반도체 가격 주시…한국 경제 미래에 시사점 많아\"",
@@ -499,7 +521,7 @@
             "content": "이창용 한국은행 총재는 최근 급변하는 반도체 가격과 시장 상황이 한국 경제의 미래를 설계하는 데 있어 매우 중요한 시사점을 던져주고 있다고 밝혔습니다. 반도체는 한국 수출의 핵심 동력인 만큼, 글로벌 수요 변화와 가격 변동성이 국내 GDP 성장률 및 경상수지에 직결된다는 점을 재확인한 것입니다.\n\n이 총재는 특히 반도체 산업의 기술적 진보와 글로벌 공급망 재편 속에서 한국이 차지하는 위치를 냉철하게 분석해야 한다고 언급했습니다. 단순히 현재의 수출 호조에 안주하기보다는, 가격 하락 사이클이나 경쟁국의 추격에 대비한 구조적 경쟁력 확보가 시급하다는 메시지로 풀이됩니다.\n\n또한, 이러한 반도체 경기의 흐름은 향후 한국은행의 통화정책 방향 설정에도 중요한 지표가 될 전망입니다. 물가 안정과 경기 부양 사이에서 적절한 금리 수준을 고민해야 하는 한은 입장에서는 반도체 발(發) 경기 회복의 지속 가능성을 판단하는 것이 무엇보다 중요하기 때문입니다.\n\n시장은 이번 발언을 통해 한국은행이 하반기 경제 정책을 운용함에 있어 반도체 중심의 경기 판단 비중을 더욱 높일 것으로 보고 있습니다. 글로벌 IT 수요의 회복세가 이어질지, 그리고 그것이 국내 실물 경제 전반으로 온기가 확산될 수 있을지가 향후 관전 포인트입니다.",
             "image_prompt": "Semiconductor wafer, Blue lighting, High-tech circuit, Global trade graph, Professional economic analysis",
             "published_at": "2026-07-16 17:07:52",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "금융당국, '삼전닉스 레버리지' 과열 방지 위한 보완책 발표 예정",
@@ -510,7 +532,7 @@
             "content": "이른바 '삼전닉스(삼성전자+SK하이닉스)'로 불리는 단일 종목형 레버리지 ETF 시장의 과열을 막기 위해 금융당국이 긴급 점검에 나섰습니다. 거시경제·금융현안 간담회(F4 회의)를 통해 논의된 이번 보완책은 개인 투자자들의 투기적 수요를 억제하고 시장 변동성을 관리하는 데 초점을 맞추고 있습니다.\n\n최근 반도체 주의 급등락 속에 2배 이상의 수익을 노리는 레버리지 상품에 막대한 자금이 쏠리면서, 시장의 미세한 균열에도 큰 충격이 가해질 수 있다는 우려가 제기되어 왔습니다. 당국은 이러한 레버리지 상품이 시장의 건전한 자산 형성을 저해하고, 오히려 주가 하락 시 손실을 극대화하는 부작용이 크다고 판단하고 있습니다.\n\n발표될 보완책에는 레버리지 ETF 가입 문턱을 높이거나, 공시 의무를 강화하는 내용이 담길 것으로 예상됩니다. 특히 단일 종목에 대한 과도한 집중 투자가 시장 전체의 리스크로 전이되지 않도록 기초 지수 구성 요건을 재검토하는 방안도 거론되고 있습니다.\n\n전문가들은 이번 조치가 단기적으로는 거래량 감소를 불러올 수 있으나, 장기적으로는 비정상적인 주가 변동을 완화하여 자본 시장의 신뢰를 회복하는 데 기여할 것으로 보고 있습니다. 투자자 보호를 위한 안전장치가 마련됨에 따라 투명한 투자 환경 조성이 기대됩니다.",
             "image_prompt": "Stock market trading screen, Red and blue trend lines, Financial regulation concept, Digital security, Modern exchange dashboard",
             "published_at": "2026-07-16 17:07:52",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "현대차, 美 보스턴다이내믹스 100% 인수…로봇 산업 주도권 가속",
@@ -521,7 +543,7 @@
             "content": "현대자동차그룹이 미국의 세계적인 로봇 전문 기업인 보스턴 다이내믹스의 지분 100%를 확보했다는 소식이 전해졌습니다. 이번 완전 인수는 현대차가 단순한 자동차 제조사를 넘어 '인류를 위한 모빌리티 솔루션 프로바이더'로 거듭나겠다는 정의선 회장의 의지가 반영된 결과로 풀이됩니다.\n\n특히 보스턴 다이내믹스의 대표적인 이족보행 로봇 '아틀라스'의 차세대 모델이 실제 생산 현장에 투입될 준비를 마치면서, 현대차의 스마트 팩토리 구현은 더욱 속도를 낼 전망입니다. 로봇 기술은 자율주행, 도심 항공 모빌리티(UAM) 등 현대차가 추진하는 미래 먹거리 사업과 강력한 시너지를 낼 것으로 기대됩니다.\n\n이번 인수를 통해 현대차는 로봇의 설계부터 제작, 그리고 실제 산업 현장 적용까지 이어지는 수직 계열화를 완성하게 되었습니다. 이는 테슬라 등 글로벌 빅테크 기업들과의 로봇 기술 경쟁에서 우위를 점할 수 있는 중요한 발판이 될 것으로 보입니다.\n\n앞으로 현대차는 보스턴 다이내믹스의 고도화된 인공지능(AI) 및 로봇 제어 기술을 물류, 구조 지원, 개인용 서비스 로봇 등 다양한 분야로 확장할 계획입니다. 글로벌 로봇 시장의 폭발적인 성장이 예상되는 가운데, 현대차의 이번 행보는 그룹의 미래 가치를 한 단계 높이는 신의 한 수가 될 것입니다.",
             "image_prompt": "Humanoid robot Atlas, Futuristic factory assembly, Golden hour lighting, Robotics engineering, Modern corporate vision",
             "published_at": "2026-07-16 17:07:52",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제성장전략] 하반기 공공기관 이전 발표, 지방 주도 성장 강화",
@@ -532,7 +554,7 @@
             "content": "정부가 지역 경제 활성화를 위해 하반기 중 공공기관 2차 이전 부지 및 대상 기관을 확정 발표하기로 했습니다. 이는 수도권 집중 현상을 완화하고, 지방 주도의 경제 성장 기반을 마련하기 위한 강력한 국토 균형 발전 정책의 일환입니다.\n\n이번 계획은 단순히 기관을 옮기는 것에 그치지 않고, 해당 지역의 전략 산업과 연계한 '혁신 클러스터' 조성을 목표로 합니다. 예를 들어, 에너지 관련 공공기관이 특정 지역으로 이전할 경우 관련 협력사와 연구소까지 유치하여 하나의 산업 생태계를 구축하겠다는 구상입니다.\n\n지방 자치단체들은 벌써부터 유치 경쟁에 뛰어들며 고용 창출과 인구 유입 효과를 기대하고 있습니다. 특히 인구 소멸 위기에 처한 지방 도시들은 이번 공공기관 이전이 지역 경제를 되살릴 수 있는 마지막 기회라고 보고 사활을 걸고 있는 모습입니다.\n\n하지만 일각에서는 정주 여건 개선 없는 강제적 이전이 인력 유출과 행정 효율성 저하를 초래할 수 있다는 우려도 제기합니다. 따라서 정부는 단순한 하드웨어적 이동을 넘어, 이전 공공기관 종사자들이 정착할 수 있는 교육, 의료 등 정주 인프라 구축에도 막대한 예산을 투입할 계획입니다.",
             "image_prompt": "South Korea map, Regional development concept, Modern government buildings, Sustainable city planning, Economic growth icons",
             "published_at": "2026-07-16 17:07:52",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한은 8월 금리 결정 주목…신현송 총재 “모든 가능성 열어둬”",
@@ -543,7 +565,7 @@
             "content": "신현송 국제결제은행(BIS) 경제보좌관 겸 조사국장이 한국은행을 방문해 금융 현안에 대해 논의하며, 향후 통화정책 방향에 대한 모든 가능성을 열어두어야 한다고 조언했습니다. 이는 국내외 물가 상황과 가계부채, 그리고 미국의 금리 향방 등 불확실성이 여전히 높기 때문입니다.\n\n현재 한국 경제는 소비 부진과 고물가 사이에서 아슬아슬한 줄타기를 하고 있습니다. 신 총재는 특히 주식 시장의 흐름이 실물 경제에 미치는 영향이 한국에서는 상대적으로 크지 않다는 점을 지적하며, 자산 가격보다는 실물 경기의 펀더멘털과 물가 안정에 정책의 우선순위를 두어야 함을 시사했습니다.\n\n8월 금통위를 앞둔 한국은행의 고민도 깊어지고 있습니다. 미국 연준의 금리 인하 기대감이 형성되고는 있지만, 국내 가계부채 증가세가 꺾이지 않고 있어 섣부른 금리 인하가 부동산 시장을 자극할 우려가 있기 때문입니다. 반대로 금리를 인상하거나 현 수준을 오래 유지할 경우 내수 침체가 심화될 수 있다는 위험도 존재합니다.\n\n결국 한은은 앞으로 발표될 주요 경제 지표들을 면밀히 검토한 뒤 결정을 내릴 것으로 보입니다. 이번 신 총재의 '모든 가능성' 발언은 시장에 지나친 낙관론이나 비관론을 경계하라는 일종의 가이드라인으로 작용할 것으로 분석됩니다.",
             "image_prompt": "Bank of Korea building, Interest rate percentage icon, Professional meeting room, Economic data analysis, Monetary policy chart",
             "published_at": "2026-07-16 17:07:52",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'3·4·5' 비전 제시한 정부…\"경제대도약 원년 완성\" [하반기 경제]",
@@ -554,7 +576,7 @@
             "content": "정부는 올해 하반기를 한국 경제가 다시 도약하는 '경제 대도약의 원년'으로 삼고, 구체적인 수치를 담은 '3·4·5 비전'을 선포했습니다. 이번 전략은 단순히 지표상의 성장을 넘어 국민이 체감할 수 있는 실질적인 민생 회복과 경제 체질 개선에 방점을 두고 있습니다.\n\n주요 추진 과제로는 하반기 중 공공기관 이전 계획을 발표하여 지방 주도의 성장을 강화하고, 지역 경제에 활력을 불어넣는 방안이 포함되었습니다. 이는 수도권 집중 현상을 완화하고 전국적인 성장 동력을 확보하려는 정부의 강력한 의지로 풀이됩니다.\n\n또한, 민간 투자 활성화를 위해 각종 규제를 혁파하고 세제 혜택을 확대하는 등 기업하기 좋은 환경 조성에 주력할 방침입니다. 정부는 이러한 정책들을 통해 하반기 내수 진작과 수출 확대를 동시에 달성하여 경제 선순환 구조를 확립하겠다는 계획입니다.\n\n전문가들은 이번 정부의 발표가 대내외 불확실성이 큰 상황에서 경제 주체들에게 명확한 방향성을 제시했다는 점에서 긍정적으로 평가하고 있으나, 실제 집행 과정에서의 속도감 있는 추진이 관건이 될 것으로 보고 있습니다.",
             "image_prompt": "Government policy, economic growth chart, futuristic city vision, blue and gold color palette, professional",
             "published_at": "2026-07-16 14:37:38",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한은 총재 \"반도체 가격 주시…韓경제 미래에 시사점 많아\"",
@@ -564,28 +586,6 @@
             "summary": "이창용 한국은행 총재가 반도체 경기 회복의 중요성과 한국 경제에 미칠 영향을 강조했습니다.",
             "content": "이창용 한국은행 총재는 최근 반도체 가격의 변동성과 수급 상황을 면밀히 주시하고 있다고 밝히며, 이것이 한국 경제의 미래를 결정짓는 핵심적인 요소라고 언급했습니다. 반도체는 한국 수출의 약 20%를 차지하는 만큼, 해당 산업의 호황 여부가 전체 경제 성장률에 직결됩니다.\n\n이 총재는 반도체 가격의 회복이 단순한 매출 증대를 넘어 인공지능(AI)과 같은 신기술 도입 가속화와 연계되어 있다고 분석했습니다. 이는 한국 경제의 산업 구조 자체가 고도화되는 시점과 맞물려 있어 거시경제 정책 수립에 중요한 시사점을 던져줍니다.\n\n특히 반도체 경기 회복이 고용 시장과 설비 투자로 전이되는 과정에 주목해야 한다고 강조했습니다. 반도체 업계의 실적 개선이 낙수 효과를 통해 골목 경제와 서비스업까지 긍정적인 영향을 미칠 수 있도록 금융 통화 정책의 정교한 운용이 필요하다는 설명입니다.\n\n시장에서는 한국은행의 이러한 진단이 향후 기준금리 결정이나 환율 관리 정책에 어떻게 반영될지 주목하고 있습니다. 반도체 사이클의 주기가 짧아지고 변동성이 커진 만큼 데이터 기반의 신속한 정책 대응이 요구되는 시점입니다.",
             "image_prompt": "Semiconductor chip, global trade, digital circuit, high-tech finance, glowing cyan lines",
-            "published_at": "2026-07-16 14:37:38",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "금융위원장 \"단일종목 레버리지 보완대책 조만간 발표\"",
-            "source": "한국경제",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GZHFfSVkyTWZ3MUM0dEw1YjJRQWVDWkdUbHJxbktJSUJOalVYaGpOQzJpeGtBMzhUaVdxcktOQWdPTDU5ODVmQjd3Nm43ZXY0am9QQUZLTWcwdw?oc=5",
-            "category": "금융",
-            "summary": "삼성전자 등 특정 종목의 변동성을 키우는 레버리지 상품에 대한 정부의 규제 보완책이 마련됩니다.",
-            "content": "최근 국내 증시에서 삼성전자와 SK하이닉스 등 특정 대형주를 대상으로 한 고배율 레버리지 상품들이 과도한 변동성을 유발한다는 지적이 제기됨에 따라 금융당국이 제도 개선에 나섰습니다. 금융위원회는 시장의 건전성을 해칠 수 있는 요소를 차단하기 위한 보완 대책을 조만간 발표할 예정입니다.\n\n소위 '삼전닉스 레버리지'로 불리는 이들 상품은 기초 자산의 움직임을 몇 배로 추종하며 투자자들에게 높은 수익 기회를 제공하지만, 반대로 시장 하락 시에는 패닉 셀링을 유발하여 증시 전반의 불안정성을 키우는 부작용을 낳고 있습니다. 금융당국은 이러한 과열 양상이 개인 투자자들의 막대한 손실로 이어질 수 있음을 경고했습니다.\n\n보완책에는 레버리지 배율의 제한, 공시 요건 강화, 그리고 일반 투자자들에 대한 위험 고지 의무 확대 등이 포함될 것으로 예상됩니다. 이는 투기적 수요를 억제하고 시장 본연의 가격 발견 기능을 회복시키기 위한 조치입니다.\n\n업계에서는 이번 규제가 단기적으로는 거래량 감소를 가져올 수 있으나, 장기적으로는 한국 자본 시장의 신뢰도를 높이고 예측 가능한 투자 환경을 조성하는 데 기여할 것으로 내다보고 있습니다.",
-            "image_prompt": "Stock market volatility, red and blue trading graph, financial regulation, shield icon, professional dark background",
-            "published_at": "2026-07-16 14:37:38",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "[다음주 경제일정] 알파벳·테슬라·인텔 실적 주목…유럽중앙은행 금리 결정에도 시선",
-            "source": "v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1ZHIyTkFMZTZwZ3JCeEczMnBJdzU2aVk0djRMZWhLNDhTb19jazNUT0stTGo5WFBab2YtZHQ4XzJjc09xb2FpWktPSmFyU2c?oc=5",
-            "category": "시장",
-            "summary": "다음 주 글로벌 테크 거물들의 실적 발표와 유럽의 금리 결정 등 굵직한 경제 이벤트들이 예정되어 있습니다.",
-            "content": "다음 주 글로벌 금융 시장은 이른바 '매그니피센트 7'에 포함되는 알파벳(구글), 테슬라와 반도체 거물 인텔의 실적 발표에 촉각을 곤두세울 예정입니다. 이들 기업의 성적표는 단순히 개별 기업의 주가를 넘어 AI 산업의 수익성 증명과 향후 경기 전망을 가늠할 잣대가 될 것입니다.\n\n특히 테슬라의 실적은 최근 주춤하고 있는 전기차 시장의 수요 회복 여부를 판단하는 지표가 될 것이며, 알파벳과 인텔의 발표는 AI 인프라 투자 지속 가능성에 대한 시장의 의구심을 해소해 줄지 기대를 모으고 있습니다. 실적 결과에 따라 나스닥을 비롯한 글로벌 증시의 방향성이 결정될 것으로 보입니다.\n\n대외적으로는 유럽중앙은행(ECB)의 금리 결정 회의도 예정되어 있습니다. 인플레이션 둔화 속도와 경기 침체 우려 사이에서 ECB가 어떤 통화 정책 기조를 보일지가 관건입니다. 유럽의 금리 결정은 유로화 가치 변화를 통해 달러 인덱스와 원·달러 환율에도 직접적인 영향을 미칠 수 있습니다.\n\n투자자들은 실적 발표 기간의 높은 변동성에 대비하며, 개별 기업의 가이드라인과 중앙은행의 메시지에 귀를 기울여야 합니다. 국내 증시 역시 미국 빅테크 실적과 동조화 현상을 보일 가능성이 높으므로 세심한 모니터링이 필요합니다.",
-            "image_prompt": "Global financial calendar, tech company logos, stock tickers, world map, economic data overlay",
             "published_at": "2026-07-16 14:37:38",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
