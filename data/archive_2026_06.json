@@ -1,6 +1,105 @@
 {
-    "last_updated": "2026-07-21 22:41:47",
+    "last_updated": "2026-07-22 11:22:50",
     "items": [
+        {
+            "title": "李대통령 “물가 안정 총력전”…민생경제 회복에 가용수단 총동원",
+            "source": "kyongbuk.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05WEV5cDB2dUNiam1KcERvQ3hHYmRCQk9kV1paN3JYY0E4bmRqZEdiU1lGaUFoazE3cE1GWkw0QktBR3FrdFczVDdLUkFWTFROSVFpTW4xaGdEQl9MRGZ4QmIzM3R5ZmxIQVRvckg3VQ?oc=5",
+            "category": "정책",
+            "summary": "대통령 주재로 물가 안정 및 민생 경제 회복을 위한 범정부 차원의 대응책 논의",
+            "content": "최근 지속되는 고물가 현상으로 인해 서민 경제의 부담이 가중됨에 따라, 정부가 가용할 수 있는 모든 수단을 동원하여 물가 안정에 나설 것을 천명했습니다. 대통령은 직접 현안을 챙기며 민생 안정을 최우선 과제로 삼을 것을 주문했습니다.\n\n정부는 특히 농축수산물 가격 등 장바구니 물가에 직접적인 영향을 미치는 품목들을 집중 관리할 방침입니다. 유통 구조 개선과 수급 조절을 통해 가격 변동성을 최소화하고, 취약계층에 대한 지원 대책도 병행할 예정입니다.\n\n또한, 공공요금 인상을 억제하고 민간 부문의 가격 인상 자제를 요청하는 등 전방위적인 압박과 협력을 이어갈 계획입니다. 이는 내수 진작과 경제 활력 제고를 위한 필수적인 선제 조치로 풀이됩니다.\n\n경제 전문가들은 이번 조치가 시장에 심리적 안정감을 줄 것으로 기대하면서도, 글로벌 공급망 불안 등 대외적 요인에 대한 세밀한 모니터링이 병행되어야 한다고 조언하고 있습니다.",
+            "image_prompt": "Presidential meeting, inflation control, market stabilization, economic policy, professional office",
+            "published_at": "2026-06-21 23:03:58",
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[특파원 시선] '동남아 최대 규모' 인도네시아 경제 심상치 않다",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtTDVydlh3TUw1NVpGdlhQM3FEYnZqOENCVk9wOURuX181ZUtFa2hvZE1vQjJuVHhMWUI0enN0ZFl6WWl5WGVIUnh5cl9IbGs?oc=5",
+            "category": "시장",
+            "summary": "동남아 경제의 허브인 인도네시아의 경제 성장세와 시장 변화 분석",
+            "content": "동남아시아에서 가장 큰 경제 규모를 자랑하는 인도네시아가 최근 예사롭지 않은 경제 성장 지표를 보이며 글로벌 투자자들의 이목을 집중시키고 있습니다. 풍부한 자원과 막대한 인구를 바탕으로 한 내수 시장의 폭발력이 주요 원인으로 꼽힙니다.\n\n인도네시아 정부는 현재 강력한 인프라 확충 정책과 디지털 전환을 추진하고 있습니다. 이를 통해 제조업 경쟁력을 강화하고, 동남아의 디지털 경제 허브로 도약하겠다는 비전을 실현 중입니다.\n\n우리 기업들에게 인도네시아는 포스트 차이나를 대체할 핵심 전략 지역으로 부상하고 있습니다. 이미 자동차, 배터리 등 주요 산업 분야에서 한국 기업들의 현지 투자가 활발하게 이루어지고 있으며, 협력 범위는 점차 확대될 전망입니다.\n\n다만, 글로벌 금리 인상 기조와 지정학적 리스크 등 대외적인 변수가 인도네시아 경제에 미칠 영향에 대해서는 지속적인 관찰이 필요합니다. 현지 특파원들은 시장의 역동성을 긍정적으로 평가하면서도 리스크 관리를 강조하고 있습니다.",
+            "image_prompt": "Indonesia skyline, Southeast Asia economy, industrial growth, dynamic market, skyscraper",
+            "published_at": "2026-06-21 23:03:58",
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "‘경제고통지수’ 전국 최고 지역은 경북…실업률·물가 등 모두 높아",
+            "source": "매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NQUxQSl9NOVY2Sjc4ZGNybzgxS3N6R0RkZjVzbUhNbWZKSVFmUjYzenVkX1hDVmtoT0o4VXExei1RcWxVM1V1X2lZTmRMU0RXMkhvTA?oc=5",
+            "category": "시장",
+            "summary": "경북 지역의 경제고통지수가 전국 최고치를 기록하며 지역 경제 위기감 고조",
+            "content": "실업률과 소비자물가 상승률을 더해 산출하는 '경제고통지수'에서 경상북도 지역이 전국에서 가장 높은 수치를 기록했습니다. 이는 지역 주민들이 체감하는 경제적 어려움이 타 지역에 비해 매우 심각함을 의미합니다.\n\n특히 지역 내 주요 산업의 부진과 더불어 청년 인구 유출로 인한 고용 시장의 불균형이 실업률 상승을 부추기고 있습니다. 여기에 생활 물가까지 고공행진을 이어가면서 가계의 실질 소득은 줄어들고 소비 심리는 위축되는 악순환이 반복되고 있습니다.\n\n지자체와 정부 차원의 특단의 대책이 요구되는 상황입니다. 지역 내 일자리 창출을 위한 기업 유치와 함께, 소상공인 지원 및 장바구니 물가 안정을 위한 맞춤형 정책 집행이 시급하다는 목소리가 높습니다.\n\n전문가들은 지역별 맞춤형 경제 활성화 로드맵이 필요하다고 지적합니다. 단순히 일시적인 자금 지원을 넘어 지역 산업의 구조적 체질 개선을 통한 근본적인 해결책 마련이 동반되어야 할 것입니다.",
+            "image_prompt": "Economic hardship index, statistics chart, local market, unemployment concern, financial struggle",
+            "published_at": "2026-06-21 23:03:58",
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "강원도, 한-UAE 포괄적경제동반자협정 활용 중동시장 전략 설명회",
+            "source": "뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mTkh0dEZBcDVhQkZBZW1sQnFSYmxQZHVzZEpzVHVNeEhmMDI5d2phZXJFdXBqVmZvT2xOcGRxeU5NQXpDNUdzQWptdzg1QkIxa3ZETA?oc=5",
+            "category": "정책",
+            "summary": "한-UAE CEPA를 기반으로 강원 지역 기업들의 중동 시장 진출 본격화",
+            "content": "강원도가 한국과 아랍에미리트(UAE) 간의 포괄적경제동반자협정(CEPA)을 적극 활용하여 지역 내 기업들의 중동 시장 진출을 돕기 위한 전략 설명회를 개최했습니다. 이는 '제2의 중동 붐'을 지역 경제 활성화의 동력으로 삼겠다는 의지입니다.\n\n이번 설명회에서는 UAE 시장의 특성과 유망 수출 품목, 그리고 관세 혜택을 비롯한 협정의 주요 내용이 상세히 다루어졌습니다. 강원도 특화 산업인 바이오, 의료기기, 가공식품 분야 기업들이 큰 관심을 보였습니다.\n\n강원도는 현지 네트워크 구축과 마케팅 지원을 강화하여 실질적인 수출 계약으로 이어질 수 있도록 행정적 지원을 아끼지 않을 방침입니다. 중동 시장은 구매력이 높고 한국 제품에 대한 선호도가 높아 큰 성장 잠재력을 가지고 있습니다.\n\n앞으로 지역 기업들이 중동의 규제 장벽을 넘고 안정적으로 정착할 수 있도록 맞춤형 컨설팅과 금융 지원 등 후속 조치들이 속도감 있게 진행될 예정입니다.",
+            "image_prompt": "Korea UAE partnership, Middle East market, business strategy, global trade, desert and technology",
+            "published_at": "2026-06-21 23:03:58",
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "세계경제포럼, 2026 기술 선구자로 ‘헬로로봇’ 선정",
+            "source": "로봇신문",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpeXI2eTNxanZxSWNwT3A0d2xTQmFlYy1CeVIwSDJpUlNUZWl1N0l1Qm5KaEI5RkVibzJtY1Z3eENIRzF1Y0tIY190MDJ6eXRLbHIwSGRVTU1pSjlSYUw3S3dsZllTMV9sS2Yydg?oc=5",
+            "category": "테크",
+            "summary": "세계경제포럼(WEF)이 미래 기술 혁신을 주도할 '헬로로봇'을 기술 선구자로 선정",
+            "content": "세계경제포럼(WEF)은 인류의 난제를 해결하고 산업의 패러다임을 바꿀 수 있는 혁신 기업들을 매년 '기술 선구자(Technology Pioneers)'로 선정합니다. 올해는 로봇 공학 분야에서 두각을 나타낸 '헬로로봇'이 그 명단에 이름을 올렸습니다.\n\n헬로로봇은 인간과 상호작용하며 일상생활을 돕는 서비스 로봇 기술에서 독보적인 기술력을 인정받았습니다. 특히 노령화 사회에서 돌봄 서비스를 제공하거나 단순 반복 작업의 효율을 높이는 데 특화된 솔루션을 제공합니다.\n\n이번 선정은 로봇 산업이 단순히 공장 자동화를 넘어 일상의 동반자로 자리 잡고 있음을 시사합니다. 기술 선구자로 선정된 기업은 WEF의 글로벌 네트워크에 참여하여 지속 가능한 성장을 위한 논의에 동참하게 됩니다.\n\n전문가들은 이러한 혁신 기업들이 투자를 유치하고 글로벌 시장으로 도약하는 데 이번 선정이 큰 마중물 역할을 할 것으로 내다보고 있습니다. 로봇 기술의 발전이 경제 전반에 미칠 긍정적 영향이 기대됩니다.",
+            "image_prompt": "Futuristic robot, World Economic Forum, high-tech innovation, AI robot interaction, clean tech aesthetic",
+            "published_at": "2026-06-21 23:03:58",
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "전쟁 버틴 K-푸드... 종전 훈풍 타고 중동시장 다시 조준",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xM1NmcGF1d0d1U1JmRG96OVpGUVBmeGhxVWw2bmhCanJ2V3hYZzZxRnNfYUphVVRCQjV0R29XUDFvV3ItbXJlekNSaHl6d2s?oc=5",
+            "category": "글로벌",
+            "summary": "K-푸드가 중동의 지정학적 리스크를 극복하고 할랄 시장을 중심으로 다시 공격적인 확장에 나서고 있습니다.",
+            "content": "최근 중동 지역의 긴장 상태 속에서도 K-푸드의 인기가 식지 않고 있습니다. 특히 한국 식품 기업들은 전쟁이라는 변수에도 불구하고 현지 유통망을 유지하며 브랜드 신뢰도를 높여왔습니다. 이제는 종전 기대감과 함께 '포스트 워' 시장을 선점하기 위한 전략을 구체화하고 있습니다.\n\n정부와 지자체 역시 힘을 보태고 있습니다. 강원도와 같은 지자체는 한-UAE 포괄적경제동반자협정(CEPA)을 적극 활용하여 도내 기업들의 중동 진출을 돕기 위한 전략 설명회를 개최하는 등 제도적 뒷받침을 강화하고 있습니다. 이는 단순한 수출을 넘어 중동 자본과의 협력 모델을 구축하려는 움직임으로 풀이됩니다.\n\n할랄 인증을 획득한 고품질의 K-푸드는 건강식이라는 이미지와 결합하여 현지 젊은 층 사이에서 큰 호응을 얻고 있습니다. 라면, 김치뿐만 아니라 기능성 음료와 간편식까지 품목이 다양화되면서 중동은 이제 한국 식품 산업의 차세대 핵심 거점으로 부상하고 있습니다.\n\n앞으로 우리 기업들은 현지 문화에 최적화된 마케팅과 물류 거점 확보를 통해 시장 점유율을 더욱 높여갈 전망입니다. 중동 시장의 성공적인 재진입은 향후 북아프리카와 유럽 시장으로 뻗어 나가는 데 중요한 교두보 역할을 할 것으로 기대됩니다.",
+            "image_prompt": "K-Food, Middle East market, Halal products, export logistics, desert sunset gold background, high quality",
+            "published_at": "2026-06-21 18:45:12",
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[프로필] 송기호 안보실 3차장…경제안보 챙길 통상 전문가",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uTjhCQ1BSYWp5QU12elFMMTFrbFJOMnNpVUxzWHF2QmFmS1RRX0ZJcmV0Um5tNnNyT3N5b0t4R3U3Z2k4bUNuUVA4cHZHLWJ3eGgxb1Z3cDNXTHPSAWBBVV95cUxQdmt2YlRWZ0g1RVhZTlFiUVZfbDloOW9RRF9LdUlSeHhQMHlRemJiVDBiZFpuaVlpVFFTRm1LUFlTRG5Db3EyX0JTb2gxaTNrYUItSzJOMXBuUnV6cXJsWGE?oc=5",
+            "category": "정책",
+            "summary": "대통령실이 국가안보실 3차장에 통상 전문가인 송기호 비서관을 발탁하며 경제안보 강화에 나섰습니다.",
+            "content": "정부가 공급망 위기와 기술 패권 경쟁이 심화되는 글로벌 환경에 대응하기 위해 국가안보실 제3차장직에 송기호 현 경제안보비서관을 임명했습니다. 이번 인사는 안보의 영역이 군사적인 면을 넘어 경제와 기술 분야로 확장되었음을 시사하는 강력한 메시지입니다.\n\n신임 송기호 차장은 오랜 기간 통상과 경제 분야에서 전문성을 쌓아온 인물로, 특히 외교와 경제의 접점에서 발생하는 복합적인 현안을 해결하는 데 탁월한 능력을 갖춘 것으로 평가받습니다. 앞으로 그는 반도체, 이차전지 등 핵심 전략 자산의 공급망 관리와 기술 보호를 진두지휘하게 됩니다.\n\n최근 미국과 중국의 갈등, 그리고 주요국들의 자국 우선주의 정책이 강화되면서 '경제안보'는 국가 생존을 위한 필수 과제가 되었습니다. 송 차장은 이러한 복잡한 국제 질서 속에서 한국의 국익을 극대화하기 위한 전략적 통상 외교를 전개할 것으로 기대됩니다.\n\n대통령실 관계자는 이번 인사를 통해 부처 간의 유기적인 협조 체제를 구축하고, 글로벌 리스크에 대한 선제적 대응 역량을 높일 것이라고 밝혔습니다. 경제와 안보를 하나로 묶는 통합적 시각이 정책에 어떻게 반영될지 주목됩니다.",
+            "image_prompt": "Economic security, national security building, professional portrait, global trade network, blue business tone",
+            "published_at": "2026-06-21 18:45:12",
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "‘경제고통지수’ 전국 최고 지역은 경북…실업률·물가 모두 높아",
+            "source": "매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nTFF3NjlGd0FSNWZRMERvcmRROU00QW1UeWw4NUduMEFPRk1IYXlEY2NxanBUbld6bVRhVmpGZ0JSYmVpTUhLNXVqUmxvQ1NXWVE?oc=5",
+            "category": "시장",
+            "summary": "실업률과 물가 상승률을 합산한 경제고통지수에서 경상북도가 전국 1위를 기록하며 지역 경제의 심각성을 드러냈습니다.",
+            "content": "서민들이 체감하는 경제적 어려움을 수치화한 '경제고통지수' 분석 결과, 경상북도 지역의 지표가 전국에서 가장 좋지 않은 것으로 나타났습니다. 이는 높은 물가 상승세에 더해 지역 내 일자리 부족 문제가 겹치면서 주민들의 삶의 질이 급격히 저하되고 있음을 의미합니다.\n\n경북 지역은 주력 산업의 침체와 청년 인구 유출로 인해 고용 시장이 경색된 상태에서, 생활필수품 가격과 공공요금 인상 폭은 다른 지역보다 높게 형성되었습니다. 이러한 불균형은 지역 소비 위축으로 이어져 자영업자들의 고통을 가중시키는 악순환을 만들고 있습니다.\n\n정부와 지자체는 민생 경제 회복을 최우선 과제로 삼고 다양한 대책을 내놓고 있습니다. 추경호 의원 등 지역 정치권 인사들은 서문시장과 같은 민생 현장을 찾아 목소리를 듣고 있지만, 실질적인 경기 부양책이 작동하기까지는 시간이 걸릴 것으로 보입니다.\n\n전문가들은 지역 맞춤형 일자리 창출과 소상공인 금융 지원 확대 등 보다 정교한 정책 설계가 필요하다고 지적합니다. 수도권과의 경제 격차가 갈수록 벌어지는 상황에서 지역 경제의 붕괴를 막기 위한 특단의 조치가 시급한 시점입니다.",
+            "image_prompt": "Economic misery index, high inflation graph, local market, Gyeongsangbuk-do, grey industrial tone",
+            "published_at": "2026-06-21 18:45:12",
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "美 경제제재에 눈도 깜짝 않는 북·러·이란…회피술 통달",
+            "source": "매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43cnhodzYyRXRUcDZ1TER6aTgzd1otazZvcjRRVzRjSzhDX2djVkFXMmNidm00MHJqbkNzMjFHUGU4OGdUX3h4dVNWYmJySGlSanc?oc=5",
+            "category": "금융",
+            "summary": "미국의 강력한 경제 제재에도 불구하고 북한, 러시아, 이란이 독자적인 결제망과 우회 경로를 통해 제재를 무력화하고 있습니다.",
+            "content": "미국을 중심으로 한 서방 진영의 경제 제재가 예상을 빗나가고 있습니다. '악의 축'으로 규정된 북한, 러시아, 이란은 수년간의 제재를 거치며 고도화된 '제재 회피 시스템'을 구축했습니다. 이들은 달러 중심의 결제 체제를 벗어나 암호화폐, 현물 교환, 그리고 제3국 경유 통로를 적극 활용하고 있습니다.\n\n특히 러시아-우크라이나 전쟁 이후 러시아와 이란 간의 밀착이 가속화되면서 두 나라는 금융 정보를 공유하고 공동의 결제망을 구축하는 등 경제적 연대를 강화하고 있습니다. 이는 미국의 금융 패권에 정면으로 도전하는 행위로, 글로벌 금융 질서의 파편화를 초래하고 있습니다.\n\n이러한 제재 무용론은 국제 사회에 큰 과제를 던져주고 있습니다. 물리적인 제재만으로는 이들의 핵 개발이나 군사 행동을 억제하는 데 한계가 있음을 보여주기 때문입니다. 오히려 제재를 피해 형성된 지하 경제가 더욱 견고해지는 부작용도 발생하고 있습니다.\n\n향후 미국은 더욱 촘촘한 '세컨더리 보이콧'을 예고하고 있지만, 가상자산과 같은 신기술을 이용한 회피술을 완벽히 차단하기는 어려울 것으로 보입니다. 지정학적 갈등이 경제적 패권 전쟁으로 번지면서 세계 경제의 불확실성은 더욱 증폭되고 있습니다.",
+            "image_prompt": "Global sanctions, financial isolation, dark digital currency, geopolitics, chain link icon, neon red",
+            "published_at": "2026-06-21 18:45:12",
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "재경부, '환율 실탄' 외평채 발행 준비 착수…달러·유로화 검토",
             "source": "연합인포맥스",
