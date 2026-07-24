@@ -1,6 +1,149 @@
 {
-    "last_updated": "2026-07-23 22:50:11",
+    "last_updated": "2026-07-24 11:25:24",
     "items": [
+        {
+            "title": "[경제][속보] 코스피 급락에 서킷브레이커 발동",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UdmdNZ1BVQ2ZNWlBQN2hxcG4yQ0swUEt0WkVFWk94Zll1NzdycTZFN1lqQjAtd0ZWeFdDR0FvVW9qdG8tRGhEYTZExportVmV0OTN4T2VrV3R0OWR5c3l1TFctaTBldkpmRDF5VHNUUTJGYw?oc=5",
+            "category": "금융",
+            "summary": "코스피 지수가 급락하며 시장 일시 정지 조치인 서킷브레이커가 발동되었습니다.",
+            "content": "국내 주식시장이 걷잡을 수 없는 하락세에 직면하며 코스피 지수가 급격히 추락했습니다. 거래소는 주가의 추가 폭락을 방지하고 투자자들에게 냉정한 판단 시간을 제공하기 위해 시장의 모든 매매 거래를 일시 중단시키는 '서킷브레이커'를 전격 발동했습니다.\n\n이번 폭락은 대외적인 경제 불확실성과 글로벌 증시의 동반 하락이 맞물리며 국내 투자 심리를 극도로 위축시킨 결과로 분석됩니다. 특히 외국인과 기관의 대규모 매도세가 이어지며 지지선이 힘없이 무너지는 모습을 보였습니다.\n\n전문가들은 이번 서킷브레이커 발동이 시장의 공포 심리를 반영하고 있다고 진단하며, 향후 정부와 금융 당국의 추가적인 안정화 대책이 신속하게 이루어져야 한다고 입을 모으고 있습니다. 개인 투자자들의 막대한 손실이 우려되는 상황입니다.\n\n시장 관계자들은 당분간 변동성이 매우 높은 장세가 지속될 것으로 보고 있으며, 무리한 추격 매수나 투매보다는 거시 경제 지표의 향방을 신중하게 살피며 대응할 것을 권고하고 있습니다.",
+            "image_prompt": "Stock market crash, red arrow down, emergency signal, trading floor panic, digital financial board",
+            "published_at": "2026-06-24 00:12:53",
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "20년간 연준 의장 재임 ‘미 경제의 마에스트로’ 그린스펀 별세",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ja0ZHalBPMnE4aVZhbW5JVkozbDNMbGNiSnlhZmphU1MtU3JpU2ZzUDYzTXZNc3NabGFLX0lyUHZsNzdDMXpWVkdFcjVncTZBbWtDa2lqaldJQdIBX0FVX3lxTE5QUElRdjRkUmNjRk50X3NHd0xrWU9zRUYtNjZrZHBKVkRjaUpVSE96ZmJKcWM5N3JkYUYwT1Y5UjRSLVBXLURFV1oybFdzMkktcjVBUDJrZEhwOFBUbjhN?oc=5",
+            "category": "시장",
+            "summary": "미국 경제의 황금기를 이끌었던 앨런 그린스펀 전 연준 의장이 향년 98세로 별세했습니다.",
+            "content": "미국 연방준비제도(Fed)를 19년 가까이 이끌며 '경제의 마에스트로'로 불렸던 앨런 그린스펀 전 의장이 세상을 떠났습니다. 그는 레이건 행정부부터 부시 행정부까지 4명의 대통령을 거치며 세계 경제의 조율사 역할을 수행했습니다.\n\n그린스펀은 재임 시절 저금리 기조를 유지하며 미국 경제의 장기 호황을 이끌었다는 긍정적인 평가를 받습니다. 특히 정보기술(IT) 혁명에 따른 생산성 향상을 정확히 꿰뚫어 보며 현대 중앙은행의 위상을 확립한 인물로 기억됩니다.\n\n하지만 일각에서는 임기 후반의 저금리 정책이 부동산 버블을 초래했고, 이것이 훗날 2008년 글로벌 금융위기의 단초가 되었다는 비판적인 시각도 존재합니다. 그럼에도 불구하고 그가 세계 금융 시장에 남긴 족적은 누구보다 거대합니다.\n\n그의 별세 소식에 전 세계 경제계는 깊은 애도를 표하고 있습니다. 금융 전문가들은 그가 보여준 데이터 기반의 의사 결정과 유연한 통화 정책 운영이 오늘날 중앙은행가들에게 여전히 중요한 지침이 되고 있다고 평가합니다.",
+            "image_prompt": "Alan Greenspan tribute, Federal Reserve building, central banking, golden era of economy, professional portrait",
+            "published_at": "2026-06-24 00:12:53",
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "“경제 역대 최고” 자찬한 트럼프, 경제 평가선 ‘역대 최저’",
+            "source": "동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93aUNOZ0ZyQ29vckc0UUdRNGVlZHpOSnEzeWk5c3hwV2JWajNPc2kzWVdob0pDZXpLZEJWT2Fxb2VSblpHLTdZZlJyRVJoSjNFMkFzallrZkdRQ2dRZ05kNzE1aUtPUkM0SGx4U21ENHVnRDDSAWZBVV95cUxNSWYxelRVVk5nRkEzX0x0Q0hJVWRSOTM4Y3RNZzJNb3FST1U1eU1wUDlaTmttZnM4YkJCc0FfYWp3TnV6ZTNwbVo4MUU4QktzUEl3V1pSMFplcEFwZFdyMlo2RGpZTVE?oc=5",
+            "category": "정책",
+            "summary": "트럼프 전 대통령의 경제 성과에 대한 자평과 실제 시장 및 전문가의 평가가 엇갈리고 있습니다.",
+            "content": "도널드 트럼프 전 대통령이 자신의 재임 시절 경제 성과를 '역대 최고'라고 주장하고 있으나, 최근 발표된 각종 지표와 전문가들의 평가는 이와 상반되는 '역대 최저' 수준을 기록하며 논란이 되고 있습니다. 정치적 수사와 실제 경제 데이터 사이의 괴리가 커지는 양상입니다.\n\n트럼프 측은 대규모 감세와 규제 완화를 통해 주식 시장 활성화와 고용 성장을 이끌어냈다고 강조합니다. 반면, 비판론자들은 그의 보호무역주의 정책과 무역 전쟁이 글로벌 공급망을 교란시키고 장기적인 경제 성장 잠재력을 훼손했다고 반박합니다.\n\n특히 소득 불평등의 심화와 국가 부채의 급격한 증가가 그의 경제 정책이 남긴 어두운 단면으로 지목됩니다. 유권자들 사이에서도 지역과 계층에 따라 체감하는 경제 성과가 극명하게 갈리며 차기 대선을 앞두고 중요한 쟁점으로 부각되고 있습니다.\n\n이러한 평가의 양극화는 향후 미국의 경제 정책 방향성 설정에 상당한 영향을 미칠 것으로 보입니다. 경제 전문가들은 수치로 증명되는 객관적인 성과 분석이 필요한 시점이라고 강조하고 있습니다.",
+            "image_prompt": "Donald Trump podium, economic charts, political debate, Washington DC, conflicting data visualization",
+            "published_at": "2026-06-24 00:12:53",
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "무역수지 '역대 최고'인데 고용 인력 줄어드는 이유는?",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnb2RtcWVOcTlFT2Uzc1B6cjRMbndVRklHQ1hXVWxEWWpZLXlxWjVITVJYMlk0Yld1MXB6YmpjeHYwU3RUemdoTlMwVlNHVFNzaVdBV2NYOGF2bjJmc3c?oc=5",
+            "category": "테크",
+            "summary": "사상 최고의 무역 흑자에도 불구하고 산업 현장의 고용은 오히려 감소하는 역설적인 상황이 발생했습니다.",
+            "content": "최근 우리나라 무역수지가 역대 최고치를 경신하며 외형적으로는 성장 가도를 달리고 있지만, 실질적인 고용 현황은 오히려 악화되고 있어 우려를 자아내고 있습니다. 수출 호조가 일자리 창출로 이어지지 않는 '고용 없는 성장'의 단면이 드러난 것입니다.\n\n이러한 현상의 주요 원인으로는 제조업의 스마트화와 자동화가 꼽힙니다. 수출 품목이 반도체, 자동차 등 자본 집약적이고 기술 중심적인 산업에 쏠리면서, 생산 효율성은 높아졌으나 필요한 노동력은 줄어들었기 때문입니다. 로봇과 AI가 사람의 자리를 대신하는 비중이 커지고 있습니다.\n\n또한 기업들이 불확실한 경기 전망 속에서 신규 채용보다는 기존 인력의 생산성 향상이나 아웃소싱에 집중하는 경향도 영향을 미쳤습니다. 이는 청년 실업 문제와 맞물려 사회적인 불균형을 심화시키는 요인이 되고 있습니다.\n\n전문가들은 무역 성장의 과실이 고용으로 확산될 수 있도록 서비스 산업과의 연계 강화 및 신산업 분야의 인력 양성 정책이 병행되어야 한다고 조언합니다. 수출 지표의 화려함 뒤에 가려진 고용 시장의 위기를 직시해야 할 때입니다.",
+            "image_prompt": "Automated factory, industrial robot, empty office chairs, cargo ship port, technological unemployment concept",
+            "published_at": "2026-06-24 00:12:53",
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "AI 기반 제조업 혁신과 고용",
+            "source": "한국개발연구원(KDI)",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFPCYjAzODVUMlZEb2tscUc1R1Z2bWQxRUhhQTl6a09jTWhFNExEVzl2ZDJma2dMNmpNQWFyMV84X2NHT3ZoUnlzdmZMT2ozdUVYeDBjdVBwM1duVjFZRkJlN2U5WGlHV1F0aWQw?oc=5",
+            "category": "테크",
+            "summary": "AI 도입을 통한 제조업 혁신이 미래 고용 구조에 미칠 영향에 대한 심도 있는 분석이 발표되었습니다.",
+            "content": "한국개발연구원(KDI)은 인공지능(AI) 기술이 제조업 현장에 본격적으로 도입되면서 발생하는 산업 구조의 변화와 고용 시장의 향방에 대한 연구 보고서를 발표했습니다. AI는 단순 반복 공정의 자동화를 넘어 의사 결정 단계까지 혁신하고 있습니다.\n\n보고서에 따르면 AI 도입은 초기에는 특정 직군에서 고용 감소를 유발할 수 있으나, 장기적으로는 고부가가치 서비스 수요를 창출하고 공정 효율성을 극대화하여 산업 경쟁력을 제고할 것으로 전망됩니다. 기술 혁신이 새로운 형태의 일자리를 만들어낼 가능성이 크다는 분석입니다.\n\n다만 기술 격차에 따른 노동 시장의 양극화는 해결해야 할 과제로 제시되었습니다. 숙련된 기술자와 그렇지 못한 노동자 사이의 임금 격차가 벌어질 수 있으며, 이에 대응하기 위한 재교육 및 평생 교육 시스템의 구축이 시급한 상황입니다.\n\nKDI는 AI 기반의 제조업 혁신이 국가 경쟁력의 핵심이 될 것이라고 강조하며, 기술 도입에 따른 부작용을 최소화하고 긍정적인 고용 효과를 극대화하기 위한 제도적 뒷받침이 필수적이라고 제언했습니다.",
+            "image_prompt": "Artificial Intelligence, smart factory, neural network, future workforce, digital transformation",
+            "published_at": "2026-06-24 00:12:53",
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "코스피 '검은 화요일' 역대급 폭락...하루에 910p '증발'",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tc2taREJIR08wOUpBOWFydGFQRTFpMTNNcWpTR3J2dGhLWUdiY3NwTEpYNWZwUGRWRG5BLTlwMVVCdVJWWnRuX1MwWFNzTHU0WHdkZkZxVUJxcm91TGVseHl1SVUteFl3elBYOWwwQQ?oc=5",
+            "category": "금융",
+            "summary": "국내 증시가 사상 최악의 하락폭을 기록하며 시가총액 수백 조 원이 증발했습니다.",
+            "content": "국내 증시가 역사상 유례없는 폭락장을 맞이하며 투자자들에게 큰 충격을 안겼습니다. 코스피 지수는 하루 만에 910포인트가 넘게 빠지며 이른바 '검은 화요일'의 공포를 재현했습니다. 장중에는 급격한 하락세로 인해 매도 사이드카가 발동되는 등 시장 전반에 걸쳐 패닉 셀링 현상이 나타났습니다.\n\n이번 폭락의 주요 원인으로는 글로벌 경기 침체에 대한 공포 확산과 함께 국내 주요 산업의 불확실성이 복합적으로 작용한 것으로 분석됩니다. 특히 외국인과 기관의 동반 매도세가 거세지면서 지수 하락을 부추겼으며, 코스피뿐만 아니라 코스닥 시장에서도 시가총액 상위 종목들이 일제히 무너져 내렸습니다.\n\n시장 전문가들은 이번 사태가 단기적 수급 불균형을 넘어선 구조적인 위기인지 예의주시하고 있습니다. 증시 변동성이 극대화된 상태에서 개인 투자자들의 손실이 눈덩이처럼 불어나고 있으며, 당분간은 보수적인 관점에서의 시장 접근이 필요하다는 목소리가 힘을 얻고 있습니다.\n\n정부와 금융 당국은 시장 상황을 긴급 점검하며 추가적인 안정 조치를 논의 중입니다. 그러나 대외적인 변수가 워낙 강력한 만큼 시장이 단기간 내에 이전 수준을 회복하기에는 상당한 시일이 걸릴 것으로 보이며, 향후 발표될 미국의 경제 지표 결과가 반등의 분수령이 될 전망입니다.",
+            "image_prompt": "Stock market crash, falling red arrows, financial crisis, dark trading screen, dramatic atmosphere",
+            "published_at": "2026-06-23 20:58:45",
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "“초호황 삼전닉스도 피할 수 없나”…내년 하반기 공급 과잉 직면 가능성",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrZ3JaSFJ5SjViMGY5Z3ZmVlJpX3QxRy1vQlRMYmp3aklLTlQ5VWZIV2ZfSFJua09HUTg2XzJvNU8teGt3SmhvZFg3dTE5bWc?oc=5",
+            "category": "테크",
+            "summary": "삼성전자와 SK하이닉스가 주도하는 반도체 시장에 내년 하반기 공급 과잉 경고등이 켜졌습니다.",
+            "content": "현재 역대급 실적을 기록하며 초호황기를 누리고 있는 삼성전자와 SK하이닉스가 내년 하반기에는 공급 과잉이라는 암초에 부딪힐 수 있다는 전망이 제기되었습니다. AI(인공지능) 열풍으로 인한 HBM(고대역폭메모리) 수요 폭증이 현재의 성장을 견인하고 있지만, 과도한 설비 투자와 생산량 증대가 결국 시장의 수급 불균형을 초래할 수 있다는 분석입니다.\n\n업계 전문가들은 반도체 사이클의 주기가 짧아지고 변동성이 커지는 현상에 주목하고 있습니다. 글로벌 빅테크 기업들의 AI 투자가 정점에 도달한 이후 수요가 둔화될 경우, 급격히 늘어난 공급 물량이 가격 하락 압박으로 이어질 수 있기 때문입니다. 특히 범용 DRAM 부문에서의 재고 누적 가능성도 배제할 수 없는 상황입니다.\n\n이러한 우려는 국내 경제 전반에 큰 파장을 미칠 수 있습니다. 반도체는 한국 수출의 중추적인 역할을 담당하고 있어, 반도체 업황의 둔화는 곧 국가 경제 성장률의 하락으로 직결될 수 있습니다. 삼성전자와 SK하이닉스 역시 이러한 시나리오에 대비해 차세대 기술 확보와 포트폴리오 다변화에 박차를 가하고 있습니다.\n\n결국 내년 하반기의 성패는 얼마나 유연하게 생산량을 조절하고 수익성을 유지하느냐에 달려 있습니다. 기술 격차를 통한 시장 지배력 강화가 필수적인 시점이며, 단순히 양적 성장을 넘어 질적 성장을 도모해야 한다는 경고의 목소리가 커지고 있습니다.",
+            "image_prompt": "Semiconductor chips, futuristic factory, supply chain logistics, blue glowing circuits, high-tech",
+            "published_at": "2026-06-23 20:58:45",
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"한국 경제 10% 성장했다는데\"…체감 못 하는 이유 있었다",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeHhBVkRfRTFQT2d1NHREVUp4TGdrQ2w5VnRPWS1DNzJaalduNUtzbS1lMGltcnFvNkhXLVlSSW53Y1Uwa2JPS216ZFR1bmlUckFYdWV5MkRzUdIBVEFVX3lxTE50dEh0dHQ4OHc3YUxsMGt2dTNIMm1sbW5YSnh1TS0wOHBKRW5sMEE0c1N2LWpmZ1FOemxkb18wek15YkwzRWZaamozQktiMjFqRlphNQ?oc=5",
+            "category": "정책",
+            "summary": "경제 지표상으로는 높은 성장률을 기록했음에도 불구하고, 국민들의 실제 삶은 나아지지 않는 괴리 현상이 심화되고 있습니다.",
+            "content": "최근 발표된 통계에 따르면 한국 경제가 가시적인 성장을 이룬 것으로 나타났으나, 일반 서민들이 체감하는 경기 상황은 여전히 한겨울에 머물러 있습니다. 수치상의 성장이 실제 가계 소득 증대나 소비 활성화로 이어지지 않는 '성장의 낙수효과 소멸' 현상이 뚜렷해지고 있다는 지적입니다.\n\n이러한 괴리의 가장 큰 원인으로는 고물가와 고금리로 인한 실질 구매력 저하가 꼽힙니다. 수출 대기업 중심으로 경제가 성장하다 보니 중소기업 종사자나 자영업자들에게는 온기가 전달되지 않고 있으며, 가계 부채 부담이 가중되면서 쓸 수 있는 돈이 줄어든 점이 체감 경기를 악화시키고 있습니다.\n\n또한 산업 구조의 변화로 인해 성장이 고용 창출로 연결되지 않는 '고용 없는 성장'이 고착화되고 있습니다. IT 및 반도체 등 자본 집약적 산업 위주의 성장은 지표를 끌어올리는 데는 효과적이지만, 대다수 국민의 일자리 질을 개선하는 데는 한계가 있다는 분석입니다.\n\n정부는 이러한 지표와 체감 사이의 간극을 줄이기 위해 내수 진작책과 민생 안정을 최우선 과제로 내세우고 있습니다. 하지만 구조적인 분배 문제와 양극화를 해결하지 않고서는 수치상의 성장이 국민들에게 허탈감만 안겨줄 뿐이라는 우려가 계속되고 있습니다.",
+            "image_prompt": "Economic growth chart versus empty wallet, street market, inflation concept, financial disparity",
+            "published_at": "2026-06-23 20:58:45",
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "코스피 '역대급' 10% 급락…서킷브레이커 발동 및 시장 패닉",
+            "source": "한국경제, YTN",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSMHlUMU5wMm5oSmIwNDQ5NFlFS3JBNmZVaE14X2c3N3Q2TDl3WXhkSlgtOXdrQmRZLTNTY0hrM2dhdUdhRzk2S3Aza3VKSHhjMEZ4dU1xMjljZ9IBVEFVX3lxTE44Ry1XMGZ3T01kaHVkUFVTWXpQY2taX2dSc3JLX1NrSTVsQVlKeHFidU1hTUk1QjFNeFpkajhBbnloOHctY2NxTmVPMnp2TXRLWEJEUw?oc=5",
+            "category": "금융",
+            "summary": "코스피 지수가 8,203선까지 추락하며 역대 최대 하락폭을 기록했습니다.",
+            "content": "국내 증시가 유례없는 폭락장을 연출하며 시장에 커다란 충격을 안겼습니다. 코스피 지수는 전 거래일 대비 10% 가까이 급락한 8,203 포인트까지 내려앉았으며, 이 과정에서 주식 매매를 일시 중단시키는 서킷브레이커와 사이드카가 잇따라 발동되었습니다. 이는 투자자들 사이에서 '패닉 셀링'이 확산된 결과로 풀이됩니다.\n\n코스닥 시장 역시 상황은 다르지 않았습니다. 코스닥 지수는 7.9% 하락하며 동반 폭락세를 보였고, 전 업종에 걸쳐 파란불이 켜지는 등 시장 전체가 마비 상태에 빠졌습니다. 전문가들은 글로벌 경기 침체에 대한 공포와 급격한 자금 유출이 결합되면서 국내 증시의 기초 체력이 급격히 약화된 것으로 분석하고 있습니다.\n\n정부와 금융 당국은 시장 상황을 예의주시하며 긴급 대책 마련에 나섰습니다. 하지만 한 번 무너진 투자 심리가 단기간에 회복되기는 어려울 것이라는 전망이 지배적입니다. 특히 외국인 투자자들의 대규모 매도세가 이어지고 있어, 수급 불균형 문제를 해결하기 위한 특단의 조치가 필요한 시점입니다.\n\n이번 사태는 국내 자본시장의 변동성을 다시 한번 확인시켜준 계기가 되었습니다. 투자자들은 단기적인 반등을 기대하기보다는 시장의 하방 압력이 어디까지 이어질지 신중하게 지켜봐야 할 것으로 보입니다. 향후 발표될 글로벌 경제 지표와 주요국의 통화 정책 방향이 국내 증시의 향방을 결정지을 핵심 변수가 될 전망입니다.",
+            "image_prompt": "Stock market crash, falling red arrows, financial distress, electronic trading board, dramatic lighting",
+            "published_at": "2026-06-23 15:49:43",
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "세계 경제의 '마에스트로' 앨런 그린스펀 전 연준 의장 별세",
+            "source": "v.daum.net, 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Tjc2QlJWYTJ4NG5tc2NiMnhVSV82SlJwR3NUZGxMWWp6a2plb1JGT1V2YTZWdUh1SVdNSUxXWVdVa1EzWGxYS3RrOFZZWEhhelJ6SVpXQlRxMGfSAWBBVV95cUxPYnZucVJQdTFXQS1Hd200a1hyU3FPcHh2V0xuRU52NFlQa0JhcFMzaVNDdFZ2OW9LQnhJLUE2aVBoQWJFTUZFSTJxb0ozQXhIdUxwU1dPYzFqczZsS21ZVjY?oc=5",
+            "category": "국제",
+            "summary": "19년간 미국 연준을 이끌며 세계 경제 대통령으로 불린 그린스펀이 별세했습니다.",
+            "content": "미국 연방준비제도(Fed)의 최장수 의장이자 세계 경제의 '마에스트로'로 칭송받던 앨런 그린스펀이 향년의 나이로 별세했습니다. 그는 1987년부터 2006년까지 19년 동안 미 4대 정권에 걸쳐 연준을 이끌며 전 세계 경제 정책의 중심에 서 있었습니다. 그의 입과 가방은 늘 전 세계 금융 시장의 주목 대상이었습니다.\n\n그린스펀은 저금리 기조를 유지하며 미국의 장기 호황을 이끈 주역으로 평가받습니다. 특히 1987년 '블랙 먼데이' 당시 신속한 유동성 공급으로 위기를 극복하며 시장의 절대적인 신뢰를 얻었습니다. 그가 결정하는 금리 방향에 따라 지구촌 경제의 향방이 결정되었기에 그는 사실상 '세계 경제 대통령'으로 통했습니다.\n\n그러나 그의 공적만큼이나 그림자도 짙게 남았습니다. 퇴임 이후 2008년 글로벌 금융위기가 닥치자, 그가 고수했던 저금리 정책과 규제 완화가 부동산 거품을 조장했다는 비판이 제기되기도 했습니다. 그는 나중에 자신의 경제 모델에 결함이 있었음을 일부 시인하며 경제학계에 큰 화두를 던지기도 했습니다.\n\n그의 별세 소식에 전 세계 경제계는 애도의 뜻을 표하고 있습니다. 한 시대를 풍미했던 경제 거물의 퇴장은 단순히 개인의 죽음을 넘어, 그가 정립했던 통화 정책의 시대가 저물고 새로운 경제 패러다임이 필요함을 시사하고 있습니다. 그의 유산은 현대 중앙은행의 역할에 대한 깊은 연구 과제로 남게 되었습니다.",
+            "image_prompt": "Portrait of an elderly economist, Federal Reserve building, global finance symbols, majestic and historical atmosphere",
+            "published_at": "2026-06-23 15:49:43",
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"성장 지표와 괴리\"…국민이 경제 성장을 체감하지 못하는 이유",
+            "source": "한국경제, YTN",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeHhBVkRfRTFQT2d1NHREVUp4TGdrQ2w5VnRPWS1DNzJaalduNUtzbS1lMGltcnFvNkhXLVlSSW53Y1Uwa2JPS216ZFR1bmlUckFYdWV5MkRzUdIBVEFVX3lxTE50dEh0dHQ4OHc3YUxsMGt2dTNIMm1sbW5YSnh1TS0wOHBKRW5sMEE0c1N2LWpmZ1FOemxkb18wek15YkwzRWZaamozQktiMjFqRlphNQ?oc=5",
+            "category": "경제",
+            "summary": "10%의 높은 경제 성장률에도 불구하고 민생 경기가 얼어붙은 원인을 분석했습니다.",
+            "content": "최근 한국 경제가 지표상으로는 10%에 달하는 높은 성장률을 기록했음에도 불구하고, 대다수의 국민은 이를 체감하지 못하고 있다는 목소리가 높습니다. 이러한 '지표와 체감의 괴리'는 우리 경제의 구조적 문제점에서 기인합니다. 수출은 역대 최고치를 경신하며 호조를 보이고 있지만, 내수 경기는 여전히 차갑게 식어있기 때문입니다.\n\n가장 큰 원인 중 하나는 고용 시장의 변화입니다. 무역 수지는 흑자를 기록하고 있지만, 정작 일자리는 고숙련 전문직이나 비대면 기술 분야에 집중되면서 서민들이 체감하는 고용의 질은 나빠지고 있습니다. 또한, 고물가와 고금리가 지속되면서 실질 구매력이 하락한 점도 국민들이 성장의 온기를 느끼지 못하는 주요 요인으로 꼽힙니다.\n\n수출 대기업 중심의 성장이 가계 소득 증대로 이어지지 않는 '낙수효과'의 실종도 심각한 문제입니다. 대기업은 사상 최대 실적을 내고 있지만, 중소기업과 소상공인들은 원가 상승과 소비 위축이라는 이중고에 시달리고 있습니다. 이로 인해 양극화가 심화되면서 전체 경제 성장률이 평균의 함정에 빠져 있다는 지적이 나옵니다.\n\n정부는 이러한 문제를 해결하기 위해 민생 안정 대책을 최우선 과제로 삼고 있습니다. 단순히 성장 수치에 집착하기보다, 서민 가계의 소득을 높이고 물가를 안정시키는 실질적인 정책이 필요합니다. 전문가들은 내수 활성화를 위한 구조적 개혁과 함께 고용 창출 효과가 큰 서비스 산업 육성에 힘을 쏟아야 한다고 조언합니다.",
+            "image_prompt": "Gap between rich and poor, soaring graphs vs empty wallets, market scene, economic contrast, realistic style",
+            "published_at": "2026-06-23 15:49:43",
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "한·중 경제 협력 강화…세계 경제 선도 위해 손 맞잡는다",
+            "source": "조선일보, 재외동포신문",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd3BHMnY5M0p3RFlnYXRiTVM4OGpwbkVBeXRjdndKWWVZQWhZT2l3aWJ4TGZheVNtRlBEQWxXVG1XdUdDdDZ5bERlTWlhT3FCNWFaR0dzYVQwQk5zZkZmVkFLX0ZabWtQSGdjQlBIZXZTZVp0SXc1cnhXU0QwdlM0VmJMUnlGZFZtNzdaSENjdmptdw?oc=5",
+            "category": "국제",
+            "summary": "정부가 중국과의 산업 협력 확대를 선언하며 하계 다보스포럼 등 교류를 강화합니다.",
+            "content": "김 총리는 중국을 세계 경제를 선도하는 국가로 규정하며, 양국 간의 산업 협력을 대폭 확대하겠다는 의지를 표명했습니다. 특히 미래 첨단 산업 분야에서의 파트너십 강화를 통해 글로벌 공급망 위기를 공동으로 극복하고 새로운 성장 동력을 확보하겠다는 구상입니다. 이는 최근의 복잡한 국제 정세 속에서도 경제 실리를 챙기겠다는 전략으로 풀이됩니다.\n\n이러한 협력의 일환으로 오는 10월 중국 선전에서는 '한·중 경제무역교류박람회'가 개최될 예정입니다. 조직위원회가 정식 출범하며 본격적인 준비에 들어간 이번 박람회는 양국 기업 간의 비즈니스 매칭과 기술 교류의 장이 될 것으로 기대됩니다. 선전이 중국의 테크 허브인 만큼 IT 및 모빌리티 분야의 성과가 주목됩니다.\n\n또한 우리 정부 대표단은 중국에서 열리는 '하계 다보스포럼(세계경제포럼 연례회의)'에 참석하기 위해 출국했습니다. 글로벌 리더들과 함께 세계 경제의 회복 방안을 논의하는 한편, 한국 경제의 위상을 높이고 해외 투자 유치를 위한 전방위적인 외교전을 펼칠 계획입니다. 이번 포럼은 한국 경제의 글로벌 네트워크를 강화하는 중요한 계기가 될 것입니다.\n\n하지만 미·중 갈등 사이에서의 전략적 선택은 여전한 숙제입니다. 정부는 중국과의 경제적 밀착이 안보나 전통적 동맹 관계에 미칠 영향을 면밀히 검토하면서도, 실익을 극대화할 수 있는 정교한 외교적 접근을 시도하고 있습니다. 양국 관계의 새로운 변곡점이 마련될지 귀추가 주목됩니다.",
+            "image_prompt": "Handshake between leaders, South Korea and China flags, futuristic city skyline, international trade, professional",
+            "published_at": "2026-06-23 15:49:43",
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "청년 일자리 및 스타트업 지원 확대…'사회연대경제' 육성",
+            "source": "경향신문, SBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5veXBYQTNUVFdBa0JnVnAxejhKTlVkRmpOSHAtWVp1RTJ2aVRCUm9mNm5NVkxxdjJ3bTdCUG9JQk43anFqbU5KZHEtdFdZUVo0N0xrT043cXFwQdIBX0FVX3lxTFBwdU45WThmU2V0QUpubzdVb3lORUxxSVFFM1dVUDlWcXlXOTNqNDBraG9tS0xDMXlfcFVaaHpsUldGbXhpYWVxM1I5aThxb1VMSFpmQTJHNTgyNnlnSjFJ?oc=5",
+            "category": "정책",
+            "summary": "청년들에게 월 234만원의 수당을 지급하고 창업 지원 규모를 대폭 늘립니다.",
+            "content": "정부가 청년 고용 문제 해결과 경제 체질 개선을 위해 파격적인 지원책을 내놓았습니다. 우선 '사회연대경제 기업'에서 일하는 청년들을 대상으로 월 234만 원 수준의 수당을 지급하기로 했습니다. 이는 청년들이 공익적 가치를 추구하는 기업에서 안정적으로 경력을 쌓을 수 있도록 돕고, 사회적 경제 생태계를 활성화하기 위한 조치입니다.\n\n이와 더불어 대통령은 경제 및 산업 구조의 재편을 강조하며 '모두의 창업'을 적극 지원하겠다고 밝혔습니다. 누구나 참신한 아이디어만 있다면 창업에 도전할 수 있도록 지원 규모와 횟수를 대폭 늘리겠다는 방침입니다. 특히 실패하더라도 다시 일어설 수 있는 재도전 지원 시스템을 강화하여 창업에 대한 진입 장벽을 낮추기로 했습니다.\n\n지역 생활 경제를 살리기 위한 노력도 병행됩니다. 중소벤처기업부는 보은군 등과 협업하여 지역 특화 시범 사업을 선정하고, 지역 밀착형 경제 활성화 모델을 구축하고 있습니다. 이는 수도권 집중 현상을 완화하고 지역의 자립 기반을 마련하는 데 기여할 것으로 보입니다.\n\n이러한 정책들은 지속 가능한 성장을 위한 '사람 중심'의 경제 철학을 반영하고 있습니다. 하지만 일시적인 보조금 지급에 그치지 않고, 청년들이 실제로 자립할 수 있는 산업 생태계가 조성되어야 한다는 지적도 나옵니다. 정부의 전폭적인 지원이 실효성 있는 일자리 창출로 이어질 수 있을지 관심이 모아지고 있습니다.",
+            "image_prompt": "Young entrepreneurs, energetic workspace, money icons, growth, community support, bright and hopeful atmosphere",
+            "published_at": "2026-06-23 15:49:43",
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "세계 경제의 '마에스트로' 앨런 그린스펀 전 Fed 의장 별세",
             "source": "중앙일보",
