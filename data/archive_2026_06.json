@@ -1,6 +1,61 @@
 {
-    "last_updated": "2026-07-26 11:29:50",
+    "last_updated": "2026-07-26 22:13:43",
     "items": [
+        {
+            "title": "코스피 급락에 서킷브레이커·사이드카 연쇄 발동... 증시 '패닉'",
+            "source": "아시아경제, YTN",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HNFhoM1FYbmNldlE2RnVNQjJienZBbGVkWWlLaTNuNGE3VVRVU1dIQVg4d01RWGZxdXJxY295Qnp6cnZscVowWjNxeVE5clBjeUFJWUQxM3JkbDZmUXZSQVNB?oc=5",
+            "category": "금융",
+            "summary": "코스피 지수가 급락하며 거래 일시 중단 조치인 서킷브레이커와 사이드카가 잇따라 발동되었습니다.",
+            "content": "오늘 국내 증시는 유례없는 하락세를 기록하며 시장에 큰 충격을 주었습니다. 장 중 코스피 지수가 전 거래일 대비 폭락하며 매도 주문이 폭주했고, 이에 따라 시장을 진정시키기 위한 거래 일시 중단 조치인 '서킷브레이커'가 발동되는 사태가 벌어졌습니다.\n\n동시에 프로그램 매도 호가의 효력을 일시 정지하는 '사이드카' 역시 발동되어 시장 전반에 패닉 셀링(Panic Selling) 현상이 뚜렷하게 나타났습니다. 전문가들은 미국 경기 침체 우려와 글로벌 엔 캐리 트레이드 청산 등의 대외적 변수가 복합적으로 작용하면서 국내 증시의 변동성을 키운 것으로 분석하고 있습니다.\n\n개인 투자자들 사이에서는 '개미 털어먹기'가 아니냐는 비판과 함께 향후 시장 전망에 대한 불안감이 고조되고 있습니다. 증권가에서는 당분간 변동성 장세가 지속될 것으로 보고, 무리한 추격 매수보다는 리스크 관리에 집중해야 한다고 조언하고 있습니다.",
+            "image_prompt": "Stock market crash, Red downward arrow, Financial data screen, Panic atmosphere, Professional digital display",
+            "published_at": "2026-06-26 12:24:42",
+            "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "삼성, 미래 먹거리 위해 10년간 1,000조 원 파격 투자 단행",
+            "source": "매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeXctMkZGV3FUNjBtaUs2b21qeVlxWEgtbUtmUEpyd2RYWHpXUW9XcHdMSE83bkZXVk5KSWlQOEtiYTdiWXM4RldOS2x3V013NWtRSGF3?oc=5",
+            "category": "산업",
+            "summary": "삼성그룹이 향후 10년 동안 반도체와 신산업 분야에 총 1,000조 원을 투자하겠다는 초대형 계획을 발표했습니다.",
+            "content": "삼성그룹이 글로벌 패권 경쟁에서 우위를 점하기 위해 향후 10년간 총 1,000조 원에 달하는 천문학적인 금액을 투자하기로 결정했습니다. 이번 투자는 주로 차세대 반도체 공정 개발, 바이오 산업 확대, 그리고 AI 및 6G 통신망 등 미래 핵심 기술 분야에 집중될 예정입니다.\n\n특히 국내 투자 비중을 높게 설정하여 양질의 일자리 창출과 국내 연관 산업 생태계 강화에도 기여할 것으로 기대됩니다. 이는 단순히 기업의 성장을 넘어 국가 경제 전반의 체질을 개선하고 글로벌 공급망 위기 속에서 한국의 기술 주권을 지키겠다는 의지로 풀이됩니다.\n\n재계에서는 이번 삼성의 결정이 다른 주요 대기업들의 투자 심리에도 긍정적인 영향을 미칠 것으로 보고 있습니다. 다만, 글로벌 경기 둔화와 금리 변동성 등 대외 여건이 녹록지 않은 상황에서 이 방대한 투자 계획이 얼마나 효율적으로 집행될지가 향후 관건이 될 전망입니다.",
+            "image_prompt": "Samsung high-tech investment, Futuristic semiconductor fab, Blue neon light, Global business vision, Advanced technology",
+            "published_at": "2026-06-26 12:24:42",
+            "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"반도체 꺾이면 경제 위기\"... 한국, 일본식 장기 불황 진입 경고",
+            "source": "YTN, 프레시안",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NcGFHNnpFYjVjY2Yxcy1jbWlzZU4xRVJXVVpfS21QVXkzSnRfaEdpYjVLVkZWRTZRLVJ0cmhWaFhtaVlrNkxHcmhma05ndWlpYW50bmJjRkdVaEZSdEE?oc=5",
+            "category": "경제",
+            "summary": "반도체에 편중된 한국의 경제 구조가 위기를 맞으며 일본의 '잃어버린 30년'을 답습할 수 있다는 우려가 제기되었습니다.",
+            "content": "최근 자산 시장의 거품과 실물 경제의 냉기가 대조를 이루면서, 한국 경제가 일본의 장기 침체 모델인 '잃어버린 30년'의 길로 들어서고 있다는 전문가들의 경고가 잇따르고 있습니다. 특히 우리나라 수출의 핵심인 반도체 업황에 따라 국가 전체 경제가 흔들리는 취약한 구조가 가장 큰 문제로 지적됩니다.\n\n실제로 가계 부채는 위험 수위에 도달한 반면, 내수 소비는 좀처럼 살아나지 못하고 있어 실물 경제의 '체감 온도'는 영하권에 머물고 있습니다. 반도체 가격 하락이나 글로벌 수요 감소가 현실화될 경우, 이를 대체할 신성장 동력이 부족하다는 점이 경제 불안의 핵심 요소입니다.\n\n정부와 학계에서는 산업 다각화와 더불어 구조적 개혁이 시급하다고 입을 모으고 있습니다. 단순히 단기적인 경기 부양책에 의존하기보다는 잠재 성장률을 높일 수 있는 근본적인 체질 개선이 이루어지지 않으면 장기 저성장의 늪에 빠질 수 있다는 지적입니다.",
+            "image_prompt": "Economic slowdown concept, Empty shopping mall, Dimly lit city, Industrial silhouette, Structural crisis illustration",
+            "published_at": "2026-06-26 12:24:42",
+            "image_url": "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "경제부총리 \"하반기 전기·가스요금 동결... 민생 물가 안정 총력\"",
+            "source": "JTBC NEWS, v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GSmJ1Zk9FYU5mbm5vQUFBWGFHNWllRXNZSGEzQjkyRmhCaW1Bd3pvR3hMb29FSFEtaFZRNlRweWY2VXVjQUZFa1Rpdk9SLXIwSmkwSw?oc=5",
+            "category": "정책",
+            "summary": "정부가 하반기 서민 가계의 부담을 줄이기 위해 주요 공공요금을 동결하고 농축수산물 할인 행사를 지원합니다.",
+            "content": "정부는 오늘 비상경제본부 회의를 통해 하반기 전기료와 가스료 등 주요 공공요금을 동결하겠다는 방침을 공식화했습니다. 고물가와 고금리로 고통받는 서민들의 민생 부담을 덜어주기 위한 특단의 조치로, 물가 상승 압력을 최소화하겠다는 정부의 의지가 반영된 것입니다.\n\n또한, 여름철 수요가 많은 농축수산물 전 품목에 대해 3,500억 원 규모의 예산을 투입하여 할인 행사를 진행하기로 했습니다. 석유류 가격 역시 안정세를 유지할 수 있도록 최고가격 인하 조치를 당분간 지속하고 수급 상황을 집중 점검할 계획입니다.\n\n구윤철 부총리는 이번 조치가 서민 경제의 버팀목이 되기를 기대한다고 밝혔습니다. 다만 공공기관의 누적 적자 해소 문제와 에너지 절약 유인 감소 등 부작용에 대한 우려도 공존하고 있어, 정부는 정책의 균형점을 찾는 데 주력하고 있습니다.",
+            "image_prompt": "Government meeting hall, Gas meter and electric bill, Price stabilization icons, Supportive policy design, Korean flag",
+            "published_at": "2026-06-26 12:24:42",
+            "image_url": "https://images.unsplash.com/photo-1614028674026-a65e31bfd27c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"경제 손실 2경 원\"... 수퍼 엘니뇨가 몰고 올 글로벌 위기",
+            "source": "조선일보",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWNDdU5TZ2VwYmg1RE5YSWY0ZGN0elhNWFg3WnlzZ2pnRVM3cHowLXdTdWlXUk5qVGdXbDYzWExqeWVHRkhVZmRzSXR3TjVfbDIwNWx1WTZEcEhJdDNnRFdnV09ISE9ldUphQWVHVFlHelhmSU90ODFGVjQ5WTN3OGRMZ2hzdw?oc=5",
+            "category": "시장",
+            "summary": "이상 기후 현상인 수퍼 엘니뇨로 인해 전 세계적으로 천문학적인 경제적 손실이 예상된다는 경고가 나왔습니다.",
+            "content": "기후 변화로 인해 발생하는 '수퍼 엘니뇨' 현상이 단순한 기상 이변을 넘어 글로벌 경제에 치명적인 타격을 줄 것이라는 분석이 제기되었습니다. 보고서에 따르면 향후 누적되는 전 세계 경제 손실액이 약 2경 원(약 15조 달러)에 달할 것으로 추산되며, 이는 공급망 붕괴와 식량 가격 폭등의 주범이 될 전망입니다.\n\n엘니뇨는 농작물 수확량 감소, 수력 발전 차질, 전염병 확산 등을 유발하여 특히 신흥국 경제에 심각한 타격을 줍니다. 식량 자급률이 낮은 국가들은 곡물 가격 급등(애그플레이션)으로 인해 극심한 인플레이션을 겪을 수 있으며, 이는 전 세계적인 경기 침체의 트리거가 될 수 있습니다.\n\n이에 따라 글로벌 기업들과 각국 정부는 기후 리스크를 경제 전망의 핵심 변수로 포함시키고 대응 전략을 수립하고 있습니다. 한국 역시 식량 안보 강화와 원자재 수급처 다변화 등 기후 위기에 따른 경제적 충격을 최소화하기 위한 선제적 대응이 절실한 시점입니다.",
+            "image_prompt": "Super El Nino weather, Global economic impact, Dry earth and flood contrast, Supply chain disruption, Climate risk chart",
+            "published_at": "2026-06-26 12:24:42",
+            "image_url": "https://images.unsplash.com/photo-1534951009808-766178b47a8e?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "美 5월 PCE 4.1% 상승…인플레 압력 더 거세져",
             "source": "한국경제",
