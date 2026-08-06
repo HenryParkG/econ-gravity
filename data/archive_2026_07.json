@@ -1,6 +1,61 @@
 {
-    "last_updated": "2026-08-06 11:13:33",
+    "last_updated": "2026-08-06 23:01:09",
     "items": [
+        {
+            "title": "반도체 수출 호조에 한국 경제성장률 전망 '3%대' 진입",
+            "source": "인더스트리뉴스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zZVhyMFV2aTNsejA2dzBlaERreG9qU3pPa0dJTWhWYW9nVXF2YXM1QXptTmRkWDN3SUlHemI2VXVQUjRTbXFzS1QwQm5kdGNpZFIySVdFS2ZrUC1YeHRkQ201WktSTHJBNk5ydFF4U29Qdw?oc=5",
+            "category": "시장",
+            "summary": "반도체 업황 회복에 힘입어 해외 주요 IB들이 한국의 경제성장률 전망치를 3%대로 상향했습니다.",
+            "content": "한국 경제의 핵심 동력인 반도체 수출이 기록적인 호조를 보이면서 국내외 주요 기관들의 경제 전망이 밝아지고 있습니다. 최근 해외 투자은행(IB)들은 한국의 올해 경제성장률 전망치를 기존 2%대에서 3%대로 잇따라 상향 조정하고 있습니다. 이는 메모리 반도체 가격 상승과 AI 수요 폭증이 맞물린 결과로 풀이됩니다.\n\n특히 반도체 수출 비중이 높은 한국 경제 특성상, 글로벌 IT 경기의 회복은 무역 수지 개선과 내수 진작으로 이어질 가능성이 높습니다. 전문가들은 이번 반도체 사이클이 단순한 일시적 반등을 넘어 장기적인 성장의 발판이 될 것으로 내다보고 있습니다. 수출 실적이 예상을 상회하면서 정부의 하반기 경제 운용에도 탄력이 붙을 전망입니다.\n\n다만, 이러한 성장이 반도체라는 특정 품목에 과도하게 의존하고 있다는 점은 리스크 요인으로 꼽힙니다. 글로벌 공급망의 불확실성과 미·중 갈등에 따른 통상 환경 변화가 변수로 작용할 수 있습니다. 따라서 지속 가능한 성장을 위해서는 반도체 외의 신성장 동력 확보와 수출 다변화 전략이 병행되어야 한다는 지적이 나옵니다.",
+            "image_prompt": "Semiconductor Export, Rising Graph, South Korea Flag, High-tech chips, Blue economy",
+            "published_at": "2026-07-07 11:47:57",
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "엔저 고착화 우려… '1달러=200엔' 최악의 시나리오 제기",
+            "source": "중앙일보",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5eF9jSG10eWhiaTF1UFBaMl85QXlsRzd4V2NGdnFzN3ZvX1lwbkt1NFk1TldtcHBpZ3VUMldTaEttNXA4TFB3c3gxY3Blb0ZsbWdvaEVR?oc=5",
+            "category": "금융",
+            "summary": "역대급 엔저 현상이 지속되면서 달러당 200엔까지 치솟을 수 있다는 우려가 확산되고 있습니다.",
+            "content": "글로벌 외환 시장에서 일본 엔화 가치가 기록적인 수준으로 하락하며 '엔저 고착화'에 대한 공포가 커지고 있습니다. 최근 환율 시장에서는 1달러당 160엔을 넘나드는 상황이 지속되고 있으며, 일부 전문가들 사이에서는 최악의 경우 1달러당 200엔까지 환율이 상승할 수 있다는 시나리오까지 거론되고 있습니다.\n\n이러한 현상은 미국과 일본의 금리 차이가 좁혀지지 않는 구조적인 문제에서 기인합니다. 일본 은행이 금리를 소폭 인상했음에도 불구하고, 여전히 완화적인 통화 정책을 고수하면서 엔화 매도세가 멈추지 않고 있는 것입니다. 이는 일본 내 수입 물가 상승을 유발하여 서민 경제에 타격을 주는 동시에, 주변국인 한국과의 수출 경합에서도 변수로 작용하고 있습니다.\n\n한국 경제 입장에서는 엔저 현상이 장기화될 경우 자동차, 철강 등 일본과 경쟁하는 주요 산업군의 가격 경쟁력 약화가 우려됩니다. 또한 엔화 약세를 틈타 한국을 찾던 관광객이 일본으로 발길을 돌리는 등 서비스 수지에도 부정적인 영향을 미칠 수 있습니다. 글로벌 금융 시장의 불확실성이 커짐에 따라 정부의 기민한 대응책 마련이 필요한 시점입니다.",
+            "image_prompt": "Japanese Yen currency, Falling value, US dollar exchange, Financial anxiety, Tokyo skyline",
+            "published_at": "2026-07-07 11:47:57",
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "외환시장 대변혁… 6일부터 24시간 외환거래 시대 개막",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uc2J1b2dMQV8xbm5Jc09IY1U5RHBFVHBEbTVPVXp2OWhwT1JZdUx2RGQwWlpjc1AyYjc4Y0NlYkw5VlppVlJobW5OMHc1RmN4dFdOaDBqTUV1QdIBX0FVX3lxTE1UN3VZLS1uUkVPSkNQQUVzWGNpbHhSVzJsUWdINzFXRlV1djBGQnEybzdmRFQxVFBZQ01GVEo0bkxBVV96d0kyWUc1SFdOUlNHeWFkM3lhbU9mQ0xneXR3?oc=5",
+            "category": "정책",
+            "summary": "한국 외환시장이 6일부터 새벽 2시까지 운영 시간을 연장하며 글로벌 금융 허브를 향한 도약에 나섭니다.",
+            "content": "오는 6일부터 한국 외환시장의 문턱이 획기적으로 낮아집니다. 기존 오후 3시 30분에 마감되던 외환 거래 시간이 다음날 새벽 2시까지로 대폭 연장되는 것입니다. 이는 한국 경제가 글로벌 금융 시장의 표준에 발맞추고, 외국인 투자자들의 접근성을 높이기 위한 전략적 결정입니다.\n\n이번 조치로 인해 야간 시간대에도 원화 거래가 가능해지면서 환율의 변동성 관리가 더욱 중요해졌습니다. 투자자들은 런던이나 뉴욕 등 해외 주요 시장의 실시간 이슈를 즉각 반영하여 거래할 수 있게 되었으며, 이는 한국 국채의 세계국채지수(WGBI) 편입 등 금융 선진화 과제에도 긍정적인 영향을 줄 것으로 기대됩니다.\n\n하지만 거래 시간 연장에 따른 은행권의 업무 부담 증가와 야간 시간대 유동성 부족으로 인한 급격한 환율 변동 가능성 등 해결해야 할 숙제도 남아있습니다. 정부와 금융당국은 시범 운영 기간 동안 발생할 수 있는 문제점들을 면밀히 모니터링하여, 외환 시장이 안정적으로 24시간 체제로 전환될 수 있도록 지원할 방침입니다.",
+            "image_prompt": "Global Trading, 24 Hours clock, Forex neon sign, Digital world map, Financial liberty",
+            "published_at": "2026-07-07 11:47:57",
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "국민연금 보험료 15% 인상안 제안… 기금 안정화 최적 수치",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqQzVGTUp2Zmh3NDlmd1RWUkZpbkpJdFRyMkF0bExWWHk1ZnVDV24tYVZBLW4xUngwM09VeW5nNGkzbW9NYVJIdkU3eXJJd1dMVV9fcnA0VDFvcWJMZHFJY9IBYEFVX3lxTFBqQzVGTUp2Zmh3NDlmd1RWUkZpbkpJdFRyMkF0bExWWHk1ZnVDV24tYVZBLW4xUngwM09VeW5nNGkzbW9NYVJIdkU3eXJJd1dMVV9fcnA0VDFvcWJMZHFJYw?oc=5",
+            "category": "사회",
+            "summary": "연금 고갈 우려를 해소하기 위해 보험료율을 15%까지 인상하는 방안이 경제 효율성 측면에서 가장 적절하다는 분석이 나왔습니다.",
+            "content": "국가적 과제인 국민연금 개혁과 관련하여, 현재 9%인 보험료율을 15%까지 인상해야 한다는 구체적인 제언이 나왔습니다. 전문가들은 기금의 장기적인 안정성과 미래 세대의 부담 완화를 위해 이 정도 수준의 인상이 경제 효율성 측면에서 최적의 선택지라고 분석하고 있습니다.\n\n현재의 저출산·고령화 속도를 고려할 때, 현행 제도를 유지할 경우 연금 기금은 수십 년 내에 고갈될 위험에 처해 있습니다. 이번 15% 인상안은 기금 고갈 시점을 대폭 늦추는 동시에 국민들이 은퇴 후에도 적절한 생활 수준을 유지할 수 있도록 돕는 실질적인 대안으로 논의되고 있습니다.\n\n그러나 보험료 인상은 기업과 근로자 모두에게 즉각적인 비용 부담을 의미합니다. 특히 중소기업과 저소득층의 반발이 예상되는 만큼, 인상 속도를 조절하거나 국고 지원을 병행하는 등 사회적 합의를 이끌어내기 위한 세밀한 정책 설계가 필수적입니다. 정치권과 시민사회 간의 심도 있는 논의가 이어질 것으로 보입니다.",
+            "image_prompt": "Pension fund, Piggy bank, Golden coins, Secure future, Social welfare",
+            "published_at": "2026-07-07 11:47:57",
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "삼성전자, 메모리 가격 반등에 힘입어 '최대 실적' 경신 기대",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14ajk0QURqZl9Rdzdzd1ZTSk9vRzNVWHp1cy0xSEd3dERGN0MwTm1WbTZSMEpKUmlRQnlnZzRCVHlMZ3ZFQkpsNW9seXltelNLZEl6LVRJanBtWW9wZVE?oc=5",
+            "category": "테크",
+            "summary": "D램과 낸드플래시 등 메모리 반도체 가격의 급격한 상승으로 삼성전자의 분기 실적이 대폭 개선될 전망입니다.",
+            "content": "삼성전자가 메모리 반도체 업황의 완연한 회복세에 힘입어 어닝 서프라이즈 수준의 실적을 기록할 것이라는 전망이 지배적입니다. 인공지능(AI) 서버용 고대역폭메모리(HBM)와 고용량 eSSD 제품에 대한 수요가 폭증하면서, 한동안 침체기에 있었던 메모리 사업부가 화려한 부활을 알리고 있습니다.\n\n가격 흐름도 우호적입니다. D램 가격의 반등세가 이어지고 있고, 공급자 우위의 시장이 형성되면서 수익성이 극대화되고 있습니다. 증권가에서는 삼성전자의 영업이익이 전년 대비 수천 퍼센트 증가할 것으로 보고 있으며, 이는 삼성전자의 주가와 한국 증시 전체에도 긍정적인 신호로 작용하고 있습니다.\n\n삼성전자는 이러한 여세를 몰아 차세대 AI 반도체 시장에서의 주도권을 확보하기 위해 기술 개발에 박차를 가하고 있습니다. SK하이닉스와의 치열한 경쟁 속에서 엔비디아 등 글로벌 큰 손들과의 파트너십을 얼마나 공고히 하느냐가 향후 실적의 지속 가능성을 결정짓는 핵심 열쇠가 될 것입니다.",
+            "image_prompt": "Samsung Electronics logo, High-tech memory, AI processor, Revenue growth, Modern laboratory",
+            "published_at": "2026-07-07 11:47:57",
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "검찰, '유가 담합' 4대 정유사 기소...\"26조 원대 경제 피해\"",
             "source": "YTN",
