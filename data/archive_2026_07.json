@@ -1,6 +1,61 @@
 {
-    "last_updated": "2026-08-11 10:23:34",
+    "last_updated": "2026-08-11 21:56:03",
     "items": [
+        {
+            "title": "IMF, 韓 성장률 석달만에 1.9% → 2.6%로 대폭 상향",
+            "source": "매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nWmVEamg1a01VNzRLVjZ2S1VwQU9LZGEyZFl6ZGNIOWlIdk81bzVGQ08ycjFITjJTVmRjVU9oRk1tOFM3WjVnYVZIRjdFUjB6MTE4Sg?oc=5",
+            "category": "거시경제",
+            "summary": "IMF가 한국의 올해 성장률 전망을 2.6%로 대폭 올리며 수출 회복세를 높게 평가했습니다.",
+            "content": "국제통화기금(IMF)이 한국의 올해 경제성장률 전망치를 기존 1.9%에서 2.6%로 0.7%포인트 상향 조정했습니다. 이는 지난 1분기 한국 경제가 예상을 뛰어넘는 '깜짝 성장'을 기록한 것과 글로벌 반도체 경기 회복에 따른 수출 호조를 반영한 결과로 풀이됩니다.\n\nIMF의 이번 조정은 주요 선진국 중에서도 상당히 높은 수준의 상향 폭이며, 한국 경제의 기초 체력이 견고하다는 점을 대외적으로 인정받은 셈입니다. 특히 인공지능(AI) 열풍으로 인한 반도체 수요 폭발이 한국의 수출 경쟁력을 다시금 끌어올리는 견인차 역할을 하고 있습니다.\n\n다만 IMF는 이러한 긍정적인 전망 속에서도 고물가와 고금리 상황이 지속됨에 따라 민간 소비 회복세는 상대적으로 더딜 수 있다는 점을 경고했습니다. 또한 지정학적 리스크로 인한 에너지 가격 변동성이 한국 경제의 불확실성을 높일 수 있는 요인으로 지목되었습니다.\n\n정부와 전문가들은 이번 성장률 상향이 시장에 긍정적인 심리를 확산시킬 것으로 기대하면서도, 수출 온기가 내수 시장 전반으로 퍼질 수 있도록 정책적 지원을 강화해야 한다고 입을 모으고 있습니다.",
+            "image_prompt": "Economic growth chart, upward arrow, blue digital grid, professional atmosphere",
+            "published_at": "2026-07-12 11:28:05",
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "원·달러 환율 1,600원 육박…'고환율 뉴노멀' 우려 확산",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DQnB4VDNhQ0VXLXdCWnRpbFYwMjg3b1IySHlrMmRpRm12VFVna2F0ZnA3cEtjWEtYZE5aTWNoRGZhQV9aaXNwN2lONWxxSkU?oc=5",
+            "category": "외환금융",
+            "summary": "달러 강세가 이어지며 환율이 1,600원 선에 다다라 수입 물가 비상 등 경제 부담이 커지고 있습니다.",
+            "content": "원·달러 환율이 심리적 저지선인 1,600원에 육박하면서 시장에 '고환율 뉴노멀'에 대한 공포가 확산되고 있습니다. 미국 연준의 금리 인하 시점이 예상보다 늦춰질 것이라는 전망이 힘을 얻으면서 달러화 강세가 독보적인 흐름을 보이고 있기 때문입니다.\n\n환율 상승은 수입 물가를 직접적으로 끌어올려 국내 소비자 물가 안정화에 큰 걸림돌이 되고 있습니다. 특히 에너지와 원자재를 전량 수입에 의존하는 우리나라 기업들에게는 생산 비용 상승이라는 직격탄을 날리고 있으며, 이는 결국 가계의 실질 소득 감소로 이어지는 악순환을 초래합니다.\n\n외환 당국은 시장 쏠림 현상을 주시하며 구두 개입과 실개입 카드를 만지작거리고 있으나, 글로벌 달러 강세라는 거대한 흐름을 거스르기엔 역부족이라는 시각도 존재합니다. 전문가들은 1,600원 선이 무너질 경우 금융 시장 전반의 변동성이 걷잡을 수 없이 커질 수 있다고 경고합니다.\n\n이러한 상황 속에서 투자자들은 안전 자산인 달러로 몰리는 경향을 보이고 있으며, 국내 증시에서 외국인 자금이 유출될 가능성도 제기되고 있어 환율 방어가 하반기 경제 관리의 핵심 과제로 떠올랐습니다.",
+            "image_prompt": "Currency exchange, high-rise dollar sign, red falling trend line, financial stress",
+            "published_at": "2026-07-12 11:28:05",
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "한국은행 금리 인상 초읽기…3년 6개월 만의 결정 주목",
+            "source": "뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QQXFtV3pUWTZDdXpVcE9uNE1nUkxNbG9fNnJBdkRBUUx6LWpDRFR3dUdhR29IX3R3a0FNX1BKRG14OHVNSmY0QzVCV0xjSlhHdXlpUA?oc=5",
+            "category": "금융정책",
+            "summary": "물가 불안과 가계부채 억제를 위해 한국은행이 기준금리 인상을 단행할 가능성이 매우 높아졌습니다.",
+            "content": "한국은행 금융통화위원회가 이번 주 기준금리 결정을 앞두고 있는 가운데, 시장에서는 3년 6개월 만의 금리 인상이 유력하다는 관측이 나오고 있습니다. 끈적한 물가 상승세와 꺾이지 않는 가계부채 증가세가 한은의 발목을 잡고 있는 상황입니다.\n\n이창용 한국은행 총재는 그간 물가 안정이 최우선 과제임을 강조해 왔으며, 최근의 환율 급등과 공공요금 인상 압박은 금리 인상의 명분을 더욱 강화해주고 있습니다. 금리 인상이 단행될 경우 시장 금리가 연쇄적으로 반응하여 대출자들의 이자 부담은 한층 가중될 전망입니다.\n\n특히 소상공인과 영세 자영업자들을 중심으로 금리 인상에 따른 소비 위축과 폐업 리스크가 커질 수 있다는 우려도 제기됩니다. 하지만 한은으로서는 한미 금리 차이가 벌어진 상황에서 환율 안정을 위해서라도 금리 카드를 꺼내 들 수밖에 없는 복합적인 위기에 처해 있습니다.\n\n이번 금리 결정은 향후 하반기 통화 정책의 방향타가 될 것이며, 정부의 재정 정책과 어떤 조화를 이룰지가 시장의 최대 관심사입니다. 인상이 현실화될 경우 자산 시장 전반의 위축은 불가피할 것으로 보입니다.",
+            "image_prompt": "Central bank building, wooden gavel, interest rate percentage, stable composition",
+            "published_at": "2026-07-12 11:28:05",
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "중국발 ‘구조적 공급 과잉’ 쓰나미…글로벌 시장 위협",
+            "source": "글로벌이코노믹",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVUdRTDhOMFBYY190cnprbmNCelMxdUhmWGpLVnV5MFc2R0kwZW9BTHBIdml4OHVzVnpGQU9JNkEwZDFoZEduRDhPTXYtbXU0a0JYRlNrUUdhb3JreDV1Wl83UFRJb2x2ZkNKNFVIb1FocE1IYTItX1dxMEZpWXo5OTlhODFKN1dy?oc=5",
+            "category": "글로벌",
+            "summary": "중국의 저가 물량 공세가 글로벌 공급망을 위협하며 한국 기업들에게도 비상등이 켜졌습니다.",
+            "content": "중국 경제의 구조적인 공급 과잉 문제가 '차이나 쇼크 2.0'으로 번지며 글로벌 가치사슬을 흔들고 있습니다. 전기차, 배터리, 태양광 등 미래 핵심 산업 분야에서 중국 정부의 보조금을 등에 업은 저가 물량이 전 세계로 쏟아져 나오고 있기 때문입니다.\n\n이러한 현상은 국내 주력 산업인 석유화학, 철강, 이차전지 분야의 수익성을 악화시키는 직접적인 원인이 되고 있습니다. 우리 기업들은 기술력 우위를 점하기 위해 고군분투하고 있지만, 압도적인 가격 경쟁력을 앞세운 중국의 공세에 시장 점유율 방어에 비상이 걸린 상태입니다.\n\n미국과 유럽 등 주요국들은 이미 중국산 제품에 대한 관세 장벽을 높이는 등 보호무역주의 강화로 대응하고 있습니다. 한국 역시 이러한 글로벌 통상 환경 변화 속에서 독자적인 생존 전략을 마련해야 한다는 목소리가 높습니다.\n\n전문가들은 단순한 가격 싸움보다는 고부가가치 제품 개발과 공급망 다변화를 통해 중국의 영향권에서 벗어나는 근본적인 체질 개선이 시급하다고 지적하고 있습니다.",
+            "image_prompt": "Industrial factory skyline, shipping containers, global map overlay, massive scale",
+            "published_at": "2026-07-12 11:28:05",
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "정부, 종부세·양도세 대대적 손질…부동산 세제 정상화 박차",
+            "source": "헤럴드경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0VjczVkk4TndEMHpkNGhrTkc4SW9aZjJ5UTA3VGp6WFp4aGhQeTAxU08xQUN2T0Nxc3RPWHpqNzVNamFqWWtvQjJvMnV3TW1vTEpoVGpB?oc=5",
+            "category": "부동산",
+            "summary": "종부세 완화와 양도세 개편을 통해 과도한 세 부담을 줄이고 주택 거래 활성화를 꾀하고 있습니다.",
+            "content": "정부가 종합부동산세(종부세)와 양도소득세(양도세) 등 부동산 관련 세제 전반에 대한 대대적인 개편에 착수했습니다. 과도한 세 부담을 정상화하고 침체된 부동산 시장의 거래를 활성화하겠다는 강력한 의지로 풀이됩니다.\n\n이번 개편안의 핵심은 1주택 실거주자의 부담을 획기적으로 낮추고, 다주택자에게 적용되던 징벌적 과세 체계를 완화하는 데 있습니다. 특히 종부세의 경우 폐지론까지 거론될 정도로 파격적인 완화책이 검토되고 있어 시장의 기대감이 어느 때보다 높은 상황입니다.\n\n정부는 이를 통해 고가 주택이나 비거주 주택에 쏠려 있던 과세 형평성을 맞추고, 자산가들의 세금 부담을 덜어주어 시장에 매물이 돌게 하겠다는 구상입니다. 부동산 시장은 이번 정책 발표를 계기로 관망세에서 벗어나 거래가 다시 살아날 수 있을지 주목하고 있습니다.\n\n하지만 일각에서는 세수 결손 문제와 함께 '부자 감세' 논란이 다시 불거질 수 있다는 우려도 제기하고 있어, 향후 국회 논의 과정에서 상당한 진통이 예상됩니다.",
+            "image_prompt": "Modern luxury apartment, official government seal, tax documents, architectural design",
+            "published_at": "2026-07-12 11:28:05",
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "IMF·ADB, 한국 올해 경제성장률 2.6%로 상향… 수출 회복세 반영",
             "source": "매일경제",
