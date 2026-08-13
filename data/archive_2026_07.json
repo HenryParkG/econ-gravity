@@ -1,6 +1,61 @@
 {
-    "last_updated": "2026-08-13 10:42:37",
+    "last_updated": "2026-08-13 22:01:53",
     "items": [
+        {
+            "title": "국제유가 폭등·반도체주 급락...코스피 하락세 이어질까",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56SHpOTk5qVk9Kdy16U3YycDRVdXRWdDRYMm5MLXVIYk9xQjdwaDZOVG1wb3h2ZkVCajQydklIcjJhVy1hc3V6US0xUl9VUVVpY0NRZFR6cG5ONjg5RkE?oc=5",
+            "category": "금융",
+            "summary": "글로벌 대외 악재로 인한 코스피 지수의 하향 압력 증대",
+            "content": "최근 국제 유가가 급격히 상승하고 미 증시의 반도체 지수가 급락하면서 국내 증시에도 경고등이 켜졌습니다. 에너지 가격 상승은 인플레이션 압박을 높여 금리 인하 기대감을 꺾는 요인으로 작용하고 있으며, 이는 기술주 위주의 코스피 시장에 즉각적인 타격을 주고 있습니다.\n\n특히 국내 증시의 기둥인 반도체 관련 종목들이 외국인 매도세에 밀려 약세를 보이면서 지수 전체를 끌어내리는 형국입니다. 투자자들 사이에서는 이번 하락세가 단기 조정에 그칠지, 아니면 장기적인 하락 추세의 시작일지를 두고 불안감이 확산되고 있습니다.\n\n증시 전문가들은 당분간 변동성이 큰 장세가 지속될 것으로 보고 있으며, 미국의 통화 정책 방향과 중동의 지정학적 리스크 등 대외 변수를 면밀히 주시해야 한다고 조언합니다. 개인 투자자들의 신중한 접근이 요구되는 시점입니다.",
+            "image_prompt": "Stock market index falling, dark blue background, red arrow down, oil refinery silhouette, cinematic lighting",
+            "published_at": "2026-07-14 11:10:23",
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "국민연금, 외국인 비싸게 팔고 나갈 기회만 줬다[경제 인사이트]",
+            "source": "아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkVjVMRE5aMkxwYktFQ3g4bU42YTUtTS1PLWdWZ0JnTzNjR3d6WVVLWEoxdWRaaFNxOENsUUVpeXVuUTFPT1VycXU1WXllNEQ3eUYxQWN3anVObE41bUFhZUpB?oc=5",
+            "category": "시장",
+            "summary": "국민연금의 매수 타이밍과 외국인 이탈에 대한 비판적 분석",
+            "content": "국민연금의 최근 행보를 두고 시장의 비판이 거세지고 있습니다. 외국인 투자자들이 국내 주식을 고점에서 매도하고 이탈하는 과정에서 국민연금이 이를 받아내는 형태의 매매를 진행함으로써 결과적으로 외국인들에게 유리한 '탈출구'를 마련해 주었다는 지적입니다.\n\n이는 국내 증시의 수급 불균형을 심화시키고, 국민의 소중한 노후 자금을 운용하는 기관으로서 수익성 제고보다는 시장 방어에만 치중했다는 논란을 낳고 있습니다. 특히 대형주 위주의 기계적 매수가 시장의 왜곡을 초래했다는 분석도 나옵니다.\n\n금융권 전문가들은 국민연금이 보다 유연하고 전략적인 자산 배분 전략을 구사해야 한다고 강조합니다. 단순히 하락장에서 물량을 받아내는 역할이 아니라, 장기적인 가치 제고를 위한 정교한 운용 기법이 절실한 때입니다.",
+            "image_prompt": "National pension fund building, stock trading screen, handshake between different entities, professional financial atmosphere",
+            "published_at": "2026-07-14 11:10:23",
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "코트라, 사회적경제 기업 글로벌 진출 돕는다",
+            "source": "서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16THJaV00wMWpYOV9WaE1FS0lud0xFTUU0blJwdmttSGhSTmw0QVlEZ0hWbkZmQ29yaFVtWHhVTXlkbnRhN3NWMHJQaTJJS25fYUE?oc=5",
+            "category": "정책",
+            "summary": "사회적 가치 창출 기업의 해외 시장 경쟁력 강화 지원",
+            "content": "대한무역투자진흥공사(KOTRA)가 국내 사회적경제 기업들의 해외 시장 진출을 돕기 위해 본격적인 지원 사격에 나섰습니다. 이는 단순한 자금 지원을 넘어, 글로벌 현지 네트워크를 활용한 판로 개척과 수출 역량 교육을 포함하는 종합 패키지 형태입니다.\n\n사회적경제 기업들이 가진 혁신적인 아이디어와 사회적 가치가 글로벌 시장에서도 충분히 경쟁력이 있다는 판단 아래, 맞춤형 컨설팅과 마케팅 지원을 강화할 예정입니다. 특히 ESG 경영이 중시되는 글로벌 트렌드에 맞춰 이들 기업의 강점을 극대화하는 데 초점을 맞추고 있습니다.\n\n이번 지원 사업을 통해 내수 시장의 한계를 극복하고 세계 시장으로 뻗어나가는 사회적경제 기업들이 늘어날 것으로 기대됩니다. 이는 지역 경제 활성화와 양질의 일자리 창출이라는 선순환 구조를 만드는 데 기여할 전망입니다.",
+            "image_prompt": "Global trade network, cargo ship, social value icons, green and blue earth, futuristic business",
+            "published_at": "2026-07-14 11:10:23",
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "아파트 밀려 빌라 갔더니…\"이 가격이 맞나요?\" 세입자 한숨",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83SXdDQ3pNN1VjdHpqbm9aSk5rYk5aNWJHTWlvSmpVbl9vcjN4NWwwU3lUbGdVWV9PM2dlNVBNT1ZxVVk2V0h4dE02d3JqS0ZtcEV4dlNFTWFWQQ?oc=5",
+            "category": "부동산",
+            "summary": "아파트값 상승에 따른 빌라 전세·매매 가격 동반 상승 부작용",
+            "content": "고공 행진하는 아파트 가격을 감당하지 못한 서민들이 차선책으로 빌라(연립·다세대주택)로 눈을 돌리고 있지만, 빌라 가격마저 급등하면서 주거 불안이 심화되고 있습니다. 전세 사기 여파가 가시기도 전에 수요가 몰리며 임대료와 매매가가 동시에 오르는 양상입니다.\n\n세입자들은 아파트에 비해 상대적으로 저렴해야 할 빌라 가격이 예상치를 훨씬 웃돌자 좌절감을 토로하고 있습니다. 특히 교통이 편리한 역세권이나 신축 빌라를 중심으로 상승폭이 가팔라 서민들의 선택지가 갈수록 좁아지고 있습니다.\n\n부동산 전문가들은 주거 사다리가 끊어질 위험을 경고하며, 서민 주거 안정을 위한 보다 현실적이고 두터운 주택 공급 대책과 금융 지원이 시급하다고 지적합니다. 전세 시장의 불확실성을 해소할 제도적 보완도 함께 논의되어야 합니다.",
+            "image_prompt": "Stacked residential villas, modern city street, worried person looking at house keys, high contrast, realistic",
+            "published_at": "2026-07-14 11:10:23",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "'코스피 20% 폭락' 정확히 맞힌 보고서, 이번엔 \"지금 사라…1만1450피 열린다\"",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aYmtqNFJMa284cEVrSGp6LWxfVFVWY0J2b2NBMERpTHljSEFhSmV4cnV0SkZCSnduS0pMVGZjNVA2TWRzUnc?oc=5",
+            "category": "금융",
+            "summary": "과거 하락장을 적중시킨 분석가의 초낙관적 증시 전망",
+            "content": "과거 코스피의 대폭락을 정확하게 예측해 화제가 되었던 분석가가 이번에는 증시의 대폭등을 예고해 투자자들의 이목이 쏠리고 있습니다. 보고서는 현재의 조정 국면을 '마지막 매수 기회'로 규정하며 장기적으로 코스피 지수가 1만 선을 돌파할 것이라는 파격적인 수치를 제시했습니다.\n\n해당 분석은 한국 기업들의 실적 개선과 글로벌 유동성 흐름의 변화를 근거로 들고 있습니다. 비록 현재는 고금리와 인플레이션으로 고통받고 있지만, 기술 혁신과 산업 구조 재편이 완료되는 시점에 폭발적인 성장이 가능하다는 논리입니다.\n\n하지만 시장의 반응은 엇갈립니다. 지나친 낙관론은 경계해야 한다는 목소리가 높으며, 지수 1만 시대라는 목표치가 현재의 경제 펀더멘털과 괴리가 크다는 반론도 만만치 않습니다. 투자자들에게는 극단적인 전망 사이에서 균형 잡힌 시각을 유지하는 것이 중요해 보입니다.",
+            "image_prompt": "Bull market chart, golden arrow pointing upwards, 10000 points goal, luxury financial office, bright warm light",
+            "published_at": "2026-07-14 11:10:23",
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "코스피 20% 폭락 적중과 서킷브레이커 발동… 증시 공포 확산",
             "source": "v.daum.net / 주간조선",
