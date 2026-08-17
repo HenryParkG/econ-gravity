@@ -1,6 +1,28 @@
 {
-    "last_updated": "2026-08-17 10:03:55",
+    "last_updated": "2026-08-17 21:36:51",
     "items": [
+        {
+            "title": "[경제]연내 3%대 기준금리 전망...주담대 최고 금리 8% 눈앞에",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nb1hndlU2SmVwNmpmQ3FzUWtMNlUwTDB1YUNMcGItVlpxbjdidEh6MHB2aGJPUXQwNE9EWThjLXNLMjdUMWI0eXdHQzB1WDNFM09SX3ZmcDlDM0FXUU5jNGdfOHIzUWVnSzczUmttMA?oc=5",
+            "category": "금융",
+            "summary": "한국은행의 긴축 기조 유지로 주담대 금리가 8% 선을 위협하며 가계 부담이 가중되고 있습니다.",
+            "content": "최근 금융시장에서는 한국은행이 연내 기준금리를 현재 수준인 3%대 중반에서 추가적으로 인상하거나 고금리 상태를 장기간 유지할 것이라는 전망이 지배적입니다. 이러한 긴축 기조는 시중은행의 대출 금리에 즉각 반영되고 있으며, 특히 서민 경제와 직결된 주택담보대출 금리의 상단이 8%에 육박하면서 차주들의 이자 부담이 임계점에 달하고 있다는 분석이 나옵니다.\n\n물가 상승 압력이 여전한 상황에서 한은은 통화 정책의 고삐를 죄고 있으며, 이는 부동산 시장의 거래 절벽과 가계 부채 부실화라는 부작용을 낳을 수 있다는 우려를 사고 있습니다. 금융당국은 모니터링을 강화하고 있으나, 글로벌 금리 환경과 맞물려 금리 하락 전환 시점을 예측하기 어려운 상황입니다.\n\n전문가들은 이러한 '고금리 장기화' 시나리오에 대비해 자산 포트폴리오를 재점검하고 부채 관리에 만전을 기해야 한다고 조언합니다. 특히 소득 대비 원리금 상환 부담이 큰 영끌족이나 소상공인들의 경우, 금리 변동 리스크에 직접적으로 노출되어 있어 정부 차원의 정교한 금융 지원책 마련이 시급한 시점입니다.",
+            "image_prompt": "High interest rate, mortgage stress, golden coins, rising red arrow, finance",
+            "published_at": "2026-07-18 11:08:32",
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "심상찮은 식탁 물가…카레·케첩 죄다 오른다 [많이 본 경제기사]",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52aFFQTXZZUGpqY3JoTUhGTlRzdUkyWmhtYjdCRUtfeF9nVGxMU1RHcTVrU01PLVdVVHN5X2xnWmxBUHJLSDc5Z01yZGR1dVE?oc=5",
+            "category": "시장",
+            "summary": "가공식품 전반의 가격 인상이 이어지면서 서민들의 체감 물가 부담이 더욱 가중되고 있습니다.",
+            "content": "최근 대형 식품업체들이 카레, 케첩 등 국민 생활과 밀접한 가공식품 가격을 줄줄이 인상하면서 '식탁 물가'에 비상이 걸렸습니다. 원재료 가격 상승과 물류비, 인건비 부담이 한계치에 달했다는 것이 업체들의 설명이지만, 외식 물가에 이어 가공식품 물가까지 치솟으면서 소비자들의 지갑은 더욱 굳게 닫히고 있습니다.\n\n이번 인상은 단순히 몇몇 품목에 그치지 않고 도미노 인상으로 번질 기미를 보이고 있습니다. 이미 설탕, 식용유 등 기초 식자재 가격이 높은 수준을 유지하고 있는 가운데, 소스류와 가공식품 가격까지 더해지면서 일반 가정은 물론 자영업자들의 원가 부담도 심화되고 있습니다. 이는 결국 최종 제품 가격 인상으로 이어져 인플레이션을 자극하는 악순환을 초래할 수 있습니다.\n\n정부는 장바구니 물가 안정을 위해 유통 구조 개선과 업체들의 가격 인상 자제를 요청하고 있으나, 글로벌 원자재 시장의 불확실성이 큰 탓에 실효성 있는 대책 마련에 고심하고 있습니다. 당분간 식료품 가격 강세가 이어질 것으로 보여 서민들의 생활고는 당분간 지속될 전망입니다.",
+            "image_prompt": "Grocery store, price tag inflation, food basket, household budget, supermarket",
+            "published_at": "2026-07-18 11:08:32",
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "성장률 3%, 수출 1조달러…'지도에 없는 길' 가는 韓 경제",
             "source": "머니투데이",
