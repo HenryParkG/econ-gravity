@@ -1,6 +1,116 @@
 {
-    "last_updated": "2026-08-26 21:46:01",
+    "last_updated": "2026-08-27 16:08:35",
     "items": [
+        {
+            "title": "獨 1위 기업 시총이 삼성전자 4분의 1... 세계 3위 경제대국의 추락",
+            "source": "조선일보",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZazFEbTF2UXFNT1UyWFV6V1RsRV9BZHhHVFhaeklHemhGejRwY001VWJzYTJtaVFzNS1ENnFPdFhFWUlxNU5CWWg2c0RHaS1fYkpQaUpmX0NSNi1SanhjOHRNeEE1LWdqMVFtd2FMVTZNM1QxLW5zbg?oc=5",
+            "category": "글로벌",
+            "summary": "유럽 경제의 엔진이었던 독일이 시가총액과 경제 성장률 면에서 급격한 쇠퇴를 겪고 있습니다.",
+            "content": "유럽 최대 경제국이자 세계 3위 경제 대국인 독일의 위상이 흔들리고 있습니다. 독일 증시 시가총액 1위 기업인 SAP의 규모가 한국의 삼성전자와 비교했을 때 4분의 1 수준에 불과하다는 분석이 나오면서, 독일 경제의 '제조업 경쟁력'이 한계에 부딪혔다는 지적이 잇따르고 있습니다.\n\n과거 독일은 정밀 기계와 자동차 산업을 바탕으로 견고한 성장을 이어왔으나, 최근 에너지 비용 상승과 디지털 전환 실패가 맞물리며 '유럽의 병자'로 전락할 위기에 처했습니다. 특히 신산업인 IT와 AI 분야에서 미국과 아시아 기업들에 밀리며 글로벌 자본 시장에서의 영향력이 급격히 축소되었습니다.\n\n이러한 독일의 사례는 제조업 비중이 높은 한국 경제에도 시사하는 바가 큽니다. 전통적인 굴뚝 산업에만 의존해서는 급변하는 글로벌 시장에서 살아남기 어렵다는 것을 단적으로 보여주며, 혁신적인 기술 생태계 조성과 에너지 구조 개편의 중요성을 다시금 일깨우고 있습니다.",
+            "image_prompt": "German economy decline, stock market graph, industry silhouette, dramatic lighting, global competition",
+            "published_at": "2026-07-27 21:18:56",
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "美 '강제노동 관세' 부과…中 \"전형적 보호주의\" 강력 반발",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tME1SbDV3dDM0b2ZhYjg5Uy16WjNQRVhialpBNHFDVjNkWGRSN05TUVZmeVFaelhPQ0EtMjBQQk1oVzZOY1MxRDE4ckpfSS11eVE2QmhNb3g4dw?oc=5",
+            "category": "무역",
+            "summary": "미국이 중국산 제품에 강제노동 관련 관세를 부과하며 무역 전쟁의 수위를 높이고 있습니다.",
+            "content": "미국 정부가 중국의 특정 지역에서 강제노동으로 생산되었다고 의심되는 제품들에 대해 강력한 관세 부과와 수입 금지 조치를 시행했습니다. 이는 인권 문제를 경제 제재와 결부시켜 중국을 압박하려는 미국의 전략적 움직임으로 해석됩니다.\n\n이에 대해 중국 상무부는 즉각 성명을 내고 '전형적인 보호주의적 행태'라며 강력히 반발했습니다. 중국 측은 미국의 조치가 글로벌 공급망의 안정을 해치고 기업들의 정당한 권익을 침해하고 있다며 필요한 모든 조치를 통해 자국 기업의 이익을 보호하겠다고 맞불을 놓았습니다.\n\n양국 간의 갈등이 기술 패권 다툼을 넘어 공급망 전반으로 확산되면서, 중간재 수출 비중이 높은 한국 기업들의 고민도 깊어지고 있습니다. 미국과 중국 사이에서의 '공급망 리스크 관리'가 기업 생존의 핵심 변수로 떠오르고 있는 시점입니다.",
+            "image_prompt": "US-China trade war, cargo ships, customs stamp, international friction, dark blue and red tones",
+            "published_at": "2026-07-27 21:18:56",
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "주형철 경기도 경제부지사 취임...“AI·반도체 경쟁력 강화·민생경제 살필 것”",
+            "source": "경기일보",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BM0s5bmEyM2ZzenV2VUxDU2QyMV9GekczY3lqV2xKYjIyUVYtOWpZZUJWNFNEUkxKM01GWUZ3REp2NGNNMTVuZDlqMm9sOFhITXNYV2djWFBWaEE?oc=5",
+            "category": "정책",
+            "summary": "주형철 신임 경기도 경제부지사가 취임하며 미래 산업 강화와 민생 안정을 약속했습니다.",
+            "content": "주형철 전 청와대 경제보좌관이 경기도의 경제를 총괄하는 경제부지사로 본격 취임했습니다. 주 부지사는 취임 일성으로 대한민국 경제의 심장부인 경기도가 AI 산업 혁명에 선제적으로 대응하고 반도체 클러스터의 경쟁력을 세계 최고 수준으로 끌어올리겠다는 포부를 밝혔습니다.\n\n그는 38년간의 현장 경험과 행정 네트워크를 바탕으로 현장의 목소리를 도정에 반영하겠다고 강조했습니다. 특히 고물가와 고금리로 어려움을 겪고 있는 소상공인과 중소기업을 위한 '민생 경제 회복'을 최우선 과제로 꼽으며, 실질적인 지원 대책 마련에 속도를 내겠다고 말했습니다.\n\n경기도의 이번 경제 수장 교체는 경기도를 글로벌 첨단 산업의 거점으로 육성하려는 김동연 지사의 강력한 의지가 반영된 것으로 보입니다. 향후 AI와 반도체 등 미래 산업 분야에서 경기도의 행보가 국내 경제 전체에 어떤 파급력을 미칠지 주목됩니다.",
+            "image_prompt": "Artificial Intelligence, Semiconductor chip, leadership, innovation center, modern office city",
+            "published_at": "2026-07-27 21:18:56",
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[경제읽기] 샌프란서 ’AI 협력’…부동산 국민 대토론회",
+            "source": "연합뉴스TV",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hZzBpSldPaXdiQWZ4Mkx5N2NPcnJrVW5MdF9QdS1rMkFtVFd2SWxxZU5ibW5wYjZCSFVhUnF1eUpIdHU3aGZGQU9XVFViMUtKNGtWRnV5V1VCMUxPMXVLQW9GdWxxYUU?oc=5",
+            "category": "시장",
+            "summary": "글로벌 AI 협업 강화 움직임과 함께 국내에서는 부동산 문제 해결을 위한 토론의 장이 열렸습니다.",
+            "content": "미국 샌프란시스코에서 글로벌 IT 기업들 간의 AI 기술 협력이 구체화되면서, 기술 패권 경쟁 속에서도 '공존'을 모색하려는 움직임이 포착되고 있습니다. 이는 AI가 단순한 기술을 넘어 국가 경쟁력의 핵심 지표가 되었음을 의미하며, 우리 기업들에게도 새로운 파트너십 구축의 기회를 제공하고 있습니다.\n\n한편, 국내에서는 주거 안정을 위한 부동산 국민 대토론회가 개최되어 각계각층의 의견이 쏟아졌습니다. 다주택자에 대한 세제 혜택 조정과 실수요자를 위한 공급 확대 방안 등이 논의되었으며, 최근 불안정한 흐름을 보이고 있는 부동산 시장을 안정시키기 위한 정부의 고심이 깊어지고 있습니다.\n\n기술의 진보와 주거의 안정이라는 두 가지 거대 담론은 현재 한국 경제가 직면한 가장 큰 숙제입니다. 혁신을 통한 성장 동력 확보와 민생 안정 사이의 균형을 잡는 것이 향후 경제 정책의 성패를 가를 핵심 요소가 될 전망입니다.",
+            "image_prompt": "Future technology, AI neural network, real estate blueprint, public meeting, professional lighting",
+            "published_at": "2026-07-27 21:18:56",
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "인천시, 강화 북단엔 '평화특구', 남단엔 '경제자유구역'...‘투트랙’ 추진",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSGQtNy02aEx4VEwtUnhBTGdzaHdOWG00Vnh6Q1Y2UVN5Z1NMelVCYm90NnJzWkhBZnBadC1XUzdvSzFSSnFvc1JERVA4ZDA?oc=5",
+            "category": "지역",
+            "summary": "인천시가 강화도 지역을 평화와 경제가 공존하는 거점으로 육성하는 투트랙 전략을 발표했습니다.",
+            "content": "인천광역시가 강화도 일대의 지형을 바꿀 거대한 개발 청사진을 제시했습니다. 강화 북단 지역은 남북 협력의 상징인 '평화경제특구'로 지정하여 평화 지대 구축의 교두보로 삼고, 남단 지역은 '경제자유구역'으로 편입시켜 해외 자본과 첨단 산업을 유치하는 '투트랙' 전략입니다.\n\n인천시는 이를 통해 강화 지역의 규제를 혁파하고 인프라를 대폭 확충하여 수도권 서북권의 새로운 경제 성장축으로 육성하겠다는 계획입니다. 특히 강화 남단이 경제자유구역으로 지정될 경우, 바이오나 첨단 제조업 분야의 기업 입주가 가속화될 것으로 기대하고 있습니다.\n\n하지만 평화경제특구의 경우 남북 관계의 영향을 크게 받을 수밖에 없어 실효성 있는 추진을 위해서는 정부 차원의 강력한 지원과 국제적인 정세 안정이 뒷받침되어야 한다는 목소리도 나옵니다. 지역 주민들의 기대감과 우려가 교차하는 가운데 인천시의 실행력이 시험대에 올랐습니다.",
+            "image_prompt": "City development plan, map of Incheon, economic zone, peace symbol, crane and construction",
+            "published_at": "2026-07-27 21:18:56",
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "추미애·박찬대 등 '평화경제특구' 지정 및 남북협력사업 제안 봇물",
+            "source": "연합뉴스 외",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fam9wMldPWGlXVkI4U1dUazFGaFJYRFp0aFkxV1BaMW5PaGtGVkg2emJycTNGQ3NjQ1BxWVpaNUJUd3NIa3ZzMzllMVdCY1h0aV9RblFyUnV4SHPSAWBBVV95cUxOYU5HR29VT2xBd09WdktNZFFGcWN3OUs1cW9oVWZvYk1pMG1DN09mUE4xVXlTb0RwU2NkbjdGWlgxTUswUmxmNmpCY244akl1S0VGNjRMaGpNQXY5NktYQ1M?oc=5",
+            "category": "정책",
+            "summary": "접경 지역을 평화경제특구로 지정하여 남북 경제 협력의 거점으로 삼으려는 정치권의 움직임이 가속화되고 있습니다.",
+            "content": "최근 추미애 의원과 박찬대 인천시장 등 정치권 주요 인사들이 접경 지역의 '평화경제특구' 지정을 정부에 강력히 요청하고 나섰습니다. 추미애 의원은 접경 지역을 단순한 대립의 공간이 아닌 '평화지대'로 전환해야 한다고 강조하며, 이를 남북협력사업으로 공식 지정할 것을 제안했습니다. 이는 미군 공여지 활용 등 유휴 부지를 경제적 가치 창출의 공간으로 탈바꿈시키려는 의도가 담겨 있습니다.\n\n박찬대 인천시장 역시 강화군과 옹진군을 평화경제특구로 지정해줄 것을 정부에 요청하며 지역 경제 활성화와 남북 평화 무드 조성을 동시에 꾀하고 있습니다. 정동영 의원 또한 남북협력기금을 평화경제특구의 인프라 지원에 활용해야 한다는 의견을 제시하며 정책적 뒷받침을 강조했습니다. 이러한 논의는 침체된 접경 지역에 새로운 활력을 불어넣을 것으로 기대됩니다.\n\n하지만 평화경제특구의 성공을 위해서는 남북 관계의 경색 국면 해소가 선행되어야 한다는 지적도 나옵니다. 인프라 구축에 막대한 예산이 투입되는 만큼, 실질적인 기업 유치와 지속 가능한 경제 모델을 구축하는 것이 과제입니다. 정부가 이러한 제안들을 어떻게 정책에 반영할지 귀추가 주목됩니다.\n\n결과적으로 이번 평화경제특구 논의는 단순한 지역 개발을 넘어, 한반도의 긴장 완화와 경제적 실익을 동시에 달성하려는 다각도의 전략으로 풀이됩니다. 지자체와 국회, 중앙정부 간의 긴밀한 협력이 향후 사업의 성패를 가를 핵심 요소가 될 전망입니다.",
+            "image_prompt": "Peace economy zone, inter-Korean cooperation, modern industrial park, dove and gear symbol, professional blue and green tones",
+            "published_at": "2026-07-27 15:26:40",
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "연체율 상승과 '빚투' 지속... 우리 경제 금융 지표 '경고등'",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NSUY5UTVZdURtVHZZcm1vcHZYUHI5UFpMOGNZd0RvYXoyTzNLaXhaTmZjQU05U3RuYzFkanVVUFhQeUhGaElvM0RpYWt1cjFHeFpCLTdXMi1nNEZpN2c?oc=5",
+            "category": "금융",
+            "summary": "가계와 기업의 연체율이 동시에 상승하고 빚을 내어 투자하는 현상이 지속되면서 경제 전반의 불확실성이 커지고 있습니다.",
+            "content": "최근 발표된 경제 지표에 따르면 금융권의 연체율이 심상치 않은 상승세를 보이고 있습니다. 고금리 상황이 장기화되면서 이자 부담을 견디지 못한 자영업자와 서민들의 연체가 늘어나고 있으며, 이는 금융 시스템 전반의 건전성을 위협하는 요소로 작용하고 있습니다. 특히 저축은행 등 제2금융권의 연체율 관리에 비상등이 켜진 상황입니다.\n\n더욱 우려되는 지점은 이러한 상황 속에서도 주식과 부동산을 향한 '빚투(빚내서 투자)' 열풍이 가라앉지 않고 있다는 점입니다. 수익률을 쫓는 투자자들이 레버리지를 극대화하면서, 시장 변동성이 커질 경우 가계 부채 폭탄이 터질 수 있다는 경고가 잇따르고 있습니다. 자산 가격 하락 시 강제 청산 등으로 인한 악순환이 발생할 위험이 큽니다.\n\n전문가들은 현재의 경제 수치가 외환위기나 금융위기 직전의 상황과 비교될 만큼 위험한 수준이라고 진단합니다. 소득 증가율보다 부채 증가율이 가파른 현 구조를 개선하지 않으면 장기적인 소비 위축과 경기 침체는 피할 수 없습니다. 정부의 신용평가체계 개편과 소상공인 지원책이 실질적인 효과를 거둬야 하는 이유입니다.\n\n결국 민생 경제의 활력을 되찾기 위해서는 부채의 질적 개선과 함께 금리 인하 시점에 대한 신중한 고려가 필요합니다. 금융 당국은 연체율 모니터링을 강화하고, 과도한 빚투를 억제할 수 있는 선제적인 가이드라인을 제시해야 할 시점입니다.",
+            "image_prompt": "Financial risk chart, rising red line, debt burden icon, dark professional background, high contrast",
+            "published_at": "2026-07-27 15:26:40",
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"하반기 부동산 시장 답 없다\"... 전문가들의 싸늘한 전망",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NYXVGOU5LZGtndXZJbG1oYUtUUTRMUnp5S24yR1NPT1RJZW5oazNsczc2c1oyNUFncnVIdVJVVld3NVR2VDk4bktiejZVN1FPUFdQUmdPY3lodXNnQ0E?oc=5",
+            "category": "부동산",
+            "summary": "부동산 전문가들이 올해 하반기 시장에 대해 부정적인 전망을 내놓으며, 거래 절벽과 가격 조정이 이어질 것으로 예측했습니다.",
+            "content": "올해 하반기 부동산 시장을 바라보는 전문가들의 시선이 매우 차갑습니다. 금리 인하에 대한 기대감은 여전하지만, 실질적인 금리 수준이 여전히 높고 대출 규제가 강화되면서 매수 심리가 크게 위축되었기 때문입니다. 전문가들은 \"현재로서는 시장을 반등시킬 뚜렷한 동력이 보이지 않는다\"며 비관적인 전망을 쏟아내고 있습니다.\n\n특히 수도권과 지방 간의 양극화 현상이 더욱 심화될 것으로 보입니다. 서울 일부 지역의 신축 아파트는 가격 방어가 이루어지고 있지만, 공급 과잉과 수요 부족이 겹친 지방은 가격 하락 압박을 강하게 받고 있습니다. 이러한 불균형은 자산 격차를 벌리고 주거 안정을 저해하는 요인이 됩니다.\n\n정부 역시 부동산 문제 해결을 위해 '국민 대토론회'를 개최하는 등 여론 수렴에 나서고 있지만, 정책적 해법 마련이 쉽지 않은 상황입니다. 공급 대책이 실제 입주까지 이어지는 데 시차가 발생하고, 재개발·재건축 규제 완화 효과도 공사비 상승으로 인해 반감되고 있기 때문입니다.\n\n따라서 실수요자들은 무리한 대출을 통한 추격 매수보다는 시장의 흐름을 관망하며 신중하게 접근해야 합니다. 하반기 금리 변동 추이와 정부의 추가 공급 대책을 면밀히 살펴본 뒤 의사결정을 내리는 지혜가 필요한 시기입니다.",
+            "image_prompt": "Real estate market fall, apartment buildings, grey sky, economic uncertainty, realistic style",
+            "published_at": "2026-07-27 15:26:40",
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "현대차 '플레오스' 확장… 자동차 '구독 경제' 시대 본격 개화",
+            "source": "전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3UmYtMUJJanhNU0dTMWFzYzZfd2dTMDNybHYxOGp1MXhqakZYLTY5R01YLVg5X0dGUExpSU9za0Z6YnhQQW8xT2djQnEyUQ?oc=5",
+            "category": "테크",
+            "summary": "현대자동차가 구독 서비스 '플레오스'를 확장하며 소유에서 이용으로 변화하는 모빌리티 패러다임을 주도하고 있습니다.",
+            "content": "현대자동차가 자동차 구독 서비스인 '플레오스(PLEOS)'의 범위를 대폭 확장하며 구독 경제 시장 선점에 나섰습니다. 이제 소비자들은 큰 비용을 들여 차를 구매하지 않고도 월 구독료만 내면 다양한 차종을 경험할 수 있게 되었습니다. 이는 소유보다 경험을 중시하는 MZ세대의 라이프스타일 변화를 정조준한 전략입니다.\n\n구독 서비스의 장점은 명확합니다. 보험료, 세금, 정비 비용 등이 구독료에 포함되어 있어 차량 관리에 대한 번거로움이 없습니다. 또한, 상황에 따라 필요한 차종을 바꿔 탈 수 있는 유연성을 제공합니다. 현대차는 이를 통해 단순 제조업체를 넘어 '모빌리티 솔루션 기업'으로의 체질 개선을 가속화하고 있습니다.\n\n테크 분야의 혁신은 여기서 그치지 않습니다. AI를 활용한 '스마트 적정포장' 기술 등이 도입되며 유통과 포장 산업에서도 순환경제 해법이 제시되고 있습니다. 기술의 발전이 기업의 운영 비용을 절감하는 동시에 환경적 책임까지 다할 수 있게 돕고 있는 것입니다.\n\n자동차 구독 서비스의 안착은 향후 자율주행 기술과 결합하여 더욱 큰 시너지를 낼 것으로 보입니다. 차를 타는 행위 자체가 하나의 '콘텐츠 서비스'가 되는 시대가 머지않았습니다. 글로벌 완성차 업체들 간의 구독 경제 플랫폼 경쟁은 앞으로 더욱 치열해질 전망입니다.",
+            "image_prompt": "Modern electric car, subscription app UI, digital lifestyle, futuristic city, neon glow",
+            "published_at": "2026-07-27 15:26:40",
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "여의도가 꼽은 '실적 개선 종목'에 쏠리는 눈... 하반기 투자 전략은?",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RM29pcmZiQ3lVOWpQdVVXbGpyb3JiSkZJZkNPUFF5MU1Rc0hLZ1h2am84ZmQ5VnpoUzlKaG1ERzBtSHRlQ1p1VEI3ZkRoUUkwOEZ0ek10OE9zdw?oc=5",
+            "category": "시장",
+            "summary": "불확실한 시장 환경 속에서 결국 믿을 건 '실적'뿐이라는 분석과 함께, 증권가가 엄선한 유망 종목들이 주목받고 있습니다.",
+            "content": "최근 주식 시장의 변동성이 커지면서 여의도 증권가에서는 기업의 '실적'에 기반한 옥석 가리기가 한창입니다. 매크로 환경의 불확실성이 제거되지 않은 상황에서, 실질적인 매출과 영업이익 성장이 뒷받침되는 종목만이 살아남을 수 있다는 '펀더멘털 중시' 기조가 강화되고 있습니다.\n\n전문가들은 특히 2분기 어닝 서프라이즈를 기록했거나 하반기 이익 추정치가 상향 조정되고 있는 종목들에 주목하라고 조언합니다. 반도체, 자동차 등 주력 수출 산업 내에서도 기술 경쟁력을 확보한 기업들이 리스트의 상단을 차지하고 있습니다. 실적이 좋아지는 종목은 시장 급락기에도 상대적으로 높은 복원력을 보여주기 때문입니다.\n\n하지만 무작정 실적 수치만 보고 뛰어드는 것은 위험합니다. 해당 기업의 실적 개선이 일시적인 것인지, 아니면 산업 구조 변화에 따른 지속 가능한 성과인지를 면밀히 분석해야 합니다. 또한 중국 경제의 회복세나 미 대선 결과 등 외부 변수가 실적에 미칠 영향도 고려해야 할 핵심 요소입니다.\n\n결국 하반기 투자 전략의 핵심은 '확신 있는 실적주'에 집중하는 것입니다. 지나친 낙관론보다는 데이터에 기반한 냉철한 분석이 필요한 시점이며, 기업의 현금 흐름과 부채 비율 등 재무 건전성까지 꼼꼼히 따져보는 보수적이고 신중한 접근이 요구됩니다.",
+            "image_prompt": "Stock market analysis, financial statements, golden bull symbol, professional workspace, data visualization",
+            "published_at": "2026-07-27 15:26:40",
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "이 대통령, 브라질 방문으로 남미 경제 영토 확장 및 물가 안정 주력",
             "source": "한겨레",
