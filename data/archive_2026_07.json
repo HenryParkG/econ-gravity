@@ -1,6 +1,83 @@
 {
-    "last_updated": "2026-08-28 04:25:04",
+    "last_updated": "2026-08-28 17:55:41",
     "items": [
+        {
+            "title": "[경제][속보] 코스피, 10.84% 내린 6,023.66에 장 마감",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnNklleXlLTVpGbk9jd3RLczd3MGJrV2JiT19yejgzQTdJSUQyTFpEMzRRR09wU1FDemJ1dTBPYTZMeENUWk1HWXRPM2EzMXpfZWdHYkx2UVJBMjdEQWZXNE80OHUwbnJrX09jdXd5UQ?oc=5",
+            "category": "금융",
+            "summary": "코스피 지수가 하루 만에 10% 넘게 폭락하며 시장에 큰 충격을 주었습니다.",
+            "content": "국내 주식시장이 전례 없는 폭락장을 기록하며 패닉에 빠졌습니다. 코스피 지수는 전 거래일 대비 10.84%라는 기록적인 하락폭을 보이며 6,023.66으로 장을 마감했습니다. 이는 글로벌 경기 침체 우려와 기술주 중심의 매도세가 복합적으로 작용한 결과로 풀이됩니다.\n\n거래소는 주가 급락에 따라 시장 일시 중단 조치인 사이드카와 서킷브레이커 등을 검토할 정도로 긴박한 상황이 이어졌습니다. 특히 외국인 투자자들이 대규모 물량을 쏟아내며 지수 하락을 주도했으며, 기관 투자자들 역시 방어에 실패하며 지수는 힘없이 무너졌습니다.\n\n증시 전문가들은 이번 폭락의 원인으로 미국의 경제 지표 부진과 반도체 업황에 대한 불확실성을 꼽고 있습니다. 개인 투자자들은 예상치 못한 급락에 당혹감을 감추지 못하고 있으며, 향후 시장의 반등 여부에 대해 전문가들의 의견도 엇갈리고 있는 상황입니다.\n\n정부와 금융 당국은 시장 상황을 예의주시하며 긴급 점검에 나섰습니다. 과도한 불안 심리 확산을 경계하면서도, 시장 안정화를 위한 다각적인 대책을 마련하겠다는 입장입니다. 하지만 글로벌 거시 경제의 불안정성이 여전해 당분간 높은 변동성은 불가피할 것으로 전망됩니다.",
+            "image_prompt": "Stock market crash, falling red arrows, financial crisis, dramatic digital screen",
+            "published_at": "2026-07-28 22:58:19",
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "코스피, 美 반도체 쇼크에 6% 급락…매도 사이드카",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRXBDS1JQeGxwT1dSbkhHdG1pVW9zOG9iR0RLbWwyMXYybVpfS2lnbFVSdVZzVjJqeGRUUnpKbVBrbjJ0cDFRblBmNF9kR2U2TDhEOGZDNWVyQQ?oc=5",
+            "category": "시장",
+            "summary": "미국발 반도체 악재로 인해 코스피가 급락하며 매도 사이드카가 발동되었습니다.",
+            "content": "미국 증시에서 시작된 반도체 관련 종목들의 부진이 국내 증시에 직격탄을 날렸습니다. 삼성전자와 SK하이닉스 등 시가총액 상위 반도체주들이 동반 하락하며 코스피 지수는 장중 6% 넘게 급락했습니다. 급격한 하락세에 시장을 진정시키기 위한 매도 사이드카가 발동되기도 했습니다.\n\n이번 하락은 엔비디아를 비롯한 글로벌 반도체 기업들의 실적 우려와 고점 인식에 따른 차익 실현 매물이 쏟아진 영향이 큽니다. 한국 경제의 중추 역할을 하는 반도체 산업의 위기론이 대두되면서 투자 심리가 급격히 냉각되었습니다.\n\n시장에서는 이번 '반도체 쇼크'가 단기적인 조정에 그칠지, 아니면 장기적인 하락 사이클의 시작일지에 대해 촉각을 곤두세우고 있습니다. 특히 외국인들의 이탈 속도가 빨라지고 있다는 점이 시장의 불안감을 더욱 키우는 요소로 작용하고 있습니다.\n\n전문가들은 반도체 업황의 회복 속도가 시장의 기대치를 밑돌 가능성을 경고하며, 보수적인 투자 관점을 유지할 것을 권고하고 있습니다. 향후 발표될 미국의 추가 경제 지표와 기업들의 가이던스가 시장 향방의 분수령이 될 것으로 보입니다.",
+            "image_prompt": "Semiconductor chip, broken circuits, dark blue background, stock market volatility",
+            "published_at": "2026-07-28 22:58:19",
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "이정학 동해시장 “AI 중심 경제 대전환 추진”",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBS0g4YXdHVURPT29MSWNFTW40TFhlOGFDUXdVYXVpUms3Vnk1VWRfT1JsVERBQmVHSEVybEMtUjl4S2RRWjRjcHNnZDZoV2M?oc=5",
+            "category": "테크",
+            "summary": "동해시가 인공지능(AI)을 기반으로 한 지역 경제 체질 개선에 나섭니다.",
+            "content": "동해시가 미래 먹거리 확보를 위해 인공지능(AI) 기술을 시정 전반과 경제 구조에 이식하는 '경제 대전환' 프로젝트를 발표했습니다. 이정학 동해시장은 최근 인터뷰를 통해 기존의 제조업과 관광업 중심의 경제 구조를 탈피하고, AI 데이터센터 유치 및 관련 산업 육성을 통해 지역 경쟁력을 강화하겠다는 포부를 밝혔습니다.\n\n시의 구상에 따르면 AI 데이터센터를 기반으로 한 디지털 산업 생태계를 조성하여 청년 일자리를 창출하고, 지역 내 기업들의 디지털 전환을 적극 지원할 계획입니다. 이는 단순한 산업 유치를 넘어 도시 전체의 운영 효율성을 높이는 '스마트 시티' 모델로의 진화를 의미합니다.\n\n또한 수소 산업과의 연계를 통해 친환경 에너지를 공급받는 데이터센터를 구축함으로써 ESG 경영 흐름에도 발맞출 예정입니다. 동해시는 이러한 변화가 지역 경제의 지속 가능한 성장을 이끄는 핵심 동력이 될 것으로 기대하고 있습니다.\n\n중앙 정부와의 협력을 통해 관련 규제를 완화하고, 민간 투자를 이끌어내기 위한 파격적인 인센티브 제공도 검토 중입니다. 지방 소멸 위기 속에서 AI라는 첨단 기술을 활용한 동해시의 도전이 다른 지자체에도 새로운 이정표가 될지 주목됩니다.",
+            "image_prompt": "Futuristic city, AI brain network, blue light, high-tech infrastructure",
+            "published_at": "2026-07-28 22:58:19",
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "마크 잔디 \"고금리 장기화, 美경제 감당 어려울 것\"",
+            "source": "연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZWRSei1jdmtYS2RzbVBtZlhqTHo1VXBrdDN0NDFZMnlYQmxFTEpJUzVjeGswakVodWdkR3RqVlpOMGFaQnRfUFNuRWhHbkZkSVloSnFGRjl6cTdBTUMtWjZIdHRJUzlpVUI1LUZTWHc?oc=5",
+            "category": "글로벌",
+            "summary": "경제학자 마크 잔디가 미국의 고금리 정책 지속에 따른 경제 위기 가능성을 경고했습니다.",
+            "content": "무디스 애널리틱스의 수석 경제학자인 마크 잔디가 미국의 고금리 기조가 예상보다 길어질 경우 실물 경제가 이를 감당하지 못하고 침체에 빠질 수 있다는 강력한 경고 메시지를 던졌습니다. 인플레이션을 잡기 위한 연준의 긴축 정책이 임계점에 도달했다는 분석입니다.\n\n잔디는 특히 가계 부채와 기업 대출의 이자 부담이 급격히 증가하면서 소비 심리가 위축되고 투자가 줄어드는 악순환이 시작될 수 있다고 지적했습니다. 주택 시장 역시 고금리의 영향으로 거래가 절벽 수준에 이르렀으며, 이는 전반적인 자산 가치 하락으로 이어질 수 있다는 진단입니다.\n\n미국 경제가 현재까지는 견고한 고용 지표를 바탕으로 버텨왔지만, 금리 인상의 누적 효과가 본격적으로 나타나기 시작하면 고용 시장 역시 빠르게 냉각될 수 있다는 것이 그의 설명입니다. 따라서 연준이 금리 인하 시점을 실기하지 않는 것이 무엇보다 중요하다고 강조했습니다.\n\n글로벌 시장은 마크 잔디의 이러한 분석에 주목하며 미국의 통화 정책 변화 가능성을 예의주시하고 있습니다. 미국의 경제 연착륙 여부가 한국을 포함한 전 세계 경제의 향방을 결정지을 핵심 변수가 될 전망입니다.",
+            "image_prompt": "Interest rate graph, dollar symbol, golden scales, economic pressure",
+            "published_at": "2026-07-28 22:58:19",
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "보르도 와인 사라지나…끝없는 폭염·산불 글로벌 경제 '치명타'",
+            "source": "머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XeHZid0R0RXl1QnFwRXFXQWYxQl9HMUZhdEpRQ0VycmY5RUlTVkhJbEZIM0U3OWpfaEJzdFV5VHR5ekNqTkpPdGRKT25TR1JxUGZzdWZCNTM3dExzR3pGbmdWZzc5N3Vs0gFuQVVfeXFMUGNUajhVM2hsVnRxX3g3R0hOc0ZIQXZ4UkViZWtFVkhRV2RNNW1rWWlIYUVra3pYR2pDZG9JcDAxbVpfSWtHNHljMUNoMmVTUldiYTNWa1FPSzFraG9tOTc4LVROQ2cxUmJLYUliTVE?oc=5",
+            "category": "사회",
+            "summary": "기후 위기로 인한 폭염과 산불이 프랑스 보르도 와인 등 글로벌 경제에 심각한 피해를 주고 있습니다.",
+            "content": "지구 온난화로 인한 기록적인 폭염과 대형 산불이 전 세계 농작물 생산과 물류 시스템에 치명적인 타격을 입히고 있습니다. 특히 프랑스의 자부심인 보르도 와인 산지가 기후 변화로 인해 생산량이 급감하고 품질 유지가 어려워지는 등 심각한 위기에 직면했습니다.\n\n폭염은 포도의 당도를 과도하게 높이고 산도를 떨어뜨려 와인의 풍미를 변질시킵니다. 또한 잦은 산불로 인한 연기가 포도에 스며들어 수확물 전체를 폐기해야 하는 상황까지 발생하고 있습니다. 이는 단순한 농업의 문제를 넘어 지역 경제 전반과 글로벌 와인 시장의 가격 급등으로 이어지고 있습니다.\n\n기후 위기는 와인뿐만 아니라 커피, 올리브유 등 주요 식자재 공급망 전반에 영향을 미치고 있습니다. 생산 감소에 따른 가격 상승은 인플레이션을 자극하는 '그린플레이션' 현상을 심화시키고 있으며, 이는 소비자들의 장바구니 물가 부담으로 직결되고 있습니다.\n\n전문가들은 기후 리스크가 이제 경제적 상수가 되었다고 지적하며, 산업계 전반의 적응 대책 마련이 시급하다고 입을 모으고 있습니다. 기후 변화에 대응하지 못하는 기업과 산업은 도태될 수밖에 없다는 위기감이 글로벌 경제 전반에 확산되고 있습니다.",
+            "image_prompt": "Vineyard in heat, burning forest, wine glass, dry earth, environmental crisis",
+            "published_at": "2026-07-28 22:58:19",
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[집중진단] 공포에 무너진 코스피 ‘-10% 대폭락’…정부, 레버리지 칼뺐다 “투자 20% 제한 검토”",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZXJETVd1TjJ0ZzZfTXZsaUtFQUJKOHlJZXo2cm5jdUpCdXNRTUtsd1VqdGN4NG1EblphdGFlTVl4TUwwV1U2bkR1aWI4bzg?oc=5",
+            "category": "정책",
+            "summary": "증시 폭락에 대응해 정부가 레버리지 투자 제한 등 시장 안정화 조치 검토에 착수했습니다.",
+            "content": "코스피 지수가 10% 이상 대폭락하며 시장 기능이 마비될 조짐을 보이자 정부가 긴급 대응에 나섰습니다. 금융당국은 시장의 과도한 변동성을 억제하기 위해 고위험 투자인 레버리지 상품에 대한 강력한 규제 카드를 만지작거리고 있습니다.\n\n정부는 현재 신용융자나 레버리지 ETF 등 과도한 빚을 내어 투자하는 방식이 하락장에서 시장의 하락폭을 키우고 있다고 보고 있습니다. 이에 따라 개인 투자자들의 레버리지 투자 범위를 20% 이내로 제한하는 방안을 심도 있게 검토 중인 것으로 알려졌습니다.\n\n이번 조치는 시장에 팽배한 공포 심리를 진정시키고 추가적인 지수 급락을 막기 위한 고육지책으로 평가됩니다. 다만 일각에서는 이러한 인위적인 개입이 시장의 자율성을 해치고 거래량을 급감시킬 수 있다는 우려의 목소리도 나오고 있습니다.\n\n정부는 시장 모니터링을 강화하는 한편, 필요시 증시 안정 펀드 투입 등 추가적인 시장 안정 조치를 신속하게 실행하겠다는 입장입니다. 향후 금융당국이 발표할 구체적인 가이드라인에 시장의 이목이 집중되고 있습니다.",
+            "image_prompt": "Government policy, financial regulation, safety net, dark blue background, official document",
+            "published_at": "2026-07-28 20:14:19",
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "악시오스 “트럼프 행정부 ‘경제 제재가 공습보다 효과적’ 인식”",
+            "source": "KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IdGc5VHgxaU5Mc0ozNUpWbm9KNnpObmxJdG1UZTNNNzBaOFhIUThGTXpwUERPSnVZcmQwUHNhWkpnM3V5LTZBbHNvVG1QWVFWektRSGVnNmpyTWM?oc=5",
+            "category": "정책",
+            "summary": "트럼프 측의 외교 전략이 군사적 행동보다는 경제적 압박에 무게를 두고 있다는 분석이 나왔습니다.",
+            "content": "미국의 차기 대선 국면에서 도널드 트럼프 전 대통령 측의 외교·안보 전략 기조가 점차 구체화되고 있습니다. 외신 악시오스는 트럼프 행정부 관계자들 사이에서 물리적인 공습이나 군사적 개입보다 강력한 '경제 제재'가 훨씬 더 효과적인 무기라는 인식이 확산되어 있다고 보도했습니다.\n\n이러한 전략은 '미국 우선주의'를 바탕으로 막대한 비용이 드는 전쟁을 피하면서도 미국의 패권을 유지하려는 의도로 풀이됩니다. 상대국을 경제적으로 고립시켜 정책 변화를 이끌어내는 방식은 국제 금융 시스템에서 달러화의 지배력을 활용한 강력한 수단이 될 수 있습니다.\n\n특히 이란 등 적대 국가들에 대해 더욱 촘촘하고 강력한 금융 제재망을 구축함으로써, 군사적 충돌 없이도 적대국의 경제적 근간을 타격할 수 있다는 계산입니다. 이는 글로벌 공급망과 국제 교역 질서에 상당한 변화를 몰고 올 수 있는 흐름입니다.\n\n만약 트럼프가 재집권할 경우, 전 세계 경제는 지정학적 리스크에 따른 불확실성보다 '경제의 무기화'로 인한 새로운 형태의 무역 전쟁과 제재 국면에 직면할 가능성이 큽니다. 우리 정부와 기업들도 이러한 정책 변화 가능성에 기민하게 대비해야 할 것으로 보입니다.",
+            "image_prompt": "Global sanctions, diplomatic strategy, world map, financial chain, political tension",
+            "published_at": "2026-07-28 20:14:19",
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "[정부 주요 일정] 경제·사회부처 주간 일정 (7월 27일 ~ 7월 31일) - 이투데이",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xT19yWE9STnl2M0RpdUxNbW5QTDhua1B3c2xneVhiMi1yZmtXRDNpOFNXWVZlTDkwVVB6R1NlVm9ybThlRnFiSVNDQWtKWU83WnBuZQ?oc=5",
