@@ -1,6 +1,160 @@
 {
-    "last_updated": "2026-09-05 21:20:28",
+    "last_updated": "2026-09-06 11:47:55",
     "items": [
+        {
+            "title": "[단독] 구광모, 젠슨 황 초청에 답방…엔비디아 본사 방문",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14UmZjYWNMMTZNeC1laVNoQUdsSW1ZTFRTcE1DTkdiU2ZSR0NXN0s5OHFJZ2JsODJ6Zk44a21MWnUxeW9tcDdVWmhpSkh5ak1ORUNZcmNnTUZDZw?oc=5",
+            "category": "테크",
+            "summary": "LG그룹 구광모 회장이 엔비디아 본사를 방문해 AI 동맹 강화를 꾀합니다.",
+            "content": "LG그룹의 수장 구광모 회장이 글로벌 AI 반도체 시장의 절대 강자인 엔비디아의 젠슨 황 CEO를 만나기 위해 직접 미국 본사를 방문했습니다. 이번 방문은 지난 젠슨 황 CEO의 초청에 대한 답방 형식으로 이루어졌으며, 양사 간의 차세대 AI 기술 협력 방안이 집중 논의된 것으로 알려졌습니다.\n\nLG그룹은 최근 미래 성장 동력으로 AI, 바이오, 클린테크(ABC)를 낙점하고 역량을 집중하고 있습니다. 특히 가전과 자동차 전장 사업에서 AI 솔루션의 중요성이 커지고 있는 만큼, 엔비디아와의 긴밀한 파트너십은 필수적인 요소입니다. 이번 회동을 통해 LG전자의 가전 지능화와 LG에너지솔루션의 스마트 팩토리 구현 등에서 큰 시너지가 기대됩니다.\n\n업계에서는 이번 만남이 한국 기업이 글로벌 AI 생태계의 핵심 파트너로서 입지를 다지는 중요한 계기가 될 것으로 보고 있습니다. 반도체 공급망 확보부터 소프트웨어 협업까지 포괄적인 논의가 오갔을 것으로 보이며, 이는 LG의 디지털 전환 속도를 한층 높일 것입니다.",
+            "image_prompt": "Future technology, AI chip, Global CEO meeting, High-tech laboratory, Innovative partnership",
+            "published_at": "2026-08-06 23:01:09",
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "‘100만원→71만원’ 금값 뚝 떨어졌는데…13년 만에 금 다시 사는 한은, ‘지금이 저점?’",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MWmY0MnFYRy02Mmw0SFotdGhXNjNHSmtVOE5GTGFjdG9mNkRablh1T29NMFNUdkg5Tm5Rek1IWE9UUmZqMmRmTGJxVk9XV0U?oc=5",
+            "category": "금융",
+            "summary": "한국은행이 13년 만에 금 추가 매입을 검토하며 외환보유액 다변화에 나섭니다.",
+            "content": "한국은행이 지난 2011년 이후 약 13년 만에 금 매입을 재개할 움직임을 보이고 있습니다. 최근 국제 금 시세가 고점 대비 하락세를 보이자, 이를 외환보유액 구성을 다변화하고 자산 안전성을 높일 기회로 판단한 것으로 보입니다. 금은 달러화 가치 하락 시 위험을 분산할 수 있는 대표적인 안전자산입니다.\n\n그동안 한국은행은 금 보유량이 다른 국가들에 비해 상대적으로 적다는 지적을 받아왔습니다. 이번 매입 검토는 지정학적 리스크 심화와 글로벌 경제의 불확실성 속에서 국가의 비상 대응 능력을 강화하려는 전략적 포석으로 풀이됩니다. 특히 달러 의존도를 낮추려는 전 세계 중앙은행들의 '탈달러' 흐름과도 궤를 같이합니다.\n\n시장 전문가들은 한은의 금 매입이 시장에 줄 파급력을 주시하고 있습니다. 금 매입 시점과 규모에 따라 국내 외환 시장의 수급 상황에도 영향을 미칠 수 있기 때문입니다. 다만, 자산 배분 차원에서의 장기적 접근인 만큼 급격한 시장 변동보다는 점진적인 포트폴리오 조정이 이뤄질 전망입니다.",
+            "image_prompt": "Gold bars, Central bank vault, Financial stability, Safe investment, Gold texture",
+            "published_at": "2026-08-06 23:01:09",
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "반도체 넘어 AI로 제조 혁신…정부, ‘경제 추진 방향’ 발표",
+            "source": "한겨레",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95U2lKTXIzR0VhWHNGMVg4azJPSTQ5dFNlekxNcVRtRkNiQWltYW02X0NtR21hNTRibGlUNTVKUEUzMm51ZHVZTk43dUpwRzdRTFprVklVZ3BSR2UwaGVVd1RIdXJnUEVVNWdWX05IVnE0UQ?oc=5",
+            "category": "정책",
+            "summary": "정부가 AI 기술을 전 제조 산업으로 확산시켜 경제 성장을 견인하겠다는 청사진을 내놨습니다.",
+            "content": "정부가 반도체 산업의 성공 경험을 전 산업으로 확산시키기 위한 'AI 제조 혁신' 중심의 경제 추진 방향을 발표했습니다. 단순히 반도체를 생산하는 것에 그치지 않고, 자동차, 조선, 철강 등 기존 주력 산업 공정 전반에 AI를 접목하여 생산성을 극대화하겠다는 전략입니다.\n\n이번 정책에는 AI 핵심 인재 양성, 컴퓨팅 인프라 확충, 그리고 민간 기업의 AI 도입을 지원하는 대규모 금융 및 세제 혜택 방안이 포함되었습니다. 정부는 이를 통해 국내 제조업의 고도화를 달성하고, 글로벌 공급망 재편 과정에서 한국의 기술 주도권을 확고히 하겠다는 목표를 세웠습니다.\n\n또한, 규제 샌드박스를 적극 활용하여 기업들이 새로운 AI 서비스를 시장에 신속히 내놓을 수 있도록 제도적 뒷받침도 강화할 예정입니다. 이는 4차 산업혁명 시대에 한국 경제의 기초 체력을 강화하고 새로운 먹거리를 창출하는 중대한 전환점이 될 것으로 기대됩니다.",
+            "image_prompt": "Smart factory, Industrial robots, Artificial Intelligence, Digital transformation, Futuristic cityscape",
+            "published_at": "2026-08-06 23:01:09",
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"나가주세요\" 세입자들 초비상 걸렸다…집주인도 '골머리' [시장톡]",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SS1ZKa09BLU5NcGtYRXExMFVhb2hQY2tvNi1Wb3ZFNE5kdGwwQzdhOGRQeWZsTUljdmdCZDByMDJCSXRzTGVxZTNHYnVDS2p0R0lMcklUcTFlUQ?oc=5",
+            "category": "시장",
+            "summary": "전세 시장의 매물 부족과 실거주 의무 등 규제로 인해 임대인과 임차인 모두가 혼란을 겪고 있습니다.",
+            "content": "부동산 전세 시장이 심각한 매물 부족 사태에 직면하며 세입자들의 주거 불안이 고조되고 있습니다. 특히 정부의 실거주 의무 규제와 세제 개편의 영향으로 본인이 직접 거주하려는 집주인들이 늘어나면서, 기존 세입자들이 퇴거 압박을 받는 사례가 빈번해지고 있습니다. 이는 전세 매물의 씨를 말리는 결과로 이어지고 있습니다.\n\n세입자들은 치솟는 전셋값과 매물 품귀 현상 속에 새로운 거처를 찾지 못해 발을 동동 구르고 있으며, 집주인들 역시 대출 규제와 세금 부담 사이에서 자산 운용에 어려움을 호소하고 있습니다. 이러한 시장의 비정상적 흐름은 실수요자 중심의 과세 정책이 의도치 않게 임대차 시장의 공급을 위축시킨 결과라는 분석이 나옵니다.\n\n전문가들은 이러한 전세난이 단기간에 해결되기 어려울 것으로 보고 있습니다. 신규 공급 물량이 제한적인 상황에서 제도적 보완책이 마련되지 않는다면, 전셋값 상승세는 계속될 가능성이 높습니다. 서민들의 주거비 부담 경감을 위한 다각적인 공급 대책과 유연한 정책 운용이 시급한 시점입니다.",
+            "image_prompt": "Real estate, Apartment keys, Moving boxes, Urban housing crisis, Dramatic lighting",
+            "published_at": "2026-08-06 23:01:09",
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "코스피 급락에 '매도 사이드카' 발동... 코스닥도 동반 하락",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XMktjdG96UWZwUTBSbEZpaEpVYVM3N3c1dEV1QzlNLVg5WXpiRGdOamJXb2VnRVFRZzJSM0lrVFVKREh4dlpYU1lBM1JNQ1ZDUDhhbkhaNkVhSUZUT192VjUwel9YRjliZkNMQ0FIOA?oc=5",
+            "category": "금융",
+            "summary": "국내 증시의 급격한 변동성으로 프로그램 매매 호가 효력이 일시 정지되는 사이드카가 발동되었습니다.",
+            "content": "오늘 국내 증시는 글로벌 경기 침체 우려와 기술주 중심의 차익 실현 매물이 쏟아지며 극심한 혼조세를 보였습니다. 코스피 지수가 급격히 하락하면서 프로그램 매매 호가의 효력을 일시적으로 정지시키는 '매도 사이드카'가 발동되었습니다. 이는 시장의 과열이나 급락을 막기 위한 안전장치로, 투자자들 사이의 공포 심리가 얼마나 큰지를 보여주는 지표가 되었습니다.\n\n코스피뿐만 아니라 코스닥 지수 역시 동반 하락세를 면치 못했습니다. 외국인과 기관의 동반 매도세가 이어지면서 지수를 방어할 만한 뚜렷한 매수 주체가 나타나지 않았습니다. 특히 시가총액 상위권에 포진한 대형 반도체 및 이차전지 종목들이 큰 폭으로 하락하며 지수 하락을 견인했습니다.\n\n시장 전문가들은 이번 급락이 단기적인 조정인지, 아니면 장기적인 하락장의 시작인지에 대해 엇갈린 전망을 내놓고 있습니다. 미 연준의 금리 결정과 엔화 가치 변동 등 대외 변수가 여전히 불안정한 상태여서 당분간은 변동성이 높은 장세가 지속될 것으로 보입니다. 투자자들에게는 신중한 접근과 리스크 관리가 어느 때보다 절실한 시점입니다.",
+            "image_prompt": "Stock market crash, digital trading screen, red declining arrows, financial panic, professional blue neon background",
+            "published_at": "2026-08-06 20:20:37",
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "구광모 회장, 엔비디아 본사 전격 방문... AI 협력 강화",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14UmZjYWNMMTZNeC1laVNoQUdsSW1ZTFRTcE1DTkdiU2ZSR0NXN0s5OHFJZ2JsODJ6Zk44a21MWnUxeW9tcDdVWmhpSkh5ak1ORUNZcmNnTUZDZw?oc=5",
+            "category": "테크",
+            "summary": "LG그룹 구광모 회장이 젠슨 황의 초청으로 엔비디아 본사를 방문하여 미래 AI 산업 협력을 논의했습니다.",
+            "content": "LG그룹의 구광모 회장이 글로벌 AI 반도체 시장의 절대 강자인 엔비디아를 직접 방문하며 AI 동맹 강화에 나섰습니다. 이번 방문은 엔비디아 수장인 젠슨 황 CEO의 초청에 대한 답방 성격으로, 실리콘밸리에 위치한 엔비디아 본사에서 양사의 미래 전략을 공유하는 긴밀한 회동이 이루어졌습니다. 이는 LG가 미래 성장 동력으로 삼고 있는 AI와 로봇, 자동차 전장 분야에서의 협력을 극대화하기 위한 행보로 풀이됩니다.\n\n양측은 이번 만남에서 차세대 AI 반도체 공급은 물론, LG의 가전 및 전장 부품에 탑재될 AI 소프트웨어 최적화에 대해 논의한 것으로 알려졌습니다. 특히 엔비디아의 강력한 컴퓨팅 인프라와 LG의 방대한 고객 데이터 및 하드웨어 제조 역량이 결합될 경우 상당한 시너지가 기대됩니다. 구 회장은 'AI는 차세대 산업의 핵심'임을 강조하며 기술 선점을 위한 공격적인 행보를 이어가고 있습니다.\n\n글로벌 빅테크 기업들과의 협력은 이제 선택이 아닌 필수가 된 상황입니다. LG는 이번 엔비디아 방문을 통해 단순히 부품을 공급받는 관계를 넘어, AI 생태계 전반에서 함께 혁신을 주도하는 파트너십을 구축하고자 합니다. 이는 국내 정보기술(IT) 업계 전반에도 글로벌 네트워크 강화라는 중요한 메시지를 던지고 있습니다.",
+            "image_prompt": "High-tech business meeting, AI chip concept, LG and NVIDIA partnership, futuristic office environment, sleek corporate aesthetic",
+            "published_at": "2026-08-06 20:20:37",
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "정부, 전 산업 AI 전환 선언... 경제구조 혁신에 총력",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRUY2eUkxb2hMNl9GZjZ6MmRhMDI5Z2hnVzNzM0prYlJpWXp1NGF0eVVSeDk2QkE3bGI1dDlvNnJQVV8zTWYtOGVrWkVFSmc?oc=5",
+            "category": "정책",
+            "summary": "정부가 반도체를 넘어 제조, 금융, 유통 등 전 산업 부문에 AI를 도입해 경제 체질을 개선합니다.",
+            "content": "우리 정부가 대한민국의 경제 구조를 근본적으로 혁신하기 위해 '전 산업 AI 전환'이라는 대규모 프로젝트에 시동을 걸었습니다. 기존에는 반도체 중심의 하드웨어 성장에 집중했다면, 이제는 제조, 조선, 의료, 금융 등 경제 전반에 인공지능(AI) 기술을 이식하여 생산성을 획기적으로 높이겠다는 전략입니다. 이를 위해 관련 인프라 구축과 규제 완화에 정부 역량을 집중할 방침입니다.\n\n구윤철 전 실장 등 경제 수장들은 현재 대한민국이 거센 산업 전환의 압력에 직면해 있다고 진단했습니다. 고령화와 저성장 기조를 극복할 유일한 돌파구가 AI를 통한 효율성 증대라는 점에 공감대가 형성된 것입니다. 정부는 기업들이 AI 기술을 도입할 때 세제 혜택과 연구개발(R&D) 자금을 적극 지원함으로써 민간 주도의 혁신을 유도할 계획입니다.\n\n이러한 정책 변화는 공공 부문에서도 시작될 전망입니다. 행정 서비스의 디지털화는 물론, 지역 경제 활성화를 위한 맞춤형 AI 솔루션 보급도 포함됩니다. 정부의 이러한 강력한 의지가 실제 현장의 기술 도입으로 이어져 대한민국이 글로벌 AI 경쟁에서 주도권을 확보할 수 있을지 귀추가 주목됩니다.",
+            "image_prompt": "Digital industrial transformation, AI integrated factory, glowing data lines over city, government policy innovation, futuristic blue and gold",
+            "published_at": "2026-08-06 20:20:37",
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "환율 하락에 '서학개미' 귀환... 미국 주식 매수세 증가",
+            "source": "Chosunbiz",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS1JJVmEzeF9XLV96bHI1dzV3cTIyLXMycmlrLVhZazNqOXRKeDhoeTVtSkt5aFVDcjdkbW9fS2FMdHQwVjQ4d3doWDVpYkh2QVFFZ29JTDNMdWM2YzhYQ0JkQ1d2cWkxOGNheXEyZVFkMUVtbXdoT1FSdVFtbkQ1Y2RvUG1vZ9IBmgFBVV95cUxNeW1aemZRMzl4cjg5NVdzc19LeVdueWx6SkkxSV9sRWpXM0hNNmVnQU5haE1Dci1kc0MyVjhzeVVUUnFoaVhObmZRYjE1ZEUzU0pQbHRBOURfOF9tU2czQS1leUlXZ1FWZVNJOGxpRHFNRHVGUkFVODdTbHI2MVVCaWI2ZUF2Y2E4YlAxcVNIdmctZ2xGVmZDWlBn?oc=5",
+            "category": "시장",
+            "summary": "원·달러 환율이 하락하면서 상대적으로 저렴해진 미국 주식을 사들이는 국내 개인 투자자들이 늘고 있습니다.",
+            "content": "최근 원·달러 환율이 안정세를 보이며 하락하자, 소위 '서학개미'로 불리는 국내 개인 투자자들이 미국 주식 시장으로 빠르게 몰려들고 있습니다. 환율이 낮아지면 같은 원화로 더 많은 달러를 환전할 수 있어 해외 주식 매수 시 가격 경쟁력이 생기기 때문입니다. 특히 미국 빅테크 기업들의 실적 호조가 이어지면서 투심이 더욱 자극받는 모양새입니다.\n\n투자자들은 주로 엔비디아, 애플, 테슬라와 같은 고성장 기술주를 중심으로 포트폴리오를 구성하고 있습니다. 국내 증시의 부진과 대비되는 미국 증시의 견조한 흐름이 서학개미들의 발길을 붙잡고 있습니다. 또한, 단순 주가 상승 외에도 환차익을 노렸던 과거와 달리, 이제는 환율 하락 시점을 매수 적기로 판단하는 전략적인 투자 패턴이 정착되고 있습니다.\n\n증권업계는 이러한 해외 주식 투자 열풍이 당분간 지속될 것으로 보고 있습니다. 소액으로도 미국 우량주에 투자할 수 있는 서비스가 보편화되었고, 글로벌 경제 정보에 대한 접근성이 높아진 것도 원인입니다. 다만, 환율 변동성은 언제든 다시 커질 수 있으므로 환율 리스크에 대한 주의가 필요하다는 전문가들의 조언도 잇따르고 있습니다.",
+            "image_prompt": "US dollar and Korean Won conversion, New York Stock Exchange, digital trading app, global investment, professional financial graphics",
+            "published_at": "2026-08-06 20:20:37",
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "실거주 중심 과세에 전셋값 요동... 임대차 시장 혼란",
+            "source": "뉴스핌",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aMUFRTDN4YTNaQXR0emlvYm5fdnBPTTRmbVZZZ0NzYVgzWkxkVHk4ZUVheHBmRnA0dWNSenA1NjlXalB2TU1UcENjbjRndnFNUi1CUTZxU0pFcnFG?oc=5",
+            "category": "시장",
+            "summary": "정부의 실거주 중심 과세 정책으로 집주인들이 입주를 시작하면서 전세 매물이 품귀 현상을 빚고 있습니다.",
+            "content": "정부의 부동산 정책이 실거주 의무와 거주 중심 과세로 강화되면서 전세 시장에 비상이 걸렸습니다. 양도소득세 비과세 혜택이나 종부세 감면을 받기 위해 집주인들이 직접 본인 소유 주택으로 들어오는 사례가 늘고 있기 때문입니다. 이로 인해 기존 세입자들은 계약 갱신이 어려워져 급하게 새로운 거처를 찾아야 하는 '퇴거 위기'에 내몰리고 있습니다.\n\n전세 공급 물량 자체가 줄어들면서 전셋값은 지속적인 상승 압박을 받고 있습니다. 특히 인기 주거 지역을 중심으로 매물 품귀 현상이 심화되고 있으며, 이는 서민들의 주거비 부담 가중으로 이어지고 있습니다. 집주인들 역시 대출 규제와 고금리 상황 속에서 세입자에게 돌려줄 전세보증금을 마련하지 못해 골머리를 앓는 등 시장 곳곳에서 마찰음이 들리고 있습니다.\n\n시장 전문가들은 실거주 요건 강화가 투기 억제라는 긍정적 취지에도 불구하고, 임대차 시장의 유연성을 떨어뜨리는 부작용을 낳고 있다고 지적합니다. 실수요자를 보호하기 위한 정책이 오히려 무주택 세입자들의 주거 불안정을 초래하는 역설적인 상황이 발생하고 있어, 이에 대한 세밀한 정책 보완이 필요하다는 목소리가 커지고 있습니다.",
+            "image_prompt": "Real estate key and contract, apartment buildings, moving truck silhouette, financial burden concept, house and lock illustration",
+            "published_at": "2026-08-06 20:20:37",
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[경제]코스피 급락에 '매도 사이드카'...코스닥도 하락",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MWktjdG96UWZwUTBSbEZpaEpVYVM3N3c1dEV1QzlNLVg5WXpiRGdOamJXb2VnRVFRZzJSM0lrVFVKREh4dlpYU1lBM1JNQ1ZDUDhhbkhaNkVhSUZUT192VjUwel9YRjliZkNMQ0FIOA?oc=5",
+            "category": "시장",
+            "summary": "코스피와 코스닥 지수가 동반 폭락하며 시장을 진정시키기 위한 매도 사이드카가 발동되었습니다.",
+            "content": "국내 증시가 글로벌 경기 침체 우려와 기술주 조정의 여파로 힘없이 무너졌습니다. 코스피 지수는 장중 5%가 넘는 급락세를 보였으며, 코스닥 지수 역시 동반 폭락하며 투자 심리가 급격히 냉각되었습니다. 한국거래소는 선물 가격의 급격한 변동에 대응하여 프로그램 매도 호가의 효력을 일시 정지시키는 '매도 사이드카'를 발동했습니다.\n\n이번 폭락은 미국의 고용 지표 악화와 경기 침체 공포가 한국 시장으로 전이된 결과로 풀이됩니다. 특히 그동안 지수를 견인해 왔던 대형 반도체주와 이차전지 관련주들이 직격탄을 맞으며 하락폭을 키웠습니다. 외국인과 기관 투자자들의 거센 매도세에 개인 투자자들 역시 공황 매도에 가담하며 지수를 끌어내렸습니다.\n\n시장 전문가들은 당분간 변동성이 큰 장세가 지속될 것으로 보고 있습니다. 미국 연준의 금리 인하 속도와 향후 발표될 주요 경제 지표들에 따라 시장의 향방이 결정될 전망입니다. 금융 당국은 시장 상황을 면밀히 모니터링하며 필요시 추가적인 시장 안정 조치를 검토하겠다고 밝혔습니다.\n\n투자자들은 무분별한 추격 매도보다는 기업의 본질적 가치를 재점검하고, 리스크 관리에 집중해야 할 시점입니다. 변동성이 극심한 구간인 만큼 단기적인 대응보다는 거시 경제의 흐름을 지켜보며 보수적인 관점을 유지하는 것이 필요해 보입니다.",
+            "image_prompt": "Stock market crash, red falling arrows, financial district, trading floor intensity, emergency monitor",
+            "published_at": "2026-08-06 17:30:08",
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRUY2eUkxb2hMNl9GZjZ6MmRhMDI5Z2hnVzNzM0prYlJpWXp1NGF0eVVSeDk2QkE3bGI1dDlvNnJQVV8zTWYtOGVrWkVFSmc?oc=5",
+            "category": "정책",
+            "summary": "정부가 반도체 중심의 경제 구조에서 탈피해 전 산업에 AI를 접목하는 혁신 방안을 추진합니다.",
+            "content": "정부가 대한민국의 경제 성장 엔진을 재점화하기 위해 '전 산업의 AI 전환'이라는 대대적인 카드를 꺼내 들었습니다. 그동안 우리 경제를 지탱해 온 반도체 편중 구조를 넘어, 제조, 금융, 서비스 등 경제 전반에 인공지능을 결합하여 생산성을 근본적으로 혁신하겠다는 구상입니다.\n\n구윤철 전 국무조정실장을 비롯한 경제 전문가들은 현재 우리 경제가 거센 산업 전환 압력에 직면해 있다고 진단했습니다. 전통적인 산업 구조로는 더 이상 글로벌 경쟁력을 유지하기 어렵다는 판단 아래, 정부는 AI를 활용한 경제 구조 혁신에 국가적 역량을 총동원하기로 했습니다. 이는 단순히 신기술을 도입하는 수준을 넘어 국가의 체질 자체를 바꾸는 작업이 될 것으로 보입니다.\n\n특히 중소기업과 소상공인들이 AI 기술에서 소외되지 않도록 맞춤형 지원 체계를 구축하고, AI 전문 인재 육성을 위한 교육 인프라도 대폭 확충할 예정입니다. 규제 샌드박스를 적극 활용하여 혁신적인 AI 서비스가 시장에 빠르게 안착할 수 있도록 제도적 뒷받침도 강화합니다.\n\n정부는 이번 혁신안을 통해 경제의 역동성을 회복하고 고부가가치 일자리를 창출할 수 있을 것으로 기대하고 있습니다. AI가 단순한 기술적 도구를 넘어 대한민국의 새로운 국가 경쟁력이 될 수 있도록 민관이 협력하는 생태계 조성이 핵심 과제가 될 전망입니다.",
+            "image_prompt": "Digital transformation, AI chip on circuit board, futuristic industrial automation, blue high-tech background",
+            "published_at": "2026-08-06 17:30:08",
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[단독] SK하이닉스 美 자회사 솔리다임, 프리 IPO 추진",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpc19jUzZweS1rVEFQdlpQQXJZbEhOMzVtUm1YM1BrbU1HZjJqNG9RRmJ3Y2RGVUg2dnEwZE1XdTRtS0hSYmVOcFV4OERkdnkzZVNMVmMzRzBhdw?oc=5",
+            "category": "금융",
+            "summary": "SK하이닉스가 낸드플래시 사업 강화를 위해 인수한 미국 자회사 솔리다임의 상장 전 지분 투자 유치에 나섰습니다.",
+            "content": "SK하이닉스가 낸드플래시 사업의 핵심축인 미국 자회사 '솔리다임'의 상장 전 지분 투자(Pre-IPO)를 전격 추진합니다. 이는 솔리다임의 기업 가치를 시장에서 공식 인정받고, 미래 성장을 위한 대규모 자금을 확보하기 위한 전략적 선택으로 풀이됩니다.\n\n솔리다임은 SK하이닉스가 인텔의 낸드 사업부를 인수하여 설립한 회사로, 최근 고성능 기업용 SSD(eSSD) 시장에서 두각을 나타내고 있습니다. 이번 Pre-IPO를 통해 확보한 자금은 차세대 낸드 솔루션 개발과 생산 설비 확충에 집중 투입될 예정입니다. 이는 HBM(고대역폭메모리)에 이어 낸드 분야에서도 압도적인 기술 우위를 점하겠다는 의지입니다.\n\n반도체 업황의 회복세와 함께 AI 서버 수요 급증으로 고용량 스토리지에 대한 니즈가 커지고 있는 점은 솔리다임의 가치 산정에 긍정적인 요인으로 작용할 전망입니다. 글로벌 투자자들은 솔리다임의 독보적인 기술력과 SK하이닉스와의 시너지 효과에 주목하고 있는 것으로 알려졌습니다.\n\n이번 투자 유치가 성공적으로 마무리될 경우, SK하이닉스의 재무 구조 개선과 더불어 글로벌 반도체 시장에서의 입지가 더욱 공고해질 것으로 기대됩니다. 나아가 솔리다임의 향후 나스닥 상장 가능성까지 점쳐지고 있어 시장의 관심이 쏠리고 있습니다.",
+            "image_prompt": "Semiconductor chip close up, corporate finance growth, SK Hynix logo, global investment, high-tech SSD",
+            "published_at": "2026-08-06 17:30:08",
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[AI픽] 카카오, 왜 AI 인프라 대신 '의도 경제' 택했나",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBabHNIc3ZtUTdCSGptcEFlM3dDdDQ0R2VOTHJqYWExRUNLZXgzQ0ZIQmpjNDhhcnZfVXdUalI4Sy1WUUxuNEI0b19HVGFWMnoxT2VxQVo4M0dreHU3TVh6M9IBYEFVX3lxTFBabHNIc3ZtUTdCSGptcEFlM3dDdDQ0R2VOTHJqYWExRUNLZXgzQ0ZIQmpjNDhhcnZfVXdUalI4Sy1WUUxuNEI0b19HVGFWMnoxT2VxQVo4M0dreHU3TVh6Mw?oc=5",
+            "category": "테크",
+            "summary": "카카오가 거대 언어 모델 인프라 경쟁 대신 사용자의 니즈를 파악하는 '의도 경제'에 집중하기로 했습니다.",
+            "content": "빅테크 기업들이 거대 언어 모델(LLM)과 컴퓨팅 인프라 확보에 열을 올리고 있는 가운데, 카카오가 이와 차별화된 '의도 경제(Intent Economy)' 전략을 발표했습니다. 이는 단순한 기술 경쟁을 넘어 사용자가 무엇을 원하는지 정확히 파악하고 이를 서비스로 연결하는 데 집중하겠다는 전략입니다.\n\n카카오는 방대한 카카오톡 데이터를 바탕으로 사용자의 일상 속 의도를 분석하여 최적화된 경험을 제공하는 인공지능 서비스를 준비 중입니다. 인프라 구축에 막대한 비용을 쏟아붓기보다는 사용자와의 접점(Last Mile)에서 실질적인 가치를 창출하는 '실용주의 AI'를 지향하는 셈입니다.\n\n'의도 경제' 모델 아래에서 AI는 단순한 답변 제공자를 넘어 쇼핑, 예약, 상담 등 사용자의 복합적인 요구를 실행하는 개인비서 역할을 수행하게 됩니다. 이는 카카오의 기존 플랫폼 비즈니스를 더욱 고도화하고 광고 및 커머스 수익 모델을 강화하는 핵심 동력이 될 것으로 보입니다.\n\n업계 전문가들은 카카오의 이러한 선택이 자원 효율성을 극대화하고 국내 시장에 특화된 서비스 경쟁력을 확보하는 현실적인 방안이 될 수 있다고 평가합니다. 카카오가 그리는 AI 시대의 '의도 경제'가 실제 사용자들에게 어떤 편리함을 선사할지 주목됩니다.",
+            "image_prompt": "Mobile app interface, AI personal assistant, human-AI interaction, user intent analysis, digital ecosystem",
+            "published_at": "2026-08-06 17:30:08",
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "더위 먹은 한국 경제…성장률 떨어지고 물가는 뛰는 ‘폭염의 경제학’",
+            "source": "국민일보",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CS3ZRWEhCQ1lXRzliWFVsYzltVk9zY3JTb1VaeUFjMmR6RHFKRkpCYVlJZlR6OEJMOFA5ZUh0NkIyeUlSb3JTajBXb05ISFVfcVpGYV95d3F5bDI0WWRYbnFVOVVqbVXSAWxBVV95cUxNU2RfbzYwZlRTYjh3cDBiOWpsR3h5X0RyRUdXT21KWlpLWDl3OGdPdHhWSnBIQkRIZTA5bUdkZ2pWdktrbW5VTnRhRkxMUGs3cUlkMFlzZ3FSejdEOEhrMTRzekNKYjhBQ0xST08?oc=5",
+            "category": "시장",
+            "summary": "기록적인 폭염이 발생하면서 농산물 가격 상승과 생산성 저하로 인한 경제 타격이 가시화되고 있습니다.",
+            "content": "올해 지속되는 극심한 폭염이 한국 경제 전반에 부정적인 영향을 미치는 '히트플레이션(Heatflation)' 현상을 초래하고 있습니다. 고온으로 인한 농작물 피해는 채소류와 과일 가격의 급등을 유발하여 장바구니 물가 부담을 직접적으로 높이고 있습니다.\n\n산업 현장에서도 폭염은 생산성 저하의 주요 요인으로 꼽힙니다. 야외 작업이 많은 건설업과 조선업 등은 조업 시간이 단축되었으며, 냉방 수요 폭증에 따른 에너지 비용 상승은 기업의 경영 부담을 가중시키고 있습니다. 이는 결국 국가 전체의 경제 성장률을 갉아먹는 요인이 됩니다.\n\n전문가들은 기후 변화가 더 이상 일시적인 변수가 아닌 상수로서 경제 시스템에 통합되어야 한다고 경고합니다. 기후 리스크를 관리하지 못할 경우, 매년 반복되는 자연재해가 스태그플레이션(저성장·고물가)을 심화시킬 수 있다는 분석입니다.\n\n정부는 이에 대응해 농축산물 수급 안정 대책을 마련하고 에너지 취약 계층에 대한 지원을 확대하고 있지만, 근본적인 기후 위기 적응 전략이 시급하다는 지적이 나오고 있습니다. 폭염이 우리 경제의 새로운 취약점으로 부상하고 있습니다.",
+            "image_prompt": "Burning sun over city, withered plants, rising thermometer, expensive groceries, heat haze",
+            "published_at": "2026-08-06 14:45:51",
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "[속보] 코스피, 매도 사이드카 발동",
             "source": "hankyung.com",
