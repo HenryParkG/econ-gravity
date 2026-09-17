@@ -1,6 +1,116 @@
 {
-    "last_updated": "2026-09-17 19:55:06",
+    "last_updated": "2026-09-18 01:11:23",
     "items": [
+        {
+            "title": "“한국 경제 이 정도였어?”...무디스, 韓 성장률 전망 1.8→3.5%",
+            "source": "에너지경제신문",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96QWhsLXYwT3Y1eUxXTUt4dTE2d3RmakYycHRUUUdBbUdjNnY0RExhdV84UWg3Q2ZzZU5ncXl6cU1MdnhBTnhDOUdWVWNVVEtLUXZSNm4wVEZaUjZKeFE?oc=5",
+            "category": "거시경제",
+            "summary": "국제 신용평가사 무디스가 한국의 올해 경제 성장률 전망치를 기존 1.8%에서 3.5%로 파격적으로 상향 조정했습니다.",
+            "content": "글로벌 신용평가사 무디스(Moody's)가 한국의 올해 실질 국내총생산(GDP) 성장률 전망치를 기존 1.8%에서 무려 3.5%로 대폭 상향 조정하며 시장에 놀라움을 안겼습니다. 이는 최근 국내외 주요 기관들이 내놓은 2%대 중반 전망치를 크게 웃도는 수준으로, 한국 경제의 회복 탄력성을 매우 높게 평가한 결과로 풀이됩니다.\n\n이러한 낙관적인 전망의 배경에는 반도체를 중심으로 한 수출 경기의 가파른 회복세가 자리 잡고 있습니다. 인공지능(AI) 열풍으로 인한 고대역폭메모리(HBM) 수요 폭증과 전 세계적인 IT 경기 부활이 한국의 제조 역량과 맞물리며 강력한 성장 동력을 창출하고 있다는 분석입니다.\n\n다만, 이러한 높은 성장률 전망이 실제 민생 경제로 이어지기 위해서는 내수 소비 회복과 고금리 기조의 완화가 병행되어야 한다는 지적도 나옵니다. 무디스의 이번 발표는 한국 경제에 대한 글로벌 투자자들의 신뢰를 높이는 계기가 될 것으로 보이며, 향후 정부의 경제 정책 운용에도 상당한 영향을 미칠 것으로 예상됩니다.",
+            "image_prompt": "South Korea economy, rising growth graph, skyscraper, futuristic blue, optimistic",
+            "published_at": "2026-08-18 15:37:16",
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "이란은 버티고 트럼프는 급하고…美, 또다시 ‘경제전쟁’으로 선회",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RTmJVaEIweUhTY1RMUXZBaXQxTHNfYzgwSEJocXZxbW5WeG5GakdFdnVENGNxamdRTmI0NERBRVVCYkZQcGc?oc=5",
+            "category": "국제정세",
+            "summary": "미국과 이란의 60일 협상 시한이 종료됨에 따라 양국 관계가 다시 압박과 버티기의 경제 전쟁 체제로 전환되고 있습니다.",
+            "content": "미국과 이란 사이의 긴장 완화를 위해 설정되었던 '60일 협상 시한'이 성과 없이 종료되면서, 중동 정세가 다시 시계 제로의 상태로 빠져들고 있습니다. 미국은 이란을 향한 강력한 경제 제재 카드를 다시 꺼내 들며 '최대 압박' 전략으로 선회하는 모양새입니다.\n\n이란은 이에 굴하지 않고 에너지 자원을 무기로 삼아 장기전에 대비하고 있습니다. 특히 고유가 상황을 이용해 경제적 고립을 버텨내겠다는 의지를 보이고 있으며, 이는 국제 원유 시장의 불확실성을 높이는 핵심 요인으로 작용하고 있습니다.\n\n양국 간의 이러한 경제 전쟁은 단순히 두 나라의 문제를 넘어 글로벌 공급망과 에너지 안보에 지대한 영향을 미칠 전망입니다. 특히 미국 대선을 앞두고 대외 정책의 성과가 절실한 미국 행정부와, 내부 결속을 위해 강경 대응을 고수하는 이란 지도부 사이의 팽팽한 기 싸움은 당분간 지속될 것으로 보입니다.",
+            "image_prompt": "Oil barrels, US and Iran flags, desert sunset, geopolitical tension, high contrast",
+            "published_at": "2026-08-18 15:37:16",
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "반도체로 번 돈 全국민에 44만원씩 쏜다…대만 ‘AI보너스’",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYTHFHLTZReUN5Y01vVk1ROVNRMU9Qaktlam54RlFpVERvaE9TdVhfQzZwalVxSzB5cklXV2sySnFzWkRtVUw4VUM0OTljbWM?oc=5",
+            "category": "테크산업",
+            "summary": "대만 정부가 반도체 및 AI 산업의 호황으로 발생한 세수 초과분을 국민들에게 현금으로 환원하는 파격적인 정책을 시행합니다.",
+            "content": "세계 반도체 공급망의 핵심인 대만이 AI 열풍에 따른 산업 호황의 결실을 전 국민과 나눕니다. 대만 당국은 TSMC를 비롯한 주요 반도체 기업들의 기록적인 실적 덕분에 발생한 세수 초과분을 활용해 국민 1인당 약 44만 원 상당의 'AI 보너스'를 지급하기로 결정했습니다.\n\n이번 조치는 특정 산업의 성공이 국가 전체의 부로 이어지는 선순환 구조를 보여주는 사례로 평가받습니다. 대만 정부는 이를 통해 내수 진작과 더불어 반도체 산업에 대한 국민적 지지를 공고히 하겠다는 전략입니다. AI 산업이 단순한 기술 발전을 넘어 국가 경제의 중추적 역할을 하고 있음을 단적으로 보여줍니다.\n\n전문가들은 이러한 대만의 사례가 한국을 포함한 주요 IT 강국들에게 시사하는 바가 크다고 분석합니다. 핵심 전략 산업에서 창출된 이익을 사회적으로 어떻게 재분배하고 미래 성장 동력으로 재투자할 것인지에 대한 새로운 모델을 제시했기 때문입니다.",
+            "image_prompt": "Semiconductor wafers, flying currency, modern city, digital gold, vibrant",
+            "published_at": "2026-08-18 15:37:16",
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "美 경제 약화되나…월마트 실적·FOMC 의사록 관심",
+            "source": "머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xRjdvc3Jya2p6czMweDJCcU5MTjBlbVMtVDlBMEJjaVNUSms2eDB5S19lSlF6RC1QZ19tdWVSR2VvUDZfNlVkTWVHNWhMSXMwZU5pbnByVzdwbHlQN09Ia003eGc1bW1W0gFuQVVfeXFMTng5amRlZHlTWXZJWVV5S3gtQTZKT3ZnT0pxU3ItejdNcHE1U21xdzBwM0JWck5oeDNsTTBfVVFaUVJCWlhIY21oSXc4eHdsR21SNGhLbmZfTS1NY2lBcUlIOEVwTlhoNEVNYW1BbHc?oc=5",
+            "category": "글로벌시장",
+            "summary": "이번 주 발표될 월마트의 실적과 FOMC 의사록은 미국 경제의 향후 방향성과 금리 인하 여부를 결정지을 핵심 지표가 될 전망입니다.",
+            "content": "미국 경제가 연착륙에 성공할 것인지, 아니면 경기 침체의 전조를 보일 것인지에 대한 분수령이 이번 주 다가옵니다. 시장은 최대 유통업체인 월마트의 실적 발표를 통해 미국 소비 심리의 실질적인 체력를 확인하려 하고 있습니다.\n\n또한 함께 공개될 연방공개시장위원회(FOMC) 의사록은 연준 위원들의 금리에 대한 속내를 읽을 수 있는 중요한 단서가 될 것입니다. 인플레이션 둔화 속도와 고용 시장의 변화를 연준이 어떻게 해석하고 있는지가 향후 글로벌 금융 시장의 향방을 가를 변수입니다.\n\n투자자들은 현재 금리 인하 시점과 폭에 대해 촉각을 곤두세우고 있습니다. 만약 월마트의 실적이 예상보다 저조하고 연준의 태도가 매파적(통화 긴축 선호)으로 나타날 경우, 시장의 변동성은 더욱 커질 것으로 예상됩니다.",
+            "image_prompt": "Wall Street, retail shopping cart, Federal Reserve seal, stock market ticker, professional",
+            "published_at": "2026-08-18 15:37:16",
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "EU \"러 경제 1천600조원 타격\"…대폭 추가제재 예고",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlQ1JuYjlHV1MtUnJydlppR2hCOGFfd0QtZ0JOX0lqZ2dOZXJUcDVpVnZtTFlENUJ5SVBxZlB5dnFlMDZUVl9UWkJVTkxXOHJfMTl6cjZPQzFZMVXSAWBBVV95cUxPLUF6WG9SZ3k4cHJyLUhlVnk3ek9WNUdKdHRRVlk5c1IwQVBKZzBtNzRyUmZOMTZ3ek4xeUlKckJPY2F1QmdBczZ4UUo4a0tmQ2NOaDhyN25aQTVBZXFuWGM?oc=5",
+            "category": "국제금융",
+            "summary": "유럽연합(EU)이 러시아에 대한 제재 효과가 가시화되고 있다고 판단하며, 러시아 경제의 돈줄을 더욱 죄기 위한 추가 제재를 준비 중입니다.",
+            "content": "유럽연합(EU)은 우크라이나 침공 이후 시행된 대러시아 경제 제재로 인해 러시아 경제가 약 1,600조 원(약 1조 2천억 유로) 규모의 손실을 입었다고 공식 발표했습니다. 이는 러시아의 장기적인 성장 잠재력을 훼손하고 군사 자금 조달을 억제하려는 EU의 전략이 일정 부분 성과를 거두고 있음을 시사합니다.\n\n이에 멈추지 않고 EU는 러시아의 제재 우회 경로를 차단하고 에너지 수출에 더욱 타격을 줄 수 있는 14차 제재안 등 대폭적인 추가 제재를 예고했습니다. 특히 러시아산 LNG(액체천연가스)에 대한 제재 강도를 높여 러시아의 핵심 수익원을 원천 봉쇄하겠다는 계획입니다.\n\n하지만 이러한 제재가 장기화됨에 따라 유럽 국가들의 에너지 비용 상승과 공급망 불안 등 부작용에 대한 우려도 여전합니다. 글로벌 경제가 지정학적 진영 논리에 따라 분절화되는 '프렌드쇼어링' 현상이 더욱 가속화될 것으로 보입니다.",
+            "image_prompt": "European Union flag, industrial machinery, ice and frost, economic isolation, dramatic lighting",
+            "published_at": "2026-08-18 15:37:16",
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "무디스, 한국 성장률 전망 1.8%에서 3.5%로 전격 상향",
+            "source": "서울신문",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5Wi0yNkQyLVVMNFI5UktscDc1bERwZHRyYkhEQVVCaDB1Sk9kUTJ0cjE3N1lnUDljcGI5Szd5SE9XLVhYM0tTNFRrUzhWbEkzYlo1RXlwXy16em13TGQ2RGtLTGlMNFlKNDNib3J4TQ?oc=5",
+            "category": "거시경제",
+            "summary": "국제신용평가사 무디스가 한국의 올해 성장률을 3.5%로 대폭 상향하며 반도체 호황을 주원인으로 지목했습니다.",
+            "content": "국제신용평가사 무디스(Moody's)가 한국 경제의 올해 실질 국내총생산(GDP) 성장률 전망치를 기존 1.8%에서 무려 1.7%포인트나 올린 3.5%로 수정 발표했습니다. 이는 정부나 한국은행의 전망치인 2.5% 수준을 크게 웃도는 매우 파격적인 수치로, 한국 경제의 반등 가능성을 세계적으로 인정받은 결과로 풀이됩니다.\n\n무디스는 이번 상향 조정의 핵심 근거로 '메모리 반도체 산업의 독보적 지위'를 꼽았습니다. 전 세계적인 AI(인공지능) 열풍으로 인해 고대역폭메모리(HBM) 등 고부가가치 반도체 수요가 폭증하고 있으며, 한국 기업들의 기술력을 대체할 수 있는 공급처가 제한적이라는 점이 한국 경제 성장을 견인할 강력한 동력이 되고 있다고 분석했습니다.\n\n다만 이러한 성장이 반도체라는 특정 품목에 지나치게 쏠려 있다는 '반도체 쏠림' 현상에 대한 우려도 공존합니다. 무디스는 반도체 호황이 내년까지 이어질 것으로 내다보면서도, 가계 부채 부담과 고금리 장기화로 인한 내수 침체가 성장의 발목을 잡을 수 있는 위험 요소임을 동시에 시사했습니다.\n\n결과적으로 이번 발표는 한국 경제가 글로벌 기술 공급망에서 핵심적인 역할을 수행하고 있음을 재확인시켜 주었습니다. 앞으로 한국 경제가 반도체 낙수 효과를 내수 전반으로 확산시키고 민간 소비를 회복시킬 수 있을지가 성장의 질을 결정하는 관건이 될 전망입니다.",
+            "image_prompt": "South Korea economy growth, Upward arrow chart, Semiconductor chips, High-tech blueprint, Vibrant blue",
+            "published_at": "2026-08-18 12:41:03",
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "7월 수출 990억 달러 기록…14개월 연속 플러스 행진",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vV1c2dkY3cVV5NEc0RUFieG9OcXRrMFAtZjJwNm4teUp3THdmN1FDWHRuMFRzU01ydDU3OEdDYzFhSzdnNkFfTk40MEpHTU84MWlvWlZGT3I4X3psMThnTWpsZkl5RmNpOEU3c1hqZw?oc=5",
+            "category": "시장/무역",
+            "summary": "한국 수출이 14개월 연속 증가세를 기록하며 수출 주도형 성장의 견조함을 과시했습니다.",
+            "content": "산업통상자원부 발표에 따르면 지난 7월 우리나라 수출액은 약 990억 달러를 기록하며 전년 동기 대비 의미 있는 증가세를 나타냈습니다. 이로써 한국 수출은 14개월 연속으로 전년 대비 플러스 성장을 이어가게 되었으며, 이는 글로벌 경기 둔화 우려 속에서도 한국 제품의 경쟁력이 여전함을 보여주는 지표입니다.\n\n이번 수출 실적의 주인공 역시 반도체였습니다. 반도체 수출은 역대급 기록을 경신하며 전체 실적을 주도했고, 자동차와 선박 등 전통적인 효자 품목들도 견조한 실적을 뒷받침했습니다. 특히 미국과 동남아시아 시장으로의 수출 비중이 안정적으로 유지되면서 수출 다변화 전략이 일정 부분 성과를 거두고 있는 것으로 나타났습니다.\n\n전문가들은 이러한 수출 호조가 하반기에도 지속될 것으로 전망하고 있습니다. 글로벌 IT 기기 교체 주기와 맞물려 AI 서버용 부품 수요가 꾸준히 발생하고 있기 때문입니다. 또한 최근 국제 유가 안정화 기조에 따라 수출입 채산성이 개선되고 있는 점도 긍정적인 신호로 작용하고 있습니다.\n\n하지만 대외 변수는 여전히 존재합니다. 미중 갈등 심화에 따른 공급망 재편 압박과 글로벌 물류비 상승 등은 수출 기업들에 부담이 될 수 있습니다. 정부는 이러한 리스크에 대응하기 위해 수출 금융 지원을 확대하고 통상 현안에 대한 밀착 대응 체계를 강화할 방침입니다.",
+            "image_prompt": "Huge cargo ship, Global logistics port, Increasing export bar graph, Professional photography, Sunset sky",
+            "published_at": "2026-08-18 12:41:03",
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "EU, 러시아 경제에 1,600조 원 타격…추가 제재로 압박 수위 높여",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlQ1JuYjlHV1MtUnJydlppR2hCOGFfd0QtZ0JOX0lqZ2dOZXJUcDVpVnZtTFlENUJ5SVBxZlB5dnFlMDZUVl9UWkJVTkxXOHJfMTl6cjZPQzFZMVXSAWBBVV95cUxPLUF6WG9SZ3k4cHJyLUhlVnk3ek9WNUdKdHRRVlk5c1IwQVBKZzBtNzRyUmZOMTZ3ek4xeUlKckJPY2F1QmdBczZ4UUo4a0tmQ2NOaDhyN25aQTVBZXFuWGM?oc=5",
+            "category": "국제경제",
+            "summary": "유럽연합이 러시아의 우크라이나 침공 이후 가해진 제재로 러시아 경제가 심각한 손실을 보았다고 평가하며 제재 강화를 선언했습니다.",
+            "content": "유럽연합(EU)은 최근 보고서를 통해 지난 2년간의 경제 제재가 러시아 경제에 약 1,600조 원(약 1조 2천억 유로)에 달하는 누적 타격을 가했다고 발표했습니다. 이는 러시아의 전체 GDP 규모와 비교했을 때 매우 치명적인 수준으로, 금융 서비스 차단과 에너지 수출 제한이 가장 효과적인 수단이었음을 시사합니다.\n\nEU는 단순히 과거의 성과를 발표하는 데 그치지 않고, 대폭적인 추가 제재안을 예고하며 러시아를 더욱 고립시키겠다는 의지를 명확히 했습니다. 이번 추가 제재에는 러시아의 수익원인 천연가스(LNG) 환적 금지와 함께, 제재를 우회하여 러시아에 부품을 공급하는 제3국 기업들에 대한 강력한 처벌 규정도 포함될 것으로 보입니다.\n\n러시아 경제는 이러한 전례 없는 압박 속에서 고유가를 바탕으로 버티고 있으나, 장기적인 성장 잠재력은 심각하게 훼손되고 있다는 분석이 지배적입니다. 기술 도입이 차단되면서 제조업 경쟁력이 하락하고 있으며, 서방 금융망에서의 퇴출로 인해 자본 조달 비용이 급격히 상승하는 등 내부적인 진통이 깊어지고 있습니다.\n\n글로벌 경제 전문가들은 이번 EU의 조치가 에너지 가격 변동성을 다시 한번 자극할 수 있다고 경고합니다. 러시아가 이에 대응해 에너지 공급을 무기화할 경우 유럽은 물론 전 세계적인 인플레이션 압력이 다시 높아질 수 있어, 국제 사회는 제재의 실효성과 경제적 부작용 사이에서 긴밀한 공조를 이어가고 있습니다.",
+            "image_prompt": "Economic sanctions, Shattered gold coin, Global map background, Dark and serious mood, Abstract art",
+            "published_at": "2026-08-18 12:41:03",
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "불라드 전 연은 총재 \"미 경제 견조…금리 인상 적기\" 매파적 발언",
+            "source": "연합인포맥스",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1idnM0NXVhY1ZpdlExZUZ6ZE9LZXZNZkJBcWJMd2lyd3B0YkhRNHNVWThmZ0VXZUN4eGhsMnliSWNUclBQb2RjSmx5Z3hmcTlhSFc3bXlobW1vcVVlV2xFSG5obDIyWi1YRE44T0NlSTM?oc=5",
+            "category": "금융/증시",
+            "summary": "제임스 불라드 전 세인트루이스 연은 총재가 현재 미국 경제 상황을 낙관하며 추가적인 금리 인상 가능성을 언급했습니다.",
+            "content": "미 연방준비제도(Fed)의 대표적인 매파 인물로 꼽혔던 제임스 불라드 전 세인트루이스 연방준비은행 총재가 미국 경제에 대해 다시 한번 강력한 자신감을 드러냈습니다. 그는 현재 미국의 노동 시장이 여전히 견조하며 소비지출 또한 크게 꺾이지 않았다는 점을 근거로, 물가 안정화를 위해 지금이 금리 정책을 강화하기 좋은 시기라고 주장했습니다.\n\n불라드 전 총재의 이러한 발언은 시장의 조기 금리 인하 기대감에 찬물을 끼얹는 격이 되었습니다. 최근 월가에서는 경기 침체 우려로 인해 연준이 연내 금리 인하에 나설 것이라는 전망이 우세했으나, 불라드는 오히려 '경제의 견조함'을 이유로 고금리 기조 유지 또는 추가 인상의 당위성을 설파한 것입니다.\n\n실제로 미국 내 월마트와 같은 대형 유통업체들의 실적은 소비자들이 고물가 속에서도 여전히 지갑을 열고 있음을 보여주고 있습니다. 이러한 데이터들은 연준이 물가를 2% 목표치까지 되돌리기 위해 더 오랜 기간 고금리를 유지해야 한다는 주장에 힘을 실어주는 근거가 되고 있습니다.\n\n향후 시장의 관심은 공개를 앞둔 FOMC 의사록에 쏠려 있습니다. 불라드와 같은 인사의 발언이 연준 내부의 지배적인 분위기를 반영하는 것인지, 아니면 개인적인 견해에 불과한 것인지를 확인하려는 투자자들의 눈치 싸움이 치열해질 것으로 보입니다.",
+            "image_prompt": "Federal Reserve building, Interest rate scale, Hawkish eagle symbol, Financial stock ticker, Dramatic lighting",
+            "published_at": "2026-08-18 12:41:03",
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "KT·농협·MS, 유통 AX(AI 전환) 혁신을 위해 손잡다",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNb3JqNmFiZHBoZkJsbFpCRlBTaGs3Ym5JM0E0ZFM5OU5Fc3pfXzdyU0l2RTJkQU5WbS1wNTRkX0N3djRsbFpqcFpKLU1CSVU?oc=5",
+            "category": "테크/산업",
+            "summary": "KT가 농협경제지주 및 마이크로소프트와 협력하여 유통 전 과정에 AI 기술을 도입하는 AX 프로젝트를 가동합니다.",
+            "content": "KT가 농협경제지주, 그리고 글로벌 IT 거인인 마이크로소프트(MS)와 손잡고 유통 산업의 디지털 대전환을 의미하는 'AX(AI Transformation)' 협력에 본격적으로 나섭니다. 이번 협력은 전통적인 오프라인 중심의 유통 구조를 클라우드와 AI 기반의 최첨단 시스템으로 개편하는 것을 골자로 합니다.\n\n농협경제지주는 방대한 유통 데이터를 제공하고, KT는 국내 최고 수준의 통신 및 IT 인프라를 지원하며, 마이크로소프트는 자사의 최신 AI 모델인 애저(Azure) OpenAI 서비스를 통해 지능형 솔루션을 구축할 예정입니다. 이를 통해 재고 관리의 자동화, 맞춤형 고객 서비스 제공, 물류 경로 최적화 등 유통 전 과정에서 비약적인 효율성 향상이 기대됩니다.\n\n특히 이번 협력은 단순히 기술 도입에 그치지 않고, 국내 농축산물 유통 생태계 전반을 혁신한다는 점에서 큰 의미가 있습니다. 데이터 기반의 수요 예측을 통해 농가 소득의 안정을 돕고, 소비자들에게는 보다 신선하고 저렴한 제품을 공급할 수 있는 지능형 공급망을 구축하겠다는 비전을 제시하고 있습니다.\n\n전문가들은 이러한 대기업 간의 연합이 국내 유통 시장의 판도를 바꿀 것으로 보고 있습니다. 글로벌 빅테크의 기술력과 로컬 기업의 시장 지배력이 결합된 'AX 모델'이 성공적으로 안착할 경우, 타 산업 분야로의 AI 확산 속도는 더욱 빨라질 것으로 전망됩니다.",
+            "image_prompt": "Future supermarket, Artificial intelligence robot, Digital network connections, High-tech agriculture, Clean aesthetic",
+            "published_at": "2026-08-18 12:41:03",
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "EU \"러시아 경제 1천600조원 타격\"…대폭 추가제재 예고",
             "source": "연합뉴스",
