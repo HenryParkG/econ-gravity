@@ -1,44 +1,99 @@
 {
-    "last_updated": "2026-09-18 19:33:01",
-    "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요.",
+    "last_updated": "2026-09-19 00:46:42",
+    "briefing": "오늘의 경제 뉴스는 미국의 금리 정책 변화와 인공지능(AI) 산업의 변동성이 국내 증시에 미치는 영향에 주목하고 있습니다. 또한, 인천경제자유구역청의 신임 청장 취임과 함께 반도체 등 첨단 산업 유치를 통한 지역 경제 활성화 및 정치권의 '경제·행정 2수도' 구상이 주요 화두로 떠올랐습니다.",
     "indices": [
         {
             "name": "KOSPI",
-            "value": "6,894.23",
-            "change": "▲ 2.66%",
-            "is_up": true,
+            "value": "nan",
+            "change": "- nan%",
+            "is_up": false,
             "is_down": false
         },
         {
             "name": "KOSDAQ",
-            "value": "827.12",
-            "change": "▲ 0.60%",
-            "is_up": true,
+            "value": "nan",
+            "change": "- nan%",
+            "is_up": false,
             "is_down": false
         },
         {
             "name": "USD/KRW",
-            "value": "1,385.22",
-            "change": "▲ 0.63%",
+            "value": "1,388.83",
+            "change": "▲ 0.89%",
             "is_up": true,
             "is_down": false
         },
         {
             "name": "NASDAQ",
-            "value": "26,418.30",
-            "change": "▲ 1.69%",
-            "is_up": true,
-            "is_down": false
+            "value": "26,385.08",
+            "change": "▼ 0.13%",
+            "is_up": false,
+            "is_down": true
         },
         {
             "name": "S&P 500",
-            "value": "7,637.76",
-            "change": "▲ 1.14%",
-            "is_up": true,
-            "is_down": false
+            "value": "7,622.45",
+            "change": "▼ 0.20%",
+            "is_up": false,
+            "is_down": true
         }
     ],
     "items": [
+        {
+            "title": "미국 금리 향방, 연준의 입보다 백악관의 정치적 흐름 주목해야",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBNEFYejFkc2FqeHJPcGtYRWJZOEhfMmhVT0I5QU44TXZXU0pBNUk4cndFS3lKaDktMlFiMnJ2V1l2eFRlcVRLQmhkVFREdmNtTHRTbHZNTmpXUdIBX0FVX3lxTE9FX2FxM2ptV0I4eWxvY3VhSWNWRjZNZEcwZWtYLWh5aUx0WkpPbVpEWG52U05La2RNN0lhMVV0YWtiN2xETWU0bXVmRVBhUGpPd2ZKYjJyUWhYWDRZNWk4?oc=5",
+            "category": "금융",
+            "summary": "미 금리 결정이 단순한 경제 지표를 넘어 백악관의 정치적 영향권 아래 놓였다는 분석이 제기되었습니다.",
+            "content": "최근 글로벌 금융 시장의 시선이 미국 연방준비제도(Fed)의 입에 쏠려 있는 가운데, 금리 결정의 실질적인 열쇠는 백악관과 정치적 상황에 있다는 분석이 나왔습니다. 과거 사례를 비추어 볼 때 미 연준의 독립성에도 불구하고 대선을 앞둔 시점이나 국가 경제 기조 변화 시 정치적 압력이 금리 경로에 상당한 영향을 미쳐왔기 때문입니다.\n\n특히 물가 상승세가 둔화하고 경기 침체 우려가 공존하는 상황에서 백악관이 추구하는 고용 안정 정책이 금리 인하의 강력한 트리거가 될 수 있다는 관측입니다. 이는 시장 참가자들이 단순히 물가 지표(CPI)뿐만 아니라 정부의 재정 정책과 정치적 스탠스를 동시에 읽어내야 함을 시사합니다.\n\n전문가들은 인플레이션과의 전쟁이 막바지에 다다르면서 이제는 '누가 경제 주도권을 쥐느냐'의 싸움으로 변질되고 있다고 평가합니다. 금리 인하의 시점과 폭이 단순히 데이터에 의존하기보다는 정치적 정당성과 경제 성과라는 복합적인 요인에 의해 결정될 가능성이 큽니다.\n\n결국 투자자들은 연준 위원들의 발언 이면에 숨겨진 행정부의 의중을 파악하는 것이 중요해졌습니다. 미 대선 국면과 맞물려 금리가 자산 시장에 미칠 파급력을 고려할 때, 거시 경제 정책의 정치화 경향을 예의주시해야 할 시점입니다.",
+            "image_prompt": "US Fed building, White House overlay, interest rates, financial strategy, professional blue tone",
+            "published_at": "2026-09-19 00:46:42",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "AI 속도조절론 확산… K-증시 반도체주 변동성 확대 주의보",
+            "source": "MBC 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45anJ1ZUtlQW1aeWZ5OW1QX19sZHBOR2l5UDltaHJxaWd1T1RxVlJuekQxaW1uaHdUWWFHdU44a1JJMkhDSmdaTXJvUFlsNkRGMUtvRXNlaGxDSUdLZkhTSlNDTEdEQlRXcVk2SzRsWnV6V0FsdW1jNdIBeEFVX3lxTE0yU3liT1d3aGNyRHZlQ1pZbzh5YmRqWDNmOU5EWFFyVmNUZjlCVUdSZms1b29iZUFKNWlkVzBNQUdMT1ZVUFhOWmNpRk0yLUVWQjNoZ2J2dGdkNlp6dzFSWXRGc3hMLWhhV1hvb09GV1VWaEwtY2NUQQ?oc=5",
+            "category": "시장",
+            "summary": "글로벌 시장의 AI 거품론과 속도조절론이 한국 증시의 핵심인 반도체 종목에 치명적인 영향을 미치고 있습니다.",
+            "content": "최근 엔비디아를 필두로 한 글로벌 AI 대장주들이 주춤하면서 한국 증시를 지탱하던 반도체 종목들이 직격탄을 맞고 있습니다. 시장 일각에서는 AI 산업의 수익성 창출 속도가 기대보다 느리다는 'AI 속도조절론'이 힘을 얻으며, 그간 과도하게 유입되었던 유동성이 회수되고 있다는 분석이 나옵니다.\n\n특히 삼성전자와 SK하이닉스 등 HBM(고대역폭메모리) 관련주들에 대한 외국인 투자자들의 매도세가 거세지며 코스피 지수의 하방 압력을 높이고 있습니다. 이는 AI 기술 자체의 회의론이라기보다는, 급격한 주가 상승에 따른 피로감과 실질적인 실적 증명 단계로의 진입을 의미하는 것으로 보입니다.\n\n일부 전문가들은 이번 조정이 오히려 건전한 시장 정화 과정이 될 수 있다고 보면서도, K-증시의 높은 반도체 의존도가 변동성을 키우는 요인이라고 지적합니다. 글로벌 빅테크 기업들의 인프라 투자 지속 여부가 향후 반도체 업황의 향방을 결정지을 핵심 변수가 될 전망입니다.\n\n결론적으로 투자자들은 단기적인 급등락에 일희일비하기보다는 AI 칩 수요의 중장기적인 추세를 확인해야 합니다. 실질적인 매출 기여도가 높은 기업 중심으로 포트폴리오를 재편하는 전략이 필요한 시점이며, 글로벌 기술주의 동향을 상시 모니터링해야 합니다.",
+            "image_prompt": "Artificial Intelligence, stock market graph falling, semiconductor chip, neon digital city, cinematic lighting",
+            "published_at": "2026-09-19 00:46:42",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "김종철 인천경제청장 취임… \"첨단산업 유치로 경제자유구역 외연 확장\"",
+            "source": "yna.co.kr",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rcWpPSU8xR0xhQW9mcV93UmdXcERhYzF5VVE5akRFczBDR2QzV0dHU0lSUWhhZEFFZ0oyVVNfeE9YZ1dkcGk2bk9Gem5IWlE2UVFwTUUxZ0NlamfSAWBBVV95cUxOaWxQSG5oc3NsQlBXaVRWYll4dnIxYmtTTmUxVGxMMDhVQnJuRUdUQ21Nd2ZGRm9PSlh1alo4NVViXzV3N0kwdnZQcVFOQmtJUEUyLWJMTk01bXRRa0N5VnQ?oc=5",
+            "category": "정책",
+            "summary": "김종철 신임 인천경제자유구역청장이 취임 직후 반도체와 첨단산업 현장을 방문하며 공격적인 투자 유치 행보를 시작했습니다.",
+            "content": "김종철 제8대 인천경제자유구역청장이 공식 취임하며 글로벌 경쟁력 강화를 위한 포부를 밝혔습니다. 김 청장은 취임사에서 인천경제자유구역(IFEZ)을 세계적인 비즈니스 허브로 만들기 위해 바이오, 반도체, 미래 모빌리티 등 첨단 산업의 생태계 조성에 총력을 기울이겠다고 강조했습니다.\n\n그는 취임 첫 공식 일정으로 송도국제도시 내 반도체 관련 현장을 직접 방문하여 현장의 목소리를 청취했습니다. 이는 인천이 단순한 거주 중심 도시를 넘어 산업 생산의 핵심 기지로 거듭나겠다는 의지를 표명한 것으로 해석됩니다. 특히 강화도 남단 등 미개발 지역을 경제자유구역으로 추가 지정하려는 노력도 병행할 계획입니다.\n\n김 청장은 또한 외국 자본 유치뿐만 아니라 국내 우수 기업들의 R&D 센터를 유치하여 지역 내 양질의 일자리를 창출하겠다고 약속했습니다. IFEZ의 외연을 확장하고 접경 지역의 특수성을 살린 경제 활성화 모델을 구축하는 것이 그의 핵심 과제 중 하나입니다.\n\n향후 인천경제청은 글로벌 기업들의 투자 환경을 개선하기 위한 각종 규제 완화와 행정 지원 체계를 강화할 것으로 보입니다. 이번 인사가 침체된 지역 경제에 새로운 활력을 불어넣고 동북아 경제 거점으로서의 입지를 다지는 계기가 될지 주목됩니다.",
+            "image_prompt": "Modern city harbor, high-tech factory, investment contract, futuristic logistics, blue and gold theme",
+            "published_at": "2026-09-19 00:46:42",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "이재명 '행정수도 세종·경제수도 서울' 2수도 체제 공약 재강조",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA1VEZIS3h1UUN4OEhsVW5yT1J0eGg0TFVKaUxyMzR0X2p0QXpaLVNYSGdzY0RoOGx6Q1hkWlZsX0otdkFpUEE?oc=5",
+            "category": "정책",
+            "summary": "이재명 더불어민주당 대표가 부동산 문제 해결과 균형 발전을 위해 서울을 경제수도로, 세종을 행정수도로 확립하는 '2수도 시대'를 제안했습니다.",
+            "content": "이재명 더불어민주당 대표가 대한민국이 직면한 저출생과 수도권 집중 문제를 해결하기 위한 파격적인 해법으로 '경제·행정 2수도 시대'를 제시했습니다. 이는 세종특별자치시를 명실상부한 행정의 중심으로 완성하고, 서울은 글로벌 경제와 문화의 중심지로 더욱 특화시키는 이원화 전략입니다.\n\n이 대표는 '부동산 공화국'이라는 오명을 벗기 위해서는 자원이 특정 지역에만 쏠리는 현상을 타파해야 한다고 주장했습니다. 국가 기관의 실질적인 지방 이전을 통해 지역 거점 도시들을 활성화하고, 이를 통해 전국적인 균형 발전을 도모하겠다는 구상입니다. 이는 주거 안정뿐만 아니라 지방 경제의 자립성을 높이는 데 목적이 있습니다.\n\n이러한 구상은 국회 세종의사당 건립과 대통령 제2집무실 설치 등 기존의 흐름을 가속화하겠다는 의지로 풀이됩니다. 세종시 측은 이 같은 발언에 대해 환영의 뜻을 밝히며 관련 특별법 처리를 촉구하고 나섰습니다. 정치권에서는 이 제안이 실질적인 법제화로 이어질지 예의주시하고 있습니다.\n\n하지만 대규모 인프라 이동에 따른 비용 발생과 서울의 경쟁력 약화 우려 등 반대 여론도 만만치 않아 향후 정책 추진 과정에서 상당한 진통이 예상됩니다. '2수도 체제'가 단순한 정치적 수사를 넘어 실제 국가 운영의 패러다임을 바꿀 수 있을지 국민적 관심이 쏠리고 있습니다.",
+            "image_prompt": "Two cities map, futuristic Seoul and Sejong, balanced development, government buildings, modern architecture",
+            "published_at": "2026-09-19 00:46:42",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "1인당 GDP 13위에도 경제 체감은 하위권… '지표와 현실의 괴리'",
+            "source": "더나은미래",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uanROUFFPTl9JX21wcE9Ib0N0bXkzc0NHWTNKQS1UTGk4RTFJeHZQMTNydFRta1BRUFBURjFPeTFjdW9VOUluMGFMYnBDbzFhOVE?oc=5",
+            "category": "사회",
+            "summary": "우리나라의 1인당 GDP 순위는 세계 상위권이지만 국민들이 느끼는 체감 경제는 크게 뒤처져 구조적 문제 해결이 시급합니다.",
+            "content": "대한민국의 경제 규모와 1인당 국내총생산(GDP) 지표는 전 세계적으로 최상위권에 위치하고 있으나, 실제 국민들의 삶의 만족도와 체감 경제 수준은 이에 훨씬 못 미친다는 분석 결과가 나왔습니다. 조사에 따르면 한국의 GDP 순위는 13위권에 달하지만, 경제적 삶의 질이나 체감 지수는 20위권 후반에 머물러 있는 것으로 나타났습니다.\n\n이러한 격차의 원인으로는 높은 주거비 부담, 심화되는 자산 양극화, 그리고 사회안전망의 부족이 꼽힙니다. 지표상으로는 경제가 성장하고 있으나 그 성장의 과실이 가계보다는 기업이나 자산가 층에 집중되면서, 일반 서민들이 느끼는 실질 소득의 증가는 미미하다는 지적입니다.\n\n특히 고물가와 고금리가 지속되는 상황에서 필수 소비재 지출이 늘어나면서 가처분 소득이 줄어든 점도 체감 경기를 악화시키는 주요 요인입니다. 청년 세대의 취업난과 노년층의 빈곤 문제 등 세대 간 경제적 불균형 또한 사회적 활력을 떨어뜨리는 고질적인 문제로 분석됩니다.\n\n전문가들은 이제 외형적인 성장률 수치에 집권하기보다, 삶의 질 개선을 위한 포용적 성장 정책이 필요하다고 입을 모읍니다. 분배 구조의 개선과 복지 확대를 통해 지표와 현실의 괴리를 좁히는 것이 향후 경제 정책의 핵심 과제가 될 전망입니다.",
+            "image_prompt": "Wealth gap illustration, growing GDP arrow vs sad person, empty wallet, high rise buildings background, dramatic contrast",
+            "published_at": "2026-09-19 00:46:42",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "떠나는 ‘李 정부 첫 경제수장’…구윤철 “메모리반도체 후속타 키워야” - v.daum.net",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZeEttZG5Ia1RYZW9RZFdtNnMycXR6enRuOWZjS01FQXVxdTJmQmhELTNKNWozc21TTE04WERlMHhfRk1qWFprbnVELUdhQzA?oc=5",
@@ -47,7 +102,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-18 19:33:01",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[진도소식] 진도군-한국은행, 경제정책 포럼 - 연합뉴스",
@@ -57,7 +112,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-18 19:33:01",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘AI·반도체 시대’ 지역 경제 자립 꾀한다… 한국지역순환경제학회 학술대회 - 인천일보",
@@ -67,7 +122,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-18 19:33:01",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "김종철 인천경제청장 취임…\"지역산업·투자유치 집중\" - 연합뉴스",
@@ -77,7 +132,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-18 19:33:01",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "김종철 인천경제청장, 첫 일정으로 반도체·첨단산업 현장 방문 - 경기일보",
@@ -87,7 +142,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-18 19:33:01",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李 \"부동산 반드시 안정…서울·세종 '경제·행정 2수도' 시대 열 것\"",
@@ -98,7 +153,7 @@
             "content": "이 대통령은 부동산 시장의 확실한 안정을 약속하며, 서울과 세종을 각각 '경제수도'와 '행정수도'로 이원화하는 이른바 '2수도 체제' 구축 계획을 공식화했습니다. 이는 미국의 뉴욕(경제)과 워싱턴 D.C.(행정) 모델을 벤치마킹한 것으로, 수도권 집중 현상을 해소하고 국가 균형 발전을 꾀하려는 전략적 포석으로 풀이됩니다.\n\n대통령은 특히 집값 안정에 대한 강력한 의지를 피력하며, 주거 환경 개선과 공급 대책을 병행할 것임을 시사했습니다. 서울은 글로벌 금융과 비즈니스의 중심지로 더욱 고도화하고, 세종은 명실상부한 행정의 중심으로서 기능을 완성하여 국정 운영의 효율성을 높이겠다는 구상입니다.\n\n정치권과 시장에서는 이번 발표가 고질적인 부동산 문제 해결의 실마리가 될 수 있을지에 주목하고 있습니다. 하지만 대규모 인프라 구축과 행정 기관 이전 과정에서 발생할 예산 확보 문제 및 사회적 합의 도출이 향후 과제로 남을 전망입니다.\n\n정부는 이번 '2수도' 구상을 구체화하기 위한 세부 로드맵 수립에 착수할 예정이며, 이를 통해 침체된 지방 경제에 활력을 불어넣고 수도권 과밀화로 인한 사회적 비용을 절감하는 데 총력을 기울일 것으로 보입니다.",
             "image_prompt": "Dual capital city concept, Seoul and Sejong cityscapes, modern architecture, blue blueprint style, urban planning, professional.",
             "published_at": "2026-09-18 12:03:51",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美10년물 5%에도 시장 차분…강한 경제에 '고금리 감당' 자신감",
@@ -109,7 +164,7 @@
             "content": "미국 10년물 국채 금리가 연 5%라는 역사적인 수준에 도달했음에도 불구하고 글로벌 금융 시장은 예상보다 차분한 반응을 보이고 있습니다. 통상 고금리는 주식 시장에 악재로 작용하지만, 현재 시장은 미국의 견조한 고용 지표와 소비력을 바탕으로 고금리 환경을 충분히 버텨낼 수 있다는 자신감을 내비치고 있습니다.\n\n투자자들은 단순히 금리 수치에 매몰되기보다는 미 경제의 연착륙 가능성에 더 무게를 두는 모양새입니다. 특히 테크 기업들의 실적 호조와 인플레이션의 점진적 둔화 흐름이 확인되면서, '고금리의 장기화(Higher for Longer)' 시나리오가 시장에 이미 상당 부분 반영되었다는 분석이 나옵니다.\n\n전문가들은 이러한 현상이 미 경제의 강력한 복원력을 입증하는 것이라 평하면서도, 부채 부담이 큰 한계 기업이나 신흥국 시장에는 여전히 금리 상승이 압박으로 작용할 수 있다고 경고합니다. 자산 배분 전략에 있어서도 금리 고점 확인 이후 채권과 주식 간의 리밸런싱이 활발해질 것으로 보입니다.\n\n결국 향후 연준(Fed)의 행보와 추가적인 경제 지표 발표가 시장의 향방을 가를 핵심 열쇠가 될 전망입니다. 고금리 속에서도 성장을 이어가는 '골디락스' 시나리오에 대한 기대와 경기 침체 우려가 공존하는 변동성 장세가 당분간 지속될 것으로 예상됩니다.",
             "image_prompt": "US Treasury yield chart, 5 percent digital display, stock market terminal, calm financial atmosphere, golden coin, professional.",
             "published_at": "2026-09-18 12:03:51",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李대통령, UAE 칼둔과 '경제동맹' 후속 점검…방산·AI·원전 협력 속도",
@@ -120,7 +175,7 @@
             "content": "이 대통령은 아랍에미리트(UAE)의 실권자인 칼둔 무바락 행정청장과 만나 양국 간 경제 협력 방안을 심도 있게 논의했습니다. 이번 만남은 지난 정상회담에서 약속된 대규모 투자 계획의 후속 조치를 점검하고, 방위산업과 인공지능(AI), 원자력 발전 등 미래 먹거리 분야에서의 협력을 가속화하기 위해 마련되었습니다.\n\n양측은 특히 중동 지역의 안보 상황과 맞물려 한국의 우수한 방산 기술 도입에 큰 관심을 보였으며, AI와 같은 4차 산업혁명 핵심 기술 분야에서도 공동 연구 및 투자를 확대하기로 뜻을 모았습니다. 또한, UAE 내 추가 원전 건설 및 제3국 공동 진출 가능성도 열어두고 실무 협의를 이어가기로 했습니다.\n\n이번 협력 강화는 한국 경제에 '제2의 중동 붐'을 일으킬 수 있는 중요한 기회로 평가받습니다. 석유 자본 중심의 UAE 국부펀드가 한국의 하이테크 기업들에 투자될 경우, 국내 기술 기업들의 글로벌 확장성에 큰 탄력이 붙을 것으로 기대됩니다.\n\n정부는 UAE와의 긴밀한 네트워크를 바탕으로 중동 시장 수출길을 넓히는 한편, 에너지 안보를 공고히 다지는 전략적 동반자 관계를 더욱 심화해 나갈 방침입니다. 이는 단순한 자원 외교를 넘어 기술과 자본이 결합된 고도의 경제 협력 모델이 될 것입니다.",
             "image_prompt": "South Korea and UAE economic partnership, high-tech cooperation, AI and nuclear energy, diplomatic handshake, futuristic city background.",
             "published_at": "2026-09-18 12:03:51",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[친절한 경제] 720억 선착순 풀린다…5% 할인에 2% 환급까지",
@@ -131,7 +186,7 @@
             "content": "다가오는 추석 명절을 맞아 고물가로 시름하는 서민들을 위한 대대적인 소비 지원책이 시행됩니다. 정부는 총 720억 원 규모의 예산을 투입하여 농축수산물 할인 쿠폰 및 환급 혜택을 제공합니다. 이번 조치는 역대 최대 규모의 할인 지원으로, 전통시장과 대형마트 등에서 장을 보는 국민들이 실질적인 혜택을 체감할 수 있도록 기획되었습니다.\n\n구체적으로는 주요 성수품에 대해 최대 5%의 현장 할인과 더불어 온누리상품권 등을 통한 2% 추가 환급 혜택이 적용됩니다. 특히 전통시장에서는 모바일 앱을 활용한 간편 환급 시스템을 도입해 접근성을 높였으며, 선착순으로 진행되는 만큼 빠른 참여가 필요할 것으로 보입니다.\n\n정부의 이번 조치는 명절 기간 급등하기 쉬운 장바구니 물가를 억제하고 내수 소비를 활성화하려는 목적을 가지고 있습니다. 사과, 배, 돼지고기 등 주요 품목의 수급 상황을 집중 관리하며 유통 단계에서의 가격 왜곡 현상도 철저히 모니터링할 계획입니다.\n\n소비자들은 정부의 지원 정책을 적극 활용해 명절 준비 비용을 절감할 수 있을 것으로 보이며, 상인들 역시 명절 특수를 기대하며 활기찬 시장 분위기를 반기는 분위기입니다. 정부는 명절 이후에도 물가 안정 기조가 유지될 수 있도록 추가적인 수급 관리 대책을 병행할 방침입니다.",
             "image_prompt": "Korean Chuseok holiday market, discount coupons, fresh grocery basket, family shopping, warm lighting, festive atmosphere.",
             "published_at": "2026-09-18 12:03:51",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제부총리 \"추석 연휴 기간 고속도로 기름값 100원 인하\"",
@@ -142,7 +197,7 @@
             "content": "추석 연휴 대이동을 앞두고 정부가 고속도로 이용객들의 유류비 부담을 덜어주기 위한 파격적인 대책을 내놓았습니다. 경제부총리는 국무회의를 통해 연휴 기간 전국 고속도로 휴게소 내 알뜰주유소를 중심으로 기름값을 리터당 약 100원가량 인하하겠다고 발표했습니다. 이는 고유가 상황에서 장거리 운전을 해야 하는 귀성객들에게 실질적인 도움을 주기 위한 조치입니다.\n\n이번 인하는 정부의 유류세 인하 연장 조치와 더불어 정유사 및 주유소 업계의 협력을 통해 이뤄졌습니다. 명절 기간 도로 정체로 인해 연료 소모가 평소보다 많은 점을 고려할 때, 이번 가격 인하는 가계 경제에 상당한 보탬이 될 것으로 기대됩니다.\n\n또한, 정부는 연휴 기간 고속도로 통행료 면제와 함께 공영주차장 무료 개방 등 교통비 절감을 위한 종합적인 지원책도 병행합니다. 이는 국민들이 편안하고 즐거운 명절을 보낼 수 있도록 이동 편의를 극대화하고 명절 물가 안정에 기여하겠다는 취지입니다.\n\n정부는 인하된 가격이 현장에서 즉각 반영될 수 있도록 점검반을 가동해 상시 모니터링할 예정이며, 고속도로 주유소의 수급 물량 확보에도 만전을 기해 이용객들의 불편함이 없도록 조치할 계획입니다.",
             "image_prompt": "Gas station pump, low fuel price sign, highway traffic, Chuseok travel, blue sky, economy support.",
             "published_at": "2026-09-18 12:03:51",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "Fed, 추가 금리 인상 시사…韓 경제 ‘고금리·강달러’ 이중고",
@@ -153,7 +208,7 @@
             "content": "미국 연방준비제도(Fed)가 물가 안정을 위해 추가적인 금리 인상 가능성을 시사하면서 글로벌 금융 시장의 불확실성이 커지고 있습니다. 미 연준은 인플레이션 둔화 속도가 기대보다 느리다는 판단하에 당분간 긴축적인 통화 정책을 유지할 것이라는 메시지를 보냈으며, 이는 전 세계적인 달러 강세 현상을 심화시키고 있습니다.\n\n한국 경제는 이러한 대외 변수로 인해 '고금리'와 '강달러'라는 이중고에 직면했습니다. 원·달러 환율이 상승함에 따라 수입 물가 부담이 커지고 있으며, 이는 국내 소비자 물가 상승을 부추기는 요인으로 작용하고 있습니다. 또한 한미 금리 격차가 벌어지면서 외국인 자금 유출에 대한 우려도 깊어지고 있는 상황입니다.\n\n정부와 한국은행은 시장 상황을 예의주시하며 실물 경제에 미칠 충격을 최소화하기 위한 '방파제' 구축에 주력하고 있습니다. 특히 가계 부채 부담이 높은 상황에서 추가적인 금리 압박이 소비 위축으로 이어지지 않도록 정교한 통화 및 재정 정책의 공조가 어느 때보다 절실한 시점입니다.\n\n전문가들은 이번 연준의 행보가 단순한 금리 결정을 넘어 글로벌 경제 지형에 '나비효과'를 일으킬 수 있다고 경고합니다. 기업들은 조달 비용 상승에 대비한 비상 경영 체제에 돌입했으며, 투자자들은 자산 배분 전략을 재점검하며 시장의 변동성에 대비하고 있습니다.",
             "image_prompt": "Federal Reserve, interest rate hike, dollar strength, financial volatility, professional graph",
             "published_at": "2026-09-18 01:11:23",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"한국 1인당 GDP 주요 29개국 중 13위…경제 체감도는 27위\"",
@@ -164,7 +219,7 @@
             "content": "최근 발표된 경제 지표에 따르면 한국의 1인당 국내총생산(GDP)은 주요 29개국 중 13위를 기록하며 선진국 대열에서의 입지를 공고히 했습니다. 하지만 이러한 양적 성장과는 대조적으로, 국민들이 피부로 느끼는 '경제 체감도'는 27위에 그쳐 지표와 현실 사이의 심각한 괴리를 드러냈습니다.\n\n이러한 현상은 높은 주거비, 사교육비 부담, 그리고 양질의 일자리 부족 등 구조적인 문제에서 기인한 것으로 분석됩니다. 경제 규모는 커졌으나 소득 불평등과 자산 양극화가 심화되면서 일반 가계의 가처분 소득은 정체되고, 이는 곧 삶의 질 저하와 미래에 대한 불안감으로 연결되고 있다는 지적입니다.\n\n특히 한국인의 개인적 행복도와 사회적 신뢰도는 주요국 중 최하위권인 21위에 머물렀습니다. 이는 경제적 풍요가 반드시 행복으로 직결되지 않는다는 것을 보여주며, 우리 사회가 추구해야 할 성장의 방향에 대해 근본적인 질문을 던지고 있습니다. 단순한 GDP 상승보다는 공동체의 유대와 사회적 안전망 강화가 시급해 보입니다.\n\n정부 정책 또한 단순한 성장률 수치 달성에서 벗어나 체감 경기를 개선할 수 있는 생활 밀착형 대책으로 전환되어야 한다는 목소리가 높습니다. 민생 경제의 활력을 되찾고 사회적 자본인 '신뢰'를 회복하는 것이 지속 가능한 성장을 위한 필수 전제 조건이 될 전망입니다.",
             "image_prompt": "GDP growth, happiness gap, social trust, urban lifestyle, modern statistics",
             "published_at": "2026-09-18 01:11:23",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국회 재경위, 이형일 경제부총리 인사청문보고서 채택",
@@ -175,7 +230,7 @@
             "content": "국회 기획재정위원회는 이형일 경제부총리 겸 기획재정부 장관 후보자에 대한 인사청문경과보고서를 채택했습니다. 이로써 윤석열 정부의 경제팀을 이끌 새로운 수장이 공식적인 임무를 시작하게 되었으며, 그는 최초의 1970년대생 부총리로서 세대교체의 상징적인 의미를 갖게 되었습니다.\n\n신임 부총리는 정통 경제 관료 출신으로 '무색무취'하지만 실리에 밝고 추진력이 강하다는 평가를 받고 있습니다. 그는 취임 일성으로 물가 안정과 민생 경제 회복을 최우선 과제로 꼽았으며, 규제 혁신을 통해 기업들의 투자 활력을 불어넣겠다는 강한 의지를 피력했습니다.\n\n하지만 그 앞에 놓인 과제는 녹록지 않습니다. 미 연준의 금리 압박과 글로벌 공급망 재편, 그리고 국내의 가계 부채 문제 등 대내외적인 불확실성이 산재해 있기 때문입니다. '70년대생 부총리'라는 젊은 리더십이 기존의 관료 사회에 어떤 변화를 일으키고 위기 상황을 돌파할지가 초유의 관심사입니다.\n\n정치권과 시장은 신임 부총리가 야당과의 협치를 통해 주요 경제 법안들을 원만히 처리할 수 있을지 주목하고 있습니다. 특히 재정 준칙 도입과 세제 개편 등 민감한 현안들이 산적해 있어, 그의 정무적 감각과 정책 조정 능력이 향후 한국 경제의 향방을 결정짓는 중요한 변수가 될 것입니다.",
             "image_prompt": "Deputy Prime Minister, National Assembly, economic policy, leadership, official document",
             "published_at": "2026-09-18 01:11:23",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미 재무장관 \"미중 경제수장 회동서 AI 논의 열려 있어\"",
@@ -186,7 +241,7 @@
             "content": "재닛 옐런 미국 재무장관이 미중 경제수장 회동을 앞두고 인공지능(AI) 기술에 대한 논의 가능성을 언급하며 글로벌 이목을 집중시키고 있습니다. 이는 기술 패권 경쟁이 격화되는 가운데에서도 상호 이해관계가 얽힌 첨단 분야에서는 대화 채널을 유지하겠다는 전략적 선택으로 풀이됩니다.\n\nAI는 단순한 기술을 넘어 안보와 경제 전반에 걸친 핵심 인프라로 자리 잡고 있습니다. 미국은 중국의 AI 발전을 견제하면서도, 글로벌 표준 설정과 위험 관리 측면에서는 세계 최대 시장이자 기술 강국인 중국과의 협력이 필요하다는 인식을 하고 있는 것으로 보입니다.\n\n이번 논의가 구체화될 경우, AI 알고리즘의 투명성, 데이터 보호, 그리고 군사적 활용 제한 등 민감한 이슈들이 테이블 위에 오를 전망입니다. 이는 반도체 수출 규제 등으로 경직된 양국 관계에 새로운 국면을 제공할 수 있으며, 글로벌 기술 공급망 전반에 큰 영향을 미칠 수 있습니다.\n\n우리나라 역시 미중 기술 경쟁의 틈바구니에서 AI 전략을 수립해야 하는 만큼 이번 회동 결과에 예민하게 반응하고 있습니다. 양국의 논의 방향에 따라 국내 IT 기업들의 글로벌 진출 전략과 정부의 기술 정책 또한 수정이 불가피할 것으로 예상됩니다.",
             "image_prompt": "AI technology, US-China relations, global diplomacy, futuristic circuit, artificial intelligence",
             "published_at": "2026-09-18 01:11:23",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"한미동맹, 안보 넘어 경제·기술 동맹으로 발전\"",
@@ -197,7 +252,7 @@
             "content": "한미동맹이 전통적인 군사적 안보를 넘어 반도체, 2차 전지, 바이오 등 핵심 전략 산업을 아우르는 '경제·기술 동맹'으로 빠르게 진화하고 있습니다. 이는 지정학적 위기 속에서 신뢰할 수 있는 파트너십을 구축하여 공급망 리스크를 해소하려는 양국의 이해관계가 일치한 결과입니다.\n\n최근 양국 정부와 기업 간의 협력은 단순한 투자를 넘어 공동 연구 개발(R&D)과 표준 설정으로 확대되고 있습니다. 미국은 한국의 제조 역량을, 한국은 미국의 원천 기술과 시장 장악력을 결합하여 글로벌 공급망의 주도권을 확보하겠다는 구상입니다. 특히 차세대 반도체 공정 및 AI 칩 개발 분야에서의 협력이 속도를 내고 있습니다.\n\n이러한 동맹의 심화는 국내 기업들에게는 거대 시장 확보와 기술 도약의 기회를 제공하지만, 동시에 대중국 관계 설정이라는 외교적 부담을 안기기도 합니다. 공급망 다변화와 기술 자립도를 높이는 동시에, 진영 간 갈등 속에서 국익을 극대화할 수 있는 영리한 '기술 외교'가 필요한 시점입니다.\n\n전문가들은 한미 경제·기술 동맹이 향후 수십 년간 한국 경제의 성장을 견인할 강력한 엔진이 될 것으로 보고 있습니다. 단순한 동맹을 넘어 미래 산업의 표준을 주도하는 플랫폼으로서의 한미 관계가 우리 경제에 어떤 시너지를 가져올지 기대가 모아지고 있습니다.",
             "image_prompt": "International alliance, high-tech industry, semiconductor, partnership, global connectivity",
             "published_at": "2026-09-18 01:11:23",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美재무, 미중 경제수장 회동 앞 'AI 공통 위험 논의 열려 있어'",
@@ -208,7 +263,7 @@
             "content": "재닛 옐런 미국 재무부 장관은 미중 경제수장 회동을 앞두고 인공지능(AI)이 금융 시스템에 초래할 수 있는 공통적인 위험에 대해 중국 측과 논의할 준비가 되어 있다고 밝혔습니다. 이는 기술 패권 경쟁 속에서도 금융 안정성이라는 공통의 목표를 위해 최소한의 협력 창구를 열어두겠다는 의지로 풀이됩니다.\n\n옐런 장관은 특히 AI 기술이 금융 서비스의 효율성을 높일 수 있는 잠재력이 크지만, 동시에 데이터 편향성이나 사이버 보안 취약성 등 새로운 형태의 리스크를 동반한다고 지적했습니다. 이에 따라 양국 간의 정책적 공조와 가이드라인 마련이 필요하다는 점을 강조할 것으로 보입니다.\n\n이번 논의는 단순한 기술 협력을 넘어 글로벌 금융 시장의 질서를 유지하기 위한 전략적 선택입니다. 미중 양국이 AI 규제와 표준화에 있어 접점을 찾을 수 있을지에 따라 향후 글로벌 핀테크 산업과 금융 보안 시장의 향방이 결정될 것으로 예상됩니다.\n\n전문가들은 이러한 움직임이 양국의 갈등 완화 시그널이라기보다는, 통제 불가능한 기술적 위험이 경제 전반으로 전이되는 것을 막기 위한 실리적인 조치라고 분석하고 있습니다.",
             "image_prompt": "AI Technology, US-China Cooperation, Financial Risk Management, Global Diplomacy, Digital Security",
             "published_at": "2026-09-17 19:55:06",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제 금융수장들 '국채 시장 쏠림 과도하면 시장안정조치'",
@@ -219,7 +274,7 @@
             "content": "최상목 부총리 겸 기획재정부 장관과 이창용 한국은행 총재 등 국내 경제 및 금융 수장들이 거시경제금융회의를 열고 최근 국채 시장의 변동성에 대해 논의했습니다. 이들은 미국 금리 인상의 영향이 제한적일 것으로 보면서도, 시장의 심리적 위축에 따른 과도한 쏠림 현상에는 경계감을 표했습니다.\n\n회의에서는 특히 채권 시장의 수급 불균형이 발생하거나 금리가 급격하게 상승할 경우, 정부와 한국은행이 보유한 시장 안정 조치를 즉각 가동하기로 합의했습니다. 이는 투자자들의 불안 심리를 잠재우고 자금 조달 시장의 경색을 막기 위한 선제적인 메시지로 해석됩니다.\n\n당국은 현재 한국의 외환 보유액과 재정 건전성이 양호한 수준임을 강조하며, 대외 충격에 충분히 대응할 수 있는 기초 체력을 갖추고 있음을 재확인했습니다. 하지만 지정학적 리스크와 미국의 통화 정책 방향에 따른 불확실성이 여전한 만큼 24시간 모니터링 체제를 유지할 계획입니다.\n\n시장 관계자들은 당국의 이러한 안정 의지가 실제 시장 금리 안정화에 기여할 것으로 기대하면서도, 실물 경제로 이어지는 고금리 부담을 완화할 수 있는 근본적인 대책이 병행되어야 한다고 조언하고 있습니다.",
             "image_prompt": "Government Bond Market, Financial Stability Meeting, Interest Rate Graph, Economic Policy, Professional Authority",
             "published_at": "2026-09-17 19:55:06",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제 13위인데 체감은 27위…마음은 회복되지 않은 한국",
@@ -230,7 +285,7 @@
             "content": "대한민국의 경제 규모(GDP)는 전 세계 13위 수준으로 올라섰지만, 국민들이 느끼는 삶의 질과 행복도는 여전히 하위권에 머물고 있다는 분석이 나왔습니다. 이는 '성장의 역설'로 불리며, 양적 성장이 질적인 삶의 개선으로 이어지지 못하고 있음을 시사합니다.\n\n조사에 따르면 한국 국민들의 개인적 행복감과 사회적 신뢰도는 조사 대상국 중 21위에서 27위권에 머물렀습니다. 경쟁 중심의 사회 구조, 높은 주거비 부담, 노후 불안 등이 복합적으로 작용하여 경제적 풍요가 심리적 안정으로 연결되는 통로를 가로막고 있는 것으로 나타났습니다.\n\n특히 젊은 층 사이에서는 자산 불평등과 계층 이동 사다리의 소멸에 대한 불만이 커지고 있으며, 이는 저출산 및 고령화 문제와도 직결되고 있습니다. 사회적 신뢰 저하는 공동체 의식을 약화시키고 갈등 해결 비용을 증가시켜 잠재적 성장률에도 악영향을 미칠 수 있습니다.\n\n향후 정책 방향은 단순한 GDP 성장률 제고보다는 복지 사각지대 해소, 노동 시장의 공정성 확보, 사회 안전망 확충 등 국민들이 체감할 수 있는 '행복의 경제학'에 집중해야 한다는 목소리가 커지고 있습니다.",
             "image_prompt": "GDP vs Happiness Index, Social Trust Concept, Quality of Life Contrast, Korean Society, Human Well-being",
             "published_at": "2026-09-17 19:55:06",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "공산당도 열지 못한 14억의 지갑… 중국 경제 4대 착시의 종말",
@@ -241,7 +296,7 @@
             "content": "중국 정부의 강력한 부양책에도 불구하고 14억 인구의 내수 소비가 살아나지 않으면서 중국 경제를 바라보던 긍정적인 '착시'들이 사라지고 있습니다. 부동산 거품 붕괴와 청년 실업률 상승은 중국 소비자들의 지갑을 닫게 만들었으며, 이는 글로벌 경제 전반에 하방 압력으로 작용하고 있습니다.\n\n과거 중국은 무한한 시장 잠재력을 가진 국가로 인식되었으나, 현재는 고령화와 가계 부채 증가라는 구조적 늪에 빠져 있습니다. 공산당 주도의 계획 경제 모델이 민간 부문의 창의성과 활력을 억제하며 성장의 모멘텀을 상실했다는 지적이 나오고 있습니다.\n\n특히 중국 경제의 4대 착시로 불리던 고속 성장 지속성, 내수 시장의 확장성, 기술 자립성, 재정 건전성 등이 한꺼번에 위협받고 있습니다. 이는 중국에 대한 수출 의존도가 높은 한국 경제에도 공급망 다변화와 시장 개척이라는 시급한 과제를 던져주고 있습니다.\n\n국제 금융 기구들은 중국의 성장률 전망치를 잇달아 하향 조정하고 있으며, 중국의 저성장 국면이 장기화되는 '피크 차이나(Peak China)' 논의가 본격화되고 있습니다. 세계 경제의 엔진이었던 중국의 변화에 대비한 새로운 글로벌 전략 수립이 필요한 시점입니다.",
             "image_prompt": "China Economy Slowdown, Empty Shopping Mall, Real Estate Crisis, Global Market Shift, Economic Reality",
             "published_at": "2026-09-17 19:55:06",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "서울시, 민선9기 조직개편안 발표…‘민생경제본부’ 신설",
@@ -252,7 +307,7 @@
             "content": "서울시가 민선 9기 후반기를 맞아 시민들의 삶과 직결된 문제를 해결하기 위한 대대적인 조직 개편안을 발표했습니다. 이번 개편의 핵심은 '민생경제본부'의 신설로, 장기화되는 고물가와 고금리 상황 속에서 소상공인과 취약계층의 경제적 부담을 덜어주는 데 초점을 맞추고 있습니다.\n\n민생경제본부는 기존의 파편화되어 있던 소상공인 지원, 물가 관리, 일자리 창출 기능을 하나로 통합하여 정책의 집중도와 실행력을 높일 예정입니다. 특히 골목상권 활성화와 민생 경제 범죄 근절 등 시민들이 피부로 느낄 수 있는 현장 중심의 행정을 펼칠 계획입니다.\n\n또한 서울시는 이번 조직 개편을 통해 미래 산업 육성과 도시 경쟁력 강화를 위한 부서들도 재정비했습니다. 인공지능(AI)과 바이오 등 신산업 분야를 지원하는 체계를 강화하여 민생 안정과 미래 성장이라는 두 마리 토끼를 동시에 잡겠다는 전략입니다.\n\n오세훈 서울시장은 이번 개편이 시민의 안전과 민생을 최우선으로 하는 '동행·매력 특별시' 서울을 완성하기 위한 토대가 될 것이라고 강조했습니다. 개편안이 시의회를 통과하면 하반기부터 본격적인 민생 구제 대책들이 시행될 전망입니다.",
             "image_prompt": "Seoul City Hall, Public Administration, Local Economy Support, Organizational Chart, Citizen Welfare",
             "published_at": "2026-09-17 19:55:06",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[속보] 美 연준, 3년만에 만장일치 금리인상…1년만에 긴축 전환",
@@ -263,7 +318,7 @@
             "content": "미국 중앙은행인 연방준비제도(Fed·연준)가 마침내 기준금리 인상을 단행했습니다. 이는 2018년 이후 약 3년 만에 이루어진 조치로, 연방공개시장위원회(FOMC) 위원들의 만장일치로 결정되었습니다. 이번 인상은 코로나19 팬데믹 이후 지속되어 온 초저금리 시대의 종언을 고하는 상징적인 사건으로 평가받습니다.\n\n연준은 이번 결정을 통해 물가 상승 압력에 대응하겠다는 강력한 의지를 표명했습니다. 지난 1년간 유지해 온 완화적 통화 정책에서 긴축으로 방향을 선회함에 따라, 향후 글로벌 자산 시장과 환율에 상당한 파급효과가 예상됩니다. 특히 이번 인상은 한 차례로 끝나지 않고 향후 지속적인 추가 인상이 예고되어 있어 시장의 긴장감이 높아지고 있습니다.\n\n한국 경제 역시 미 연준의 금리 인상 속도에 민감하게 반응할 것으로 보입니다. 한미 금리 격차 축소에 따른 자본 유출 우려와 국내 기준금리 추가 인상 압박이 커질 전망입니다. 정부와 한국은행은 외환시장 및 금융시장의 변동성을 예의주시하며 대응책 마련에 분주한 모습입니다.",
             "image_prompt": "US Federal Reserve, interest rate hike, financial chart, golden gavel, global economy",
             "published_at": "2026-09-17 12:17:39",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이형일, 내일 경제수장으로 첫발…취임식 없이 업무 직행",
@@ -274,7 +329,7 @@
             "content": "국회 기획재정위원회가 이형일 부총리 겸 기획재정부 장관 후보자에 대한 인사청문경과보고서를 채택함에 따라 한국 경제의 새로운 수장이 공식 업무를 시작합니다. 여야는 현재의 엄중한 경제 상황을 고려하여 민생 경제 살리기가 시급하다는 점에 합의하고 보고서를 가결했습니다.\n\n이 신임 부총리는 관례적인 취임식도 생략한 채 곧바로 집무실로 출근하여 주요 경제 현안을 보고받을 예정입니다. 이는 고물가, 고금리 상황 속에서 서민 경제의 고통이 가중되고 있는 만큼, 형식적인 절차보다는 실질적인 정책 집행에 우선순위를 두겠다는 강력한 의지로 풀이됩니다.\n\n앞으로 이 부총리는 가계부채 관리, 물가 안정, 그리고 잠재 성장률 제고라는 막중한 과제를 떠안게 되었습니다. 특히 국회와의 협치를 통해 경제 활성화 법안들을 통과시키고, 시장의 신뢰를 회복하는 것이 초기 행보의 핵심이 될 것으로 보입니다.",
             "image_prompt": "South Korean minister hearing, economic policy, assembly hall, professional leadership, official documents",
             "published_at": "2026-09-17 12:17:39",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "서울시, 민선9기 첫 조직개편…미래산업 총괄 '민생경제본부' 신설",
@@ -285,7 +340,7 @@
             "content": "서울시가 민선 9기 출범에 맞춰 '민생경제본부'를 신설하는 대대적인 조직 개편안을 발표했습니다. 이번 개편의 핵심은 파편화되어 있던 경제 정책 기능을 하나로 통합하여 서울 경제의 컨트롤타워 역할을 수행하게 하는 데 있습니다.\n\n신설되는 민생경제본부는 소상공인 지원과 전통시장 활성화는 물론, 서울의 미래 먹거리인 신산업 육성까지 총괄하게 됩니다. 이는 단순한 복지 차원의 지원을 넘어 자생적인 경제 생태계를 구축하고, 서울의 경쟁력을 글로벌 수준으로 끌어올리겠다는 시의 의지가 반영된 것입니다.\n\n서울시는 이번 조직 개편을 통해 정책의 집행 속도를 높이고 시민들이 피부로 느낄 수 있는 경제 성과를 내는 데 집중할 계획입니다. 특히 물가 상승으로 고통받는 서민들을 위해 민생 안정 대책을 우선적으로 추진할 방침입니다.",
             "image_prompt": "Seoul City Hall, organizational structure, urban economy development, modern office, strategic planning",
             "published_at": "2026-09-17 12:17:39",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "반도체·배터리 소재 재활용 활성화…순환경제 기업 협력 강화한다",
@@ -296,7 +351,7 @@
             "content": "산업통상자원부는 반도체와 배터리 등 국가 핵심 산업의 소재 재활용을 활성화하기 위해 '순환경제 상생라운지'를 개최하고 기업 간 협력 강화에 나섰습니다. 이는 자원 안보와 탄소 중립이라는 두 마리 토끼를 잡기 위한 전략적 선택으로 풀이됩니다.\n\n이번 행사를 통해 대기업과 재활용 전문 중소기업들이 매칭되어 폐자원을 새로운 산업 자원으로 전환하는 기술 교류가 활발히 이뤄질 전망입니다. 특히 고가의 희귀 금속이 많이 사용되는 배터리와 반도체 분야에서 재활용 효율을 높이는 것은 제조 원가 절감뿐만 아니라 공급망 안정화에도 기여할 것으로 기대됩니다.\n\n정부는 규제 샌드박스 등을 통해 순환경제 관련 기업들의 애로사항을 해소하고, 관련 인프라 투자를 확대할 계획입니다. 자원 순환이 단순히 환경 보호를 넘어 하나의 거대한 산업 섹터로 자리 잡으면서, 관련 기술을 보유한 기업들의 성장세도 주목됩니다.",
             "image_prompt": "Circular economy, recycling battery, green energy industry, high-tech factory, sustainability",
             "published_at": "2026-09-17 12:17:39",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미 연준 3년 만에 금리 인상 초읽기…한국 경제 파장 예고",
@@ -307,7 +362,7 @@
             "content": "미국 연방준비제도(Fed)가 3년 만에 본격적인 금리 인상 사이클에 진입할 것으로 보이면서 한국 경제 전반에 비상등이 켜졌습니다. 인플레이션 억제를 위한 미국의 긴축 통화 정책은 글로벌 달러 강세를 유도하여 원·달러 환율 상승 압력을 가중시킬 것으로 예상됩니다.\n\n국내 전문가들은 한미 금리 격차가 축소되거나 역전될 경우 외국인 자금 유출이 가속화될 수 있다고 경고합니다. 이는 코스피 등 증시의 하락 압력으로 작용할 뿐만 아니라, 국내 기준금리 인상을 압박하여 가계부채 상환 부담을 늘리는 연쇄 작용을 일으킬 가능성이 큽니다.\n\n정부와 금융 당국은 시장 모니터링을 강화하며 대응책 마련에 분주합니다. 수출 기업들은 환율 변동에 따른 채산성 변화를 주시하고 있으며, 금융권에서는 중소기업 및 소상공인의 이자 부담 완화를 위한 지원책이 논의되고 있습니다.\n\n결론적으로 미 연준의 행보는 단순히 금융 지표의 변화를 넘어 소비와 투자 위축이라는 실물 경제 침체로 이어질 수 있는 만큼, 정교한 통화 및 재정 정책의 공조가 절실한 시점입니다.",
             "image_prompt": "Federal Reserve building, interest rate graph climbing, global currency symbols, professional financial blue, cinematic lighting",
             "published_at": "2026-09-17 01:04:39",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한-중앙亞 핵심광물 공급망 MOU 체결…경제 안보 대전환",
@@ -318,7 +373,7 @@
             "content": "한국 정부가 중앙아시아 국가들과의 비즈니스 서밋을 통해 '핵심광물 공급망 협력 파트너십'을 구축하는 쾌거를 이루었습니다. 이번 협력은 리튬, 코발트 등 배터리 산업의 핵심 원료를 안정적으로 확보하기 위한 전략적 행보로 풀이됩니다.\n\n총 19건에 달하는 MOU 체결을 통해 한국은 반도체와 이차전지 등 미래 산업의 필수 자원을 안정적으로 공급받을 수 있는 토대를 마련했습니다. 특히 우즈베키스탄과의 협력은 중앙아시아 내 한국의 경제 영토를 넓히는 중추적인 역할을 할 것으로 기대됩니다.\n\n윤석열 대통령은 이번 순방에서 '실크로드 정신'을 강조하며 단순한 자원 확보를 넘어 인프라, 신산업, 디지털 전환을 아우르는 포괄적 경제 협력을 제안했습니다. 이는 특정 국가에 대한 자원 의존도를 낮추고 공급망 다변화를 꾀하려는 경제 안보 전략의 일환입니다.\n\n향후 민간 기업들의 중앙아시아 진출이 더욱 가속화될 전망이며, 정부는 현지 진출 기업들에 대한 정책적 지원과 리스크 관리를 병행하여 이번 협력의 실질적인 성과를 극대화할 방침입니다.",
             "image_prompt": "Central Asia map, critical mineral ores, international handshake, futuristic supply chain pipeline, golden sunrise background",
             "published_at": "2026-09-17 01:04:39",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "세계 최고 수익률 국부펀드, 미국 증시 '조정 가능성' 경고",
@@ -329,7 +384,7 @@
             "content": "세계적으로 가장 높은 수익률을 자랑하는 주요 국부펀드 리더들이 현재 미국 증시의 밸류에이션이 한계치에 도달했다는 분석을 내놓았습니다. 인공지능(AI) 열풍에 힘입어 급등했던 기술주들을 중심으로 차익 실현 매물이 쏟아질 수 있다는 우려입니다.\n\n이들은 인플레이션의 끈질긴 잔존과 고금리 유지 기간이 예상보다 길어질 수 있다는 점을 주요 리스크 요인으로 꼽았습니다. 특히 미국 대선을 앞두고 정치적 불확실성이 커지면서 시장의 변동성이 극대화될 수 있다는 점을 투자자들이 간과해서는 안 된다고 강조했습니다.\n\n이러한 경고는 국내 서학개미(미국 주식 투자자)들에게도 상당한 영향을 미칠 것으로 보입니다. 전문가들은 공격적인 투자보다는 포트폴리오의 다변화와 안전 자산 비중 확대를 검토해야 할 시점이라고 조언하고 있습니다.\n\n시장 전문가들은 이번 경고가 단순한 기우가 아닌, 데이터에 기반한 합리적 추론이라고 평가합니다. 글로벌 유동성이 축소되는 국면에서 자산 가치의 재평가가 일어날 경우, 변동성이 낮은 방어주 위주의 전략이 유효할 것으로 보입니다.",
             "image_prompt": "Stock market ticker screen, downward trend line, bear market silhouette, Wall Street street sign, moody cinematic atmosphere",
             "published_at": "2026-09-17 01:04:39",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "노보, 앤트로픽과 손잡고 AI 신약 개발 속도 높인다",
@@ -340,7 +395,7 @@
             "content": "비만 치료제로 돌풍을 일으킨 노보 노디스크가 차세대 성장 동력으로 'AI 기반 신약 개발'을 선택했습니다. 오픈AI의 강력한 경쟁자로 꼽히는 앤트로픽(Anthropic)과의 협업 발표는 바이오와 기술의 결합이 가속화되고 있음을 보여줍니다.\n\n이번 협력을 통해 양사는 수조 개의 생물학적 데이터를 학습한 AI 모델을 구축하고, 이를 통해 신약 후보 물질 발견 기간을 획기적으로 단축할 계획입니다. 전통적인 방식으로는 10년 이상 걸리던 임상 전 단계를 AI가 단 몇 개월로 줄여줄 것으로 기대됩니다.\n\n이는 단순히 속도의 문제를 넘어, 기존에 해결하지 못했던 난치성 질환에 대한 새로운 접근법을 제시할 수 있다는 점에서 큰 의미가 있습니다. 거대 언어 모델(LLM)이 단백질 구조 분석과 약물 상호작용 예측에 투입되면서 신약 개발의 패러다임이 변하고 있습니다.\n\n한국의 제약 바이오 기업들 역시 이러한 글로벌 트렌드에 발맞춰 AI 전담 조직을 신설하거나 관련 스타트업과의 협력을 강화하고 있어, 향후 'AI+바이오' 시장에서의 주도권 경쟁이 더욱 치열해질 전망입니다.",
             "image_prompt": "Microscopic DNA helix merging with digital neural network, laboratory setting, holographic AI interface, ultra-modern tech aesthetic",
             "published_at": "2026-09-17 01:04:39",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국내 첫 에너지 전환 사업…구미 천연가스발전소 준공",
@@ -351,7 +406,7 @@
             "content": "경북 구미에 국내 최초의 에너지 전환 상징인 '구미 천연가스발전소'가 준공되어 본격적인 가동에 들어갔습니다. 이는 정부의 탄소중립 정책에 따라 노후화된 석탄화력발전소를 폐쇄하고 저탄소 청정 에너지인 LNG로 대체한 첫 번째 성공 사례입니다.\n\n이번 준공을 통해 구미 국가산업단지 내 기업들에게 안정적이고 깨끗한 전력을 공급할 수 있게 되었습니다. 특히 RE100 달성을 목표로 하는 입주 기업들에게는 이번 친환경 에너지 공급망 확충이 큰 호재로 작용할 것으로 보입니다.\n\nLNG 발전은 석탄 발전 대비 초미세먼지 배출이 거의 없고 온실가스 배출량도 절반 수준에 불과합니다. 정부는 구미의 사례를 벤치마킹하여 전국에 산재한 노후 석탄발전소들을 순차적으로 LNG나 수소 혼소 발전으로 전환해 나갈 방침입니다.\n\n지역 경제 활성화 측면에서도 긍정적인 평가가 나옵니다. 발전소 건설 과정에서 지역 일자리가 창출되었으며, 운영 단계에서도 지역 협력 업체들과의 상생을 통해 구미 경제의 새로운 축을 담당할 것으로 기대됩니다.",
             "image_prompt": "Modern eco-friendly power plant, natural gas storage tanks, blue sky with white clouds, green city park nearby, high-tech industrial facility",
             "published_at": "2026-09-17 01:04:39",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美 연준 3년 만에 금리 인상 초읽기…한국 경제 파장 예고",
@@ -362,7 +417,7 @@
             "content": "미국 연방준비제도(Fed)가 치솟는 물가를 잡기 위해 약 3년 만에 기준금리 인상을 단행할 것이라는 전망이 지배적입니다. 이는 글로벌 금융 위기 이후 유지되어 온 저금리 기조의 종식을 의미하며, 전 세계 자산 시장에 상당한 충격파를 던질 것으로 예상됩니다. 특히 미국의 금리 인상은 달러 강세를 유발하여 신흥국으로부터의 자금 유출을 가속화할 수 있는 위험 요소입니다.\n\n한국 경제 역시 이러한 변화에서 자유롭지 못합니다. 원·달러 환율 상승에 따른 수입 물가 부담이 커질 뿐만 아니라, 국내 기준금리 역시 동반 상승 압력을 받게 되어 가계부채가 많은 한국 경제에 큰 부담이 될 수 있습니다. 전문가들은 연준의 행보가 예상보다 가파를 경우 국내 증시와 부동산 시장의 변동성이 극심해질 수 있다고 경고하고 있습니다.\n\n또한, 미국 내에서는 인플레이션을 '조용한 암살자'로 규정하며 경제 성장을 저해하는 핵심 요인으로 보고 있습니다. 물가 상승은 소비자의 실질 구매력을 저하시키고 기업의 생산 비용을 높여 결국 경기 침체로 이어질 수 있다는 분석입니다. 이에 따라 한국 정부와 한국은행도 미국의 통화정책 변화 속도에 맞춰 기민한 대응 전략을 마련해야 하는 상황입니다.\n\n앞으로 열릴 FOMC 회의 결과에 따라 글로벌 자금 흐름의 방향이 결정될 것이며, 한국 금융 당국은 시장 모니터링을 강화하고 외환 시장 안정을 위한 조치를 검토하고 있습니다. 고금리 시대의 도래는 가계와 기업 모두에게 이자 부담 증가라는 실질적인 위기로 다가올 전망입니다.",
             "image_prompt": "US Federal Reserve, Interest rate hike, Financial graph, Dollar bills, Economic pressure",
             "published_at": "2026-09-16 19:48:46",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "韓·중앙亞 5개국 ‘서울선언’ 채택…경제 실크로드 및 공급망 협력 강화",
@@ -373,7 +428,7 @@
             "content": "윤석열 대통령과 중앙아시아 5개국 정상들이 서울에서 만나 '한-중앙아시아 K-실크로드' 협력 구상을 구체화하는 '서울선언'을 채택했습니다. 이번 정상회의는 에너지와 자원이 풍부한 중앙아시아 지역과의 전략적 파트너십을 공고히 하고, 한국의 첨단 기술력을 결합하여 상생 모델을 구축하는 데 목적이 있습니다. 특히 글로벌 공급망 재편 속에서 중앙아시아의 가치는 더욱 높아지고 있습니다.\n\n가장 눈에 띄는 성과는 우즈베키스탄 등과의 핵심 광물 공급망 협력 MOU 체결입니다. 전기차 배터리와 반도체 등 첨단 산업의 필수 소재인 리튬, 코발트, 텅스텐 등의 안정적인 수급처를 확보함으로써 특정 국가에 대한 자원 의존도를 낮출 수 있게 되었습니다. 이는 한국 경제의 안보적 측면에서도 매우 중요한 진전으로 평가받습니다.\n\n정상들은 경제 협력뿐만 아니라 평화와 안보 분야에서도 목소리를 같이했습니다. 지역 내 평화 정착과 지속 가능한 발전을 위해 인프라 건설, 보건 의료, 디지털 전환 등 다양한 분야에서 실질적인 프로젝트를 추진하기로 했습니다. 이는 한국 기업들의 중앙아시아 시장 진출을 위한 교두보가 될 것으로 기대됩니다.\n\n이번 '서울선언'은 단순한 외교적 수사를 넘어 실질적인 경제 이익 창출로 이어질 전망입니다. 정부는 향후 중앙아시아 국가들과의 정례적인 정상회의 개최를 통해 협력의 동력을 유지하고, 민간 차원의 교류도 적극 지원할 방침입니다. 새로운 '경제 실크로드'의 구축은 한국 경제의 외연 확장에 기여할 것입니다.",
             "image_prompt": "South Korea and Central Asia flags, Global supply chain, Rare earth minerals, Diplomatic summit, Silk Road map",
             "published_at": "2026-09-16 19:48:46",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "금리 뛰자 다시 연체…부실채권(NPL) 증가에 금융권 긴장",
@@ -384,7 +439,7 @@
             "content": "국내 금융 시장에서 고금리의 부작용이 본격적으로 나타나고 있습니다. 대출 금리가 가파르게 오르면서 이자 부담을 견디지 못한 차주들이 늘어났고, 이는 금융기관의 연체율 상승으로 직결되고 있습니다. 특히 자영업자와 중소기업을 중심으로 부실 징후가 뚜렷해지고 있으며, 제2금융권을 포함한 전 금융권에서 부실채권(NPL) 규모가 당분간 계속 쌓일 것이라는 전망이 나옵니다.\n\n부실채권의 증가는 금융기관의 자산 건전성을 악화시키고 대출 여력을 축소시키는 악순환을 초래할 수 있습니다. 이미 주요 은행들은 대손충당금을 쌓으며 만약의 사태에 대비하고 있지만, 고금리 상황이 예상보다 길어지면서 한계에 다다르는 차주들이 급증하고 있습니다. 이는 금융 시스템 전반의 리스크로 확산될 가능성이 있어 면밀한 관리가 필요합니다.\n\n특히 생명보험사의 경우 손해보험사에 비해 지급여력 비율이 상대적으로 취약한 것으로 나타나 우려를 더하고 있습니다. 자산 운용 수익률은 정체된 반면, 금리 변동에 따른 부채 평가액 변화로 자본 확충 부담이 커진 탓입니다. 금융 당국은 보험사를 비롯한 비은행 금융기관의 건전성 지표를 집중 점검하고 있습니다.\n\n전문가들은 이러한 부실 채권 문제가 단기간에 해결되기 어려울 것으로 보고 있습니다. 인플레이션이 완전히 잡히기 전까지는 고금리 기조가 유지될 가능성이 높기 때문입니다. 따라서 정부는 취약 계층에 대한 채무 조정 프로그램을 강화하고, 금융권은 선제적인 리스크 관리를 통해 시스템 붕괴를 막아야 하는 엄중한 상황에 처해 있습니다.",
             "image_prompt": "Red arrow declining, Bank vault, Unpaid bills, Financial risk, High interest rates",
             "published_at": "2026-09-16 19:48:46",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "매출 부진에 ‘희망퇴직’ 검토…홈플러스, 유통업계 위기 가시화",
@@ -395,7 +450,7 @@
             "content": "국내 대형마트 체인인 홈플러스가 심각한 실적 부진에 직면하며 희망퇴직을 검토하고 있는 것으로 알려졌습니다. 보도에 따르면 최근 홈플러스의 매출 목표 달성률이 40% 수준에 그치는 등 경영 위기가 심화되고 있습니다. 이는 고물가로 인한 소비 침체와 쿠팡 등 이커머스 기업들의 공세 속에서 전통적인 오프라인 유통 채널이 설 자리를 잃어가고 있음을 보여주는 단적인 예입니다.\n\n홈플러스의 이번 구조조정 움직임은 단순한 인력 감축을 넘어 유통업계 전반에 퍼진 위기감을 반영합니다. 1인 가구 증가와 배송 문화의 발달로 대형마트를 찾는 발길이 줄어들면서 점포 매각이나 폐점, 인력 효율화 작업이 불가피해진 상황입니다. 경영진은 고정비 절감을 통해 수익성을 개선하려 하지만, 노조와의 갈등 등 해결해야 할 과제가 산적해 있습니다.\n\n또한, 대형마트뿐만 아니라 유통업계 전반이 비슷한 어려움을 겪고 있습니다. 소비자들이 지갑을 닫으면서 백화점과 편의점 등도 매출 성장세가 둔화되고 있습니다. 특히 홈플러스처럼 사모펀드가 대주주인 경우, 엑시트(투자금 회수)를 위한 기업 가치 제고 압박이 강해 구조조정의 강도가 더 높을 수밖에 없다는 분석이 나옵니다.\n\n향후 유통업계는 디지털 전환과 오프라인 공간의 재구성 등을 통해 활로를 모색할 것으로 보입니다. 하지만 당분간 지속될 것으로 보이는 고금리와 경기 둔화는 유통 기업들에게 가혹한 시험대가 될 전망입니다. 홈플러스의 행보가 다른 유통 공룡들에게 어떤 영향을 미칠지 업계의 이목이 쏠리고 있습니다.",
             "image_prompt": "Empty shopping cart, Supermarket aisle, Employment downsizing, Retail industry crisis, Economic downturn",
             "published_at": "2026-09-16 19:48:46",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "중동 전쟁·美 대선·AI 조정…한국 경제 위협하는 '3대 해외 변수'",
@@ -406,7 +461,7 @@
             "content": "대한민국 경제가 대외 변수에 흔들리고 있습니다. 첫 번째 변수는 중동 전쟁의 격화입니다. 이스라엘과 하마스 간의 분쟁이 장기화되고 전선이 확대될 경우 국제 유가가 급등하여 에너지 의존도가 높은 한국 경제에 치명적인 타격을 줄 수 있습니다. 유가 상승은 물가 상승과 경상수지 악화라는 이중고를 야기합니다.\n\n두 번째는 미국의 정치적 불확실성입니다. 미 중간선거와 대선을 앞두고 도널드 트럼프 전 대통령의 영향력이 확대되면서, 기존의 경제 정책 기조가 바뀔 수 있다는 우려가 나옵니다. 특히 보호무역주의 강화나 한미 동맹의 경제적 조건 변화 등은 수출 주도형 국가인 한국에 큰 도전 과제가 될 것입니다. 현재 조 바이든 행정부의 정책에 신뢰를 잃었다는 여론도 감지되고 있습니다.\n\n세 번째는 최근 급격히 성장했던 인공지능(AI) 산업의 투자 조정 가능성입니다. 그동안 반도체와 테크 기업들을 이끌어온 AI 열풍이 실제 수익성 증명 단계에 들어서면서 투자 심리가 위축될 수 있다는 경고가 나옵니다. 한국의 주력 수출 품목인 반도체 수요에 직접적인 영향을 미칠 수 있는 대목입니다.\n\n이러한 복합적인 위기 상황 속에서 한국 경제는 시나리오별 대응책을 마련해야 합니다. 공급망을 다변화하고 내수 진작책을 강화하는 동시에, 대외 리스크를 최소화하기 위한 외교적 노력도 병행해야 합니다. 글로벌 거시 경제의 흐름이 급변하는 시기인 만큼 가계와 기업 모두 리스크 관리에 만전을 기해야 할 때입니다.",
             "image_prompt": "Geopolitical conflict map, US Election ballot, AI microchip, Global economic volatility, Trade barriers",
             "published_at": "2026-09-16 19:48:46",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美 연준 3년 만에 금리 인상 초읽기…한국 경제 파장은",
@@ -417,7 +472,7 @@
             "content": "미국 연방준비제도(Fed·연준)가 인플레이션 압박을 억제하기 위해 약 3년 만에 기준금리 인상 카드를 꺼내 들었습니다. 이는 팬데믹 이후 이어져 온 초저금리 시대의 종말을 의미하며, 글로벌 자금 흐름에 지대한 영향을 미칠 것으로 보입니다. 시장 전문가들은 이번 인상을 시작으로 올해 수차례 추가 금리 인상이 단행될 것으로 예측하고 있습니다.\n\n연준의 이러한 행보는 한국 경제에도 직접적인 타격을 줄 가능성이 높습니다. 미국과 한국 사이의 금리 격차가 좁혀지거나 역전될 경우, 국내 금융시장에서 외국인 자본이 이탈할 가능성이 커지기 때문입니다. 이에 따라 한국은행 또한 선제적인 금리 인상 압박을 받게 될 것으로 보이며, 이는 대출 금리 상승으로 이어져 가계 부채 부담을 가중시킬 수 있습니다.\n\n또한 달러 강세 현상이 심화되면서 원·달러 환율 상승(원화 가치 하락)에 따른 수입 물가 상승 우려도 커지고 있습니다. 에너지와 원자재 가격이 이미 높은 상황에서 환율까지 오를 경우 국내 소비자 물가는 걷잡을 수 없이 치솟을 수 있습니다. 정부와 금융 당국은 외환시장 변동성에 대비한 모니터링을 강화하고 있습니다.\n\n결국 이번 연준의 결정은 한국의 통화 정책 뿐만 아니라 소비와 투자 전반에 걸쳐 하방 압력으로 작용할 전망입니다. 기업들은 조달 비용 상승에 대비해야 하며, 가계는 변동 금리 대출 관리에 각별한 주의가 필요한 시점입니다.",
             "image_prompt": "US Federal Reserve building, gold scales balancing dollar sign, dramatic lighting, financial charts, professional",
             "published_at": "2026-09-16 12:12:29",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "대한항공, 60조 '대미 투자' 최종 계약…\"한미 경제 동맹 이정표\"",
@@ -428,7 +483,7 @@
             "content": "대한항공이 미국과의 경제 협력을 위해 60조 원이라는 천문학적인 규모의 투자 계약을 체결했습니다. 이는 국내 단일 기업의 대미 투자액 중 역대급 규모로, 단순한 비즈니스 확장을 넘어 한미 경제 동맹을 공고히 하는 상징적인 사건으로 평가받고 있습니다. 이번 투자는 주로 항공기 도입과 관련 인프라 구축에 집중될 예정입니다.\n\n이번 계약을 통해 대한항공은 최첨단 고효율 항공기를 대거 도입함으로써 글로벌 항공 시장에서의 경쟁력을 한층 강화할 계획입니다. 특히 친환경 기종으로의 교체를 통해 탄소 배출을 줄이고 ESG 경영을 실천하려는 의지도 담겨 있습니다. 이는 향후 국제 항공 규제 대응에도 유리한 고지를 점하게 해줄 것입니다.\n\n정치·경제적 측면에서도 이번 투자는 큰 의미를 갖습니다. 미국 내 일자리 창출과 산업 활성화에 기여함으로써 한국 기업에 대한 미국 정부의 신뢰를 높일 수 있기 때문입니다. 이는 향후 양국 간의 무역 협상이나 정책적 지원에 있어서 긍정적인 배경으로 작용할 가능성이 큽니다.\n\n대한항공 측은 이번 투자가 '한미 경제 동맹의 새로운 이정표'가 될 것이라고 강조하며, 글로벌 종합 물류 기업으로서의 위상을 확고히 하겠다는 포부를 밝혔습니다. 대규모 자금이 투입되는 만큼 장기적인 수익성 확보와 효율적인 자금 운영이 향후 과제가 될 것으로 보입니다.",
             "image_prompt": "Korean Air airplane flying, US and South Korea flags intertwined, futuristic city background, corporate blue tone, 3D render",
             "published_at": "2026-09-16 12:12:29",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“더 오르기 힘들다”…삼전닉스 목표가 ‘반토막 전망’ 나온 이유",
@@ -439,7 +494,7 @@
             "content": "최근 글로벌 투자은행(IB)인 모건스탠리를 필두로 한국 반도체 기업들에 대한 '피크아웃(정점 통과)' 경고음이 울리고 있습니다. 삼성전자와 SK하이닉스의 목표 주가를 대폭 하향 조정하는 보고서가 잇따라 나오면서, 그간 반도체 호황을 믿고 투자했던 시장에 큰 충격을 주고 있습니다. 핵심 이유는 메모리 반도체 공급 과잉 우려입니다.\n\n보고서에 따르면 스마트폰과 PC 등 IT 기기의 수요가 둔화되는 반면, 기업들의 설비 증설로 인해 메모리 반도체 재고가 쌓이고 있다는 분석입니다. 특히 고대역폭메모리(HBM) 시장의 경쟁 심화와 가격 하락 가능성이 수익성 악화의 주요 원인으로 지목되었습니다. 이는 AI 열풍으로 인한 반도체 특수가 생각보다 빨리 끝날 수 있다는 비관론에 힘을 실어주고 있습니다.\n\n하지만 반론도 만만치 않습니다. AI 서버용 반도체 수요는 여전히 견고하며, 공정 미세화의 한계로 인해 공급이 급격히 늘어나기 어렵다는 분석입니다. 또한 국내 기업들이 차세대 반도체 기술에서 압도적인 우위를 점하고 있는 만큼, 일시적인 조정일 뿐 장기적인 성장세는 꺾이지 않을 것이라는 시각도 존재합니다.\n\n결국 개미 투자자들은 혼란에 빠졌습니다. 목표가가 '반토막' 날 수 있다는 경고와 역대급 실적이 이어질 것이라는 기대가 충돌하고 있기 때문입니다. 당분간 반도체 주가는 실적 발표와 글로벌 경기 지표에 따라 높은 변동성을 보일 것으로 예상됩니다.",
             "image_prompt": "Semiconductor chip, stock market graph falling, red arrows, metallic texture, neon circuit patterns",
             "published_at": "2026-09-16 12:12:29",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "스페이스X 후광 효과에…우주 스타트업 투자 급증",
@@ -450,7 +505,7 @@
             "content": "민간 우주 개발 시대가 본격화되면서 우주 스타트업 시장이 뜨겁게 달아오르고 있습니다. 스페이스X의 재사용 로켓 성공과 위성 인터넷 '스타링크'의 사업 확장으로 우주가 더 이상 꿈의 영역이 아닌 거대한 비즈니스 시장임이 증명되었기 때문입니다. 이에 따라 벤처캐피털(VC)들의 자금이 우주 관련 기술 기업들로 쏠리고 있습니다.\n\n최근 투자자들은 단순히 로켓 발사체뿐만 아니라 초소형 위성 데이터 분석, 우주 쓰레기 제거, 우주 자원 탐사 등 세분화된 영역의 스타트업에 주목하고 있습니다. 스페이스X가 닦아놓은 저렴한 우주 운송 비용 덕분에 진입 장벽이 낮아지면서 다양한 아이디어를 가진 기업들이 등장할 수 있는 환경이 조성된 것입니다.\n\n한국에서도 이러한 흐름에 발맞춰 우주 산업 육성을 위한 움직임이 활발합니다. 정부 차원의 지원과 더불어 대기업들과의 협력을 통해 우주 강국으로 도약하려는 스타트업들이 늘고 있습니다. 전문가들은 향후 10년 내 우주 산업 규모가 현재의 몇 배 이상 성장할 것으로 내다보고 있으며, 이는 미래 경제의 핵심 축이 될 것으로 보입니다.\n\n하지만 우주 산업은 여전히 높은 기술적 위험과 긴 회수 기간을 필요로 합니다. 단기적인 유행에 편승한 투자보다는 핵심 기술력을 보유하고 지속 가능한 수익 모델을 갖춘 기업을 선별하는 안목이 중요한 시점입니다.",
             "image_prompt": "Rocket launching to stars, satellite orbit, futuristic laboratory, glowing blueprints, cosmic blue and gold",
             "published_at": "2026-09-16 12:12:29",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "수은 행장, 우즈베크 대통령과 경제협력 강화 방안 논의",
@@ -461,7 +516,7 @@
             "content": "한국수출입은행(수은)이 중앙아시아의 거점 국가인 우즈베키스탄과의 스킨십을 강화하며 국내 기업들의 해외 진출 지원사격에 나섰습니다. 수은 행장은 최근 우즈베키스탄 대통령과의 면담을 통해 에너지, 인프라, 보건의료 등 다양한 분야에서의 금융 협력 방안을 심도 있게 논의했습니다. 이는 우리 기업들의 수주 기회를 넓히기 위한 포석입니다.\n\n우즈베키스탄은 풍부한 자원과 성장 잠재력을 지닌 국가로, 현재 국가 차원의 현대화 프로젝트를 추진 중입니다. 수은은 공적개발원조(ODA)인 대외경제협력기금(EDCF)과 수출금융을 패키지로 제공하여 우리 기업들이 우즈베키스탄의 대형 프로젝트를 따낼 수 있도록 돕고 있습니다. 특히 태양광 등 신재생 에너지 분야에서의 협력이 기대됩니다.\n\n이번 논의에서는 실질적인 금융 지원 방안도 다뤄졌습니다. 단순한 자금 대여를 넘어, 현지 정부와의 신뢰를 바탕으로 우리 기업들의 대금 결제 안정성을 보장하고 사업 리스크를 줄여주는 역할을 수행하겠다는 것입니다. 이는 지정학적 리스크가 존재하는 중앙아시아 시장에서 우리 기업들에게 큰 힘이 될 전망입니다.\n\n수은은 앞으로도 우즈베키스탄을 비롯한 주요 협력국과의 파트너십을 강화해 나갈 계획입니다. 정부의 'K-수출' 확대 정책에 발맞춰 금융 영토를 확장함으로써 국내 경제의 신성장 동력을 확보하는 데 기여하겠다는 전략입니다.",
             "image_prompt": "Handshake between two leaders, world map background, gold coins and blueprints, formal office setting, warm lighting",
             "published_at": "2026-09-16 12:12:29",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美 연준 3년 만에 금리 인상 초읽기…한국 경제 파장은 - 데일리안",
@@ -471,7 +526,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-16 01:11:13",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "백악관 경제고문 “연준 금리 결정 100% 지지⋯근데 꼭 지금 올려야 하나” - v.daum.net",
@@ -481,7 +536,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-16 01:11:13",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수 - 연합뉴스",
@@ -491,7 +546,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-16 01:11:13",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국-우즈벡 비즈니스 포럼…'전략적 생산 파트너'로 경제협력 도약 - v.daum.net",
@@ -501,7 +556,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-16 01:11:13",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[주요경제지표] 2026년 9월 15일자 - 조선일보",
@@ -511,7 +566,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-16 01:11:13",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[맛있는 경제] 퇴근 후 주식 거래…‘애프터마켓’ 뭐가 달라지나? - v.daum.net",
@@ -521,56 +576,6 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-09-15 20:00:33",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "서울시 경제실장에 김현우 前SBA 대표 - v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WdnVzdDl1bzI5MWNQUnZPT0M1ZG9OcEQ3NTJreDhOVENTUGdZRzBOUllFRjNNN2NaSkhFSVRoMUlVNGZSVm5xRkRCci1LT0E?oc=5",
-            "source": "v.daum.net",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-09-15 20:00:33",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "제주, 기후경제 수도 도약 시동…'그린수소 글로벌 포럼' 개막 - 연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VaTQyVEVmUmU5cjd3aEVfcjFJR2FTQ0gyRzRxN0txMzNUdzJfZFpQTUlJNUJURkEzaHRxQzFWZ2RFZnhqWTZMbjZ1U3lFU2hXa0xaTU4zbUtiQTTSAWBBVV95cUxOVEpTU2pid0JsT3cwVjJtb1hzbF84aVRwWHU5RlNldUtQMklHZ1pSOF92UURRWXo1UWlCVVZZbzIxWFBoSXZCV3FWSnpHNW02YU9OU29ZNHVkOTRtRThXRTU?oc=5",
-            "source": "연합뉴스",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-09-15 20:00:33",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "기후경제수도 도약 시동 건 위성곤 지사… “청정에너지 생산은 경제이자 소득” - 서울신문",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZUVsWS1CRUlyUnE2cTNSaHFzZ0tuRW9wZXEydkx4RzMwVzR0NnpiSjdXOFdnZE9sb3dVMDNveDlwSnVJN2ZwTlV5czlKOURFV3BKU25CZ0pOZDZsTTJ2U056WGNzcFc4MlpKOEpvMA?oc=5",
-            "source": "서울신문",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-09-15 20:00:33",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "이형일, '부총리가 경제사령탑 돼야' 지적에 \"공감한다\" - 연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gc01vTEZqazB0LWI2M0x0Q0pfdUJicmlfdHRSX3VULVNCYU5wZVkwRTR3SC0ySWZDbDc3V2h0QlNNUVp5cXlHOUU1MkctcmtEWnh0YnNPVEx0bG50WUxnaEdKd3I1X0dtc3g3Y25GelE?oc=5",
-            "source": "연합인포맥스",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-09-15 12:17:17",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "이형일 \"부총리 취임하면 경제팀 수장으로서 조율하고 책임\"(종합) - yna.co.kr",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wUVBDd3ZJbi1oamgtT0xzT09rSUhhaGx6bUZreUEwcTZTV1E4cURWazB0ZVJ4MnJiZV9UU2RKcEtldm5BaXdfb0F5TVZ2dXZGS2FyZkFETmw0bkXSAWBBVV95cUxQRXFnVk9hbTVRd0YyY0VkODdTLVJ6clZUQjZlZjMwYk90OVJJQXRZNWhNZE1WOS1DbldKTWRpTlduUFVCMHVHS1BCekNETnl6eHU5eTd1ZTRHSXlBTzZBWWU?oc=5",
-            "source": "yna.co.kr",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-09-15 12:17:17",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
