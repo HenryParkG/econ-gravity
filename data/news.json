@@ -1,27 +1,27 @@
 {
-    "last_updated": "2026-10-06 13:44:04",
-    "briefing": "오늘의 경제는 한국의 가상자산 시장이 동아시아 최대 규모로 성장하며 기술 중심의 경제 재편이 가속화되는 흐름을 보였습니다. 한편으로는 고물가와 양극화 해소를 위한 정부의 민생 안정 대책과 AI를 활용한 금융 보안 위협 등 기술 발전에 따른 명암이 동시에 부각되고 있습니다.",
+    "last_updated": "2026-10-06 21:42:37",
+    "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요.",
     "indices": [
         {
             "name": "KOSPI",
-            "value": "6,926.63",
-            "change": "▼ 1.10%",
+            "value": "6,941.39",
+            "change": "▼ 0.89%",
             "is_up": false,
             "is_down": true
         },
         {
             "name": "KOSDAQ",
-            "value": "916.76",
-            "change": "▲ 2.63%",
+            "value": "919.92",
+            "change": "▲ 2.98%",
             "is_up": true,
             "is_down": false
         },
         {
             "name": "USD/KRW",
-            "value": "1,343.46",
-            "change": "▲ 0.07%",
-            "is_up": true,
-            "is_down": false
+            "value": "1,339.43",
+            "change": "▼ 0.23%",
+            "is_up": false,
+            "is_down": true
         },
         {
             "name": "NASDAQ",
@@ -40,6 +40,56 @@
     ],
     "items": [
         {
+            "title": "\"한국이 달라졌다\"...확 높아진 경제 '눈높이' - 한경매거진&북",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tY09ESE51U25fd3NVWGRmREo1d2ZwbmJVUjFUR29kODFFYnBzSHVreHNwb04wV0xXS3lwbEc0ZjFJTU5RRWR3S0ZWNzlaMXNGbjN0WHNaWGpnSTMxQ003Y0dObUFpS2tjelFZcA?oc=5",
+            "source": "한경매거진&북",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-10-06 21:42:37",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "2천5백원 도시락 불티…다카이치 1년 경제 ‘난망’ [핫클립] - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BekdxRVR2aldiY1p4T2ZRVV9RcEJ6ZlQtanhHTVZOY091dlpiT1VudU41Zkc1eHR2Q1M2Mmo0Q3JIZGVrNDlHakN1XzdQWmJYREY5YzBHNWNxTHM?oc=5",
+            "source": "KBS 뉴스",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-10-06 21:42:37",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "한국 가상자산 경제 4491억달러 '동아시아 최대'…AI 코인 거래 압도 - 전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FeHRCTzBkenFvQlJ5WlotTzRIS1g0Sm1oY0F4ZDJvSHBOU1ByRFZvNG5hRzBsRlJMenlVM1R3RlFJZmxsaDFaME5Wd0lvdw?oc=5",
+            "source": "전자신문",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-10-06 21:42:37",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[속보] 신세계, 워너브라더스 인수전 참전 - 매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uaHVRYTZsRVo4RXZxZl9hbzRKQVdEWkVLTDMxdjZZMXdOMFVlTV9hcUlocTVXMzBBb0xycGJyVGpMVUhDU2FTbU9QN3hsM2ZUZ29mVmdB?oc=5",
+            "source": "매일경제",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-10-06 21:42:37",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "이란 \"역사상 가장 어려운 시기\"…경제위기 악화 이례적 시인 - 연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54aC0zZVZWUTRvSFFoc3c4TXhQS1ZLZjdaWHU3b1RRakxBT2E3M19XcF9vQXNWWkZvejhuNXhIZDlHcjBiSVFhZ1dmb1M2b1VWblJENXlUQ0FJWEHSAWBBVV95cUxOUVVOZ1hVZEUwUF9TRW43Q3h1TzdLM3piZEJRNUltZ0F1Ql8xYU9uLTYxOVd1SWJ2clQ0aHRpajZJZXFKbEdZZGlTZXNGR1JZeXRtOWNDNnoxbkRTLUw4d28?oc=5",
+            "source": "연합뉴스",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-10-06 21:42:37",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "한국 가상자산 경제 4491억달러 '동아시아 최대'…AI 코인 거래 압도",
             "source": "전자신문",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FeHRCTzBkenFvQlJ5WlotTzRIS1g0Sm1oY0F4ZDJvSHBOU1ByRFZvNG5hRzBsRlJMenlVM1R3RlFJZmxsaDFaME5Wd0lvdw?oc=5",
@@ -48,7 +98,7 @@
             "content": "최근 보고서에 따르면 대한민국이 가상자산 경제 규모에서 약 4,491억 달러(한화 약 600조 원)를 기록하며 동아시아 지역 내 압도적인 1위 자리를 차지했습니다. 이는 일본이나 중국 등 인접 국가들을 제친 결과로, 한국 투자자들의 높은 시장 참여도를 입증하고 있습니다.\n\n특히 주목할 만한 점은 'AI(인공지능) 관련 코인' 거래 비중이 다른 국가들에 비해 현저히 높다는 것입니다. 이는 한국 시장이 단순히 투기적인 목적을 넘어 최신 기술 트렌드와 결합된 가상자산에 민감하게 반응하고 있음을 보여주는 지표로 해석됩니다.\n\n가상자산 시장의 성장은 디지털 금융 혁신의 기회가 될 수 있으나, 동시에 높은 변동성에 따른 리스크 관리의 필요성도 커지고 있습니다. 특히 3개월 앞으로 다가온 가상자산 과세 준비 등 제도적 정비가 시장에 어떤 영향을 미칠지 업계의 이목이 집중되고 있습니다.\n\n전문가들은 이러한 시장 규모 성장이 한국의 IT 인프라와 결합되어 향후 웹3.0(Web 3.0) 시대의 주도권을 잡는 데 긍정적인 역할을 할 것으로 기대하면서도, 글로벌 가이드라인에 맞춘 투명한 관리 체계가 동반되어야 한다고 조언하고 있습니다.",
             "image_prompt": "Cryptocurrency market, digital assets, East Asia leader, AI tokens, blockchain technology",
             "published_at": "2026-10-06 13:44:04",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이형일 “물가 등 민생경제 안정·양극화 완화에 총력”",
@@ -59,7 +109,7 @@
             "content": "이형일 통계청장은 최근 민생 경제의 안정을 위해 물가 지표 관리와 양극화 완화에 모든 역량을 집중하겠다고 밝혔습니다. 이는 거시 경제 지표의 회복세에도 불구하고 국민들이 체감하는 실질 경기가 여전히 어렵다는 판단에 따른 것입니다.\n\n정부는 특히 필수 소비재와 장바구니 물가를 세밀하게 점검하여 서민 경제의 부담을 줄이는 데 주력할 방침입니다. 최근 국제 유가 변동과 기상 악화로 인한 농산물 가격 불안정 등 대외 변수에 효과적으로 대응하기 위한 데이터 중심의 모니터링 시스템을 강화하고 있습니다.\n\n또한 소득 양극화 현상을 완화하기 위해 취약계층을 위한 맞춤형 경제 정책을 수립하고 지원 범위를 확대할 계획입니다. 양극화 완화는 단순히 복지 차원을 넘어 내수 시장의 회복과 지속 가능한 경제 성장을 위한 필수적인 선결 과제로 인식되고 있습니다.\n\n정부의 이러한 정책 의지는 하반기 경기 회복의 온기가 소상공인과 저소득층까지 골고루 퍼지게 하겠다는 의도로 풀이됩니다. 향후 발표될 구체적인 재정 집행 계획과 정책 성과가 실제 민생 경제에 얼마나 기여할 수 있을지 귀추가 주목됩니다.",
             "image_prompt": "Price stability, social welfare, economic policy, equality, inflation control",
             "published_at": "2026-10-06 13:44:04",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제읽기] AI 해킹에 금융권 비상…정보 유출 공포 전방위로",
@@ -70,7 +120,7 @@
             "content": "인공지능(AI) 기술의 발전이 금융 편의성을 높여주는 한편, 이를 악용한 정교한 해킹 범죄가 확산되면서 금융권의 보안 위협이 전례 없는 수준으로 높아졌습니다. AI를 이용해 가짜 목소리나 영상을 만드는 '딥페이크' 공격뿐만 아니라, 보안망을 우회하는 정교한 악성 코드가 기승을 부리고 있습니다.\n\n금융 전문가들은 기존의 방화벽과 보안 인증 시스템만으로는 AI를 활용한 지능형 사이버 공격을 막아내기에 한계가 있다고 경고합니다. 특히 개인정보 유출 사고가 발생할 경우, 이는 단순한 정보 손실을 넘어 대규모 금융 사기로 이어질 수 있어 전방위적인 대응 체계 마련이 시급합니다.\n\n이에 금융사들은 'AI에는 AI로 대응한다'는 전략을 세우고, 이상 거래 탐지 시스템(FDS)에 고도화된 머신러닝 알고리즘을 도입하는 등 방어망 구축에 열을 올리고 있습니다. 실시간으로 위협을 감지하고 차단하는 자동화된 보안 솔루션 도입이 금융권의 핵심 과제로 부상했습니다.\n\n개인 이용자들 역시 강화된 이중 인증을 사용하고 출처가 불분명한 링크를 주의하는 등 보안 수칙 준수가 더욱 중요해졌습니다. 기술 발전이 가져온 새로운 보안 위협에 대응하기 위한 민관 협력과 관련 제도 정비가 속도를 내야 할 시점입니다.",
             "image_prompt": "AI cyber attack, financial security, digital hacking, data protection, futuristic matrix",
             "published_at": "2026-10-06 13:44:04",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"한국이 달라졌다\"...확 높아진 경제 '눈높이'",
@@ -81,7 +131,7 @@
             "content": "대한민국 경제를 바라보는 글로벌 시각이 과거와 확연히 달라졌다는 분석이 나오고 있습니다. 과거의 추격자(Fast Follower) 전략에서 벗어나 첨단 반도체, 자동차, 배터리 등 핵심 산업에서 선도자(First Mover)로서의 입지를 굳히면서 국가 브랜드와 경제적 위상이 한 단계 도약했다는 평가입니다.\n\n외신과 글로벌 투자 은행들은 한국 경제의 탄력성과 혁신 역량에 높은 점수를 주고 있습니다. 특히 디지털 전환(DX) 속도와 하이테크 제조 역량은 전 세계 시장에서 한국만의 독보적인 강점으로 자리 잡았으며, 이는 대규모 해외 투자 유치와 수출 증대로 이어지고 있습니다.\n\n국내 전문가들 또한 국민과 기업들의 경제를 보는 '눈높이'가 높아진 만큼, 이에 걸맞은 규제 개혁과 구조적 성장이 뒷받침되어야 한다고 강조합니다. 단순한 수치상의 성장을 넘어 삶의 질 개선과 미래 산업 생태계 조성이 병행되어야 한다는 목소리가 높습니다.\n\n이러한 긍정적인 기조를 유지하기 위해서는 지정학적 리스크 관리와 함께 노동 시장 및 교육 시스템의 혁신이 필수적입니다. '달라진 한국'의 위상이 일시적인 현상에 그치지 않고 지속 가능한 장기 성장 동력으로 자리매김할 수 있을지 기대와 우려가 교차하고 있습니다.",
             "image_prompt": "Rising economic growth, Korea skyline, optimism graph, industrial transformation, global trade",
             "published_at": "2026-10-06 13:44:04",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제지표는 좋아지는데…美성인 73% 트럼프 경제운영 부정평가",
@@ -92,7 +142,7 @@
             "content": "미국의 실업률 하락과 견조한 GDP 성장 등 거시적 경제 지표들이 연일 긍정적인 신호를 보내고 있음에도 불구하고, 미국 성인 대다수는 현재의 경제 운영 상황에 대해 부정적인 견해를 보이고 있습니다. 최근 설문조사에 따르면 응답자의 73%가 부정적인 평가를 내놓은 것으로 나타났습니다.\n\n이러한 괴리는 수치상의 성장이 일반 시민들의 실질 구매력 회복으로 직접 연결되지 않고 있기 때문으로 분석됩니다. 특히 지난 몇 년간 지속된 고인플레이션의 여파로 인해 주거비, 식료품비 등 생활비 부담이 여전히 높게 형성되어 있어 지표 개선을 체감하지 못하는 상황입니다.\n\n정치적 성향에 따른 평가의 편향성 또한 이번 조사 결과에 영향을 미친 것으로 보입니다. 경제 정책에 대한 신뢰도가 정치적 진영 논리와 결합되면서, 실제 지표의 향방과는 별개로 대중의 심리적 저항감이 강하게 나타나고 있다는 해석입니다.\n\n미국 경제의 향방은 한국을 포함한 글로벌 시장에 막대한 영향을 미치는 만큼, 이러한 대중적 불만과 정책 평가의 간극이 향후 미국의 금리 정책이나 통계 기조에 어떤 변화를 가져올지 면밀한 관찰이 필요합니다. 대중의 심리적 회복이 뒷받침되지 않는 지표 성장은 한계를 가질 수밖에 없다는 지적이 나옵니다.",
             "image_prompt": "US economy indicators, public opinion poll, Wall Street vs Main Street, political sentiment, global finance",
             "published_at": "2026-10-06 13:44:04",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이란 \"역사상 가장 어려운 시기\"…경제위기 악화 이례적 시인",
@@ -103,7 +153,7 @@
             "content": "이란의 안보 수장과 주요 당국자들이 현재 이란이 겪고 있는 경제 상황을 '역사상 가장 어려운 시기'라고 규정하며 경제 위기를 이례적으로 공식 인정했습니다. 이는 서방의 지속적인 경제 제재와 내부적인 관리 부실이 겹치면서 인플레이션과 통화 가치 하락이 임계점에 도달했음을 시사합니다.\n\n그동안 이란 정부는 서방의 제재 속에서도 경제적 자립을 강조해 왔으나, 최근 생필품 가격 폭등과 실업률 상승으로 인한 민심 이반이 심각해지자 태도를 바꾼 것으로 보입니다. 특히 중동 지역의 지정학적 긴장이 고조되는 상황에서 내부 경제 기반의 붕괴는 정권 유지에 큰 위협이 되고 있습니다.\n\n이번 시인은 향후 이란의 대외 정책 변화 가능성이나 국제 유가에 미칠 영향 때문에 전 세계 경제 전문가들의 주목을 받고 있습니다. 전문가들은 이란이 경제적 돌파구를 마련하기 위해 핵 협상 재개나 주변국과의 관계 개선에 나설지 여부를 예의주시하고 있습니다.\n\n결과적으로 이란의 경제적 불안정은 단순히 한 국가의 문제를 넘어 중동의 지정학적 리스크를 증폭시키는 변수가 될 전망입니다. 에너지 시장과 글로벌 공급망에 미칠 파급력을 고려할 때, 이란의 향후 경제 대응책이 주목되는 시점입니다.",
             "image_prompt": "Iran economy, currency crisis, oil barrel, Middle East tension, inflation concept",
             "published_at": "2026-10-05 22:33:35",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[단독] 실결제 540조원…스테이블코인, 기업이 쓰기 시작했다",
@@ -114,7 +164,7 @@
             "content": "가치 변동성이 적은 스테이블코인의 실제 결제 규모가 연간 540조 원을 넘어서며 기업들의 실질적인 금융 수단으로 자리 잡고 있습니다. 과거 가상자산이 투기적 자산으로만 여겨졌던 것과 달리, 이제는 글로벌 무역 결제나 기업 간 자금 이동에 활용되는 단계에 접어든 것입니다.\n\n기업들이 스테이블코인을 선택하는 가장 큰 이유는 낮은 수수료와 빠른 전송 속도입니다. 기존 SWIFT망을 이용한 국제 송금은 수일이 소요되고 높은 수수료가 발생하지만, 스테이블코인은 블록체인 기술을 통해 실시간에 가까운 결제와 비용 절감을 가능하게 합니다.\n\n특히 달러에 페깅된 스테이블코인(USDT, USDC 등)은 환율 변동 위험을 최소화하면서도 디지털 자산의 효율성을 누릴 수 있어 글로벌 기업들 사이에서 수요가 폭발하고 있습니다. 이는 디지털 금융 생태계가 제도권 금융으로 빠르게 편입되고 있음을 보여주는 증거이기도 합니다.\n\n정부와 금융 당국도 이러한 흐름에 맞춰 관련 규제 가이드라인을 정비하고 있습니다. 앞으로 기업 결제 시장에서 스테이블코인의 비중이 더욱 확대될 것으로 예상됨에 따라, 금융 산업의 판도 변화가 가속화될 것으로 보입니다.",
             "image_prompt": "Stablecoin, blockchain technology, digital payment, corporate finance, futuristic currency",
             "published_at": "2026-10-05 22:33:35",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "증권사 리포트 97%는 “사라”…익명 보고서가 효과 있을까",
@@ -125,7 +175,7 @@
             "content": "국내 주요 증권사들이 발행하는 기업 분석 리포트 중 무려 97%가 '매수(Buy)' 의견에 쏠려 있는 것으로 나타나 투자자들의 불신이 커지고 있습니다. 사실상 '매도(Sell)' 리포트를 찾아보기 힘든 이러한 기형적인 구조는 증권사와 상장 기업 간의 이해관계 때문이라는 지적이 많습니다.\n\n애널리스트들은 기업에 대해 부정적인 보고서를 쓸 경우, 해당 기업으로부터 정보 접근이 차단되거나 기업 금융 서비스 영업에 지장을 줄 것을 우려합니다. 이러한 환경은 개인 투자자들에게 객관적인 정보를 전달하지 못하고 시장의 거품을 조장하는 원인이 되기도 합니다.\n\n이에 대한 대안으로 '익명 보고서' 도입이나 평가 시스템 개선 등이 논의되고 있지만, 실효성 측면에서는 의견이 갈리고 있습니다. 익명성이 보장될 경우 분석의 책임감이 떨어질 수 있다는 우려와 함께, 근본적인 독립성 확보가 우선되어야 한다는 목소리가 높습니다.\n\n금융 당국은 리포트의 신뢰도를 높이기 위해 '매수' 일변도의 관행을 개선할 수 있는 강력한 대책 마련을 검토 중입니다. 시장의 투명성을 제고하고 투자자를 보호하기 위해 증권업계의 자정 노력과 제도적 보완이 시급한 상황입니다.",
             "image_prompt": "Stock market graph, analytical report, financial document, investor skepticism, transparent trading",
             "published_at": "2026-10-05 22:33:35",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "농축협 횡령 586억원…‘농민 돈 다루는 경제사업’에 64% 몰렸다",
@@ -136,7 +186,7 @@
             "content": "최근 몇 년간 지역 농축협에서 발생한 횡령 사고 금액이 총 586억 원에 달하는 것으로 집계되어 큰 충격을 주고 있습니다. 특히 주목할 점은 횡령 사건의 약 64%가 농민들의 돈을 직접 다루는 '경제사업' 부문에서 집중적으로 발생했다는 점입니다.\n\n이는 지역 농축협의 내부 감사 시스템이 제대로 작동하지 않고 있으며, 특정 개인에게 권한이 과도하게 집중되어 있음을 보여줍니다. 농민들의 권익을 보호해야 할 조직이 오히려 농민들의 소중한 자산을 횡령의 대상으로 삼았다는 점에서 비판의 목소리가 높습니다.\n\n횡령 수법 또한 허위 세금계산서 발행, 재고 조작 등 갈수록 지능화되고 있지만, 이에 대한 적발은 대부분 사후에 이루어지고 있습니다. 특히 횡령 이후 환수율이 낮아 농민들의 피해가 고스란히 남는 구조적인 문제도 심각합니다.\n\n정부와 농협중앙회는 보안 강화와 교차 점검 시스템 도입을 약속했으나, 현장에서는 보다 근본적인 인적 쇄신과 외부 감사의 필요성을 주장하고 있습니다. 농축협의 신뢰 회복을 위해 투명한 회계 관리와 강력한 처벌 규정이 마련되어야 할 것입니다.",
             "image_prompt": "Financial fraud, money vault, agricultural concept, internal audit, corruption symbol",
             "published_at": "2026-10-05 22:33:35",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국힘 “李 경제 자화자찬, 국민 66%는 경제 나쁘다” 민주 “尹 시절 경제 뒷걸음질”",
@@ -147,7 +197,7 @@
             "content": "국민의힘과 더불어민주당이 한국 경제의 현실 진단을 놓고 평행선을 달리고 있습니다. 여당인 국민의힘은 야당 대표의 경제 관련 발언을 '자화자찬'이라 비판하며, 국민 대다수가 체감하는 경제적 고통을 직시해야 한다고 주장했습니다.\n\n반면 민주당은 현 정부 출범 이후 실질적인 경제 지표들이 악화되었으며, 민생 경제가 사실상 방치되고 있다고 맞서고 있습니다. 특히 고금리, 고물가 상황 속에서 서민들의 삶이 벼랑 끝으로 내몰리고 있다는 점을 강조하며 정부의 경제 정책 기조 전환을 촉구했습니다.\n\n이러한 정치권의 대립은 최근 발표된 여론조사 결과와 맞물려 더욱 격화되고 있습니다. 조사에 따르면 국민의 66%가 현재 경제 상황을 부정적으로 보고 있어, 여야 모두 민심을 의식한 책임론 공방에 열을 올리는 모양새입니다.\n\n민생을 최우선으로 해야 할 정치권이 해결책 제시보다는 과거 성과와 현재 수치를 두고 정쟁에만 몰두하고 있다는 비판도 거세지고 있습니다. 경제 불확실성이 커지는 상황에서 여야의 협력을 통한 실질적인 민생 대책 마련이 절실한 시점입니다.",
             "image_prompt": "Political conflict, Korean National Assembly, economic debate, public opinion, blue and red",
             "published_at": "2026-10-05 22:33:35",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "AMRO, 한국 경제성장률 3.3%로 전격 상향... 수출 호조 반영",
@@ -158,7 +208,7 @@
             "content": "아세안+3 거시경제조사기구(AMRO)가 올해 한국의 경제성장률 전망치를 종전 3.1%에서 3.3%로 상향 조정했습니다. 이는 지난 7월 전망 이후 약 3개월 만에 이루어진 조치로, 반도체를 중심으로 한 강력한 수출 회복세가 한국 경제의 전반적인 성장 동력을 견인하고 있다는 분석에 기반합니다.\n\nAMRO는 내년도 한국 경제성장률 또한 기존 전망치인 2.2%에서 2.7%로 0.5%p나 대폭 올렸습니다. 이는 주요 선진국들의 경기 연착륙 가능성과 IT 업황의 지속적인 개선이 한국 경제에 긍정적인 영향을 미칠 것으로 내다본 결과입니다. 특히 반도체 가격 회복과 수요 증가가 국가 경제 전반에 온기를 불어넣고 있다고 평가했습니다.\n\n하지만 이러한 장밋빛 전망에도 불구하고 내수 경기의 부진은 여전히 해결해야 할 과제로 지적되었습니다. 고물가와 고금리 상황이 지속되면서 가계의 실질 구매력이 회복되지 않고 있어, 수출의 온기가 내수 시장으로 확산되기까지는 다소 시간이 걸릴 것이라는 신중론도 제기되고 있습니다.\n\n결론적으로 한국 경제는 대외적인 수출 경쟁력을 바탕으로 견조한 성장세를 보이고 있으나, 국제 유가 변동성이나 지정학적 리스크 등 대외 불확실성에 대한 철저한 대비가 필요한 시점입니다. 정부는 이번 성장률 상향을 계기로 내수 활성화를 위한 추가적인 정책적 노력을 기울여야 할 것으로 보입니다.",
             "image_prompt": "South Korea GDP, upward arrow, semiconductor export, economic growth chart, professional blue",
             "published_at": "2026-10-05 12:55:37",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'외화내빈' 한국 경제... 지표는 웃지만 국민은 실질임금 감소에 신음",
@@ -169,7 +219,7 @@
             "content": "최근 발표되는 국가적 거시 지표들은 한국 경제가 회복세에 있다고 말하지만, 실제 서민들이 피부로 느끼는 민생 경제는 '외화내빈'의 상태에 빠져 있습니다. 통계청과 관계 기관에 따르면 실질임금은 물가 상승분을 따라가지 못해 오히려 뒷걸음질 치고 있으며, 이에 따라 민간 소비도 눈에 띄게 위축되는 양상을 보이고 있습니다.\n\n특히 고물가가 장기화되면서 근로자들의 명목 임금이 올랐음에도 불구하고 실제 시장에서 느끼는 구매력은 낮아졌습니다. 이는 가계 부채 부담과 맞물려 가계가 지갑을 닫게 만드는 주요 원인이 되고 있으며, 전통시장과 소상공인들이 밀집한 골목상권부터 백화점 등의 소매 유통가까지 소비 감소의 여파가 미치고 있습니다.\n\n정부와 주요 경제 기관들이 제시하는 높은 성장률 수치가 일반 국민들에게는 체감되지 않는 '남의 나라 이야기'처럼 들리는 이유가 바로 여기에 있습니다. 수출 호조에 따른 대기업들의 실적 개선이 가계 소득 증대로 이어지는 낙수효과가 제대로 작동하지 않고 있다는 비판의 목소리가 높습니다.\n\n전문가들은 지표상의 성장에 안주하기보다 서민들의 실질 소득을 보전하고 내수 활력을 불어넣을 수 있는 정교한 대책이 필요하다고 강조합니다. 고금리 기조가 이어지는 상황에서 취약 계층의 채무 부담을 경감하고, 물가를 안정시키는 것이 가장 시급한 경제 과제로 부각되고 있습니다.",
             "image_prompt": "Empty wallet, grocery store, inflation, economic hardship, realistic style",
             "published_at": "2026-10-05 12:55:37",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "증권사 리포트 97%가 '매수'... 믿어도 되나? 익명 보고서 논란",
@@ -180,7 +230,7 @@
             "content": "국내 주요 증권사들이 발행하는 기업 분석 리포트 중 무려 97% 이상이 '매수(Buy)' 의견에 쏠려 있어 개인 투자자들의 불신이 깊어지고 있습니다. '매도(Sell)' 의견을 거의 내지 못하는 국내 증권업계의 고질적인 관행은 분석 대상 기업과의 관계 악화 우려 및 법인 영업에 미칠 악영향 때문이라는 분석이 지배적입니다.\n\n이러한 상황에서 최근 업계 일각에서는 분석가의 소신 있는 의견을 보장하기 위한 '익명 보고서' 도입이나 평가 체계 개선이 대안으로 떠오르고 있습니다. 현재의 구조에서는 애널리스트가 기업의 주가 하락 가능성을 포착하더라도 솔직한 의견을 내놓기가 구조적으로 어렵다는 점이 지적됩니다.\n\n특히 해외 주요국 증권사들이 매도 의견 비중을 일정 수준 유지하며 시장의 균형을 잡는 것과 비교할 때, 한국 시장의 '매수 편향'은 시장의 투명성을 저해하고 투자자들에게 잘못된 정보를 제공할 위험이 큽니다. 이는 결국 주식 시장 전체에 대한 신뢰 저하로 이어져 '코리아 디스카운트'의 원인 중 하나로 작용하고 있습니다.\n\n금융당국 역시 이러한 문제점을 인식하고 증권사의 리포트 신뢰도를 높이기 위한 제도 개선 방안을 검토 중인 것으로 알려졌습니다. 투자자들이 합리적인 판단을 내릴 수 있도록 보다 객관적이고 다각적인 시각을 담은 보고서 발행 환경이 조성되어야 한다는 목소리가 힘을 얻고 있습니다.",
             "image_prompt": "Stock market analysis, document stamps, buy signal, financial transparency, office desk",
             "published_at": "2026-10-05 12:55:37",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"엔비디아·테슬라 다 팔았다\"... 고액 자산가들의 새로운 투자 행보",
@@ -191,7 +241,7 @@
             "content": "그동안 서학개미와 고액 자산가들에게 큰 수익을 안겨주었던 엔비디아와 테슬라 등 주요 빅테크 종목에서 자산가들의 이탈 조짐이 보이고 있습니다. 인공지능(AI)과 전기차 시장을 주도하던 이들 종목의 밸류에이션이 지나치게 높아졌다는 경계 심리가 확산되면서 수익 실현에 나선 것으로 풀이됩니다.\n\n자산가들은 기존 주력 종목을 매도한 자금을 바탕으로 금리 인하 수혜주나 배당 성향이 강한 가치주, 혹은 차세대 성장 동력으로 꼽히는 신규 섹터로 포트폴리오를 재편하고 있습니다. 이는 시장의 주도주가 기술주에서 다른 영역으로 이동할 수 있다는 가능성을 시사하며, 변동성이 커진 시장 환경에서 자산 보호와 안정적 수익 추구에 방점을 둔 전략입니다.\n\n전문가들은 이러한 움직임이 단순한 매도를 넘어 시장의 질적 변화를 반영한다고 분석합니다. 과도한 기대감으로 상승했던 종목들이 실적 검증 단계에 들어가면서, 투자자들이 보다 냉철하게 개별 기업의 펀더멘털을 따지기 시작했다는 의미입니다. 이에 따라 향후 시장은 실질적인 이익 성장이 뒷받침되는 종목 위주로 재편될 가능성이 큽니다.\n\n이러한 고액 자산가들의 행보는 개인 투자자들에게도 중요한 시사점을 던집니다. 특정 테마에 쏠린 투자의 위험성을 경계하고, 거시 경제 상황의 변화에 맞춰 포트폴리오를 분산하는 전략적 유연성이 요구되는 시점입니다.",
             "image_prompt": "Luxury investment, Tesla logo, Nvidia chip, portfolio diversification, premium golden accents",
             "published_at": "2026-10-05 12:55:37",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "여야 경제 공방 심화... \"자화자찬\" vs \"과거 정권 탓\"",
@@ -202,7 +252,7 @@
             "content": "정치권이 경제 현안을 놓고 정면충돌하고 있습니다. 더불어민주당 이재명 대표는 정부가 발표하는 경제 지표 개선을 두고 '자화자찬'이라고 맹비난하며, 국민의 66%가 현 경제 상황을 나쁘다고 인식하고 있다는 여론조사 결과를 근거로 들었습니다. 현장의 목소리와 정부의 인식이 동떨어져 있다는 주장입니다.\n\n이에 대해 국민의힘 측은 현재의 경제적 어려움이 지난 정부의 과도한 부채와 실책에서 기인한 측면이 크다고 반박했습니다. 윤석열 정부 들어 거시 지표가 안정되고 수출이 살아나고 있는 점을 강조하며, 체질 개선을 위한 시간이 필요하다는 입장입니다. 야당의 비판을 소모적인 정치 공세로 규정한 셈입니다.\n\n양측의 평가는 평행선을 달리고 있습니다. 민주당은 민생 회복 지원금 등 대대적인 재정 투입을 요구하는 반면, 여당은 건전 재정 기조를 유지하면서 규제 완화를 통한 민간 주도의 성장을 지속해야 한다고 맞서고 있습니다. 이러한 정치적 대립은 예산안 심사와 주요 경제 입법 과정에서도 진통을 예고하고 있습니다.\n\n결국 정치권의 이러한 공방이 민생 안정이라는 본질적인 해결책보다는 정파적 이익에 치우쳐 있다는 비판도 나옵니다. 국민들이 진정으로 원하는 것은 정치권의 책임 전가가 아니라, 고물가와 고금리 상황을 타개할 수 있는 구체적이고 실질적인 정책 협치이기 때문입니다.",
             "image_prompt": "National Assembly, political debate, economic data chart, contrasting views, serious atmosphere",
             "published_at": "2026-10-05 12:55:37",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'외화내빈' 한국 경제...실질임금·소비 동반 감소",
@@ -213,7 +263,7 @@
             "content": "최근 발표된 경제 지표에 따르면 한국 경제는 수출을 중심으로 일부 지표상 회복세를 보이고 있으나, 국민들이 실제 피부로 느끼는 체감 경기는 여전히 차갑기만 합니다. 특히 물가 상승분을 반영한 실질 임금이 수개월째 마이너스나 제자리걸음을 반복하면서 가계의 실질적인 구매력이 크게 약화된 상태입니다.\n\n이러한 소득 정체는 곧바로 소비 위축으로 이어지고 있습니다. 대형마트와 백화점 등 주요 유통 업계의 매출 성장세가 둔화되었으며, 고금리 상황이 장기화됨에 따라 원리금 상환 부담까지 겹친 서민들은 지갑을 닫고 있습니다. 정부는 하반기 경기가 나아질 것이라는 '상저하고' 전망을 고수하고 있지만, 내수 부진의 골이 깊어지면서 민생 경제의 시름은 깊어지고 있습니다.\n\n전문가들은 이러한 '외화내빈' 현상을 해결하기 위해 단순한 수출 증대뿐만 아니라 내수 활성화를 위한 보다 정교한 정책적 지원이 필요하다고 지적합니다. 물가 안정과 함께 실질 소득을 높일 수 있는 방안이 마련되지 않는다면, 거시 지표와 민생 경제 사이의 괴리는 더욱 커질 것으로 우려됩니다.",
             "image_prompt": "Economic gap graph, falling arrow, empty wallet, street market, realistic style",
             "published_at": "2026-10-05 01:24:07",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제뭔데] 증권사 리포트 97%는 “사라”…익명 보고서가 효과 있을까",
@@ -224,7 +274,7 @@
             "content": "국내 증권사들이 발행하는 종목 분석 리포트 중 97% 이상이 '매수(Buy)' 의견을 담고 있는 것으로 나타나 투자자들의 비판을 받고 있습니다. '매도(Sell)' 의견을 내기 어려운 한국 특유의 금융 문화와 함께, 분석 대상 기업과의 관계 악화를 우려한 증권사들의 소극적인 태도가 이러한 기형적인 수치를 만들어냈다는 분석입니다.\n\n투자자들은 증권사 리포트가 객관적인 분석 도구가 아닌, 단순히 주가를 부양하기 위한 홍보 수단으로 전락했다고 지적합니다. 실제로 주가가 하락하는 시점에도 '목표주가 하향'보다는 여전히 '매수 유지'를 권고하는 경우가 많아, 개인 투자자들이 적절한 매도 타이밍을 놓치고 손실을 입는 사례가 빈번하게 발생하고 있습니다.\n\n이에 대한 대안으로 '익명 보고서' 도입이나 독립 리서치 센터 활성화 등이 논의되고 있으나, 실질적인 제도적 장치는 아직 미비한 실정입니다. 금융당국은 리포트의 투명성을 높이기 위한 가이드라인을 강화하겠다고 밝혔으나, 근본적인 신뢰 회복을 위해서는 증권업계 내부의 자정 노력과 더불어 객관적인 성과 평가 체계가 정착되어야 할 것으로 보입니다.",
             "image_prompt": "Stock market charts, buy signal, many papers, financial office, professional lighting",
             "published_at": "2026-10-05 01:24:07",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“가장 싼 걸로 갈아타줘”… AI 에이전트와 ‘귀찮음 경제’의 종말",
@@ -235,7 +285,7 @@
             "content": "인공지능(AI) 기술이 개인 비서 역할을 수행하는 'AI 에이전트' 수준으로 진화하면서, 소비자가 직접 가격을 비교하고 최적의 상품을 찾는 이른바 '귀찮음 경제(Laziness Economy)'가 종말을 고하고 있습니다. 이제 AI는 사용자의 패턴을 분석해 가장 저렴한 구독 요금제로 자동 변경해주거나, 생필품이 떨어지기 전 최저가로 주문을 완료하는 등 능동적인 소비 주체로 거듭나고 있습니다.\n\n이러한 변화는 기업들에게 새로운 도전 과제를 던져주고 있습니다. 과거에는 강력한 브랜드 이미지나 복잡한 마케팅 전략으로 소비자의 선택을 이끌어낼 수 있었으나, 이제는 AI 에이전트의 선택을 받기 위한 '알고리즘 최적화'가 생존의 핵심이 되었습니다. 인간의 감성적인 선택보다 데이터에 기반한 합리적인 선택이 우선시되는 시장 환경이 조성되고 있는 것입니다.\n\n하지만 일각에서는 AI 에이전트에 의한 소비 결정이 다양성을 저해하고 특정 대형 플랫폼에 권력이 집중되는 부작용을 낳을 수 있다고 우려합니다. 또한, 기술에 익숙하지 않은 고령층 등 '디지털 소외 계층'과의 경제적 격차가 더욱 벌어질 수 있다는 점도 해결해야 할 과제로 손꼽힙니다.",
             "image_prompt": "AI robot assistant, smartphone shopping, high-tech interface, neon blue, sleek",
             "published_at": "2026-10-05 01:24:07",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[단독] \"직원 월급 500만원 줄 판\"…사장님 발칵 뒤집힌 이유",
@@ -246,7 +296,7 @@
             "content": "최근 최저임금 상승과 고물가 영향으로 인해 인건비 부담이 한계치에 도달했다는 목소리가 중소기업계와 자영업자들 사이에서 터져 나오고 있습니다. 특히 숙련된 직원을 유지하기 위해 지급해야 하는 실질 월급 수준이 500만 원 선을 위협하면서, 매출 성장이 정체된 상황에서 인건비 비중만 높아지는 수익성 악화 구조가 심화되고 있습니다.\n\n사장님들은 원자재 가격 상승과 임대료 부담에 더해진 인건비 쇼크로 인해 '차라리 문을 닫는 게 낫다'는 극단적인 선택까지 고려하고 있는 실정입니다. 일부 업종에서는 인건비를 감당하지 못해 키오스크나 서빙 로봇 도입 등 무인화에 속도를 내고 있으며, 이는 결과적으로 취약 계층의 일자리 감소로 이어지는 악순환을 초래하고 있습니다.\n\n전문가들은 급격한 임금 인상이 기업의 지불 능력을 초과할 경우 오히려 고용 시장의 경직성을 초래할 수 있다고 경고합니다. 경영계는 업종별 최저임금 차등 적용 등 현실적인 대안 마련을 강력히 요구하고 있으나, 노동계와의 입장 차가 커 향후 노사정 갈등의 핵심 쟁점이 될 것으로 보입니다.",
             "image_prompt": "Worried business owner, calculator, stack of bills, restaurant interior, moody lighting",
             "published_at": "2026-10-05 01:24:07",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "안산 펫페어, 반려동물 경제로 도시 다각화 발전 이끌어",
@@ -257,7 +307,7 @@
             "content": "안산시에서 열린 펫페어가 수많은 관람객을 동원하며 성황리에 마무리된 가운데, 반려동물 관련 산업인 '펫코노미(Petconomy)'가 지역 경제 발전의 새로운 모델로 주목받고 있습니다. 단순한 용품 판매를 넘어 의료, 미용, 숙박, IT 기술이 접목된 펫테크까지 산업의 외연이 급격히 확장되면서 도시의 새로운 성장 동력이 되고 있습니다.\n\n최근에는 한 마리에 수억 원을 호가하는 귀한 반려동물이나 프리미엄 펫 푸드 등 고부가가치 시장이 형성되면서 관련 소비 규모가 매년 두 자릿수 성장을 기록하고 있습니다. 1인 가구의 증가와 인구 구조 변화에 따라 반려동물을 가족의 일원으로 생각하는 '펫 휴머니제이션' 현상이 뚜렷해진 결과입니다.\n\n지자체들은 이러한 흐름에 발맞춰 반려동물 친화 공간을 조성하고 관련 전시회를 유치하는 등 '반려동물 경제 수도'를 선점하기 위한 경쟁에 뛰어들고 있습니다. 전문가들은 반려동물 산업이 일자리 창출 효과가 크고 전후방 연쇄 효과가 뛰어난 만큼, 체계적인 산업 육성 지원책이 뒷받침되어야 한다고 조언합니다.",
             "image_prompt": "Pet fair event, diverse dogs, happy people, vibrant booth, sunny day",
             "published_at": "2026-10-05 01:24:07",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“가장 싼 걸로 갈아타줘”…AI 에이전트와 ‘귀찮음 경제’의 종말",
@@ -268,7 +318,7 @@
             "content": "인공지능(AI) 기술이 단순한 정보 검색이나 답변 생성의 단계를 넘어, 사용자를 대신해 복잡한 과업을 직접 수행하는 'AI 에이전트'로 진화하고 있습니다. 이는 이른바 '귀찮음 경제(Inconvenience Economy)'의 종말을 예고하며, 소비자들이 최저가 비교, 예약, 변경 등 번거로운 과정에서 해방되는 새로운 시대를 열고 있습니다.\n\nAI 에이전트는 사용자의 성향과 과거 패턴을 학습하여 최적의 선택을 제안하고 실행합니다. 예를 들어 스마트폰 앱 하나로 보험 상품을 비교해 가장 유리한 것으로 자동 갱신하거나, 최저가 항공권을 모니터링하다가 적절한 시점에 자동으로 구매를 완료하는 식입니다. 이는 기업 입장에서 '충성 고객'을 확보하기가 더 어려워짐을 의미하며, 기술적 우위와 가격 경쟁력이 생존의 핵심이 될 것입니다.\n\n또한 이러한 변화는 플랫폼 산업 전반에 거대한 지각변동을 일으키고 있습니다. 기존의 광고 기반 비즈니스 모델은 사용자가 직접 화면을 보며 클릭하는 행위에 의존했으나, AI가 이를 대행하게 되면 광고 노출의 효율이 떨어지기 때문입니다. 이에 따라 기업들은 AI 에이전트와 소통하기 위한 새로운 마케팅 엔진과 API 체계를 구축하는 데 집중하고 있습니다.\n\n앞으로 AI 에이전트는 지역 경제와 결합하여 소상공인들에게도 새로운 기회를 제공할 전망입니다. 복잡한 디지털 마케팅을 AI가 대신 처리해줌으로써 지역 상권의 효율성이 증대될 수 있다는 분석이 나옵니다. 기술이 인간의 '귀찮음'을 해결해주는 만큼, 미래의 경제 활동은 더욱 본질적인 가치 중심의 경쟁으로 변화할 것입니다.",
             "image_prompt": "AI assistant, automated shopping, futuristic robot hand, digital efficiency, neon violet light",
             "published_at": "2026-10-04 20:45:27",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "유승민 \"트럼프 대통령, 韓 경제·안보에 큰 부담\"",
@@ -279,7 +329,7 @@
             "content": "미국 대선이 다가오면서 도널드 트럼프 전 대통령의 재집권 가능성이 한국 경제와 안보에 커다란 리스크로 부상하고 있습니다. 유승민 전 의원을 비롯한 많은 전문가들은 '트럼프 리스크'가 한국이 직면한 가장 현실적이고 강력한 대외 위협이 될 수 있다고 경고하며 철저한 대비를 촉구하고 있습니다.\n\n경제적인 측면에서 트럼프는 '자국 우선주의'와 '보호무역주의'를 더욱 강화할 것으로 보입니다. 특히 바이든 정부에서 제공해온 인플레이션감축법(IRA)이나 반도체법에 따른 보조금 혜택이 대폭 축소되거나 폐지될 가능성이 제기됩니다. 이는 미국 내 대규모 투자를 진행 중인 한국의 배터리 및 반도체 기업들에게 치명적인 타격이 될 수 있으며, 한국의 대미 수출 전략을 원점에서 재검토해야 하는 상황을 만들 수 있습니다.\n\n안보 분야 역시 큰 도전입니다. 트럼프는 과거 임기 당시에도 주한미군 방위비 분담금의 급격한 증액을 요구했으며, 최근에는 동맹국들에 대한 방위 의무를 거래의 관점에서 접근하고 있습니다. 이는 한미 동맹의 근간을 흔들 수 있는 요소이며, 동북아 지정학적 안정성에 커다란 불확실성을 초래할 수 있는 대목입니다.\n\n결국 '트럼프 2.0' 시대가 현실화될 경우 한국은 경제와 안보라는 두 마리 토끼를 모두 지키기 위해 전례 없는 외교적 시험대에 서게 될 것입니다. 이에 대비해 정부와 기업은 시나리오별 대응책을 마련하고, 미국 내 다양한 정치 채널과의 소통을 강화하는 등 선제적인 리스크 관리가 시급한 시점입니다.",
             "image_prompt": "Donald Trump, US and Korea flags, international trade tension, geopolitical risks, dark cinematic lighting",
             "published_at": "2026-10-04 20:45:27",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"합격하면 바로 자퇴합니다\"…서울대생도 줄선다는 '이곳'",
@@ -290,7 +340,7 @@
             "content": "대한민국 최고의 수재들이 모인 서울대학교 내에서도 이공계 학과를 다니던 학생들이 '의대 편입'이나 '재입학'을 위해 자퇴를 선택하는 비중이 역대 최고 수준을 기록하고 있습니다. 이는 단순한 개인의 선택을 넘어, 국가의 미래 산업 경쟁력을 책임질 과학기술 인재들이 전문직의 안정성만을 쫓는 '인재 불균형' 현상을 적나라하게 보여줍니다.\n\n이러한 현상의 배경에는 이공계 직군에 대한 열악한 처우와 불안정한 고용 환경이 자리 잡고 있습니다. 대기업에 취업하더라도 의사라는 전문직이 보장하는 정년 없는 고소득과 사회적 지위를 넘어서기 어렵다는 인식이 팽배해진 것입니다. 특히 최근 반도체 등 첨단 산업 육성이 국가적 과제로 떠오르고 있음에도 불구하고, 실제 현장의 우수 인력 공급은 갈수록 어려워지고 있습니다.\n\n정부와 학계는 이공계 인재 유출을 막기 위해 장학금 확대, 연구 환경 개선 등 다양한 당근책을 내놓고 있지만 '의대 열풍'을 잠재우기엔 역부족이라는 평가입니다. 전문가들은 원천 기술을 개발하는 과학자들이 자부심을 느끼고 경제적으로도 충분한 보상을 받을 수 있는 근본적인 생태계 조성이 필요하다고 입을 모읍니다.\n\n최첨단 기술 전쟁 시대에 인재가 곧 국력인 만큼, 이공계 기피 현상을 방치할 경우 국가 성장 동력이 상실될 수 있다는 경고의 목소리가 커지고 있습니다. 교육과 산업계를 잇는 구조적 개혁이 없다면 서울대생들의 의대 행렬은 멈추지 않을 것으로 보입니다.",
             "image_prompt": "Elite education, medical school craze, university gate, science vs medicine choice, cinematic light",
             "published_at": "2026-10-04 20:45:27",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
@@ -301,7 +351,7 @@
             "content": "미국의 주택담보대출(모기지) 금리가 7.28%라는 기록적인 수준까지 치솟으며 미 부동산 시장이 급격히 얼어붙고 있습니다. 금리 인상 초기에는 공급 부족으로 가격이 유지되는 듯했으나, 이제는 이자 부담을 견디지 못한 매수자들이 시장을 떠나면서 거래 절벽 현상이 나타나고 있습니다. 집을 보러 오는 사람이 끊기면서 현지 부동산업계는 최악의 침체기를 우려하고 있습니다.\n\n미국의 고금리 상황은 단순히 미국만의 문제가 아니라 전 세계 경제에 강력한 하방 압력을 가하고 있습니다. 달러 강세가 지속되면서 신흥국들의 자금 유출 우려가 커지고 있으며, 각국 중앙은행들은 물가 잡기와 경기 부양 사이에서 어려운 선택을 강요받고 있습니다. 특히 한국과 같이 가계 부채 비중이 높은 국가들에게 미 금리 상승은 금리 인하 시점을 늦추는 결정적인 요인이 되고 있습니다.\n\n전문가들은 이러한 고금리 기조가 예상보다 길어질 수 있다고 경고합니다. 인플레이션이 완전히 잡히지 않은 상황에서 연준의 신중한 태도가 유지되고 있기 때문입니다. 부동산 시장의 침체는 가계 자산 가치 하락과 소비 위축으로 이어지는 악순환을 초래할 수 있어, 글로벌 경기 침체의 도화선이 될 수 있다는 분석도 나오고 있습니다.",
             "image_prompt": "US housing market, for sale sign, high interest rate graph, falling dollar coins, heavy chains on house, professional cinematic lighting",
             "published_at": "2026-10-04 13:11:07",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미국 경유 수출 금지 땐 세계경제 충격 도미노",
@@ -312,7 +362,7 @@
             "content": "미국 정부가 자국 내 에너지 가격 안정을 위해 경유 등 석유 제품의 수출 금지 또는 제한 카드를 검토하고 있다는 소식이 전해지며 세계 경제가 긴장하고 있습니다. 경유는 트럭, 선박, 공장 장비 등에 쓰이는 핵심 연료로 '산업의 혈액'과 같습니다. 세계 최대 석유 제품 수출국 중 하나인 미국의 공급이 끊길 경우, 글로벌 물류 비용 상승과 인플레이션 심화는 불가피합니다.\n\n특히 유럽 등 러시아산 에너지 의존도를 낮추고 미국산 에너지로 눈을 돌린 국가들에게는 치명적인 타격이 될 수 있습니다. 이는 공급 부족에 따른 에너지 가격 폭등으로 이어져 겨우 진정세에 접어든 글로벌 물가를 다시 자극할 위험이 큽니다. 에너지 자립도가 낮은 국가들은 전반적인 제조 원가 상승과 경기 침체라는 이중고에 직면하게 됩니다.\n\n미국 내부에서도 수출 금지에 대한 찬반 논란이 팽팽합니다. 자국민의 유가 부담을 줄이는 효과는 있겠지만, 동맹국과의 관계 악화와 글로벌 시장의 혼란을 초래할 수 있기 때문입니다. 공급망의 도미노 붕괴 우려가 확산되면서, 향후 미국의 에너지 정책 방향에 전 세계 투자자들의 이목이 쏠리고 있습니다.",
             "image_prompt": "Diesel fuel pump, industrial trucks in line, global map with energy flow, domino effect, dark oil barrels, oil crisis atmosphere",
             "published_at": "2026-10-04 13:11:07",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "BTS, 보고타 ‘명예 외빈’ 됐다…남미 투어로 400억 원 경제효과 기대",
@@ -323,7 +373,7 @@
             "content": "그룹 방탄소년단(BTS)이 콜롬비아 보고타에서 ‘아리랑’ 공연을 시작으로 남미 투어의 포문을 열었습니다. 현지 당국은 BTS를 ‘명예 외빈’으로 지정하며 뜨겁게 환영했으며, 이번 공연을 통해 도시 전반에 걸친 막대한 경제적 활력을 기대하고 있습니다.\n\n전문가들은 이번 보고타 공연 한 차례만으로도 약 400억 원 규모의 경제적 파급 효과가 발생할 것으로 추산하고 있습니다. 이는 공연 티켓 판매 수익뿐만 아니라 전 세계에서 몰려든 팬들이 지출하는 숙박, 음식, 교통 등 관광 수입과 굿즈 판매 등을 모두 합산한 수치입니다.\n\n특히 이번 투어는 단순한 문화 행사를 넘어 한국과 남미 국가 간의 경제 교류를 촉진하는 가교 역할을 하고 있습니다. 현지 미디어들은 BTS의 방문이 지역 상권 활성화는 물론, 한국 제품과 브랜드에 대한 선호도를 높이는 '낙수 효과'를 가져올 것으로 분석하며 큰 기대감을 드러냈습니다.\n\nBTS의 글로벌 영향력은 이제 대중문화를 넘어 국가 브랜드 가치 제고와 실질적인 수출 증대로 이어지고 있습니다. 이번 남미 투어는 K-팝이 가진 강력한 '경제적 소프트 파워'를 다시 한번 증명하는 계기가 될 것으로 보입니다.",
             "image_prompt": "BTS concert, Bogota stadium, purple ocean, global fans, economic impact",
             "published_at": "2026-10-04 00:40:50",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "美 주택담보대출 금리 7.28% 돌파…세계 경제의 새로운 뇌관 부상",
@@ -334,7 +384,7 @@
             "content": "미국의 주택담보대출(모기지) 금리가 7.28%를 기록하며 수십 년 만에 최고 수준에 도달했습니다. 이로 인해 미국 내 부동산 시장에서는 \"집을 보러 오는 사람이 아예 없다\"는 탄식이 나올 정도로 매수 심리가 얼어붙었으며, 이는 세계 경제 전반에 무거운 부담을 주고 있습니다.\n\n높은 금리는 주택 구매자들의 원리금 상환 부담을 극대화하여 가계의 실질적인 가처분 소득을 감소시킵니다. 이는 소비 위축으로 이어져 미국 경제의 성장 동력을 약화시키고, 결과적으로 글로벌 경기 침체 가능성을 높이는 핵심 요인으로 작용하고 있습니다.\n\n더 큰 문제는 달러 강세와의 결합입니다. 미국 금리가 고공행진을 이어가면서 글로벌 자본이 미국으로 쏠리게 되고, 이 과정에서 신흥국들은 자본 유출과 통화 가치 하락이라는 이중고를 겪고 있습니다. 각국 중앙은행들은 인플레이션 방어와 경기 부양 사이에서 퇴로가 없는 선택을 강요받고 있습니다.\n\n향후 시장은 미 연준의 금리 정책 기조 변화에 촉각을 곤두세우고 있습니다. 고금리 기조가 장기화될 경우 부동산 시장발 금융 위기가 현실화될 수 있다는 우려가 커지고 있어, 정부와 금융권의 선제적인 리스크 관리가 어느 때보다 절실한 시점입니다.",
             "image_prompt": "US housing market, high interest rates, mortgage contract, financial stress, global map",
             "published_at": "2026-10-04 00:40:50",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "트럼프 \"다른 선택지 없다\" 폭탄 발언…보호무역주의 부활과 세계 경제 위기론",
@@ -345,7 +395,7 @@
             "content": "도널드 트럼프 전 대통령이 최근 \"다른 선택지가 없다\"며 자국 우선주의와 강력한 관세 부과를 시사하는 발언을 쏟아내고 있습니다. 이는 차기 미 대선 결과에 따라 세계 무역 질서가 완전히 뒤바뀔 수 있음을 의미하며, 벌써부터 글로벌 시장은 재앙적인 시나리오를 경계하고 있습니다.\n\n그가 주장하는 고율의 관세 정책이 현실화될 경우, 글로벌 공급망은 다시 한번 극심한 혼란에 빠질 가능성이 큽니다. 특히 수출 의존도가 높은 한국과 같은 국가들에게는 제조 원가 상승과 시장 접근성 악화라는 치명적인 타격을 줄 것으로 예상됩니다.\n\n전문가들은 이러한 보호무역주의의 부활이 단순한 무역 전쟁을 넘어 글로벌 물가를 다시 끌어올리는 ‘스태그플레이션’의 촉매제가 될 수 있다고 경고합니다. 자유무역을 통해 유지되어 온 세계 경제의 효율성이 무너지고 각자도생의 시대로 접어들게 되는 것입니다.\n\n트럼프의 발언이 단순한 선거용 수사가 아닐 수 있다는 분석이 힘을 얻으면서, 각국 정부는 대미 통상 전략을 전면 재검토하고 있습니다. 다가올 미 대선 결과가 세계 경제의 생존 게임을 결정짓는 분수령이 될 전망입니다.",
             "image_prompt": "Trump portrait, global trade war, high tariffs, economic crisis, industrial containers",
             "published_at": "2026-10-04 00:40:50",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "BIS의 강력 경고, \"AI 순환거래가 초래할 금융 시스템 붕괴 위험\"",
@@ -356,7 +406,7 @@
             "content": "국제결제은행(BIS)은 최근 보고서를 통해 인공지능(AI) 기술이 금융 시장에서 '순환거래(Wash Trading)'를 폭증시키고 있다고 지적했습니다. AI 알고리즘이 스스로 거래량을 부풀리고 가격을 조작하는 행위가 확산되면서, 거시경제적 위험과 금융 시스템의 스트레스가 증폭될 수 있다는 경고입니다.\n\nAI를 활용한 고빈도 매매와 허위 거래는 시장의 변동성을 비정상적으로 확대시키며, 위기 상황에서 시장의 투매를 유도하는 '증폭기' 역할을 할 위험이 큽니다. 특히 복잡한 AI 로직은 금융 당국의 감시망을 교묘히 피하고 있어, 시장의 투명성을 심각하게 저해하고 있습니다.\n\nBIS는 이러한 기술적 진보가 금융의 효율성을 높일 수는 있지만, 동시에 적절한 규제가 뒷받침되지 않을 경우 걷잡을 수 없는 금융 혼란을 초래할 수 있다고 강조했습니다. 즉, 기술이 인간의 통제를 벗어나 금융 시장의 신뢰를 무너뜨릴 수 있다는 것입니다.\n\n이에 따라 글로벌 금융 당국은 AI 기반 거래에 대한 새로운 규제 프레임워크 구축에 속도를 내야 할 상황에 처했습니다. AI 기술의 발전 속도에 맞춘 스마트한 감시 체계 도입이 미래 금융 안정의 핵심 과제가 될 것입니다.",
             "image_prompt": "Artificial intelligence, financial charts, circuit board, market crash, digital security",
             "published_at": "2026-10-04 00:40:50",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "AI 에이전트와 ‘귀찮음 경제’의 종말…소비 패러다임의 혁신적 변화",
@@ -367,7 +417,7 @@
             "content": "사용자를 대신해 가장 싼 상품을 찾고 복잡한 결제 과정을 처리해주는 'AI 에이전트'의 보급이 본격화되면서 이른바 '귀찮음 경제'가 종말을 고하고 있습니다. 소비자가 일일이 가격을 비교하고 검색하는 수고를 덜어주는 기술이 일상 깊숙이 침투하고 있는 것입니다.\n\n과거에는 정보의 비대칭성을 활용하거나 사용자의 번거로움을 파고든 마케팅이 유효했지만, 이제는 AI가 인간보다 더 정확하고 빠르게 최적의 선택을 내리는 시대가 되었습니다. 이는 기업들에게 더 이상 감성적인 마케팅이나 복잡한 UX로 고객을 잡아둘 수 없다는 새로운 과제를 던져줍니다.\n\n이러한 변화는 유통 및 서비스 산업 전반의 구조 조정을 촉발할 것으로 보입니다. 브랜드 충성도보다는 AI가 판단하는 '가치 효율성'이 구매의 결정적 기준이 되면서, 기업들은 사람의 눈이 아닌 'AI 알고리즘'의 선택을 받기 위한 새로운 전략을 수립해야 하는 상황입니다.\n\n결국 AI 에이전트의 확산은 소비의 주체를 인간에서 기술로 확장시키며, 경제 전반의 효율성을 극대화하는 동시에 전통적인 마케팅과 유통 질서를 파괴하는 '창조적 파괴'의 과정을 보여주고 있습니다.",
             "image_prompt": "AI personal assistant, smartphone interface, effortless shopping, futuristic lifestyle, neural network",
             "published_at": "2026-10-04 00:40:50",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "BIS의 경고…\"AI 순환거래 폭증, 거시경제 위험·금융 스트레스 증폭\"",
@@ -378,7 +428,7 @@
             "content": "국제결제은행(BIS)은 최근 보고서를 통해 인공지능(AI)을 활용한 금융 거래의 급증이 거시경제적 위험을 초래할 수 있다고 강력히 경고했습니다. 알고리즘에 기반한 AI 순환거래가 시장의 변동성을 증폭시키고, 예기치 못한 금융 스트레스를 유발할 수 있다는 분석입니다.\n\nBIS는 특히 많은 금융기관이 유사한 AI 모델을 사용할 경우, 특정 시장 상황에서 동시에 대규모 매도나 매수를 실행하는 '쏠림 현상'이 나타날 수 있다고 지적했습니다. 이는 시장의 유동성을 순식간에 고갈시키고 플래시 크래시(갑작스러운 주가 폭락)의 원인이 될 수 있습니다.\n\n또한, AI의 복잡한 연산 과정이 금융 당국의 감독 범위를 벗어날 수 있다는 점도 문제로 꼽혔습니다. 블랙박스화된 알고리즘이 내리는 결정이 금융 시스템 전반의 불확실성을 키우고, 위기 발생 시 대응 속도를 늦출 수 있다는 우려가 제기되고 있습니다.\n\n결론적으로 BIS는 중앙은행과 규제 기관들이 AI 도입에 따른 효율성 증대라는 이점 이면에 숨겨진 시스템적 리스크를 면밀히 모니터링해야 한다고 강조했습니다. 기술의 발전이 금융 안정성을 해치지 않도록 새로운 규제 프레임워크 마련이 시급한 시점입니다.",
             "image_prompt": "AI Financial Trading, Digital Red Alert, Complex Algorithm, Global Finance Stress",
             "published_at": "2026-10-03 20:03:41",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'경제 빨간불' 위기의 이란...결국 한 발 물러났다",
@@ -389,7 +439,7 @@
             "content": "장기적인 제재와 내부 부실로 인해 이란의 경제 상황이 파국으로 치닫고 있습니다. 하이퍼인플레이션으로 인해 생필품 가격이 폭등하면서 서민들의 삶이 위협받고 있으며, 이는 정권 유지에 대한 강력한 내부 압박으로 작용하고 있습니다.\n\n최근 보고에 따르면 이란 국민들이 하루 벌어 살 수 있는 것이 요거트와 콜라 정도에 불과할 정도로 실질 구매력이 하락했습니다. 이러한 경제적 절박함은 이란 정부가 지정학적 긴장을 완화하고 서방과의 협상 테이블에 다시 앉으려는 움직임의 주요 동인이 되고 있습니다.\n\n중동 정세의 핵심 축인 이란의 경제 위기는 국제 유가와도 밀접한 관련이 있습니다. 이란이 내부 안정을 위해 대외적 갈등을 줄일 경우, 중동발 지정학적 리스크 프리미엄이 낮아지며 글로벌 에너지 시장의 안정에 기여할 수 있다는 분석이 나옵니다.\n\n글로벌 투자자들은 이란의 경제 위기가 정권 교체나 대규모 소요 사태로 번질지, 아니면 핵 협상 재개 등 외교적 해결책으로 이어질지 예의주시하고 있습니다. 이란의 행보는 향후 국제 유가와 중동 지역의 경제 협력 구도에 결정적인 영향을 미칠 전망입니다.",
             "image_prompt": "Iran Economic Crisis, Inflation Street, Geopolitics, Oil Market, Currency Devaluation",
             "published_at": "2026-10-03 20:03:41",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[다음주 경제] 경제부처 국정감사 개막…은행권 해킹·세제 개편 등 쟁점",
@@ -400,7 +450,7 @@
             "content": "오는 10월 둘째 주부터 국회 경제 관련 상임위원회의 국정감사가 본격적으로 시작됩니다. 이번 국감의 핵심 쟁점은 최근 빈번해진 은행권 보안 사고 및 해킹 이슈와 정부의 세제 개편안 실효성 여부가 될 것으로 보입니다.\n\n특히 금융위원회와 금융감독원 국감에서는 디지털 금융 확산에 따른 보안 체계 점검이 화두가 될 전망입니다. 잇따른 금융 사고로 실망한 여론을 반영하여, 금융기관의 책임 강화와 소비자 보호 대책에 대한 여야 의원들의 파상 공세가 예상됩니다.\n\n또한, 기획재정부 국감에서는 상속세 완화, 금융투자소득세(금투세) 폐지 여부 등 민감한 세제 개편 이슈를 두고 격렬한 토론이 벌어질 것으로 보입니다. 이는 향후 국내 증시의 향방과 가계 자산 운용 전략에 큰 영향을 미칠 수 있는 사안들입니다.\n\n이번 국정감사는 정부의 경제 정책 방향을 점검하고 입법적 보완책을 마련하는 중요한 기회입니다. 기업과 투자자들은 국감 현장에서 나오는 발언들에 귀를 기울이며 향후 규제 환경의 변화 가능성을 타진해야 할 것입니다.",
             "image_prompt": "National Audit, Korean Government Building, Finance Policy, Tax Reform, Security Issue",
             "published_at": "2026-10-03 20:03:41",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "내년 CES서 ‘새로운 메모리 경제’ 집중 조명",
@@ -411,7 +461,7 @@
             "content": "세계 최대 IT·가전 전시회인 CES가 내년 행사의 핵심 키워드로 '메모리 경제(Memory Economy)'를 내세웠습니다. AI 데이터 처리량이 폭증함에 따라 단순히 연산 장치를 넘어, 고대역폭 메모리(HBM)와 같은 메모리 반도체의 중요성이 시장의 중심에 섰기 때문입니다.\n\n그동안 반도체 시장이 CPU나 GPU 중심이었다면, 이제는 AI 모델을 효율적으로 구동하기 위한 '속도'와 '용량'을 갖춘 메모리가 산업의 핵심 가치를 결정하게 됩니다. 삼성전자와 SK하이닉스 등 국내 기업들은 이러한 흐름에 맞춰 초격차 기술력을 선보일 준비를 마쳤습니다.\n\n메모리 경제는 단순 하드웨어 제조에 그치지 않고, 클라우드 서비스, 자율주행, 로봇 공학 등 첨단 산업 전반에 걸친 공급망 재편을 의미합니다. 데이터가 곧 자산이 되는 시대에 데이터를 저장하고 전달하는 메모리의 성능이 곧 기업의 경쟁력이 되는 구조입니다.\n\n이번 CES를 통해 제시될 새로운 비전은 반도체 산업의 제2의 전성기를 예고하고 있습니다. 차세대 메모리 기술이 어떻게 다양한 산업과 융합하여 새로운 부가가치를 창출할 수 있을지가 전 세계 투자자와 엔지니어들의 최대 관심사가 될 것입니다.",
             "image_prompt": "CES technology hall, semiconductor chips, glowing memory modules, high-speed data flow, blue neon",
             "published_at": "2026-10-03 12:41:16",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "뉴욕증시, 상승 출발… 테슬라·인텔 등 기술주 등 강세",
@@ -422,7 +472,7 @@
             "content": "뉴욕 증시가 주요 기업들의 긍정적인 실적 전망과 기술주들에 대한 저가 매수세 유입에 힘입어 상승 출발했습니다. 특히 전기차 선두주자인 테슬라와 반도체 대형주인 인텔의 강세가 시장 전반의 투자 심리를 견인하고 있는 모습입니다.\n\n테슬라의 경우 자율주행 기술 진보와 인도량 확대 기대감이 주가에 반영되었으며, 인텔은 공정 혁신과 정부 보조금 관련 호재가 겹치며 상승 동력을 얻었습니다. 이들 기업의 주가 흐름은 나스닥 지수는 물론 S&P 500 지수 전체의 상승을 주도하며 시장에 활력을 불어넣고 있습니다.\n\n시장 참가자들은 인플레이션 둔화 신호와 연준의 향후 통화 정책 결정에 주목하고 있습니다. 기술주 중심의 강세는 금리 변동성에 민감하게 반응하면서도, AI와 친환경 에너지라는 중장기 성장 테마를 바탕으로 견조한 흐름을 유지하려 노력하고 있습니다.\n\n다만 전문가들은 단기적인 급등에 따른 차익 실현 매물 출회 가능성도 경고하고 있습니다. 향후 발표될 고용 지표와 소비자물가지수(CPI) 결과에 따라 증시의 변동성이 다시 확대될 수 있으므로, 종목별 차별화 장세에 대비하는 전략이 필요합니다.",
             "image_prompt": "Stock market ticker, Tesla logo, Intel chip, rising green arrow, Wall Street background",
             "published_at": "2026-10-03 12:41:16",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제읽기] 신한에 이어 KB국민은행서도 고객 정보유출…대책은",
@@ -433,7 +483,7 @@
             "content": "신한은행에 이어 KB국민은행에서도 고객 정보가 유출되는 사고가 발생하며 국내 금융권의 보안 관리 수준이 도마 위에 올랐습니다. 금융 소비자의 가장 민감한 자산인 개인 정보가 내부 시스템의 허술함이나 외부 해킹으로 인해 노출되었다는 점에 충격이 큽니다.\n\n이번 사고는 대형 금융기관들이 디지털 전환을 서두르는 과정에서 보안 인프라 구축과 내부 통제 강화에는 상대적으로 소홀했던 것이 아니냐는 비판을 낳고 있습니다. 유출된 정보가 보이스피싱이나 2차 범죄에 악용될 가능성이 있어 피해 규모는 더욱 확산될 수 있는 우려스러운 상황입니다.\n\n금융 당국은 이번 사태를 엄중히 보고 해당 은행들에 대한 정밀 검사에 착수했습니다. 재발 방지를 위해 보안 시스템의 전면적인 재검토와 더불어, 사고 발생 시 책임 소재를 명확히 하고 징벌적 손해배상 등 강력한 법적 조치를 검토해야 한다는 목소리가 높아지고 있습니다.\n\n금융권 전체의 신뢰 회복을 위해서는 단순한 기술적 보안 강화를 넘어, 개인정보 보호를 최우선 가치로 두는 경영 문화의 정착이 시급합니다. 소비자들 역시 정기적인 비밀번호 변경과 2단계 인증 활용 등 스스로 자산을 지키기 위한 노력이 필요한 시점입니다.",
             "image_prompt": "Bank vault, digital security padlock, binary code leak, shattered shield, professional legal document",
             "published_at": "2026-10-03 12:41:16",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "靑 정책실장에 하준경 경제수석 임명…경제 라인 전격 개편",
@@ -444,7 +494,7 @@
             "content": "윤석열 대통령은 신임 정책실장에 하준경 현 경제수석을, 경제수석에는 문신학 전 차관을 임명하는 인사를 단행했습니다. 하준경 신임 실장은 과거 대선 국면부터 경제 책사로 활동하며 정책 기조를 설계해온 인물로, 이번 인사는 현 정부의 경제 정책 일관성을 유지하겠다는 강력한 의지로 풀이됩니다.\n\n정부 관계자에 따르면 하 실장은 거시경제와 금융 분야의 전문가로서, 현재 직면한 고물가 및 저성장 국면을 돌파할 적임자로 평가받고 있습니다. 특히 정책 실장직이 부활한 이후 실무와 이론을 겸비한 인사를 배치함으로써 부처 간 정책 조율 기능을 한층 강화할 것으로 기대됩니다.\n\n이번 개편은 대내외 경제 불확실성이 커지는 시점에서 정책 사령탑을 재정비하여 민생 경제 회복에 속도를 내기 위한 조치입니다. 신임 경제 라인은 앞으로 금리 안정화, 수출 경쟁력 강화, 그리고 가계 부채 관리라는 복합적인 과제를 해결해야 하는 막중한 책임을 지게 되었습니다.\n\n정치권에서는 하 실장의 임명을 두고 정책적 전문성을 극대화하려는 선택으로 보고 있으며, 향후 발표될 후속 민생 대책들이 하준경 표 경제 정책의 시험대가 될 것으로 전망하고 있습니다.",
             "image_prompt": "Government policy building, economic leadership, professional strategy, blue house, official portrait",
             "published_at": "2026-10-03 02:24:28",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제 압박",
@@ -455,7 +505,7 @@
             "content": "미국의 30년 만기 주택담보대출(모기지) 금리가 연 7.28%를 기록하며 수십 년 만에 최고 수준을 경신했습니다. 이러한 급격한 금리 인상은 주택 구매 수요를 완전히 얼어붙게 만들었으며, 실제 부동산 현장에서는 매수 문의가 끊긴 '거래 절벽' 현상이 심화되고 있습니다.\n\n고금리 상황이 장기화되면서 미 주택 시장의 침체는 단순한 부동산 문제를 넘어 글로벌 금융 시장 전체에 부담을 주고 있습니다. 미국의 소비 위축은 전 세계 수출 시장에 타격을 줄 수 있으며, 이는 한국과 같은 수출 중심 국가의 경제 성장에도 직접적인 악재로 작용할 가능성이 높습니다.\n\n전문가들은 미 연준의 긴축 기조가 예상보다 길어질 수 있다는 우려가 금리에 선반영된 결과라고 분석합니다. 높은 대출 이자 부담으로 인해 가계 부채 위험이 커지고 있으며, 이는 금융 시스템의 전반적인 변동성을 키우는 요인이 되고 있습니다.\n\n국내 금융 시장 역시 미 금리 추이를 주시하며 긴장하고 있습니다. 미국의 고금리 상태가 지속될 경우 국내 금리 하락 시점도 늦춰질 수밖에 없으며, 이는 국내 영끌족과 자영업자들의 이자 부담 가중으로 이어져 내수 경기 회복을 더디게 할 우려가 큽니다.",
             "image_prompt": "US Mortgage rates chart, housing market crash, expensive house key, high interest rates, financial anxiety",
             "published_at": "2026-10-03 02:24:28",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "증시 3일만 열리지만…'빅 이벤트' 이어진다 [다음주 변수]",
@@ -466,7 +516,7 @@
             "content": "징검다리 연휴 등으로 인해 다음 주 국내 증시는 평소보다 짧은 3일 동안만 개장될 예정입니다. 그러나 거래일수와 상관없이 시장에 미칠 영향력이 큰 글로벌 경제 지표 발표와 이벤트들이 대거 포진해 있어 투자자들의 주의가 요구됩니다.\n\n가장 주목해야 할 지표는 미국의 비농업 부문 고용 보고서입니다. 고용 시장의 열기가 지속될 경우 연준의 추가 긴축 우려가 커지며 증시에 하방 압력을 가할 수 있기 때문입니다. 또한 주요 기업들의 실적 발표 시즌이 다가오면서 업종별 차별화 장세도 뚜렷해질 것으로 보입니다.\n\n국내 증시는 최근 변동성이 확대된 가운데 삼성전자 등 대형 기술주들의 움직임에 따라 지수의 방향성이 결정될 것으로 보입니다. 특히 외국인 투자자들의 수급 향방이 짧은 거래 기간 동안 시장의 탄력성을 결정짓는 핵심 키가 될 전망입니다.\n\n증권가에서는 단기적인 지수 등락에 일희일비하기보다는 실적 개선이 뚜렷한 종목 위주로 포트폴리오를 재편할 것을 권고하고 있습니다. 불확실성이 큰 장세인 만큼 공격적인 투자보다는 리스크 관리에 치중하며 거시 경제 지표의 흐름을 확인하는 전략이 유효합니다.",
             "image_prompt": "Stock market trading screen, dynamic financial graph, investment strategy, bull and bear, neon blue lights",
             "published_at": "2026-10-03 02:24:28",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제한방] 금의 시대 끝났다? 금값 폭락한 진짜 이유",
@@ -477,7 +527,7 @@
             "content": "최근 국제 금값이 가파른 하락세를 보이며 투자자들 사이에서 '금의 시대가 끝난 것 아니냐'는 우려가 나오고 있습니다. 온스당 역대 최고가를 경신하던 기세는 꺾였으며, 단기적인 가격 조정의 폭이 예상보다 커지는 양상입니다.\n\n금값 하락의 핵심 원인은 미국의 강력한 달러화 강세와 국채 금리 상승입니다. 금은 이자가 붙지 않는 자산이기 때문에 실질 금리가 상승하고 달러 가치가 높아지면 투자 매력이 상대적으로 떨어지게 됩니다. 현재 미 연준의 고금리 유지 기조가 확고해지면서 자금이 다시 달러 자산으로 쏠리고 있는 상황입니다.\n\n또한 전 세계 중앙은행들의 금 매입세가 주춤해진 점도 가격 하방 압력으로 작용했습니다. 인플레이션 헤지 수단으로서의 역할은 여전히 유효하지만, 금융 시장 전반의 유동성이 흡수되는 과정에서 자산 가치 재평가가 이루어지고 있는 것으로 분석됩니다.\n\n전문가들은 금값이 당분간 변동성을 유지할 것으로 보면서도, 장기적인 관점에서는 지정학적 리스크 등이 여전해 다시 반등할 기회가 있을 것으로 내다보고 있습니다. 하지만 현재와 같은 고금리 환경 아래서는 과거와 같은 폭발적인 상승을 기대하기는 어렵다는 신중론이 힘을 얻고 있습니다.",
             "image_prompt": "Stacked gold bars, price drop indicator, dollar bills, market volatility, professional finance background",
             "published_at": "2026-10-03 02:24:28",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이 대통령 \"장바구니 부담 더는 게 경제회복 체감 첫걸음\"",
@@ -488,7 +538,7 @@
             "content": "윤석열 대통령은 최근 국무회의와 현장 행보를 통해 민생 물가 안정의 중요성을 거듭 천명했습니다. 대통령은 국민들이 경제 회복을 직접적으로 느끼기 위해서는 무엇보다 식료품과 생필품 가격이 안정되어야 한다고 지적하며, 범부처적인 물가 관리 대책을 주문했습니다.\n\n정부는 이에 따라 농축수산물에 대한 할인지원을 확대하고 유통 단계의 비효율을 제거하여 소비자 가격 인하를 유도할 방침입니다. 특히 유가 상승과 기후 변화로 인해 변동성이 커진 먹거리 물가를 집중적으로 관리하여 추석 이후에도 물가 안정 기조가 이어지도록 할 계획입니다.\n\n대통령의 이러한 발언은 거시 경제 지표의 개선만큼이나 국민들이 체감하는 '삶의 질' 개선이 중요하다는 판단에서 나온 것으로 보입니다. 수출이 회복세에 접어들고 있음에도 불구하고 내수 소비가 위축되어 있는 현 상황을 돌파하기 위한 고육책으로 풀이됩니다.\n\n앞으로 정부는 현장 중심의 물가 점검을 강화하고 수급 불균형이 예상되는 품목에 대해 선제적인 조치를 취할 예정입니다. 국민들의 장바구니 부담 경감이 실제 내수 활성화로 연결될 수 있을지 귀추가 주목됩니다.",
             "image_prompt": "Grocery shopping basket, fresh vegetables, market price control, consumer economy, public policy relief",
             "published_at": "2026-10-03 02:24:28",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "靑 정책실장에 하준경, 경제수석에 문신학 임명... 경제 팀 전면 개편",
@@ -499,7 +549,7 @@
             "content": "대통령실은 오늘 국정 운영의 효율성을 높이고 경제 회복에 속도를 내기 위해 주요 참모진 인사를 단행했습니다. 하준경 기존 경제수석이 정책실장으로 승진 임명되었으며, 그 빈자리인 경제수석에는 문신학 수석이 내정되었습니다. 이번 인사는 현 정부의 경제 정책 기조를 더욱 공고히 하고, 산적한 경제 현안을 정면 돌파하겠다는 의지로 풀이됩니다.\n\n하준경 신임 정책실장은 그동안 경제 정책 전반을 조율해온 전문가로서, 앞으로는 거시 경제뿐만 아니라 사회 전반의 정책을 아우르는 역할을 맡게 됩니다. 특히 물가 안정과 성장 동력 확보라는 상충하는 과제를 어떻게 조화롭게 풀어나갈지가 관건입니다. 문신학 신임 경제수석 또한 실무 능력이 검증된 인물로, 민생 경제 현안을 챙기는 데 주력할 것으로 보입니다.\n\n대통령실 관계자는 이번 인사에 대해 '전문성과 현장 감각을 두루 갖춘 인물들을 전진 배치하여 국민이 체감할 수 있는 경제 성과를 내기 위함'이라고 설명했습니다. 다만, 야권 일각에서는 정책 기조의 변화 없는 인물 교체는 한계가 있다며 비판적인 시각을 보이기도 해, 향후 국회와의 협치 과정이 주목됩니다.\n\n새로운 경제 라인은 당장 고물가·고금리 상황에서 어려움을 겪는 소상공인과 중산층을 위한 구체적인 지원책을 마련해야 하는 과제를 안고 있습니다. 또한, 반도체와 이차전지 등 국가 전략 산업의 경쟁력을 높이기 위한 규제 혁파와 지원 방안 도출에도 박차를 가할 것으로 예상됩니다.",
             "image_prompt": "Blue House, government personnel, economic policy, professional leadership, South Korea",
             "published_at": "2026-10-02 20:50:21",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "삼성전자, 내년 차세대 HBM4 가격 3배 인상... AI 반도체 주도권 강화",
@@ -510,7 +560,7 @@
             "content": "삼성전자가 글로벌 인공지능(AI) 반도체 시장의 폭발적인 수요에 발맞춰 차세대 고대역폭메모리(HBM4)의 가격을 대폭 인상하기로 결정했습니다. 업계에 따르면 삼성은 내년에 선보일 HBM4의 공급가를 현재 주력인 HBM3E보다 약 3배가량 높게 책정할 계획인 것으로 알려졌습니다. 이는 단순한 가격 인상을 넘어 기술 리더십에 기반한 수익성 위주의 전략으로 선회했음을 의미합니다.\n\nHBM4는 이전 세대와 달리 베이스 다이(Base Die) 공정에 파운드리 기술이 접목되는 등 제조 난도가 급격히 상승한 제품입니다. 삼성전자는 자사의 강점인 메모리와 파운드리 통합 역량을 활용해 압도적인 성능을 구현하고, 이에 걸맞은 프리미엄 가격을 책정하겠다는 구상입니다. 엔비디아를 비롯한 빅테크 기업들의 수요가 여전히 공급을 상회하고 있어, 이러한 고가 정책이 시장에서 수용될 가능성이 큽니다.\n\n이번 결정은 최근 경쟁사들과의 HBM 주도권 다툼에서 확실한 우위를 점하겠다는 삼성의 자신감이 반영된 결과이기도 합니다. 초격차 기술력을 바탕으로 한 고부가가치 제품 판매 비중을 높여, 반도체 부문의 영업이익을 획기적으로 개선하겠다는 목표입니다. 또한, 이는 향후 AI 가속기 시장의 원가 구조에도 상당한 영향을 미칠 것으로 보입니다.\n\n반면, 가격 인상 폭이 워낙 커서 고객사들과의 협상 과정에서 난항을 겪을 수도 있다는 우려도 제기됩니다. 하지만 AI 서버 구축을 위해 성능이 검증된 최신 HBM 수급이 필수적인 상황이라, 삼성의 이번 '빅딜' 전략이 반도체 업계 전반의 가격 지형도를 바꿀 수 있을지 귀추가 주목됩니다.",
             "image_prompt": "Semiconductor chip, HBM4 memory, futuristic technology, AI hardware, golden circuits",
             "published_at": "2026-10-02 20:50:21",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "코스피 '세계 최악' 낙폭에 시장 긴장... 다음 주 '빅 이벤트'가 변수",
@@ -521,7 +571,7 @@
             "content": "최근 코스피 지수가 글로벌 증시의 흐름과 역행하며 급락세를 보이고 있어 시장에 충격을 주고 있습니다. 전문가들은 이를 두고 '세계 최악의 수준'이라는 진단을 내놓으며, 국내 증시의 기초체력(펀더멘털)에 대한 의문을 제기하고 있습니다. 반도체 업황에 대한 불안감과 수출 경기 둔화 우려가 복합적으로 작용하며 기관과 외국인의 매도세가 이어진 탓입니다.\n\n증시 전문가들은 이번 급락의 원인으로 글로벌 경기 침체 우려와 함께 한국 시장 특유의 취약성을 꼽습니다. 대외 의존도가 높은 경제 구조상 미국과 중국의 경기 지표 변화에 민감하게 반응할 수밖에 없는데, 최근 두 국가의 경제 신호가 부정적으로 나타나면서 국내 증시가 직격탄을 맞았다는 분석입니다. 또한 기업 거버넌스 문제와 밸류업 프로그램에 대한 실망감도 투자 심리를 위축시켰습니다.\n\n다음 주 증시는 추석 연휴로 인해 거래일이 짧지만, 시장을 뒤흔들 수 있는 대형 변수들이 줄지어 대기하고 있습니다. 미국의 금리 결정 방향을 가늠할 수 있는 주요 지표 발표와 대형 기술주들의 실적 발표 등이 예정되어 있어, 이 결과에 따라 국내 증시의 반등 여부가 결정될 전망입니다. 투자자들은 변동성 확대에 대비하며 보수적인 접근을 이어가고 있습니다.\n\n금융당국은 시장 상황을 면밀히 모니터링하며 필요한 경우 시장 안정화 조치를 검토하겠다는 입장이지만, 근본적인 주가 회복을 위해서는 상장사들의 실적 개선과 주주 환원 강화가 뒷받침되어야 한다는 지적이 많습니다. 위축된 투자 심리가 다음 주 예정된 '빅 이벤트'를 통해 회복세로 돌아설 수 있을지 주목됩니다.",
             "image_prompt": "Stock market chart, drastic fall, red graph, financial crisis, professional trading screen",
             "published_at": "2026-10-02 20:50:21",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "금값 폭락과 이란의 경제 위기... 흔들리는 글로벌 안전 자산과 지정학",
@@ -532,61 +582,6 @@
             "content": "영원한 안전 자산으로 여겨지던 금 가격이 최근 급격한 하락세를 보이며 시장에 의문을 던지고 있습니다. 달러 강세와 더불어 금리 인하 기대감이 조정되면서 투기 세력의 자금이 대거 빠져나간 것이 주요 원인으로 꼽힙니다. '금의 시대가 끝났다'는 극단적인 전망까지 나오며, 원자재 시장의 불확실성이 그 어느 때보다 높아진 상황입니다.\n\n이와 동시에 지정학적 리스크의 중심에 있던 이란이 경제적 압박을 견디지 못하고 다소 유화적인 태도로 돌아섰다는 소식이 전해졌습니다. 내부적인 살인적 인플레이션과 실물 경제 파탄으로 인해 더 이상의 군사적 긴장 고조는 체제 안정에 위협이 된다는 판단을 내린 것으로 보입니다. 이는 중동발 리스크로 고공행진 하던 국제 유가와 원자재 가격 안정에도 긍정적인 영향을 줄 가능성이 있습니다.\n\n이란의 이러한 행보는 이른바 '호르무즈의 역설'과도 맞닿아 있습니다. 원유 수송로의 긴장이 일시적으로 완화되더라도, 정작 이란 자체의 경제 구조가 붕괴하면서 국제 사회의 제재 완화를 이끌어내기 위한 고육지책으로 한발 물러설 수밖에 없다는 분석입니다. 국제 정치 전문가들은 이란의 태도 변화가 실제 평화로 이어질지, 아니면 단순한 시간 벌기용인지 주시하고 있습니다.\n\n글로벌 거시 경제 환경이 요동치면서 안전 자산과 위험 자산 간의 경계가 모호해지고 있습니다. 투자자들은 단순히 금이나 달러에 의존하기보다, 각국 중앙은행의 금리 정책과 지정학적 변화를 실시간으로 살피며 더욱 정교한 투자 전략을 짜야 하는 시점에 직면했습니다.",
             "image_prompt": "Gold bars falling, Iran map, global economy background, oil barrels, dark atmosphere",
             "published_at": "2026-10-02 20:50:21",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "이 대통령, \"장바구니 부담 경감이 경제 회복의 첫걸음\"... 민생 경제 총력",
-            "source": "연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UlhyVUgxUGZSMW9mTDZTWDVXY0RrNVdCeU05T2txamlYeVNZLWhPVGVYV19DTHRTbExpeTdCNVkteXFpM1QxTTVQM0VMTlhueUl5OWdUUVg1c282Z1JUa0RxWk95N2M?oc=5",
-            "category": "시장",
-            "summary": "이 대통령은 서민들의 장바구니 물가 안정이 경제 회복을 체감하는 핵심이라고 강조하며 부처 간 협력을 당부했습니다.",
-            "content": "이 대통령은 오늘 국무회의와 시장 점검 회의를 통해 국민이 직접 느끼는 물가 수준이 여전히 높다는 점을 지적하며, '장바구니 물가 안정'을 하반기 경제 정책의 최우선 순위에 두겠다고 밝혔습니다. 거시 지표상의 성장이 실질적으로 국민의 삶에 온기로 전달되기 위해서는 생활 밀착형 품목의 가격 안정이 필수적이라는 인식입니다.\n\n정부는 이에 따라 농축수산물 할인 지원 정책을 확대하고, 유통 구조 개선을 통해 중간 비용을 최소화하는 방안을 추진하기로 했습니다. 특히 추석 명절을 앞두고 수요가 급증하는 성수품에 대해 공급량을 대폭 늘려 가격 급등을 사전에 차단하겠다는 계획입니다. 대통령은 '현장에 답이 있다'며 관계 부처 장관들에게 직접 전통시장과 마트를 방문해 수급 상황을 챙길 것을 지시했습니다.\n\n이번 메시지는 최근 수출 호조에도 불구하고 내수 경기가 살아나지 않는 '경기 양극화' 현상을 극복하기 위한 의지로 풀이됩니다. 소득보다 빠르게 오르는 식료품 가격이 가계 소비 심리를 위축시키고 있다는 판단 아래, 정부의 가용한 모든 수단을 동원해 물가 관리에 총력을 기울이겠다는 것입니다. 관련 부처들도 '원팀'이 되어 실무적인 지원책 마련에 착수했습니다.\n\n시민들은 정부의 이러한 노력을 반기면서도, 일시적인 보조금 지급보다는 근본적인 물가 안정 대책이 필요하다는 목소리를 내고 있습니다. 정부가 이번 물가 안정 대책을 통해 실제로 장바구니 부담을 줄이고 서민 경제의 숨통을 틔워줄 수 있을지, 향후 발표될 세부 집행 계획에 관심이 집중되고 있습니다.",
-            "image_prompt": "Shopping basket, fresh vegetables, presidential speech, Korean market, economy recovery",
-            "published_at": "2026-10-02 20:50:21",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "美 국채 금리 5.3% 돌파…한국 경제 및 반도체 산업 ‘비상’",
-            "source": "v.daum.net",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vZnZKUmYyR3hIMW9uZEVsOXFHa2NlbFdERmpuVXVqMHlhR3l0R2NvQ1lNNDBQUDVQcy14LUwweFlUam1Dc3c?oc=5",
-            "category": "금융",
-            "summary": "미국 10년물 국채 금리가 24년 만에 최고 수준인 5.3%를 돌파하며 시장에 충격을 주고 있습니다.",
-            "content": "미국 경제가 예상보다 강한 복원력을 보이면서 연방준비제도의 고금리 기조가 장기화될 것이라는 우려가 확산되고 있습니다. 미국 10년물 국채 금리는 최근 5.3%를 넘어서며 2000년 이후 24년 만에 최고치를 기록했습니다. 이는 글로벌 자본 시장의 유동성을 위축시키는 강력한 하방 압력으로 작용하고 있습니다.\n\n특히 한국 경제의 중추인 반도체 산업에 미칠 영향이 우려됩니다. 고금리 환경은 기술주 중심의 나스닥 지수에 부담을 줄 뿐만 아니라, 기업들의 투자 비용을 상승시켜 반도체 설비 투자 및 수요 회복 속도를 늦출 수 있는 복병으로 지목됩니다. 원·달러 환율 상승 압박까지 더해지며 수입 물가 부담도 가중되는 상황입니다.\n\n전문가들은 미국의 견조한 고용 지표와 소비 지표가 오히려 '금리 인하' 시점을 뒤로 미루는 역설적인 상황을 만들고 있다고 분석합니다. 증시 전문가들은 '경제 지표가 너무 좋아서 증시가 긴장하는 모드'가 당분간 지속될 것으로 보며, 포트폴리오의 방어적 운영이 필요하다고 조언하고 있습니다.",
-            "image_prompt": "US Treasury yield chart, upward trend, 5.3 percent, financial crisis tension, professional dark blue",
-            "published_at": "2026-10-02 12:56:14",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "대통령실 정책실장에 하준경 경제수석 임명…경제 정책 기조 유지",
-            "source": "조선일보",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmQ3UWxoN1ExX0Y3dWYzX3I5Rkc1THFVLXZhS1Bld0lfS0w0cjZaeXFkTTFtb3AxYmlMX2I1blUxVlFrazcyMzZ6elF0U09wRlA5TDhuUEl3WlNFRjhkYlcwTXZWNVEtN2cxVjZGZVdzYUZnTVNNNW5McmJFbXE4R3hYcTBlRzVj?oc=5",
-            "category": "정책",
-            "summary": "청와대가 신임 정책실장에 하준경 경제수석을 임명하며 현 정부의 경제 기조를 공고히 했습니다.",
-            "content": "청와대는 신임 정책실장에 하준경 현 경제수석비서관을 임명하고, 경제성장수석에는 문신학 전 비서관을 발탁했습니다. 이번 인사는 현재 추진 중인 경제 정책의 연속성을 확보하고, 고금리·고물가 등 산적한 대내외 경제 현안에 안정적으로 대응하겠다는 의지로 풀이됩니다.\n\n하준경 신임 실장은 지난 대선 당시부터 현 정부의 핵심 경제 책사로 활동하며 정책의 틀을 잡은 인물입니다. 시장에서는 이번 인선을 통해 규제 혁신과 건전 재정 기조가 흔들림 없이 추진될 것으로 보고 있습니다. 정부는 하 실장이 부처 간의 이견을 조율하고 현장 중심의 정책 집행을 끌어낼 것으로 기대하고 있습니다.\n\n대통령실 관계자는 '경제 정책의 기조 유지'가 이번 인사의 핵심 의미라고 설명했습니다. 특히 부동산 PF(프로젝트 파이낸싱) 위험 관리와 금융 시장 안정화 작업이 하 실장의 주도하에 더욱 속도감 있게 진행될 전망입니다. 민생 경제 회복을 위한 구체적인 대책 마련이 시급한 과제로 놓여 있습니다.",
-            "image_prompt": "Government policy meeting, blue house seoul, leadership, economic reform, professional office setting",
-            "published_at": "2026-10-02 12:56:14",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "9월 소비자물가 2.9% 기록…7개월 만에 2%대 진입",
-            "source": "매일경제",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rVG9zRVc5OEZXeE82SzRYbWVvZUF0YmxMZ3FrSUVzVVR3UHUtOFNDdFJqTVB1ek1pandyWGFqZWxYY29uS0dnbTNuUkxzaExfMkpVbQ?oc=5",
-            "category": "시장",
-            "summary": "국내 소비자물가 상승률이 드디어 2%대에 안착하며 물가 안정화의 청신호가 켜졌습니다.",
-            "content": "통계청이 발표한 소비자물가 동향에 따르면, 9월 소비자물가 상승률이 전년 동월 대비 2.9%를 기록했습니다. 물가 상승률이 2%대로 떨어진 것은 지난 2월 이후 7개월 만입니다. 이는 국제 유가의 하락세와 농축수산물 가격의 안정세가 맞물린 결과로 해석됩니다.\n\n생활물가지수도 동반 하락하며 서민들의 장바구니 부담이 소폭 경감될 것으로 보입니다. 하지만 석유류 가격의 불확실성과 외식 물가의 여전한 상승 압력은 상존하고 있습니다. 한국은행은 이번 수치를 긍정적으로 평가하면서도, 연말까지 물가 목표치인 2% 수준에 완전히 도달할 수 있을지는 더 지켜봐야 한다는 신중한 입장을 보였습니다.\n\n정부는 이번 물가 하락세를 계기로 내수 진작을 위한 다양한 대책을 검토하고 있습니다. 다만 미국발 고금리 기조와 달러 강세로 인한 수입 물가 상승 가능성이 잠재적 위험 요소로 꼽히고 있어, 완전한 금리 인하 논의로 이어지기에는 아직 시기상조라는 분석이 지배적입니다.",
-            "image_prompt": "Grocery price tag, percentage down arrow, economic stability, light bright colors, market aisle",
-            "published_at": "2026-10-02 12:56:14",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "미국 ‘경유 수출 금지’ 검토 소식에 세계 경제 연쇄 충격 우려",
-            "source": "YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LU3RWZlVJdS1ZZG55UFRhVjVubWpDN1ctOS0ycHNNeDc4S2I5eEJsU1JpNnMybFZCX2JKaktEXzc0MWlUeEswRDNCNkUyRERpd0VoQS1QaEVoVzRBWnc?oc=5",
-            "category": "에너지",
-            "summary": "미국 정부가 자국 내 에너지 가격 안정을 위해 경유 수출 금지를 검토하면서 글로벌 물류 대란 우려가 확산되고 있습니다.",
-            "content": "미국 행정부가 중간선거와 겨울철 에너지 수요 증가를 앞두고 자국 내 유류 가격을 낮추기 위해 '경유(디젤) 수출 금지' 카드를 만지고 있습니다. 만약 이 조치가 실제로 시행된다면 유럽을 포함한 전 세계 에너지 시장에 엄청난 타격이 예상됩니다. 경유는 화물차, 선박, 공장 가동 등 산업 전반에 쓰이는 핵심 연료이기 때문입니다.\n\n에너지 전문가들은 미국의 수출 제한이 현실화될 경우 글로벌 공급망 전반에 물류비 상승을 초래하고, 이는 다시 '2차 인플레이션'의 도화선이 될 수 있다고 경고합니다. 특히 러시아-우크라이나 전쟁 이후 에너지 수입처를 미국으로 전환했던 국가들은 심각한 에너지 부족 사태에 직면할 수 있습니다.\n\n우리나라 역시 경유 가격 상승에 따른 운송비 부담 증가와 수출 경쟁력 약화가 우려됩니다. 정부는 대외 에너지 상황을 실시간으로 모니터링하며, 비축유 방출 및 공급망 다변화 등 비상 대응 시나리오를 점검하고 있습니다. 에너지 안보가 국가적 과제로 다시 한번 부각되는 시점입니다.",
-            "image_prompt": "Diesel pump lock, oil barrel, global logistics chain, warning yellow, energy crisis",
-            "published_at": "2026-10-02 12:56:14",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
