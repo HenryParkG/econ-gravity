@@ -1,6 +1,50 @@
 {
-    "last_updated": "2026-10-17 11:53:15",
+    "last_updated": "2026-10-17 21:40:33",
     "items": [
+        {
+            "title": "[속보] 美 연준, 3년만에 만장일치 금리인상…1년만에 긴축 전환",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwTFRQclVYOFByX0R3RHZVZTljc0JuQlEwUG9NeDFsczRnYU5HcTB2djVsTGpiWHNhTElsNzl5c0hsbWRGamc?oc=5",
+            "category": "금융",
+            "summary": "미국 연준이 3년 만에 기준금리를 인상하며 본격적인 긴축 통화 정책으로의 전환을 선언했습니다.",
+            "content": "미국 중앙은행인 연방준비제도(Fed·연준)가 마침내 기준금리 인상을 단행했습니다. 이는 2018년 이후 약 3년 만에 이루어진 조치로, 연방공개시장위원회(FOMC) 위원들의 만장일치로 결정되었습니다. 이번 인상은 코로나19 팬데믹 이후 지속되어 온 초저금리 시대의 종언을 고하는 상징적인 사건으로 평가받습니다.\n\n연준은 이번 결정을 통해 물가 상승 압력에 대응하겠다는 강력한 의지를 표명했습니다. 지난 1년간 유지해 온 완화적 통화 정책에서 긴축으로 방향을 선회함에 따라, 향후 글로벌 자산 시장과 환율에 상당한 파급효과가 예상됩니다. 특히 이번 인상은 한 차례로 끝나지 않고 향후 지속적인 추가 인상이 예고되어 있어 시장의 긴장감이 높아지고 있습니다.\n\n한국 경제 역시 미 연준의 금리 인상 속도에 민감하게 반응할 것으로 보입니다. 한미 금리 격차 축소에 따른 자본 유출 우려와 국내 기준금리 추가 인상 압박이 커질 전망입니다. 정부와 한국은행은 외환시장 및 금융시장의 변동성을 예의주시하며 대응책 마련에 분주한 모습입니다.",
+            "image_prompt": "US Federal Reserve, interest rate hike, financial chart, golden gavel, global economy",
+            "published_at": "2026-09-17 12:17:39",
+            "image_url": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "이형일, 내일 경제수장으로 첫발…취임식 없이 업무 직행",
+            "source": "뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KZ3VrMWs4bW1zZDduQ0NWTkw5eFMxSkhVNU1WeXRFUXplQklubGcwZDMyRnNqTHN3Yl9qbHNqQWktWGF3cE0zZW15eUlBQUdPc1ZPOVplcWNETEN4NURURdIBeEFVX3lxTE13VGpFUXJ4cWJTaFJCUHpBTEgyR0EtTGM4ZEduVlJqVS1LdmpkdWhjeksyWVQtaDItUnJPOHEtMDF3SlhZRG1WTXhEM0M3cndRRWsxOFdqdmRjbjZkZEFYMEo2Z3dtZndlbmhsUnVmNFM1QlpoajYweA?oc=5",
+            "category": "정책",
+            "summary": "신임 이형일 경제부총리가 인사청문보고서 채택 후 별도의 취임식 없이 곧바로 민생 경제 현안 해결에 나섭니다.",
+            "content": "국회 기획재정위원회가 이형일 부총리 겸 기획재정부 장관 후보자에 대한 인사청문경과보고서를 채택함에 따라 한국 경제의 새로운 수장이 공식 업무를 시작합니다. 여야는 현재의 엄중한 경제 상황을 고려하여 민생 경제 살리기가 시급하다는 점에 합의하고 보고서를 가결했습니다.\n\n이 신임 부총리는 관례적인 취임식도 생략한 채 곧바로 집무실로 출근하여 주요 경제 현안을 보고받을 예정입니다. 이는 고물가, 고금리 상황 속에서 서민 경제의 고통이 가중되고 있는 만큼, 형식적인 절차보다는 실질적인 정책 집행에 우선순위를 두겠다는 강력한 의지로 풀이됩니다.\n\n앞으로 이 부총리는 가계부채 관리, 물가 안정, 그리고 잠재 성장률 제고라는 막중한 과제를 떠안게 되었습니다. 특히 국회와의 협치를 통해 경제 활성화 법안들을 통과시키고, 시장의 신뢰를 회복하는 것이 초기 행보의 핵심이 될 것으로 보입니다.",
+            "image_prompt": "South Korean minister hearing, economic policy, assembly hall, professional leadership, official documents",
+            "published_at": "2026-09-17 12:17:39",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "서울시, 민선9기 첫 조직개편…미래산업 총괄 '민생경제본부' 신설",
+            "source": "머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DRlJkRUFhbEswbDd0QkM5VUhfODJINzN0NmU3WUYxcTBfS0Vtd19VYzVkODBKUlBNZmN6MVFOOHA1QnRIQS16a2d4OTdCUEYxdmY2TGNzZl9POUJPQXl3VDVLRUVjT2pGaVHSAW9BVV95cUxNRGJBUjZwUVpEZXhNcGd3M1otbjM2M25ZVWpKOHEtYTdfMjdGUjJBZHNsNk0wajdmTXVzSkhiNGpiNXlqWTNpVkNGbHMyWW1BTHJia1RjeDVYbWRWTVdTMW5LTlNvMmFOZDVoWXNCVUk?oc=5",
+            "category": "행정",
+            "summary": "서울시가 경제 컨트롤타워인 '민생경제본부'를 신설하는 조직 개편을 통해 경제 활력 제고에 나섭니다.",
+            "content": "서울시가 민선 9기 출범에 맞춰 '민생경제본부'를 신설하는 대대적인 조직 개편안을 발표했습니다. 이번 개편의 핵심은 파편화되어 있던 경제 정책 기능을 하나로 통합하여 서울 경제의 컨트롤타워 역할을 수행하게 하는 데 있습니다.\n\n신설되는 민생경제본부는 소상공인 지원과 전통시장 활성화는 물론, 서울의 미래 먹거리인 신산업 육성까지 총괄하게 됩니다. 이는 단순한 복지 차원의 지원을 넘어 자생적인 경제 생태계를 구축하고, 서울의 경쟁력을 글로벌 수준으로 끌어올리겠다는 시의 의지가 반영된 것입니다.\n\n서울시는 이번 조직 개편을 통해 정책의 집행 속도를 높이고 시민들이 피부로 느낄 수 있는 경제 성과를 내는 데 집중할 계획입니다. 특히 물가 상승으로 고통받는 서민들을 위해 민생 안정 대책을 우선적으로 추진할 방침입니다.",
+            "image_prompt": "Seoul City Hall, organizational structure, urban economy development, modern office, strategic planning",
+            "published_at": "2026-09-17 12:17:39",
+            "image_url": "https://images.unsplash.com/photo-1580048914979-3c868daee4d7?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "반도체·배터리 소재 재활용 활성화…순환경제 기업 협력 강화한다",
+            "source": "머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SQnVOU3ZsOG1sMHc5YWFCYmRqeHZQQlNnenE5aDJfXzEtZi1vSkVreVZCdkVIb2VYNDlIZm5oZk9KVW04VW5abXhPYzg2TVpKSUx1RWJZLTRyaEh6NzZzQUJPV0Nld0VjTy1J0gFwQVVfeXFMUGU3b0dJSllZVktJaFJTdG1IaWg5d1kxMkdVeFpBVGRNRmYxMk4tSnhkR1lMVVI0OFNQWnpwZ3lBVU9wcW41aXJfZkRyakl3bGRpWmZqLVJtcVQwY1ZXVDJlRlo3blNZSFllU3VoTUJPYg?oc=5",
+            "category": "테크",
+            "summary": "정부가 반도체와 배터리 등 핵심 산업 소재의 재활용을 돕는 순환경제 생태계 구축에 속도를 냅니다.",
+            "content": "산업통상자원부는 반도체와 배터리 등 국가 핵심 산업의 소재 재활용을 활성화하기 위해 '순환경제 상생라운지'를 개최하고 기업 간 협력 강화에 나섰습니다. 이는 자원 안보와 탄소 중립이라는 두 마리 토끼를 잡기 위한 전략적 선택으로 풀이됩니다.\n\n이번 행사를 통해 대기업과 재활용 전문 중소기업들이 매칭되어 폐자원을 새로운 산업 자원으로 전환하는 기술 교류가 활발히 이뤄질 전망입니다. 특히 고가의 희귀 금속이 많이 사용되는 배터리와 반도체 분야에서 재활용 효율을 높이는 것은 제조 원가 절감뿐만 아니라 공급망 안정화에도 기여할 것으로 기대됩니다.\n\n정부는 규제 샌드박스 등을 통해 순환경제 관련 기업들의 애로사항을 해소하고, 관련 인프라 투자를 확대할 계획입니다. 자원 순환이 단순히 환경 보호를 넘어 하나의 거대한 산업 섹터로 자리 잡으면서, 관련 기술을 보유한 기업들의 성장세도 주목됩니다.",
+            "image_prompt": "Circular economy, recycling battery, green energy industry, high-tech factory, sustainability",
+            "published_at": "2026-09-17 12:17:39",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "미 연준 3년 만에 금리 인상 초읽기…한국 경제 파장 예고",
             "source": "데일리안",

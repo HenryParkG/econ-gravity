@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-17 16:31:06",
-    "briefing": "오늘의 경제는 한미 간의 긴밀한 금융 협력 체계 구축과 더불어, 글로벌 시장의 AI 투자 과열에 대한 경고음이 동시에 울린 하루였습니다. 일본의 경제적 위상 하락과 같은 거시적 변화 속에서도 한국의 소비재 수출은 견조한 성장세를 보이며 대내외적인 불확실성에 대응하는 모습입니다.",
+    "last_updated": "2026-10-17 21:40:33",
+    "briefing": "오늘의 경제는 인공지능(AI)이 가져올 산업 구조의 근본적인 변화와 그에 따른 한국 경제의 취약성 경고가 공존하고 있습니다. 일본의 경제 순위 하락과 한미 금융 협력 강화 등 글로벌 질서 재편 속에 금리 결정과 물가 지표를 앞둔 시장의 긴장감이 고조되는 양상입니다.",
     "indices": [
         {
             "name": "KOSPI",
@@ -40,6 +40,61 @@
     ],
     "items": [
         {
+            "title": "IMF의 경고 \"AI에 집중된 한국 경제, 취약성도 커져\"",
+            "source": "조선일보",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUdZbkIySHRKRE5lT1g2a3ZnNjI2RG00U2wtSW1kRTFJSlhWdDQzUEo0RDZKYVg4MHZiYmNJRlRITWpwWWliX25JYUwyNk40SzktanVRdFpMNWJyaVhHWktISEtFLThwcVVtLUhQYzR2akt3WlFXV2lyck5fRjBMMm40N0lQNV9vVDdzeVln?oc=5",
+            "category": "테크/경제",
+            "summary": "IMF가 한국 경제의 과도한 AI 및 반도체 의존도에 따른 변동성 확대를 경고했습니다.",
+            "content": "국제통화기금(IMF)은 최근 한국 경제가 인공지능(AI) 산업에 지나치게 편중되어 있으며, 이는 단기적인 성장을 견인할 수 있으나 장기적으로는 대외 충격에 대한 취약성을 키울 수 있다고 지적했습니다. 한국의 수출 구조가 반도체와 AI 관련 고부가가치 품목에 집중되면서, 해당 산업의 사이클 변화가 국가 경제 전체에 미치는 영향력이 감당하기 어려울 정도로 커졌다는 분석입니다.\n\n동시에 케빈 워시 전 연준 이사는 AI가 미국 경제의 근본적인 체질을 바꾸고 있다고 평가하며, 생산성 혁명을 예고했습니다. 이는 한국에도 기회가 될 수 있지만, IMF는 기술 격차와 공급망 변화에 민감한 한국이 특정 분야에만 자원을 집중할 경우 발생할 '네덜란드 병'과 유사한 경제 왜곡 현상을 경계해야 한다고 조언했습니다.\n\n정부와 민간 기업들은 이러한 경고를 바탕으로 AI 기술 주도권을 확보하는 것뿐만 아니라, 산업 포트폴리오를 다변화하여 리스크를 분산해야 하는 숙제를 안게 되었습니다. 향후 글로벌 수요가 둔화하거나 기술 패러다임이 전환될 때를 대비한 기초 체력 강화가 절실한 시점입니다.",
+            "image_prompt": "AI technology, semiconductor chips, South Korea flag, economic vulnerability, futuristic digital graph",
+            "published_at": "2026-10-17 21:40:33",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[다음주 경제] 기준금리 3연속 인상할까…생산자 물가도 발표",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tMUVCZEVOcnpCb0EyamNuVmpwU0ZNTXJ1SXJaa2ZULVdsWmV4bkt4ZUwxN2ZrTTFJMnoxbTI4eF9PcExQVGxDMWoySEEyYXc5NUx2T2daSGxQYkXSAWBBVV95cUxPajRSaDdRSDBpXy02YVpyUllRb3A2MGtJSHFhaFYwS3ZneWl1UjN6RHBfZjJwbWdlbWIybktFNGhITkdkTlV6NWNmdWN5TVJlOFdYeUhDTzRMcFl4TnFMSms?oc=5",
+            "category": "금융/통화",
+            "summary": "한국은행의 금리 결정과 생산자 물가 발표를 앞두고 시장의 이목이 집중되고 있습니다.",
+            "content": "다음 주 예정된 금융통화위원회에서 한국은행이 기준금리를 어떻게 결정할지에 대해 금융권의 관심이 쏠리고 있습니다. 현재 고물가 압력이 여전한 가운데, 미국 연준의 긴축 기조 유지와 국내 가계부채 상황이 복합적으로 작용하며 한은의 고민이 깊어지고 있는 상황입니다. 시장 전문가들 사이에서도 동결과 인상 의견이 팽팽하게 맞서고 있습니다.\n\n함께 발표될 생산자물가지수(PPI)는 소비자물가의 선행 지표 역할을 한다는 점에서 매우 중요합니다. 최근 원자재 가격 변동과 환율 영향으로 생산자 물가가 상승세를 보일 경우, 이는 시차를 두고 소비자에게 전가되어 인플레이션 우려를 다시 자극할 수 있습니다. 이는 한은이 금리 인하 카드를 꺼내기 어렵게 만드는 요인이 됩니다.\n\n정부와 통화당국은 현재 한국 경제가 견조한 회복세를 보이고 있다고 평가하면서도, 민생 부담과 대외 불확실성이 상존하고 있음을 인정했습니다. 투자자들은 이번 금리 결정이 향후 주식 및 부동산 시장에 미칠 영향을 예의주시하며 보수적인 포지션을 취할 가능성이 높습니다.",
+            "image_prompt": "Bank of Korea, interest rate chart, inflation percentage, financial district Seoul, wooden gavel",
+            "published_at": "2026-10-17 21:40:33",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "한때 세계 2위 ‘경제대국’였는데…영국에도 밀려 60년만 탑5 밀려나는 일본",
+            "source": "문화일보",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFZTA5R2N6UjlIWHlHYkZLWlRuRG8zY0l3bnhmSVJobmF4WXBUeldBUVh0dmR0bHNYQnlWVldqNlVCcFp0SUhIQmxrb0hxeDh2?oc=5",
+            "category": "글로벌/거시",
+            "summary": "일본이 독일과 영국에 밀려 세계 경제 대국 상위 5개국 지위를 잃을 위기에 처했습니다.",
+            "content": "한때 미국을 맹추격하며 세계 2위 경제 대국으로 군림했던 일본이 60여 년 만에 세계 경제 순위 '톱 5'에서 밀려날 것으로 보입니다. 최근 국제 통계에 따르면 일본의 명목 국내총생산(GDP)은 엔화 가치 하락과 저성장의 고착화로 인해 독일뿐만 아니라 영국에도 추월당할 위기에 놓여 있습니다. 이는 일본 경제의 상징적인 위상 하락으로 받아들여지고 있습니다.\n\n이러한 순위 하락의 주요 원인으로는 장기간 지속된 저출산 고령화와 노동 생산성 정체가 꼽힙니다. 또한 엔저 현상이 심화되면서 달러로 환산한 GDP 규모가 크게 축소된 것도 결정적인 영향을 미쳤습니다. 일본 내에서는 이를 '67년 만의 쇼크'로 규정하며 경제 구조 개혁의 시급함을 강조하는 목소리가 커지고 있습니다.\n\n글로벌 경제 지도에서 일본의 위상 변화는 동아시아 전체의 경제 역학 구도에도 변화를 가져올 전망입니다. 독일과 영국이 상대적으로 견조한 성장세를 유지하는 사이, 일본은 기술 혁신 지연과 내수 부진이라는 이중고를 겪고 있어 순위 반등이 쉽지 않을 것이라는 관측이 지배적입니다.",
+            "image_prompt": "Tokyo skyline sunset, world map focus Japan, declining bar chart, Yen currency symbols, London Big Ben contrast",
+            "published_at": "2026-10-17 21:40:33",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "한미 재무-통화 첫 2+2 면담… 경제 현안-금융 협력 등 논의",
+            "source": "동아일보",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zZ1ZpZ1FHbEFDZ1VQdHlMOVF6c3RsQVdBZ3llWU5qcnR0MWpBRV9kckhnTGE4cENpOVJ0d1pxVzBNSjBXUElsMXpGODRQZWJqQzc5S1pQOW5fZ1Y2NWppY2V0NVFLZUNOTFEyRk5BQmg5SS10TkHSAWZBVV95cUxPTTI0bDFSSlFmODVmNWRzZW1WZmN0eDBST1J2LWFiRWJIQ2psc3VwZGNydzRmdGZKTnpBYmhnTll1cEdVRHFWZVpBQ3drS3lib19fSndwektNQ3VsMGU3bE41dC1TZ0E?oc=5",
+            "category": "정책/외교",
+            "summary": "한미 양국이 재무장관과 중앙은행 총재가 참여하는 첫 2+2 면담을 갖고 금융 협력을 강화합니다.",
+            "content": "한국과 미국이 안보 분야를 넘어 경제와 금융 분야에서도 '2+2(재무부 장관·중앙은행 총재)' 면담 체제를 가동했습니다. 이는 양국 간 경제 동맹을 공고히 하고 글로벌 금융 시장의 불안정성에 공동으로 대응하기 위한 전략적 선택으로 풀이됩니다. 양국은 이번 면담에서 외환 시장 안정화와 공급망 협력 등 핵심 현안을 폭넓게 논의했습니다.\n\n특히 급변하는 국제 정세 속에서 양국 금융 당국 간의 소통 채널이 상설화되었다는 점에 큰 의미가 있습니다. 이는 시장에 강력한 안정 메시지를 전달하며 환율 변동성 완화에 기여할 것으로 기대됩니다. 또한 공급망 재편 과정에서 한국 기업들이 미국 시장 내에서 겪을 수 있는 불확실성을 최소화하기 위한 정책적 공조도 강조되었습니다.\n\n전문가들은 이러한 고위급 협력 채널이 한국 경제의 대외 신인도를 높이는 데 긍정적인 역할을 할 것으로 보고 있습니다. 한미 양국은 향후에도 정기적인 만남을 통해 디지털 자산 규제, 기후 금융 등 새로운 경제 이슈에 대해서도 협력을 확대해 나갈 방침입니다.",
+            "image_prompt": "Diplomatic meeting, South Korea and USA flags, financial cooperation, professional handshakes, Washington D.C. background",
+            "published_at": "2026-10-17 21:40:33",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "초유의 '일론 주식회사' 나오나…테슬라·스페이스X 합병설",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrM1cxY21vNmxsSlUwN290a3lxcE1YempUNHVDNzJ0cW1wcVd5RW1FUHE0Ui1RX3JNaHNrMTl2c25HMW5YcnZWUkxETmpKcHpucXhDRVp2cWJTdw?oc=5",
+            "category": "테크/기업",
+            "summary": "일론 머스크의 테슬라와 스페이스X가 합병하여 거대 기업이 탄생할 수 있다는 가설이 제기되었습니다.",
+            "content": "일론 머스크가 이끄는 전기차 기업 테슬라와 우주 항공 기업 스페이스X의 합병 가능성이 제기되면서 글로벌 투자 시장이 술렁이고 있습니다. 소위 '일론 주식회사(Elon Inc.)'라고 불리는 이 시나리오는 머스크가 보유한 여러 첨단 기술 기업들을 하나로 통합하여 경영 효율성을 극대화하고 시너지를 창출하겠다는 구상에서 출발합니다.\n\n만약 두 거대 기업이 합병한다면, 지상 모빌리티와 우주 산업을 아우르는 전무후무한 기술 공룡이 탄생하게 됩니다. 스페이스X의 스타링크 위성 통신망을 테슬라 자율주행 기술에 직접 통합하거나, 두 기업의 제조 역량을 결합하여 생산 단가를 획기적으로 낮추는 등의 시너지가 예상됩니다. 이는 투자자들에게는 매력적인 비전으로 다가올 수 있습니다.\n\n하지만 현실적인 장벽도 만만치 않습니다. 각 기업의 복잡한 지배구조와 규제 당국의 독점 금지 심사, 그리고 서로 다른 산업 영역의 리스크 공유에 대한 기존 주주들의 반발이 변수입니다. 그럼에도 불구하고 머스크의 파격적인 행보를 고려할 때, 이번 합병설은 단순한 루머를 넘어 미래 산업 재편의 화두로 계속 논의될 전망입니다.",
+            "image_prompt": "Tesla logo and SpaceX rocket, Elon Musk silhouette, futuristic merger, electric car and satellite orbit, stock market ticker",
+            "published_at": "2026-10-17 21:40:33",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "한미 재무·통화 수장 첫 '2+2' 회동…경제·금융 협력 새 지평",
             "source": "연합인포맥스",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWTV9qb2dtMWxRSEhxRWh2ajV1SEoyeVcybGRmbUZvV3BYc2pjTmlxTXVqSlpYNnVYWEFTYkNBdWNaSXo3MWo2SU11a1lDckswcmxCN2lvTnJRa0tsbEQ5aVBLTTFSeUs4YlNRcTVodHU?oc=5",
@@ -48,7 +103,7 @@
             "content": "대한민국 기획재정부와 한국은행, 그리고 미국의 재무부와 연준 관계자들이 참여하는 첫 '2+2' 면담이 성사되었습니다. 이번 회동은 양국 간의 경제 현안을 공유하고 금융 시장의 변동성에 공동으로 대응하기 위한 협력 체계를 강화하는 데 목적이 있습니다. 특히 글로벌 공급망 재편과 인플레이션 대응이라는 공동의 과제를 해결하기 위한 고위급 소통 채널이 마련되었다는 점에서 큰 의의가 있습니다.\n\n양국 수장들은 최근의 환율 변동성과 글로벌 금리 인상 기조 속에서 금융 시장의 안정을 유지하는 것이 최우선 과제임을 확인했습니다. 이를 위해 실시간 정보 공유를 확대하고, 필요시 시장 안정화를 위한 공조를 아끼지 않기로 합의했습니다. 이는 단순히 외교적인 수사를 넘어 양국의 경제 안보를 공고히 하는 실질적인 행보로 풀이됩니다.\n\n또한, 생성형 AI의 등장과 같은 기술적 변화가 금융 시스템에 미칠 영향에 대해서도 심도 있는 논의가 이루어졌습니다. 급격한 기술 발전이 가져올 수 있는 리스크를 관리하면서도 경제 성장의 동력으로 활용하기 위한 규제 및 지원 방향에 대해 의견을 교환했습니다. 이번 회동을 기점으로 한미 경제 동맹은 한층 더 깊은 수준으로 발전할 것으로 기대됩니다.",
             "image_prompt": "Global finance, handshake, South Korea and USA flags, corporate blue, economic cooperation",
             "published_at": "2026-10-17 16:31:06",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "韓 코스피 급락 속 IMF 경고 “AI 관련 ETF 등 투자 제한해야”",
@@ -59,7 +114,7 @@
             "content": "최근 국내 코스피 지수가 급격한 변동성을 보이는 가운데, 국제통화기금(IMF)이 인공지능(AI) 관련 상장지수펀드(ETF) 및 기술주 투자에 대한 강력한 경고 메시지를 보냈습니다. IMF는 AI 기술에 대한 기대감이 실질적인 수익성으로 연결되는 속도보다 시장의 평가 가치가 지나치게 앞서가고 있다고 분석했습니다. 이는 향후 금리 변동이나 실적 발표 결과에 따라 시장에 큰 충격을 줄 수 있는 '자산 거품'의 전조가 될 수 있다는 지적입니다.\n\n특히 개인 투자자들이 높은 수익률만을 쫓아 AI 테마 상품에 집중 투자하는 현상에 대해 우려를 표했습니다. 특정 산업군에 자산이 과도하게 쏠릴 경우, 시장 전체의 시스템적 리스크로 번질 위험이 크기 때문입니다. IMF는 금융 당국에 이러한 투기적 흐름을 모니터링하고 필요한 경우 적절한 투자 보호 조치를 강구할 것을 권고했습니다.\n\n이러한 경고는 반도체와 AI 관련주 비중이 높은 한국 증시에도 직접적인 영향을 미치고 있습니다. 전문가들은 혁신 기술에 대한 투자는 필요하지만, 기업의 실제 펀더멘털을 분석하지 않은 맹목적인 추종 매매는 자제해야 한다고 입을 모읍니다. 당분간 글로벌 시장은 AI 기술의 실질적인 경제 기여도를 확인하며 숨 고르기에 들어갈 것으로 전망됩니다.",
             "image_prompt": "Stock market chart, AI circuit background, warning sign, digital volatility, red graph decline",
             "published_at": "2026-10-17 16:31:06",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "기준금리 3연속 인상할까…다음 주 생산자 물가 등 경제지표 발표",
@@ -70,7 +125,7 @@
             "content": "한국은행 금융통화위원회의 기준금리 결정을 앞두고 시장의 이목이 다음 주 발표될 생산자물가지수와 각종 경제 지표에 쏠리고 있습니다. 현재 한국 경제는 견조한 수출 성장세에도 불구하고 내수 부진과 고물가라는 이중고를 겪고 있습니다. 이번에 발표될 물가 데이터는 금리 인상 여부를 결정지을 결정적인 증거가 될 것으로 보입니다.\n\n생산자 물가는 소비자 물가의 선행 지표 역할을 하기 때문에, 만약 생산자 물가가 여전히 높은 수준을 유지한다면 한국은행은 추가 금리 인상 카드를 만지작거릴 수밖에 없습니다. 반면, 경기 침체 우려가 커지고 있는 상황에서 무리한 금리 인상은 가계 부채 부담을 가중시키고 소비를 위축시킬 수 있다는 반론도 만만치 않습니다.\n\n미국 연준(Fed)의 금리 정책 방향도 중요한 변수입니다. 미국의 고금리 기조가 장기화될 가능성이 제기되는 가운데, 한국만 금리를 동결하거나 인하할 경우 자본 유출과 환율 불안이 발생할 수 있습니다. 한국은행은 물가 안정과 경기 회복, 그리고 대외 금융 상황이라는 세 마리 토끼를 잡기 위해 매우 정교한 정책 조율을 진행할 것으로 예상됩니다.",
             "image_prompt": "Central bank building, interest rate percentage, balance scale, inflation data, professional economy",
             "published_at": "2026-10-17 16:31:06",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한때 세계 2위 ‘경제대국’ 일본의 굴욕…인도·영국에도 밀려 5위권 밖으로",
@@ -81,7 +136,7 @@
             "content": "60년 넘게 세계 경제의 상위권을 지켜왔던 일본이 신흥 강국인 인도와 전통 강호인 영국에 밀려 경제 규모 순위에서 밀려나는 수모를 겪고 있습니다. IMF와 주요 경제 분석 기관들의 전망에 따르면, 일본의 명목 국내총생산(GDP)은 조만간 세계 5위 밖으로 밀려날 가능성이 큽니다. 이는 1960년대 고도 성장기 이후 일본이 경험한 적 없는 충격적인 결과입니다.\n\n이러한 하락의 주요 원인으로는 고질적인 저출산 고령화로 인한 노동 인구 감소와 산업 경쟁력 약화가 꼽힙니다. 여기에 최근 지속된 역대급 엔저 현상이 달러 환산 GDP 규모를 더욱 축소시켰습니다. 한때 '재팬 넘버원'을 외치며 미국을 위협하던 경제 강국의 위상은 이제 과거의 유물이 되어가고 있다는 평가가 지배적입니다.\n\n반면 인도는 막대한 인구와 빠른 IT 산업 성장을 바탕으로 '포스트 차이나'의 입지를 굳히며 일본을 추월하고 있습니다. 전문가들은 일본이 과거의 영광에 안주하지 않고 근본적인 구조 개혁과 디지털 전환에 성공하지 못한다면, 경제 순위 하락은 일시적인 현상이 아닌 장기적인 추세가 될 것이라고 경고하고 있습니다.",
             "image_prompt": "Japanese yen currency, descending bar chart, Tokyo skyline, global map, rising India flag",
             "published_at": "2026-10-17 16:31:06",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "라면 제친 한국 ‘밥도둑’ 김…미국인 입맛 사로잡으며 수출 효자 등극",
@@ -92,7 +147,7 @@
             "content": "한국의 전통 식품인 김이 전 세계인의 입맛을 사로잡으며 '검은 반도체'로 불리는 수출 효자 품목으로 우뚝 섰습니다. 특히 미국 시장에서는 감자칩을 대체할 저칼로리 건강 스낵으로 김이 큰 인기를 끌면서, 전통적인 수출 강자였던 라면의 성장세를 뛰어넘는 놀라운 성과를 거두고 있습니다. 미국의 대형 유통 체인마다 한국산 김이 진열대를 가득 채우고 있는 풍경은 이제 낯설지 않습니다.\n\nK-푸드의 인기는 단순히 맛을 넘어 '건강하고 간편한 식단'이라는 트렌드와 결합되어 있습니다. 한국 기업들은 현지인의 입맛에 맞춰 고소한 맛, 매운맛, 와사비맛 등 다양한 시즈닝을 가미한 스낵형 김을 출시하며 시장 점유율을 높였습니다. 또한 넷플릭스 등 OTT 서비스를 통해 한국 콘텐츠가 확산되면서 극 중 등장하는 한국 음식을 직접 경험해보려는 수요도 폭발적으로 늘었습니다.\n\n이러한 성과는 농수산물 수출 확대는 물론 관련 제조 중소기업들의 성장으로 이어지고 있습니다. 정부 또한 김 수출 1조 원 시대를 열기 위해 종자 개량부터 가공 시설 현대화까지 전폭적인 지원을 아끼지 않고 있습니다. 반도체와 자동차에 이어 K-푸드가 대한민국의 새로운 경제 활로를 열어가는 핵심 산업으로 자리매김하고 있습니다.",
             "image_prompt": "Seaweed snacks, crunchy texture, global shipping, modern packaging, healthy snack trend",
             "published_at": "2026-10-17 16:31:06",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "워시 \"10월 금리결정 예단 안해…AI로 美경제 근본적 변화\"",
@@ -103,7 +158,7 @@
             "content": "미국 연방준비제도(Fed)의 주요 인사들이 향후 금리 결정에 대해 신중한 입장을 견지하고 있습니다. 크리스토퍼 월러 이사를 비롯한 정책 결정자들은 인플레이션 둔화세가 지속되고는 있으나, 고용 시장의 견조함과 예상치 못한 데이터 변화를 고려해 10월 또는 11월 금리 결정을 서두르지 않겠다는 신호를 보내고 있습니다.\n\n특히 주목할 점은 인공지능(AI)이 미국 경제에 미치는 근본적인 영향력입니다. 미 경제 당국자들은 AI 기술이 생산성을 비약적으로 향상시켜 잠재 성장률을 높이고, 결과적으로 인플레이션 구조 자체를 변화시킬 수 있다고 분석하고 있습니다. 이는 단순한 기술 열풍을 넘어 거시 경제 정책의 패러다임을 바꿀 수 있는 요인으로 지목됩니다.\n\n시장 전문가들은 이러한 발언을 통해 미 연준이 금리 인하에 대해 '매파적 동결' 혹은 '느린 인하'의 스탠스를 취할 가능성이 높다고 보고 있습니다. 앞으로 발표될 소비자물가지수(CPI)와 고용 지표가 다음 금리 결정의 핵심 열쇠가 될 전망입니다.",
             "image_prompt": "Artificial Intelligence, Central Bank, Interest rate charts, Digital economy, Futuristic cityscape",
             "published_at": "2026-10-17 11:53:15",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "인도에도 뒤졌다…한때 세계2위 경제대국 일본의 굴욕",
@@ -114,7 +169,7 @@
             "content": "한때 미국과 어깨를 나란히 하며 세계 2위의 경제 대국으로 군림했던 일본이 인도에게마저 밀려나는 충격적인 결과가 발표되었습니다. IMF와 글로벌 경제 분석 기관들에 따르면, 인도의 급격한 성장세와 일본의 엔저 현상 및 저성장이 맞물리며 명목 GDP 순위가 역전되었습니다.\n\n일본 경제의 이러한 하락세는 고령화에 따른 인구 감소와 혁신 동력의 부재가 주요 원인으로 꼽힙니다. 엔화 가치 하락은 수출 기업에게는 유리할 수 있으나, 국가 전체의 경제 규모를 달러로 환산했을 때 순위를 대폭 낮추는 결과를 초래했습니다. 반면 인도는 풍부한 젊은 노동력과 정부의 강력한 인프라 투자로 '넥스트 차이나'의 입지를 굳히고 있습니다.\n\n전문가들은 이번 순위 역전이 아시아 경제의 주도권이 동북아시아에서 서남아시아로 이동하고 있음을 보여주는 상징적 사건이라고 분석합니다. 일본 내부에서는 산업 구조의 전면적인 개편과 규제 혁파 없이는 경제 위상을 회복하기 어려울 것이라는 위기감이 고조되고 있습니다.",
             "image_prompt": "Global GDP rankings, Rising India vs Falling Japan, Economic growth charts, Modern vs Traditional",
             "published_at": "2026-10-17 11:53:15",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "주북 中대사, 신압록강대교 북중시설 방문…\"경제 협력 확대\"",
@@ -125,7 +180,7 @@
             "content": "오랫동안 개통이 지연되었던 신압록강대교의 북측 시설을 주북 중국 대사가 직접 방문하면서 북중 경제 협력 재개가 초읽기에 들어갔습니다. 이번 방문은 단순한 현장 점검을 넘어 양국 간 무역을 정상화하고 경제적 유대를 강화하겠다는 강력한 외교적 메시지로 풀이됩니다.\n\n현지 보도와 주민들의 전언에 따르면, 이미 세관 앞에는 북중 화물차들이 줄을 서 대기하고 있으며 대교 주변의 물류 시설 정비도 마무리 단계에 접어든 것으로 보입니다. 신압록강대교가 본격 가동될 경우, 기존 조중우의교보다 월등히 높은 물동량을 처리할 수 있어 북한 경제에 상당한 활력을 불어넣을 것으로 예상됩니다.\n\n대북 전문가들은 이러한 움직임이 최근 북러 군사 밀착에 대응해 중국이 경제적 영향력을 유지하려는 의도도 포함된 것으로 보고 있습니다. 향후 대교 개통 시점이 공식화되면 생필품부터 건설 자재까지 폭넓은 품목의 교류가 이루어질 전망입니다.",
             "image_prompt": "Modern bridge, Cargo trucks, Border crossing, Economic trade, Night view of bridge",
             "published_at": "2026-10-17 11:53:15",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "韓 코스피 급락한 날, IMF의 경고 “AI 관련 ETF 등 투자 제한해야”",
@@ -136,7 +191,7 @@
             "content": "최근 코스피 지수가 급등락을 반복하며 불안정한 흐름을 보이는 가운데, 국제통화기금(IMF)이 인공지능(AI) 관련 금융 상품에 대한 경고 메시지를 내놓았습니다. IMF는 보고서를 통해 AI 기술에 기반한 상장지수펀드(ETF) 등에 과도한 자금이 쏠리면서 시장의 자산 거품 위험이 커지고 있다고 지적했습니다.\n\n특히 한국 시장은 반도체와 AI 관련주에 대한 의존도가 높아 글로벌 테마 주식의 변동성에 더욱 취약한 구조를 가지고 있습니다. IMF는 기관 및 개인 투자자들이 분산 투자 원칙을 지키지 않고 특정 섹터에 집중할 경우, 향후 기술주 거품이 꺼질 때 금융 시스템 전체의 리스크로 전이될 수 있음을 강조했습니다.\n\n시장 관계자들은 이번 IMF의 경고가 지나친 낙관론에 경종을 울리는 계기가 될 것으로 보고 있습니다. 향후 금융당국은 AI 관련 파생상품이나 ETF에 대한 모니터링을 강화할 것으로 보이며, 투자자들 또한 수익성뿐만 아니라 리스크 관리에 더욱 신중을 기해야 할 시점입니다.",
             "image_prompt": "Stock market crash, Financial warning, AI icons, Red graph down, Risk management",
             "published_at": "2026-10-17 11:53:15",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "워시 “세계 경제 대체로 예상대로”…금리 인상 가능성 작아져 - 중앙일보",
@@ -146,7 +201,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-10-17 01:01:28",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "워시 \"금리결정 예단 안해…AI가 세계경제 상방요인\" - 연합뉴스",
@@ -156,7 +211,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-10-17 01:01:28",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "워시 \"10월 금리결정 예단 안해…AI로 美경제 근본적 변화\"(종합) - 뉴스1",
@@ -166,7 +221,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-10-17 01:01:28",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"AI 집중된 한국경제, 취약성도 점점 커져\" - 조선일보",
@@ -176,7 +231,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-10-17 01:01:28",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"증시 운명 걸렸다\"…테슬라·한은·중국에 쏠린 눈[다음주 변수 미리보기] - 한국경제",
@@ -186,7 +241,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-10-17 01:01:28",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "일본, 60여 년 만에 세계 5대 경제대국 지위 상실 위기",
@@ -197,7 +252,7 @@
             "content": "일본 경제가 역사적인 하락세를 보이며 전 세계의 주목을 받고 있습니다. 과거 미국을 위협하던 세계 2위 경제대국의 명성은 사라지고, 최근 독일에게 3위 자리를 내준 데 이어 이제는 영국에도 밀려 5위권 밖으로 추락할 것이라는 전망이 나왔습니다. 이는 1960년대 중반 이후 약 60년 만에 처음 있는 일로, 일본 사회에 큰 충격을 주고 있습니다.\n\n이러한 하락의 주요 원인으로는 기록적인 엔저 현상과 저출산 고령화로 인한 장기적 성장 동력 상실이 꼽힙니다. 달러 대비 엔화 가치가 크게 하락하면서 달러로 환산한 일본의 국내총생산(GDP) 규모가 상대적으로 축소되었으며, 이는 국가 경쟁력 약화로 직결되고 있습니다. 독일의 GDP가 일본을 추월한 데 이어 영국의 추격까지 허용하며 일본 경제의 위상은 과거와 사뭇 다른 모습입니다.\n\n전문가들은 단순한 환율 문제를 넘어 일본 경제의 구조적 한계가 드러난 것이라고 분석합니다. 디지털 전환의 지연과 노동 생산성 저하가 고착화되면서 잠재 성장률이 0%대에 머물고 있는 점이 치명적입니다. 일본 정부는 방위비 증액과 경제 안보 강화를 추진하고 있으나, 세수 부족과 국가 부채 문제로 인해 정책 추진 동력이 약화될 우려가 큽니다.\n\n향후 일본이 이 위기를 극복하기 위해서는 근본적인 산업 구조 개편과 규제 혁신이 필수적입니다. 하지만 현재의 인구 구조적 한계와 증세에 대한 국민적 반발을 고려할 때, 단기간에 경제 대국의 지위를 회복하기는 쉽지 않을 것으로 보입니다. 이번 순위 하락은 동아시아 경제 패권의 변화를 상징하는 중요한 사건으로 기록될 전망입니다.",
             "image_prompt": "Japanese economy decline, Tokyo city dark, falling graph, Yen currency, Historical change, cinematic",
             "published_at": "2026-10-16 19:38:39",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한미 재무·통화 수장 첫 '2+2' 회동…금융 협력 새 지평",
@@ -208,7 +263,7 @@
             "content": "한국과 미국이 경제 안보 및 금융 시장 안정을 위해 사상 처음으로 재무장관과 중앙은행 총재가 참여하는 '2+2' 회동을 가졌습니다. 이번 회담은 양국 간의 경제 협력을 단순한 교역 수준을 넘어 통화와 금융 정책의 조율 단계로까지 격상시켰다는 점에서 큰 의미를 가집니다. 양측은 글로벌 공급망 재편과 불안정한 거시 경제 환경 속에서 긴밀한 공조를 약속했습니다.\n\n이번 회동에서 주요 의제로 다뤄진 것은 외환 시장 안정과 우방국 중심의 공급망 구축입니다. 최근 글로벌 금리 변동성이 커지고 신흥국들의 통화 가치가 불안정한 상황에서, 한미 양국은 시장의 안정을 위해 적극적으로 소통하기로 합의했습니다. 이는 한국 금융 시장의 대외 신인도를 높이고 투기적 수요에 대응하는 데 큰 보탬이 될 것으로 기대됩니다.\n\n또한 탄소 중립 전환과 인공지능(AI) 등 첨단 기술 분야에서의 협력도 논의되었습니다. 미국은 자국의 인플레이션 감축법(IRA)과 반도체법 등을 통해 한국 기업들과의 협력을 강화하고 있으며, 이번 회담을 통해 정책적 불확실성을 해소하려는 노력을 보였습니다. 한국 측 역시 자본 시장 선진화를 위한 노력을 설명하며 양국 간 투자 확대의 필요성을 강조했습니다.\n\n결과적으로 이번 2+2 회동은 한미 동맹이 군사·안보 동맹을 넘어 포괄적인 경제·금융 동맹으로 진화하고 있음을 시사합니다. 전 세계적인 보호무역주의 확산과 지정학적 리스크 속에서, 양국 당국의 정례적인 소통 채널 확보는 한국 경제의 회복 탄력성을 높이는 데 핵심적인 역할을 할 것입니다.",
             "image_prompt": "South Korea USA flag, financial cooperation, handshake, modern office, global economy network, professional",
             "published_at": "2026-10-16 19:38:39",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "북중 신압록강대교 12년 만에 개통…경제 협력 가속화",
@@ -219,7 +274,7 @@
             "content": "북한 신의주와 중국 단둥을 잇는 신압록강대교가 드디어 통행을 시작했다는 소식이 전해졌습니다. 2011년 착공해 2014년 완공되었음에도 불구하고 북한의 국경 봉쇄와 대북 제재 등의 여유로 12년 가까이 열리지 않았던 이 다리는, 북중 수교 75주년을 즈음하여 마침내 본격적인 가동에 들어간 것으로 보입니다. 이는 북중 관계의 정상화와 경제적 협력 강화를 상징하는 강력한 신호입니다.\n\n신압록강대교는 기존의 노후화된 조중우의교를 대신해 대규모 물류를 실어나를 수 있는 현대식 교량입니다. 이번 개통으로 북한은 중국으로부터 필수 자원과 식량을 보다 원활하게 수입할 수 있게 되었으며, 중국은 동북 3성과 북한의 연결성을 강화해 지역 경제 활성화를 꾀할 수 있게 되었습니다. 이는 대북 제재의 실효성을 약화시키는 요인으로도 작용할 수 있어 국제사회의 주목을 받고 있습니다.\n\n전문가들은 이번 교량 개통이 단순히 물류 확대를 넘어 북한의 관광 산업과 임가공 무역 재개로 이어질 것으로 내다보고 있습니다. 북한 내 대규모 인프라 건설에 필요한 자재들이 이 다리를 통해 유입될 가능성이 크며, 이는 침체된 북한 경제에 활력을 불어넣는 계기가 될 수 있습니다. 다만, 미국의 견제와 국제적인 제재 틀 안에서 중국이 어느 정도 수준까지 교역을 확대할지는 미지수입니다.\n\n결론적으로 신압록강대교의 개통은 한반도 주변 정세에 새로운 변수를 제공합니다. 북한이 중국과의 밀착을 통해 외교적 고립을 탈피하고 경제적 생존 전략을 모색함에 따라, 한미일의 대북 압박 공조에도 일정한 변화가 불가피할 전망입니다. 향후 이 다리를 통해 오가는 물동량의 규모가 북중 관계의 긴밀도를 측정하는 척도가 될 것입니다.",
             "image_prompt": "New Yalu River Bridge, North Korea China border, truck cargo, river view, industrial connectivity, sunset",
             "published_at": "2026-10-16 19:38:39",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "IMF의 경고 “AI 관련 ETF 투자 주의”…코스피는 반등 성공",
@@ -230,7 +285,7 @@
             "content": "국제금융기구인 IMF가 최근 전 세계적으로 불고 있는 인공지능(AI) 투자 열풍에 대해 우려 섞인 경고를 내놓았습니다. 특히 특정 기술주에 집중된 ETF(상장지수펀드)와 자산운용사의 투자 행태가 향후 금융 시장의 불안정성을 초래할 수 있다는 점을 지적했습니다. AI 산업의 수익성이 기대에 미치지 못할 경우, 집중된 자본이 일시에 빠져나가며 전 세계 증시에 충격을 줄 수 있다는 논리입니다.\n\n이러한 경고에도 불구하고 국내 코스피 시장은 단기 급락에 따른 가격 매력이 부각되며 반등에 성공했습니다. 최근 급격히 하락했던 삼성전자와 SK하이닉스 등 반도체 대장주를 중심으로 외국인과 기관의 저가 매수세가 강하게 유입되었습니다. 투자자들은 AI 거품론보다는 엔비디아 등 주요 테크 기업의 견조한 실적과 중장기적 성장세에 더 무게를 두는 모습입니다.\n\n하지만 시장의 불안감은 여전히 남아있습니다. IMF의 경고는 과거 IT 버블과 유사한 양상을 보일 수 있다는 경계심을 일깨우고 있습니다. 현재의 상승세가 펀더멘털에 기반한 것인지, 아니면 과잉 유동성에 의한 일시적 현상인지를 두고 전문가들의 의견이 갈리고 있습니다. 특히 개인 투자자들이 대거 유입된 AI 관련 파생상품의 위험 관리가 시급하다는 조언이 잇따르고 있습니다.\n\n앞으로 국내 증시는 미국의 통화 정책 방향과 주요 빅테크 기업들의 실적 발표 결과에 따라 변동성이 커질 것으로 보입니다. 투자자들은 단기적인 반등에 일희일비하기보다 포트폴리오를 다변화하고 리스크를 분산하는 전략이 필요합니다. IMF의 경고가 현실화될지, 아니면 AI가 새로운 경제 패러다임을 지속적으로 이끌어갈지는 향후 몇 달간의 데이터가 증명할 것입니다.",
             "image_prompt": "Stock market chart, AI circuit board background, IMF logo, volatility, blue neon light, futuristic",
             "published_at": "2026-10-16 19:38:39",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미국 경제의 근본적 변화…AI 상방 요인과 인플레이션 사이",
@@ -241,7 +296,7 @@
             "content": "미국 금융계의 거물인 케빈 워시 전 연방준비제도(Fed) 이사가 인공지능(AI) 기술이 미국 경제에 미치는 영향에 대해 긍정적인 전망을 제시했습니다. 그는 AI가 단순한 유행을 넘어 생산성을 획기적으로 향상시킴으로써 미국의 경제 기초(펀더멘털)를 근본적으로 변화시키고 있다고 평가했습니다. 이는 최근 불거진 경기 침체 우려를 상쇄할 수 있는 강력한 원동력이 될 것이라는 주장입니다.\n\n워시는 최근 발표된 생산자물가지수(PPI)가 예상보다 높게 나왔음에도 불구하고, 시장이 비교적 차분하게 반응한 이유를 여기서 찾았습니다. 기술 혁신이 공급 측면의 제약을 해소하고 장기적인 성장을 견인할 것이라는 믿음이 시장 저변에 깔려 있다는 것입니다. 그는 10월 금리 결정에 대해 예단하지 않겠다고 선을 그으면서도, 데이터에 기반한 유연한 통화 정책의 중요성을 강조했습니다.\n\n하지만 AI가 가져올 변화가 장밋빛 미래만을 약속하는 것은 아닙니다. 기술 도입 과정에서 발생하는 노동 시장의 재편과 소득 불평등 문제는 정부가 해결해야 할 과제로 남아있습니다. 또한 AI 산업에 대한 과도한 기대가 자산 가격에 이미 반영되어 있어, 실질적인 이익 창출이 확인되지 않을 경우 조정 국면이 찾아올 수 있다는 신중론도 제기됩니다.\n\n종합적으로 볼 때, 미국 경제는 인플레이션 억제와 기술 혁신을 통한 성장이라는 두 가지 목표 사이에서 줄타기를 하고 있습니다. 케빈 워시의 발언은 AI가 경제의 하방 압력을 방어하는 든든한 버팀목이 될 수 있음을 시사합니다. 앞으로 미국의 금리 정책은 단순한 물가 지표뿐만 아니라, 이러한 기술적 진보가 생산성에 어떻게 투영되는지를 종합적으로 고려하여 결정될 것으로 보입니다.",
             "image_prompt": "US economy growth, AI technology integration, skyscraper, data streams, optimistic business, golden hour",
             "published_at": "2026-10-16 19:38:39",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제대국 일본의 추락, 67년 만에 '세계 4위'로 밀려나며 쇼크",
@@ -252,7 +307,7 @@
             "content": "일본 경제가 지난 60여 년간 지켜온 '경제 대국'의 위상이 흔들리고 있습니다. 최근 발표된 경제 지표에 따르면 일본의 명목 국내총생산(GDP) 규모가 독일에 이어 영국에도 밀릴 가능성이 제기되며 세계 순위가 4위 이하로 하락하는 '67년 만의 쇼크'를 기록했습니다. 이는 일본 사회 전반에 큰 충격을 안겨주고 있습니다.\n\n이러한 하락의 주요 원인으로는 기록적인 엔저 현상과 저성장 기조의 고착화가 꼽힙니다. 일본은 과거 세계 2위의 경제 대국으로서 글로벌 시장을 호령했으나, 장기간 이어진 디플레이션과 인구 감소, 그리고 최근 가팔라진 환율 변동성이 겹치며 경제 규모가 상대적으로 축소되는 결과를 낳았습니다.\n\n전문가들은 이번 순위 하락이 단순한 수치 변화를 넘어 일본의 국력 약화를 상징한다고 분석합니다. 특히 신산업 전환의 지연과 노동 생산성 저하가 발목을 잡고 있다는 지적입니다. 일본 내에서는 이번 사태를 계기로 대대적인 경제 구조 개혁과 성장 동력 확보가 시급하다는 목소리가 커지고 있습니다.\n\n글로벌 경제 지도에서 일본의 비중이 줄어듦에 따라 아시아 경제의 주도권 변화와 함께 한국 등 주변국에 미칠 영향에 대해서도 정밀한 분석이 요구되는 시점입니다. 일본의 사례는 한국 경제에도 구조 개혁의 중요성을 시사하는 강력한 경고음이 되고 있습니다.",
             "image_prompt": "Japan economy decline, falling graph, Yen currency, Tokyo city silhouette, dramatic lighting",
             "published_at": "2026-10-16 12:00:50",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "IMF의 경고 “AI 관련 ETF 투자 주의”, 한국 증시 변동성 확대",
@@ -263,7 +318,7 @@
             "content": "국제통화기금(IMF)이 최근 급증하고 있는 인공지능(AI) 관련 상장지수펀드(ETF) 투지 과열에 대해 공식적인 경고 메시지를 보냈습니다. IMF는 AI 기술에 대한 과도한 낙관론이 자산 가격에 거품을 형성할 수 있으며, 이는 금융 시스템 전반의 불안정성으로 이어질 수 있다고 지적했습니다.\n\n실제로 한국 증시에서도 코스피가 급락하는 등 변동성이 확대되는 양상을 보이고 있습니다. 투자자들은 그동안 AI 관련 기술주와 반도체 섹터에 집중적인 매수세를 보여왔으나, 이번 IMF의 경고로 인해 투심이 위축되며 조정 국면에 진입한 것 아니냐는 분석이 나오고 있습니다.\n\n특히 전문가들은 AI 산업의 실질적인 수익성이 검증되기 전에 기대감만으로 주가가 상승한 측면이 있다고 우려합니다. 특정 섹터에 대한 쏠림 현상이 심화될수록 하락 시의 충격은 더욱 클 수밖에 없기 때문에, 포트폴리오의 다변화와 신중한 접근이 필요한 시기입니다.\n\n향후 시장은 AI 기술의 실질적인 상용화 성과와 금리 정책 등 거시 경제 변수에 따라 방향성을 결정할 것으로 보입니다. 투자자들은 단기적인 열풍에 휩쓸리기보다는 기업의 본질적인 펀더멘털을 점검하며 리스크 관리에 만전을 기해야 할 것입니다.",
             "image_prompt": "Artificial Intelligence chip, stock market crash graph, financial risk, blue neon circuit board",
             "published_at": "2026-10-16 12:00:50",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "3년 연속 적자에도 '성과급 잔치' 벌인 농협경제지주 논란",
@@ -274,7 +329,7 @@
             "content": "농협경제지주가 최근 3년 연속 영업적자를 기록했음에도 불구하고 대표이사를 비롯한 경영진에게 거액의 성과급을 지급한 사실이 드러나 논란이 일고 있습니다. 이는 전형적인 '도덕적 해이'라는 지적과 함께 농민을 위한 조직이라는 설립 취지에 어긋난다는 비판이 거셉니다.\n\n공개된 자료에 따르면 농협경제지주는 유통 및 농업 지원 사업에서 지속적인 손실을 보고 있는 상황입니다. 그럼에도 내부 성과 평가 체계의 허점을 이용해 경영진에게 높은 등급을 부여하고, 이를 근거로 억대 성과급을 지급해온 것으로 밝혀졌습니다.\n\n국회와 시민단체에서는 공공 성격을 띤 기관이 실적 악화에도 불구하고 성과급 잔치를 벌이는 것은 국민 정서에 반하는 행위라고 강하게 질타하고 있습니다. 특히 고물가와 생산비 상승으로 고통받는 농민들의 현실을 외면한 처사라는 반응이 지배적입니다.\n\n이번 사태를 계기로 농협 중앙회 및 계열사 전반의 성과급 산정 기준을 투명하게 재점검해야 한다는 목소리가 높습니다. 조직의 건전성을 확보하고 농업인들에게 실질적인 혜택이 돌아갈 수 있도록 경영 감시 체계를 강화해야 한다는 지적입니다.",
             "image_prompt": "Stacked coins, red ink financial loss, corporate greed concept, glass building background",
             "published_at": "2026-10-16 12:00:50",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "정부, “경기 회복세는 견조하나 고유가·민생 부담은 여전”",
@@ -285,7 +340,7 @@
             "content": "정부는 최근 발표한 경제 동향 보고서를 통해 우리 경제가 수출을 중심으로 완만한 회복 흐름을 지속하고 있다고 진단했습니다. 반도체를 필두로 한 수출 실적이 개선되면서 경상수지 흑자 기조가 이어지고 있다는 점을 고무적으로 평가한 것입니다.\n\n하지만 지표상의 회복세와 달리 서민들이 체감하는 경기는 여전히 차갑기만 합니다. 정부 역시 국제 유가의 변동성 확대와 농축수산물 가격 불안 등으로 인해 서민들의 장바구니 물가 부담이 가중되고 있다는 점을 인정했습니다. 민생 경제의 하방 위험이 여전하다는 판단입니다.\n\n이에 따라 정부는 물가 안정에 정책적 역량을 집중하는 한편, 경기 회복의 온기가 내수 시장으로 확산될 수 있도록 다양한 지원책을 강구하겠다고 밝혔습니다. 에너지 바우처 지원 확대 및 주요 생필품에 대한 가격 관리 등 체감 물가를 낮추기 위한 노력을 지속할 방침입니다.\n\n전문가들은 지표와 체감 경기 사이의 괴리를 줄이는 것이 향후 경제 정책의 핵심 과제가 될 것이라고 조언합니다. 수출 성과가 가계 소득 증대와 소비 활성화로 이어질 수 있는 선순환 구조를 만드는 것이 시급하다는 분석입니다.",
             "image_prompt": "Oil barrels, grocery cart, Korean flag, economic recovery chart, realistic style",
             "published_at": "2026-10-16 12:00:50",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "북중 국경 활기, 화물차 행렬에 “지역 경제 살아날 것” 기대감",
@@ -296,7 +351,7 @@
             "content": "최근 북한과 중국을 잇는 세관 앞에 화물차들이 길게 늘어선 모습이 포착되면서 북중 교역이 본격적으로 정상화 궤도에 올랐다는 관측이 나오고 있습니다. 팬데믹 기간 동안 굳게 닫혔던 국경의 빗장이 풀리면서 물자 이동이 활발해지고 있는 것입니다.\n\n현지 주민들은 화물차 행렬을 보며 지역 경제가 다시 살아날 것이라는 기대감을 감추지 못하고 있습니다. 식료품부터 건설 자재에 이르기까지 다양한 품목의 교역이 재개됨에 따라 접경 지역의 상권이 활기를 되찾고 물류 산업도 다시금 기지개를 켜고 있는 상황입니다.\n\n대북 전문가들은 이번 교역 확대가 북한 내 물자 부족 문제를 완화하고 경제 상황을 개선하는 데 일정 부분 기여할 것으로 보고 있습니다. 또한 중국 측에서도 접경 도시의 경제 활성화를 위해 북한과의 협력을 강화하려는 움직임을 보이고 있습니다.\n\n다만 국제 사회의 대북 제재 상황 속에서 이러한 교역 확대가 어느 정도까지 지속될 수 있을지는 미지수입니다. 북중 관계의 밀착이 한반도 정세와 동북아 경제 블록에 어떠한 변수로 작용할지에 대해 주변국들의 긴밀한 모니터링이 이어지고 있습니다.",
             "image_prompt": "Cargo trucks, border customs, North Korea and China flag, industrial bridge, sunset lighting",
             "published_at": "2026-10-16 12:00:50",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "세계 2위에서 6위로 추락한 일본 경제, ‘67년 만의 쇼크’ 직면",
@@ -307,7 +362,7 @@
             "content": "한때 미국과 함께 세계 경제의 양대 산맥으로 불리며 세계 2위 자리를 굳건히 지켰던 일본 경제가 전례 없는 굴욕을 겪고 있습니다. 최근 경제 지표 분석에 따르면 일본은 국내총생산(GDP) 규모에서 인도에 추월당하며 세계 6위권으로 밀려난 것으로 나타났습니다. 이는 일본 경제계에 '67년 만의 쇼크'로 받아들여지며 국가적 위기감을 고조시키고 있습니다.\n\n이러한 하락의 주요 원인으로는 장기간 이어진 저성장 기조와 더불어 급격한 엔저 현상, 그리고 고령화로 인한 노동 생산성 저하가 꼽힙니다. 반면 인도는 풍부한 젊은 노동력과 정부의 공격적인 제조업 육성 정책을 바탕으로 가파른 성장세를 보이며 일본을 앞질렀습니다. 이는 글로벌 경제 패권이 서구 및 기존 선진국에서 신흥국으로 이동하고 있음을 보여주는 상징적인 사건입니다.\n\n일본 내부에서는 이번 순위 하락을 계기로 근본적인 구조 개혁이 필요하다는 목소리가 커지고 있습니다. 규제 완화와 디지털 전환 가속화를 통해 침체된 역동성을 되살려야 한다는 지적입니다. 하지만 전문가들은 인구 구조의 변화라는 근본적인 한계를 극복하지 못한다면 순위 반등은 쉽지 않을 것으로 내다보고 있습니다.\n\n글로벌 시장은 이제 '경제 대국 일본'이라는 수식어가 과거의 유물이 될 가능성에 주목하고 있습니다. 일본의 위상 변화는 아시아 내 공급망 재편은 물론, 엔화의 위상과 국제 금융 시장의 자금 흐름에도 장기적인 영향을 미칠 것으로 분석됩니다.",
             "image_prompt": "Japanese yen, falling economic chart, Tokyo skyline sunset, global hierarchy change, somber colors",
             "published_at": "2026-10-16 01:15:59",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "IMF, 한국 경제성장률 전망치 3.3%로 상향… 수출 호조가 견인",
@@ -318,7 +373,7 @@
             "content": "국제통화기금(IMF)이 올해 한국의 경제성장률 전망치를 기존보다 0.7%포인트 상향 조정한 3.3%로 발표했습니다. 이는 지난 7월 전망 대비 상당폭 상승한 수치로, 한국 경제의 회복 탄력성이 예상보다 강하다는 것을 시사합니다. 특히 반도체를 중심으로 한 수출의 가파른 증가세가 이번 상향 조정의 핵심 동력이 되었습니다.\n\nIMF는 한국의 주력 수출 품목인 메모리 반도체 시장의 업황 개선과 글로벌 IT 수요 회복이 한국 경제 전반에 활력을 불어넣고 있다고 분석했습니다. 또한 정부의 건전재정 기조 유지가 대외 신인도를 높이는 데 기여했으며, 이러한 거시경제적 안정성이 성장의 밑거름이 되고 있다고 덧붙였습니다.\n\n하지만 이러한 장밋빛 전망에도 불구하고 내수 경기의 완만한 회복 속도는 여전히 과제로 남아 있습니다. 수출 실적이 기업의 실적 개선으로는 이어지고 있으나, 고물가와 고금리의 영향으로 가계의 실질 구매력이 회복되지 않아 민생 경제와의 괴리가 발생하고 있다는 지적이 나옵니다.\n\n전문가들은 상향된 성장률 수치에 안주하기보다 이를 내수 활성화와 일자리 창출로 연결시킬 수 있는 세밀한 정책 설계가 필요하다고 강조합니다. 글로벌 통상 환경의 불확실성이 여전한 만큼, 수출 시장 다변화와 차세대 성장 동력 확보를 위한 지속적인 노력이 병행되어야 할 시점입니다.",
             "image_prompt": "South Korea GDP chart, rising arrow, cargo ship with containers, futuristic digital blue, optimistic growth",
             "published_at": "2026-10-16 01:15:59",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "AI 산업의 역설: 수익성 의문과 부채 리스크, 금융권 해킹 위협까지",
@@ -329,7 +384,7 @@
             "content": "인공지능(AI) 혁명이 전 세계 산업 지형을 바꾸고 있지만, 그 내면에는 심각한 경제적·보안적 위협이 도사리고 있습니다. 최근 분석에 따르면 다수의 AI 기업들이 실제 수익을 창출하기보다는 막대한 차입금을 통해 투자를 이어가고 있어, AI 산업이 향후 '경제 뇌관'이 될 수 있다는 우려가 제기되고 있습니다. 실질적인 비즈니스 모델 없이 기술 선점 경쟁에만 몰두하는 구조가 거품 붕괴의 전조일 수 있다는 해석입니다.\n\n보안 측면에서의 위협도 가시화되고 있습니다. 최근 금융권을 대상으로 AI를 활용한 정교한 해킹 공격이 발생하면서 기존 보안 시스템의 무력함이 드러났습니다. AI를 이용한 사이버 공격은 전통적인 '장인형 해커'의 시대를 끝내고, 대량의 자동화된 공격을 가능케 함으로써 보안 방어의 경제적 논리를 완전히 뒤바꿔 놓았습니다.\n\n특히 딥페이크 기술을 이용한 피싱이나 AI 기반 알고리즘 침투는 금융 거래의 신뢰도를 근본적으로 흔들고 있습니다. 금융사들은 이에 대응하기 위해 AI 보안 인프라를 확충하고 있으나, 공격 기술의 발전 속도가 방어 기술을 앞서고 있는 형국입니다. 이는 산업 전체의 비용 증가로 이어져 경제적 부담을 가중시키고 있습니다.\n\n결국 AI 산업이 지속 가능한 성장을 이루기 위해서는 '수익성 증명'과 '신뢰할 수 있는 보안'이라는 두 마리 토끼를 잡아야 합니다. 투명한 자금 운용과 함께 AI 윤리 및 보안 가이드라인이 조속히 마련되지 않는다면, AI는 축복이 아닌 대규모 경제 위기의 시작점이 될 수 있다는 것이 전문가들의 엄중한 경고입니다.",
             "image_prompt": "Artificial intelligence circuit, debt chains, hacker silhouette, glowing financial data, high-tech matrix",
             "published_at": "2026-10-16 01:15:59",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국가 지표와 증시의 ‘디커플링’… 이 대통령 “경제 성과가 민생 결실로”",
@@ -340,7 +395,7 @@
             "content": "한국 경제가 거시 지표상으로는 성장세를 보이고 있음에도 불구하고, 국내 증시는 오히려 곤두박질치는 이른바 '디커플링(탈동조화)' 현상이 심화되고 있습니다. 수출 호조와 성장률 상향이라는 호재에도 불구하고 코스피와 코스닥 지수가 힘을 쓰지 못하자 투자자들 사이에서는 패닉에 가까운 심리가 확산되고 있습니다. 이는 글로벌 경기 불확실성과 국내 내수 부진에 대한 불안감이 선반영된 결과로 풀이됩니다.\n\n이러한 상황 속에서 이 대통령은 취임 500일을 맞아 경제 성과가 국민들의 삶 속에서 실질적인 결실로 이어져야 한다고 강력히 주문했습니다. 지표상의 수치보다 중요한 것은 국민들이 체감하는 '민생 경제'라는 점을 분명히 한 것입니다. 대통령은 특히 3대 사회정책의 속도감을 강조하며, 우수한 경제 지표가 가계 소득 증대와 물가 안정으로 연결되는 가교 역할을 주문했습니다.\n\n증시 전문가들은 시장의 반등을 위해서는 단순히 지표가 좋아지는 것을 넘어, 기업들의 주주 환원 정책 강화와 내수 소비를 진작시킬 수 있는 실효성 있는 대책이 뒷받침되어야 한다고 입을 모읍니다. 투자자들의 신뢰를 회복하기 위한 시장 투명성 제고도 시급한 과제로 꼽힙니다.\n\n결국 향후 경제 정책의 향방은 '수치상의 성장'을 어떻게 '분배와 체감'으로 전환하느냐에 달려 있습니다. 정부가 주문한 민생으로의 결실이 구체적인 정책으로 실현될 때 비로소 증시의 불안도 해소되고 진정한 경제 회복의 기틀이 마련될 것으로 보입니다.",
             "image_prompt": "Stock market trading screen, downward trend, worried businessman, Seoul presidential office, realistic lighting",
             "published_at": "2026-10-16 01:15:59",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "북중 신압록강대교 12년 만에 공식 개통… 경제 밀착 속도",
@@ -351,7 +406,7 @@
             "content": "북한 신의주와 중국 단둥을 잇는 신압록강대교가 완공된 지 12년 만에 공식적으로 개통되었습니다. 이 교량은 지난 2012년 완공되었으나 북한 측의 도로 정비 미비와 코로나19 팬데믹 등의 영향으로 장기간 개통이 미뤄져 왔습니다. 이번 개통은 북중 양국 간의 물적 교류를 획기적으로 늘릴 수 있는 인프라가 확보되었다는 점에서 큰 의미를 갖습니다.\n\n신압록강대교의 개통으로 기존의 낡은 조중우의교를 대신해 대형 트럭과 대규모 물동량 이동이 가능해졌습니다. 이는 북한의 대중 경제 의존도를 높이는 동시에, 중국에게는 동북 3성의 경제 활로를 북한으로 확장하는 계기가 될 것으로 보입니다. 특히 대북 제재 상황 속에서도 북중 간의 실질적인 경제 밀착이 가속화될 것이라는 분석이 지배적입니다.\n\n전문가들은 이번 개통이 단순한 물류 통로 확보를 넘어 북한의 경제 개방 및 특구 활성화로 이어질지 주목하고 있습니다. 하지만 국제 사회의 대북 제재 기조가 여전한 만큼, 공식적인 교역 확대에는 한계가 있을 것이라는 신중론도 만만치 않습니다. 북중 양국이 제재의 틀 안에서 어떤 방식으로 경제 협력을 강화해 나갈지가 향후 관전 포인트입니다.\n\n동북아 정세 측면에서도 이번 대교 개통은 중요한 변수입니다. 북중 경제 공동체의 결속력이 강화됨에 따라 한반도 주변의 지정학적 구도에 미칠 영향에 대해서도 주변국들의 긴밀한 분석과 대응이 요구되고 있습니다.",
             "image_prompt": "Large bridge across river, North Korea China border, cargo trucks, sunrise over horizon, diplomatic cooperation",
             "published_at": "2026-10-16 01:15:59",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "IMF, 한국 경제성장률 3.3%로 상향… 장밋빛 전망 속 내수 과제",
@@ -362,7 +417,7 @@
             "content": "국제통화기금(IMF)이 한국의 올해 경제성장률 전망치를 기존보다 0.3%포인트 높은 3.3%로 상향 조정했습니다. 이는 최근 수출 실적의 호조와 반도체 경기의 반등이 국가 경제 전반에 긍정적인 영향을 미치고 있음을 시사하는 지표로 풀이됩니다.\n\nIMF의 이러한 전망은 주요 선진국들과 비교했을 때도 상당히 고무적인 수준입니다. 글로벌 공급망 재편 과정에서 한국 기업들이 보여준 회복 탄력성과 첨단 산업 분야에서의 경쟁력이 국제 사회로부터 다시금 인정받은 결과로 분석됩니다.\n\n하지만 이러한 장밋빛 전망 이면에는 가계 부채 부담과 고물가로 인한 내수 침체라는 과제가 여전히 남아 있습니다. 정부는 이번 성장률 상향이 단순한 지표 개선에 그치지 않고, 실질적인 민생 경기 회복으로 이어질 수 있도록 정책 역량을 집중하겠다는 방침입니다.\n\n향후 전문가들은 수출 중심의 성장이 내수로 전이되는 시점과 글로벌 금리 기조의 변화가 한국 경제의 지속 가능한 성장 여부를 결정짓는 핵심 변수가 될 것으로 보고 있습니다.",
             "image_prompt": "South Korea economy growth, IMF chart upward arrow, professional finance, glowing blue grid",
             "published_at": "2026-10-15 19:49:11",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "일본 경제의 굴욕… 인도에 밀려 세계 6위로 하락 ‘67년 만의 쇼크’",
@@ -373,7 +428,7 @@
             "content": "한때 미국과 함께 세계 경제를 주도하며 2위 자리를 굳건히 지켰던 일본이 이제 세계 6위 경제국으로 밀려나는 충격적인 결과를 맞이했습니다. IMF의 최신 데이터에 따르면 인도의 급격한 성장세에 밀려 일본의 경제 규모 순위가 다시 한 번 하락한 것으로 나타났습니다.\n\n이번 하락은 일본 경제에 있어 67년 만에 겪는 최대의 쇼크로 받아들여지고 있습니다. 장기화된 저성장 기조와 엔화 약세, 그리고 저출산 고령화로 인한 노동 인구 감소가 복합적으로 작용하며 '잃어버린 30년'의 고통이 가중되고 있다는 분석입니다.\n\n일본 내에서는 이번 순위 하락을 단순한 숫자의 변화가 아닌 국가 경쟁력의 근간이 흔들리는 신호로 엄중하게 인식하고 있습니다. 기술 혁신의 정체와 경직된 사회 구조가 글로벌 시장의 빠른 변화를 따라가지 못했다는 자성의 목소리가 커지고 있습니다.\n\n반면 인도는 막대한 인구와 젊은 노동력을 바탕으로 세계의 공장이자 시장으로 급부상하고 있습니다. 글로벌 경제 지도가 서구와 동아시아 중심에서 서남아시아를 포함한 다극화 체제로 빠르게 재편되고 있음을 보여주는 상징적인 사건입니다.",
             "image_prompt": "Tokyo skyline at dusk, falling stock arrow, Japan flag, dramatic shadows, economic decline concept",
             "published_at": "2026-10-15 19:49:11",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "국내 증시 팬닉… 골드만삭스 “단순 조정 아닌 심각한 상황” 경고",
@@ -384,7 +439,7 @@
             "content": "최근 코스피를 비롯한 국내 증시가 맥을 못 추고 급락하면서 투자자들 사이에서 '패닉 셀' 징후가 나타나고 있습니다. 특히 글로벌 투자은행 골드만삭스는 현재의 시장 상황을 단순한 가격 조정이 아닌, 구조적 위기가 반영된 훨씬 심각한 단계라고 진단했습니다.\n\n증시 폭락의 주요 원인으로는 미국발 경기 침체 우려와 반도체 업황의 불확실성, 그리고 국내 상장사들의 실적 부진 가능성이 꼽힙니다. 투자자들은 정부의 밸류업 프로그램에 대한 기대감보다 거시 경제의 불안정성에 더 민감하게 반응하며 자금을 회수하고 있는 모습입니다.\n\n전문가들은 외국인 투자자들의 이탈 가속화에 주목하고 있습니다. 환율 변동성이 커진 상황에서 한국 시장의 매력도가 낮아지자, 안전 자산이나 타 지역 시장으로 자본이 이동하고 있어 증시 반등의 실마리를 찾기가 어려운 실정입니다.\n\n시장 관계자들은 당분간 변동성이 극도로 높은 장세가 이어질 것으로 보고 있습니다. 단순한 기술적 반등을 기대하기보다는 글로벌 거시 지표의 안정과 기업들의 실적 확인이 선행되어야만 본격적인 추세 전환이 가능할 것으로 보입니다.",
             "image_prompt": "Stock market trading floor, red falling numbers, panic atmosphere, digital glitch, financial crisis",
             "published_at": "2026-10-15 19:49:11",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "신임 비서실장에 임광현 전 국세청장 발탁… ‘민생 경제’ 정면 돌파",
@@ -395,7 +450,7 @@
             "content": "정부가 신임 대통령 비서실장으로 임광현 전 국세청장을 전격 발탁했습니다. 임 신임 실장은 국세청 내에서도 손꼽히는 조세 및 경제 전문가로, 이번 인사는 경제 지표의 성과를 국민들이 체감할 수 있는 '민생 경제'로 연결하겠다는 강력한 의지의 표현으로 해석됩니다.\n\n대통령은 취임 이후 경제 지표의 개선에도 불구하고 서민들이 느끼는 온기가 부족하다는 점을 자평하며, 향후 실무형 전문가를 통해 정책의 효율성을 높일 것을 주문했습니다. 특히 소상공인과 중소기업의 부담을 덜어줄 수 있는 구체적인 세제 혜택과 지원책 마련이 급선무로 꼽힙니다.\n\n임 실장의 발탁에 대해 소상공인 단체들은 일단 환영의 뜻을 밝히고 있습니다. 현장의 고충을 잘 아는 조세 전문가가 정책의 핵심 자리에 앉은 만큼, 불필요한 규제를 혁파하고 실질적인 소득 증대에 기여할 수 있는 정책이 나올 것이라는 기대감 때문입니다.\n\n비서실 개편과 함께 정부는 향후 3대 사회정책 추진에도 속도를 낼 예정입니다. 우수한 거시 경제 지표가 가계 경제의 회복으로 이어지는 선순환 구조를 만드는 것이 임광현 호 비서실의 최대 과제가 될 전망입니다.",
             "image_prompt": "Government office building, professional leader portrait, handshake, economic policy documents",
             "published_at": "2026-10-15 19:49:11",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "북중 신압록강대교 12년 만의 개통… 경제 밀착 및 무역 가속화",
@@ -406,7 +461,7 @@
             "content": "북한 신의주와 중국 단둥을 잇는 신압록강대교가 완공 12년 만에 공식 개통되었습니다. 그동안 정치적 상황과 코로나19 봉쇄 등으로 인해 개통이 미뤄져 왔으나, 최근 양국 간의 경제적 유착 관계가 심화되면서 마침내 동맥이 뚫리게 되었습니다.\n\n이 대교의 개통은 북중 무역의 획기적인 전환점이 될 것으로 보입니다. 기존의 낡은 조중우의교를 대신해 대형 트럭과 대규모 물자가 원활하게 이동할 수 있는 통로가 마련됨으로써, 북한의 경제 회복 시도와 중국의 동북 3성 개발 전략이 맞물려 상당한 시너지를 낼 것으로 예상됩니다.\n\n국제 사회는 이번 개통을 북중 관계 복원의 강력한 신호로 보고 있습니다. 특히 대북 제재가 지속되는 상황에서 중국과의 경제적 밀착을 통해 돌파구를 찾으려는 북한의 전략이 구체화된 결과라는 분석이 지배적입니다.\n\n동시에 주변국들은 이러한 경제적 밀착이 한반도 정세에 미칠 영향에 예의주시하고 있습니다. 물류 활성화가 단순히 경제적 측면에 그치지 않고 지정학적 영향력 확대로 이어질 수 있다는 우려 속에 향후 무역량 변화와 물동량의 성격에 관심이 집중되고 있습니다.",
             "image_prompt": "Large bridge across river, cargo trucks, industrial border, misty sunrise, geopolitical cooperation",
             "published_at": "2026-10-15 19:49:11",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한때 세계 2위였는데… 일본, 내년 경제 규모 인도·영국에 밀려 6위 추락 전망",
@@ -417,7 +472,7 @@
             "content": "일본 경제가 전례 없는 위기 상황을 맞이하고 있습니다. 과거 미국에 이어 세계 2위의 경제 대국으로 군림하며 '재팬 넘버원'을 외치던 위상은 이제 옛말이 되었습니다. 국제통화기금(IMF) 등의 최신 전망에 따르면, 일본의 명목 국내총생산(GDP) 규모는 내년쯤 인도와 영국에 밀려 세계 6위까지 하락할 가능성이 매우 큰 것으로 나타났습니다.\n\n이러한 하락의 주요 원인으로는 고질적인 저성장 기조와 더불어 급격한 엔화 가치 하락(엔저)이 꼽힙니다. 일본은 지난 수십 년간 디플레이션에서 벗어나지 못하며 성장 동력을 잃었고, 최근 글로벌 금리 인상 기조 속에서도 저금리를 유지하며 달러 대비 엔화 가치가 폭락했습니다. 이는 달러로 환산되는 GDP 규모를 축소시키는 결정타가 되었습니다.\n\n반면 인도는 막대한 인구와 빠른 산업화 속도를 바탕으로 일본을 앞지르기 직전이며, 영국 역시 견고한 성장세를 유지하며 일본을 압박하고 있습니다. 일본 내부에서는 이번 순위 하락을 '67년 만의 쇼크'로 받아들이며, 산업 구조의 대대적인 개편과 혁신 없이는 경제 대국으로서의 존재감을 다시 찾기 어려울 것이라는 위기감이 고조되고 있습니다.\n\n전문가들은 일본의 사례가 고령화와 생산성 저하를 겪고 있는 국가들에게 중요한 반면교사가 될 것이라고 분석합니다. 특히 제조업 중심의 과거 성공 방정식이 디지털 전환 시대에는 더 이상 유효하지 않음을 보여주는 상징적인 사건으로 평가됩니다.",
             "image_prompt": "Falling Japanese Yen, Tokyo skyline at sunset, global GDP chart, financial crisis, dramatic shadows",
             "published_at": "2026-10-15 12:04:30",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한은 총재 \"한국 경제 K자형 양극화 뚜렷… 통화정책으로 물가 안정 주력\"",
@@ -428,7 +483,7 @@
             "content": "이창용 한국은행 총재가 현재 한국 경제의 가장 큰 특징으로 'K자형 양극화'를 지목했습니다. 이는 반도체를 중심으로 한 수출 부문은 호조를 보이는 반면, 고물가와 고금리로 인해 민간 소비와 자영업 등 내수 부문은 극심한 부진을 겪는 현상을 의미합니다. 지표상으로는 완만한 회복세를 보일지라도 서민들이 체감하는 경기 온도차는 극명하다는 분석입니다.\n\n이 총재는 이러한 양극화 상황에서 중앙은행의 역할은 무엇보다 물가 안정에 있음을 분명히 했습니다. 물가가 잡히지 않으면 실질 소득이 감소하여 내수 부진이 더욱 심화될 수 있기 때문입니다. 그는 통화정책을 통해 물가 상승 압력을 조절함으로써 가계의 구매력을 보호하고 경제의 체질을 개선해야 한다고 설명했습니다.\n\n또한, 단순한 금리 조절을 넘어 구조적인 문제 해결의 필요성도 언급되었습니다. 수출 산업의 성과가 내수 시장으로 원활하게 흘러 들어가지 못하는 구조적 단절을 해결해야 한다는 것입니다. 이를 위해 정부의 재정 정책과 한은의 통화 정책이 조화를 이루어야 하며, 특히 취약 계층에 대한 핀셋 지원의 중요성도 함께 논의되고 있습니다.\n\n시장에서는 이번 이 총재의 발언을 두고 향후 금리 인하 시점에 대해 신중한 태도를 유지할 것이라는 신호로 해석하고 있습니다. 물가 안정이 선행되지 않는 성급한 금리 인하는 자칫 가계부채 문제를 악화시키고 양극화를 고착화할 수 있다는 우려가 깔려 있기 때문입니다.",
             "image_prompt": "K-shaped economic graph, central bank vault, scales of justice, monetary policy, professional blue theme",
             "published_at": "2026-10-15 12:04:30",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "C-쇼크에 벼랑 끝 선 K-산업... 중국발 과잉 공급과 기술 추격의 위협",
@@ -439,7 +494,7 @@
             "content": "한국 경제의 버팀목인 주요 산업들이 이른바 'C-쇼크(China Shock)'로 인해 절체절명의 위기에 빠졌습니다. 과거 중국이 우리 기업의 거대한 소비 시장이었다면, 이제는 강력한 기술력을 갖춘 경쟁자이자 공급 과잉으로 시장 가격을 무너뜨리는 위협 존재가 된 것입니다. 석유화학, 철강, 디스플레이 등 전통적인 주력 산업은 물론이고 이제는 전기차와 배터리 분야까지 그 영향권에 들어갔습니다.\n\n중국은 자국 내수 경기 침체로 재고가 쌓이자, 이를 해결하기 위해 저가 물량을 글로벌 시장에 쏟아내고 있습니다. 막대한 정부 보조금을 등에 업은 중국 기업들의 물량 공세는 우리 기업들의 수익성을 악화시키고 점유율을 갉아먹고 있습니다. 이로 인해 국내 공장들의 가동률이 하락하고 수익 구조가 붕괴되는 등 '벼랑 끝' 상황이 전개되고 있습니다.\n\n단순히 가격 경쟁력만의 문제가 아니라는 점이 더 심각합니다. 중국의 기술력은 이미 한국의 턱밑까지 추격했거나 일부 분야에서는 앞서나가고 있습니다. 우리나라는 고부가가치 제품으로의 전환을 꾀하고 있지만, 중국의 추격 속도가 워낙 빨라 초격차를 유지하기가 쉽지 않은 상황입니다.\n\n전문가들은 'C-쇼크'를 극복하기 위해 공급망 다변화와 함께 원천 기술 확보를 통한 차별화가 시급하다고 입을 모읍니다. 또한 정부 차원의 전략적 산업 보호 정책과 더불어 신시장 개척을 위한 기업들의 공격적인 투자가 필요한 시점입니다.",
             "image_prompt": "Industrial shipyard, steel pipes, global shipping containers, competitive pressure, sunset orange and metallic",
             "published_at": "2026-10-15 12:04:30",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "안형준 통계청장 \"경제총조사에 AI·로봇 항목 추가... 미래 산업 변화 담는다\"",
@@ -450,7 +505,7 @@
             "content": "정부가 실시하는 국내 최대 규모의 경제 조사인 '경제총조사'가 시대의 흐름에 맞춰 대대적인 변화를 꾀합니다. 안형준 통계청장은 최근 인터뷰에서 내년부터 실시될 경제총조사에 인공지능(AI)과 로봇 활용 현황을 묻는 항목을 새롭게 추가하겠다고 밝혔습니다. 이는 우리 산업 전반에 디지털 전환이 얼마나 깊숙이 침투했는지를 데이터로 정밀하게 확인하겠다는 의지입니다.\n\n지금까지의 조사가 주로 매출, 종사자 수 등 전통적인 지표에 집중했다면, 앞으로는 기업들이 어떤 최첨단 기술을 도입해 생산성을 높이고 있는지 파악하게 됩니다. AI 도입 여부, 서비스 로봇이나 산업용 로봇의 활용 범위 등을 조사함으로써 향후 국가 경제 정책을 수립하는 데 있어 핵심적인 기초 자료로 활용할 예정입니다.\n\n이번 개편은 특히 무인화와 자동화가 가속화되는 고용 시장의 변화를 읽어내는 데 큰 도움이 될 것으로 보입니다. 로봇이 일자리를 대체하는 수준을 넘어 인간과 로봇이 어떻게 협업하는지, 그리고 AI가 기업의 혁신에 어떤 기여를 하는지를 수치화할 수 있게 됩니다. 이는 곧 미래 산업 경쟁력 강화 전략으로 이어질 것입니다.\n\n통계청은 올해 12월까지 구체적인 조사 설계를 마치고 결과를 공표할 계획입니다. 이번 시도는 단순한 통계 조사를 넘어, 디지털 대전환 시대에 한국 경제가 나아갈 방향을 제시하는 '나침반' 역할을 할 것으로 기대를 모으고 있습니다.",
             "image_prompt": "Future technology data, AI neural network, robotic arm, digital tablet, glowing white and blue",
             "published_at": "2026-10-15 12:04:30",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한·미 경제협력 강화 논의… 통상 및 투자 분야 시너지 기대",
@@ -461,7 +516,7 @@
             "content": "한국과 미국의 경제 동맹이 한층 더 공고해질 전망입니다. 최근 열린 한미 경제 협력 관련 회의에서는 양국의 주요 기업 대표들과 정부 관계자들이 모여 통상 현안을 점검하고, 미래 산업 분야에서의 투자 확대 방안을 심도 있게 논의했습니다. 특히 불안정한 글로벌 공급망 환경 속에서 안정적인 파트너십 유지가 핵심 의제로 다뤄졌습니다.\n\n양측은 반도체, 배터리, 핵심 광물 등 전략 자산의 공급망을 안정화하기 위해 상호 긴밀히 협력하기로 뜻을 모았습니다. 미국은 자국 내 투자를 이어가는 한국 기업들에 대한 지원과 우호적인 비즈니스 환경 조성을 약속했으며, 우리측은 미국의 첨단 기술과 한국의 제조 역량이 결합해 낼 수 있는 시너지 효과를 강조했습니다.\n\n또한 탄소 중립과 청정 에너지 전환 등 글로벌 이슈에 공동 대응하기로 했습니다. 이는 단순한 무역 관계를 넘어 미래의 지속 가능한 성장을 위한 '가치 동맹'으로 나아가는 과정으로 해석됩니다. 양국 재계 회의 위원장들은 정기적인 소통 채널을 가동하여 통상 마찰을 사전에 방지하고 실질적인 비즈니스 성과를 창출하기로 합의했습니다.\n\n이러한 협력 강화는 불확실성이 커진 국제 정세 속에서 우리 경제의 안전판 역할을 할 것으로 보입니다. 미국 시장에서의 영향력을 확대하는 동시에, 글로벌 표준을 선점하여 한국 기업들이 세계 무대에서 경쟁 우위를 점할 수 있는 계기가 될 것입니다.",
             "image_prompt": "International cooperation, handshake between suit leaders, US and Korea flags, corporate glass building, bright daylight",
             "published_at": "2026-10-15 12:04:30",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한때 세계 2위였는데…경제대국 일본 ‘67년만의 쇼크’",
@@ -472,7 +527,7 @@
             "content": "과거 세계 경제의 정점을 찍으며 2위 자리를 지켰던 일본이 심각한 위기에 직면했습니다. IMF와 주요 경제 기구의 전망에 따르면, 일본의 명목 국내총생산(GDP)은 내년에 인도와 영국에 추월당하며 세계 6위로 내려앉을 것으로 보입니다. 이는 1960년대 중반 이후 약 67년 만에 겪는 충격적인 순위 하락입니다.\n\n이러한 하락의 배경에는 장기화된 엔저 현상과 저성장 기조가 자리 잡고 있습니다. 일본은 오랜 기간 저물가와 저금리 정책을 유지해 왔으나, 글로벌 금리 인상 기조 속에서 엔화 가치가 급락하며 달러 환산 GDP 규모가 크게 축소되었습니다. 또한, 인구 감소와 고령화로 인한 내수 시장의 활력 저하가 근본적인 원인으로 지목됩니다.\n\n반면 인도는 막대한 인구와 젊은 노동력을 바탕으로 매년 높은 성장률을 기록하며 일본을 빠르게 추격해 왔습니다. 일본 내에서는 이번 순위 하락을 두고 단순한 수치 변화가 아닌 '국력의 쇠퇴'로 받아들이는 분위기가 역력합니다. 이제 일본 경제는 첨단 산업으로의 전환과 구조 개혁이라는 절박한 과제를 안게 되었습니다.\n\n글로벌 경제 전문가들은 일본의 사례가 인구 절벽에 직면한 다른 선진국들에게 중요한 시사점을 던져준다고 분석합니다. 노동 생산성 향상과 혁신 없이는 경제 대국의 지위를 유지하기 어렵다는 경고입니다. 이번 '67년 만의 쇼크'는 아시아 경제 지도 재편의 신호탄이 될 것으로 보입니다.",
             "image_prompt": "Japan economy decline, falling graph, Tokyo cityscape, sunset orange, dramatic shadows",
             "published_at": "2026-10-15 01:28:27",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "대통령비서실장에 경제 관료 발탁, 성과 중심 국정운영",
@@ -483,7 +538,7 @@
             "content": "정부가 하반기 국정 동력을 확보하기 위해 경제 전문가를 전진 배치했습니다. 신임 대통령비서실장으로 발탁된 임광현 전 청장은 정통 경제 및 조세 관료 출신으로, 현장 실무와 정책 기획 능력을 두루 갖춘 인물로 평가받습니다. 이번 인사는 민생 경제 회복을 최우선 과제로 삼겠다는 대통령의 의중이 반영된 것으로 풀이됩니다.\n\n임 신임 실장은 과거 정부에서도 경제 정책 수립에 깊숙이 관여하며 안정적인 관리 능력을 보여준 바 있습니다. 대통령실은 그가 가진 경제적 전문성이 당면한 고물가, 고금리 상황을 타개하고 기업들의 투자 활성화를 이끄는 데 핵심적인 역할을 할 것으로 기대하고 있습니다. 특히 부처 간의 정책 조율 능력이 탁월하다는 점이 발탁의 주요 배경입니다.\n\n정치권 일각에서는 정치적 중량감이 부족하다는 우려도 제기되지만, 실무형 인사를 통해 국정 성과를 극대화하려는 전략으로 보입니다. 비서실장이 경제 관료 출신으로 채워짐에 따라 향후 정부의 정책 방향은 규제 완화와 시장 중심의 경제 활성화에 더욱 무게가 실릴 전망입니다.\n\n또한, 임 실장은 정부와 여당 간의 가교 역할은 물론, 야당과의 경제 정책 협의에서도 논리적인 접근을 통해 돌파구를 마련해야 하는 과제를 안고 있습니다. 이번 인사가 고착화된 정국 상황에서 '경제'라는 실용적 가치를 통해 국정 운영의 반전 계기를 마련할 수 있을지 귀추가 주목됩니다.",
             "image_prompt": "Professional office, government building, blue suit businessman, analytical documents, light blue tone",
             "published_at": "2026-10-15 01:28:27",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이 대통령 “사회경제 시스템, 인구 변화에 맞춰 재설계해야”",
@@ -494,7 +549,7 @@
             "content": "정부가 저출산 및 고령화에 따른 인구 구조의 급격한 변화를 '국가 비상사태'로 규정하고, 사회 전반의 시스템을 이에 맞춰 전면 재설계하겠다는 비전을 발표했습니다. 인구 감소가 더 이상 피할 수 없는 현실이 된 만큼, 기존의 성장 모델을 유지하기보다는 새로운 인구 환경에 최적화된 구조를 만들겠다는 취지입니다.\n\n이번 선포의 핵심은 교육, 노동, 복지 등 사회 전 분야의 개편입니다. 정년 연장 논의를 포함한 노동 시장 개혁과 학령인구 감소에 따른 교육 인프라 효율화, 그리고 지속 가능한 연금 및 의료 복지 체계 구축이 주요 골자입니다. 단순히 출산율을 높이는 대책을 넘어, 줄어든 인구로도 국가가 원활히 작동할 수 있는 '연착륙' 방안에 집중하고 있습니다.\n\n대통령은 특히 지역 소멸 위기를 극복하기 위해 공간 혁신과 정주 여건 개선을 강조했습니다. 수도권 집중 현상을 완화하고 지방 거점 도시를 육성하여 인구 분산을 유도하겠다는 계획입니다. 이는 경제적 자원의 배분 방식을 근본적으로 바꾸는 작업으로, 막대한 예산과 사회적 합의가 수반되어야 하는 장기 프로젝트입니다.\n\n전문가들은 이번 비전 선포가 시의적절하다고 평가하면서도, 구체적인 실행 방안과 재원 마련 대책이 뒷받침되어야 한다고 지적합니다. 인구 위기는 경제 성장 동력과 직결되는 문제인 만큼, 범정부 차원의 강력한 추진력과 기업 및 시민사회의 협력이 필수적입니다. '인구 전략 비전'이 한국 사회의 지속 가능성을 담보할 수 있을지 시험대에 올랐습니다.",
             "image_prompt": "Future city planning, hourglass with population icons, white and clean design, futuristic architecture",
             "published_at": "2026-10-15 01:28:27",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "최태원 \"日과 협력 못하면 다른 나라 더 어려워…경제공동체 돼야\"",
@@ -505,7 +560,7 @@
             "content": "최태원 SK그룹 회장이 글로벌 공급망 재편과 보호무역주의 확산에 대응하기 위해 한국과 일본이 '경제공동체' 수준의 협력을 구축해야 한다고 역설했습니다. 최 회장은 최근 열린 포럼에서 양국이 서로의 강점을 결합하지 않는다면 글로벌 경쟁에서 살아남기 더욱 어려워질 것이라는 경고의 메시지를 전달했습니다.\n\n최 회장이 제안한 경제공동체는 단순한 교역 확대를 넘어 에너지, 반도체, AI 등 첨단 산업 분야에서 공급망을 통합하고 공동 투자를 진행하는 높은 수준의 파트너십을 의미합니다. 특히 에너지 안보와 탄소 중립 과제에 있어 양국이 공동 대응한다면 막대한 비용 절감과 기술적 시너지를 낼 수 있다는 분석입니다.\n\n이는 일본 경제의 위상 하락과 한국의 성장 둔화라는 양국의 공통된 위기의식에서 비롯된 제안이기도 합니다. 일본의 소재·부품 장비 기술력과 한국의 제조 공정 및 IT 응용 능력이 결합된다면, 거대 경제 블록화되는 세계 시장에서 강력한 경쟁력을 확보할 수 있다는 것입니다.\n\n재계에서는 최 회장의 발언이 민간 차원의 협력을 넘어 정부 간의 정책 공조를 촉구하는 신호로 보고 있습니다. 하지만 과거사 문제와 정치적 갈등이 상존하는 만큼, 경제 협력이 실질적인 공동체 수준으로 발전하기 위해서는 정치적 결단과 국민적 공감대 형성이 선행되어야 한다는 과제가 남아 있습니다.",
             "image_prompt": "Two hands shaking, Korean and Japanese flags, gears connecting, high-tech background, professional navy blue",
             "published_at": "2026-10-15 01:28:27",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국 경제성장률, 3.3% 성장 전망…회복세 탄력",
@@ -516,7 +571,7 @@
             "content": "최근 발표된 주요 경제 지표에 따르면 한국의 연간 경제성장률 전망치가 3.3%로 상향 조정되었습니다. 이는 반도체를 중심으로 한 수출 호조와 설비 투자 회복세가 반영된 결과입니다. 글로벌 경기 둔화 우려에도 불구하고 한국 경제가 견고한 펀더멘털을 유지하며 반등에 성공하고 있다는 평가가 나옵니다.\n\n성장의 가장 큰 견인차는 수출입니다. AI 열풍으로 인한 고대역폭메모리(HBM) 수요 폭증과 자동차 산업의 선전이 전체 수출 실적을 끌어올리고 있습니다. 또한, 정부의 규제 완화 정책으로 기업들이 미뤄왔던 투자를 재개하면서 내수 시장에도 긍정적인 신호가 감지되고 있습니다.\n\n다만, 지표상 성장세가 서민들의 체감 경기로까지 확산되지는 못하고 있다는 점이 한계로 지적됩니다. 고물가로 인한 실질 가계 소득 정체와 자영업자들의 부채 부담은 여전히 해결해야 할 숙제입니다. 지표의 화려함 뒤에 가려진 소득 불균형과 지역 간 격차를 해소하기 위한 세심한 정책 배려가 필요한 시점입니다.\n\n정부는 이번 성장 전망치를 바탕으로 하반기 경제 운용 방향을 더욱 공격적으로 설정할 것으로 보입니다. 건전 재정 기조를 유지하면서도 필요한 분야에 적기 지원을 하는 '핀셋 지원'을 강화하고, 장기적인 성장 잠재력을 높이기 위한 구조 개혁에 박차를 가할 계획입니다. 3.3%라는 숫자가 단순한 통계를 넘어 진정한 경제 활력으로 이어질지 주목됩니다.",
             "image_prompt": "Rising stock chart, 3.3 percent text, glowing upward arrow, modern digital background, green and white",
             "published_at": "2026-10-15 01:28:27",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제대국 일본 ‘67년만의 쇼크’, 세계 2위에서 밀려난 배경",
@@ -527,60 +582,6 @@
             "content": "한때 미국과 어깨를 나란히 하며 세계 경제 2위를 자랑하던 일본이 유례없는 경제적 위기에 직면했습니다. 최근 발표된 지표에 따르면 일본의 명목 GDP 순위는 독일에도 뒤처지며 하락세를 면치 못하고 있습니다. 이는 단순한 순위 하락을 넘어, 장기적인 저성장과 엔저 현상이 맞물려 나타난 결과로 풀이됩니다.\n\n일본 경제가 67년 만에 이토록 큰 충격을 받은 주된 원인으로는 고령화로 인한 노동력 부족과 혁신 동력 상실이 꼽힙니다. 또한, 장기간 유지해 온 초저금리 정책이 엔화 가치를 급격히 하락시키면서 구매력이 약화된 것도 결정적인 요인입니다. 전문가들은 일본이 과거의 영광을 되찾기 위해서는 구조적인 개혁이 필수적이라고 입을 모으고 있습니다.\n\n이러한 일본의 사례는 인구 감소와 저성장 국면에 접어든 한국 경제에도 시사하는 바가 큽니다. 제조업 중심의 성장 모델이 한계에 다다랐을 때, 신속한 산업 구조 재편과 기술 혁신이 이루어지지 않으면 어떤 결과를 초래하는지 보여주는 반면교사가 되고 있습니다.\n\n현재 일본 내부에서도 위기감이 고조되고 있으며, 정부 차원의 새로운 경제 대책이 논의되고 있으나 이미 실기했다는 비판도 적지 않습니다. 글로벌 시장에서 '재팬 패싱'에 대한 우려가 현실화되면서 향후 동아시아 경제 패권의 향방에도 큰 변화가 예상됩니다.",
             "image_prompt": "Japanese yen, falling red arrow, Tokyo skyline, economic crisis, global ranking shift",
             "published_at": "2026-10-14 20:07:40",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "신임 대통령 비서실장에 '경제·세제통' 임광현 전격 발탁",
-            "source": "연합인포맥스",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81S19TNlp6LUJGU01lWTlBaXIwS3RlNk1IYmpDRWN3dkxQY0ZwYXIzdElXSjhXeTNld3FxNXk4ZTN5em1RRm1Zb2lDdndCSUF6eGd0cUs2b0FPcUZxOEZkM1BDSEliaXVtelp6T050bWs?oc=5",
-            "category": "정책",
-            "summary": "이 대통령이 신임 비서실장으로 조세와 경제 분야에 정통한 임광현 실장을 임명하며 경제 성과 창출 의지를 분명히 했습니다.",
-            "content": "대통령실의 새로운 수장으로 임광현 전 국세청 차장이 전격 발탁되었습니다. 이번 인사는 정부 후반기의 핵심 동력을 '경제'와 '정책 성과'에 두겠다는 이 대통령의 강력한 의지가 반영된 것으로 보입니다. 임 실장은 공직 생활 대부분을 경제와 세무 분야에서 보낸 정통 관료 출신으로 알려져 있습니다.\n\n임 실장의 발탁 배경에는 복잡한 경제 현안을 정교하게 다루고, 특히 가계 경제와 직결된 조세 정책에서 국민이 체감할 수 있는 변화를 이끌어내겠다는 의중이 담겨 있습니다. 정부는 그동안 추진해 온 규제 완화와 시장 중심의 경제 기조를 보다 구체화하고 속도감 있게 추진할 것으로 예상됩니다.\n\n또한, 정치권과의 소통 능력도 시험대에 오를 전망입니다. 야당이 장악한 국회 상황 속에서 경제 법안들을 통과시키기 위해서는 임 실장의 정무적 감각과 협상력이 필수적이기 때문입니다. 대통령실 내부에서도 이번 인사를 통해 분위기 쇄신과 더불어 정책 컨트롤타워 기능을 강화할 것으로 기대하고 있습니다.\n\n앞으로 신임 비서실장은 물가 안정, 부동산 시장 정상화, 그리고 미래 먹거리 산업 육성이라는 난제들을 풀어가야 합니다. 경제 전문가 출신 비서실장이 정부의 정책 방향을 어떻게 조율하고 성과로 연결할지 시장과 정치권의 관심이 집중되고 있습니다.",
-            "image_prompt": "South Korean government building, professional office, business meeting, economic policy report",
-            "published_at": "2026-10-14 20:07:40",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "이 대통령 “사회경제 시스템, 인구 변화에 맞춰 근본적 재설계”",
-            "source": "이투데이",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTGhXMWx6eE5iSTlvYUpUcGVkMVlDakw0TUlQbTBHTUlvUUd5VWF4Umx6bGpGMzQzeEd5TjBCaFNrUWZrNE55UmNUQkN4cFJfNWpGYzlySWwyQQ?oc=5",
-            "category": "사회경제",
-            "summary": "저출생과 고령화로 인한 인구 절벽 위기를 극복하기 위해 국가의 모든 시스템을 인구 구조에 맞게 대전환하기로 했습니다.",
-            "content": "이 대통령은 최근 회의에서 대한민국이 직면한 가장 큰 위협으로 '인구 위기'를 꼽으며, 국가 사회경제 시스템 전반에 대한 근본적인 재설계를 지시했습니다. 이는 기존의 단기적인 지원금 중심의 대책에서 벗어나, 교육, 노동, 복지 등 국가 운영의 기틀을 인구 감소 시대에 맞게 바꾸겠다는 선언입니다.\n\n정부의 구상은 노동 인구 감소에 대비한 외국인 인력 도입 확대와 고령자 고용 연장, 그리고 육아와 업무가 양립할 수 있는 실질적인 환경 조성에 초점이 맞춰져 있습니다. 또한, 인구 감소 지역의 소멸을 막기 위한 국토 균형 발전 전략도 인구 변화 관점에서 전면 재검토될 예정입니다.\n\n대통령은 특히 인구 정책의 대전환이 없으면 대한민국의 지속 가능성 자체가 위태롭다는 점을 강조했습니다. 이를 위해 부처 간 칸막이를 없애고 대통령 직속 위원회를 중심으로 강력한 추진력을 확보하겠다는 방침입니다. 이는 단순한 출산율 제고를 넘어 '축소 사회'에 연착륙하기 위한 생존 전략으로 풀이됩니다.\n\n이러한 변화는 향후 연금 개혁, 교육 체계 개편 등 민감한 사회적 이슈들과 맞물려 추진될 것으로 보입니다. 국민의 삶의 방식 자체를 바꾸는 거대한 실험이 시작된 만큼, 사회적 합의를 이끌어내는 과정이 무엇보다 중요해질 것으로 전망됩니다.",
-            "image_prompt": "Demographic chart, sustainable future, human growth, clock, modern society concept",
-            "published_at": "2026-10-14 20:07:40",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "한은 총재의 경고 \"한국 경제 K자형 양극화 심화, 통화정책으로 대응\"",
-            "source": "연합뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sa29jNm9qbWRhZW9EZWxxdTZBTkhOVWFLQ0s3TENXMldGc0hkUzFLZHh1S2NUeS1uNjJpSnVQRW9iaHFsa1dsTjlFaWVSOGRTczhFam5DVlFjWknSAWBBVV95cUxPbTM4STFDZU00TFQ2YjQ0Mnc3MEw4VjhzM21qNW1Db0VrZmJrM3NUWHhodVhDMWE0TWR5UDVObmRtZWNscTR5dWVtdmlGYkY1M0twRXAtVGdVdGNkUEFUeVU?oc=5",
-            "category": "금융",
-            "summary": "한국은행이 수출 호조 이면의 내수 부진과 양극화를 지적하며 물가 안정과 균형 있는 성장을 위한 통화정책의 중요성을 강조했습니다.",
-            "content": "이창용 한국은행 총재는 현재 한국 경제가 수출 업종과 내수 업종 간의 격차가 벌어지는 전형적인 'K자형' 회복세를 보이고 있다고 진단했습니다. 반도체 등 첨단 산업은 성장세를 이어가고 있지만, 고물가와 고금리의 여파로 서민 경제와 자영업자들이 체감하는 경기 수준은 여전히 바닥권에 머물고 있다는 분석입니다.\n\n한은은 이러한 불균형을 해소하기 위해 당분간 긴축적인 통화정책 기조를 유지하며 물가 안정을 최우선 과제로 삼을 것임을 분명히 했습니다. 물가가 잡히지 않은 상태에서의 섣부른 금리 인하는 오히려 서민들의 실질 소득을 감소시키고 양극화를 더욱 심화시킬 수 있다는 우려 때문입니다.\n\n또한, 신현송 총재 등 주요 인사들은 한국 경제의 장기적인 성장 관건으로 AI(인공지능) 투자 지속 여부를 꼽았습니다. 단순한 유동성 공급보다는 기술 혁신을 통한 생산성 향상만이 양극화를 극복하고 잠재 성장률을 끌어올릴 수 있는 유일한 해결책이라는 시각입니다.\n\n정부의 재정 정책과 중앙은행의 통화 정책 사이의 조율도 중요한 이슈로 떠오르고 있습니다. 한은은 정부의 직접적인 현금 지원이 GDP 증가에 미치는 효과가 미미하다는 분석 결과를 내놓으며, 구조적인 문제 해결에 집중할 것을 권고하고 있습니다.",
-            "image_prompt": "Financial graph, K-shaped recovery, microchip and coins, central bank governor",
-            "published_at": "2026-10-14 20:07:40",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "해리스 vs 트럼프, 미국 대선 쟁점화된 '관세와 경제 고통'",
-            "source": "머니투데이",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85aEVtLVh5SDFXSlJHbThaalNveVBhZzVDNGMwY0FraER6eVB6cVVCRENRVTNkb21OUWRMOFh3bzNEdjdpTVpkR3M5eE5OS3hKbVpNUndjWHZVcXdjU0ZZSV9hVXl5cXVSMktVNNIBckFVX3lxTE12ZE9yQW1ua1JaeUVVNFdrcVZ1dUQ3cm40VEVVZkxZT2NrN1U3SzJGWTlVRWNsQ2pWRjViTjYwSUo3SDJEUzlxa3hvWk81X2JJd3hsLXJGR180U3ZrMFFXLTdodWxfbEc3R0ZkQWJtTDgxQQ?oc=5",
-            "category": "세계시장",
-            "summary": "미국 대선을 앞두고 민주당과 공화당의 경제 정책 대결이 격화되면서 글로벌 시장의 변동성이 커지고 있습니다.",
-            "content": "미국 대선 레이스가 본격화되면서 카멀라 해리스 부통령과 도널드 트럼프 전 대통령 간의 경제 정책 대결이 정면충돌하고 있습니다. 특히 트럼프 전 대통령이 주장하는 보편적 관세 부과와 거래주의적 외교 방식에 대해 해리스 부통령은 '심각한 경제적 고통'을 초래할 것이라며 강하게 비판하고 나섰습니다.\n\n해리스 측은 트럼프의 징벌적 관세 정책이 미국 소비자들의 물가 부담을 가중시키고 글로벌 공급망을 교란해 세계 경제를 침체에 빠뜨릴 것이라고 경고합니다. 반면, 트럼프 측은 강력한 보호무역주의를 통해 미국 내 제조업을 부활시키고 일자리를 창출하겠다는 논리로 맞서고 있어, 누가 당선되느냐에 따라 한국을 포함한 동맹국들의 경제 전략도 대대적인 수정이 불가피합니다.\n\n또한, 이른바 '트럼프 경제'를 지탱하고 있는 것이 실질적인 펀더멘털이 아닌 'AI 거품'이라는 지적도 나오고 있습니다. 기술주 중심의 주가 상승이 경제 전반의 착시 효과를 일으키고 있으며, 향후 금리 정책과 맞물려 이 거품이 꺼질 경우 글로벌 금융 시장에 큰 충격이 올 수 있다는 분석입니다.\n\n한국 경제는 미국 대선 결과에 따른 관세 장벽 강화와 공급망 재편 가능성에 예의주시하고 있습니다. 특히 대미 수출 비중이 높은 자동차, 반도체 산업은 미 대선의 향방에 따라 직접적인 영향권에 들 것으로 보여 선제적인 리스크 관리가 요구됩니다.",
-            "image_prompt": "US election candidates, trade tariff wall, stock market volatility, global trade map",
-            "published_at": "2026-10-14 20:07:40",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "AI 거품이 떠받치는 트럼프 경제 - 참세상",
-            "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tX0pjdFRHLXRLNHBIZ3JTWXE2dm9RaWpaTjAzWWZpN0RzeWxrbjVuRkpWbTZWdWNabkVsQlJCNWMtZw?oc=5",
-            "source": "참세상",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-10-14 12:25:42",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
