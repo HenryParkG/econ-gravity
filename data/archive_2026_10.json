@@ -1,6 +1,94 @@
 {
-    "last_updated": "2026-11-03 22:34:37",
+    "last_updated": "2026-11-04 13:44:15",
     "items": [
+        {
+            "title": "'외화내빈' 한국 경제...실질임금·소비 동반 감소",
+            "source": "YTN",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ULThpbXJfMXBkLUZBT1k0blJQU0NrSmtpRUFjeTlZZDM2RHloUWVWbS1iSzVBanBqemxqWlE0cjBCaGw1YkxkUWlFVEY5aHFyNm1zNDlkNzNWTnlPa3VkNS01NjNYX2J4X2NnN3d0Zw?oc=5",
+            "category": "거시경제",
+            "summary": "경제 지표는 회복세를 보이나 국민들의 실질 소득과 소비는 오히려 줄어드는 역설적 상황이 지속되고 있습니다.",
+            "content": "최근 발표된 경제 지표에 따르면 한국 경제는 수출을 중심으로 일부 지표상 회복세를 보이고 있으나, 국민들이 실제 피부로 느끼는 체감 경기는 여전히 차갑기만 합니다. 특히 물가 상승분을 반영한 실질 임금이 수개월째 마이너스나 제자리걸음을 반복하면서 가계의 실질적인 구매력이 크게 약화된 상태입니다.\n\n이러한 소득 정체는 곧바로 소비 위축으로 이어지고 있습니다. 대형마트와 백화점 등 주요 유통 업계의 매출 성장세가 둔화되었으며, 고금리 상황이 장기화됨에 따라 원리금 상환 부담까지 겹친 서민들은 지갑을 닫고 있습니다. 정부는 하반기 경기가 나아질 것이라는 '상저하고' 전망을 고수하고 있지만, 내수 부진의 골이 깊어지면서 민생 경제의 시름은 깊어지고 있습니다.\n\n전문가들은 이러한 '외화내빈' 현상을 해결하기 위해 단순한 수출 증대뿐만 아니라 내수 활성화를 위한 보다 정교한 정책적 지원이 필요하다고 지적합니다. 물가 안정과 함께 실질 소득을 높일 수 있는 방안이 마련되지 않는다면, 거시 지표와 민생 경제 사이의 괴리는 더욱 커질 것으로 우려됩니다.",
+            "image_prompt": "Economic gap graph, falling arrow, empty wallet, street market, realistic style",
+            "published_at": "2026-10-05 01:24:07",
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[경제뭔데] 증권사 리포트 97%는 “사라”…익명 보고서가 효과 있을까",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iblRvUnlibkdSY0sxMTNVbFQ0TEIxWVpYbG1WbGpMSEFmajFjMUZ4WEpBNE55Y3E5Nlo0WTY2cDFUVEUtNmR1Yy1yMFM5eVl5WnRNdEF1VjcxQdIBX0FVX3lxTFBHUjJvVS1oQUljb1pCTHplLXpYdkRsMVBTcTNPRVFCMVRXTVN0UlktWGljd0FHUzVjOWtSaFQwWGR0dDVWOWdvUGdsWUg2UkpLc2JMdGR0ZEl1WnJBZ05v?oc=5",
+            "category": "금융",
+            "summary": "국내 증권사 리포트의 절대다수가 '매수' 의견에 치중되어 있어 투자자 신뢰를 얻지 못하고 있다는 비판이 제기됩니다.",
+            "content": "국내 증권사들이 발행하는 종목 분석 리포트 중 97% 이상이 '매수(Buy)' 의견을 담고 있는 것으로 나타나 투자자들의 비판을 받고 있습니다. '매도(Sell)' 의견을 내기 어려운 한국 특유의 금융 문화와 함께, 분석 대상 기업과의 관계 악화를 우려한 증권사들의 소극적인 태도가 이러한 기형적인 수치를 만들어냈다는 분석입니다.\n\n투자자들은 증권사 리포트가 객관적인 분석 도구가 아닌, 단순히 주가를 부양하기 위한 홍보 수단으로 전락했다고 지적합니다. 실제로 주가가 하락하는 시점에도 '목표주가 하향'보다는 여전히 '매수 유지'를 권고하는 경우가 많아, 개인 투자자들이 적절한 매도 타이밍을 놓치고 손실을 입는 사례가 빈번하게 발생하고 있습니다.\n\n이에 대한 대안으로 '익명 보고서' 도입이나 독립 리서치 센터 활성화 등이 논의되고 있으나, 실질적인 제도적 장치는 아직 미비한 실정입니다. 금융당국은 리포트의 투명성을 높이기 위한 가이드라인을 강화하겠다고 밝혔으나, 근본적인 신뢰 회복을 위해서는 증권업계 내부의 자정 노력과 더불어 객관적인 성과 평가 체계가 정착되어야 할 것으로 보입니다.",
+            "image_prompt": "Stock market charts, buy signal, many papers, financial office, professional lighting",
+            "published_at": "2026-10-05 01:24:07",
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "“가장 싼 걸로 갈아타줘”… AI 에이전트와 ‘귀찮음 경제’의 종말",
+            "source": "동아일보",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Yb1EzZTZyMDZYT01IZkxjc0U0cUhSUEhaWnEzMkgzWG01THJ2eEVOOVZlM0Y3OHczOV9rQUVjTzE5QXRZV29ObGxoR0s3dFpUbzdCLVFPZTZxTEoxc0xaV1pMQVhwMjlIcE1kQVJSNGFhak1ZSnfSAWZBVV95cUxPejVqUmJSOExmTkZnWDRlS2RxdUF2Y2k2bl9TWUlaWklXbnZ1UUdPVmVHdjRUOW9PT0dXbjU5SjA4b0xTWjQ3NGc4bE1pVDdMNGY4WlpGc3otR2YzT1gtcEtTWEx6U1E?oc=5",
+            "category": "테크",
+            "summary": "소비자의 귀찮음을 대신 해결해주는 AI 에이전트의 등장으로 유통 및 소비 생태계가 급변하고 있습니다.",
+            "content": "인공지능(AI) 기술이 개인 비서 역할을 수행하는 'AI 에이전트' 수준으로 진화하면서, 소비자가 직접 가격을 비교하고 최적의 상품을 찾는 이른바 '귀찮음 경제(Laziness Economy)'가 종말을 고하고 있습니다. 이제 AI는 사용자의 패턴을 분석해 가장 저렴한 구독 요금제로 자동 변경해주거나, 생필품이 떨어지기 전 최저가로 주문을 완료하는 등 능동적인 소비 주체로 거듭나고 있습니다.\n\n이러한 변화는 기업들에게 새로운 도전 과제를 던져주고 있습니다. 과거에는 강력한 브랜드 이미지나 복잡한 마케팅 전략으로 소비자의 선택을 이끌어낼 수 있었으나, 이제는 AI 에이전트의 선택을 받기 위한 '알고리즘 최적화'가 생존의 핵심이 되었습니다. 인간의 감성적인 선택보다 데이터에 기반한 합리적인 선택이 우선시되는 시장 환경이 조성되고 있는 것입니다.\n\n하지만 일각에서는 AI 에이전트에 의한 소비 결정이 다양성을 저해하고 특정 대형 플랫폼에 권력이 집중되는 부작용을 낳을 수 있다고 우려합니다. 또한, 기술에 익숙하지 않은 고령층 등 '디지털 소외 계층'과의 경제적 격차가 더욱 벌어질 수 있다는 점도 해결해야 할 과제로 손꼽힙니다.",
+            "image_prompt": "AI robot assistant, smartphone shopping, high-tech interface, neon blue, sleek",
+            "published_at": "2026-10-05 01:24:07",
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[단독] \"직원 월급 500만원 줄 판\"…사장님 발칵 뒤집힌 이유",
+            "source": "hankyung.com",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3b3hIMjExZ0VNb05CVndFcFNhcjdESVNCZnBCVW0xUUJuZGc5OWlkM3lJTUJ5cVFySUNrYk1xT2NKVzJRT01oT2dyQWlDZ280OFR3dHlfMHhNZw?oc=5",
+            "category": "정책",
+            "summary": "가파르게 오르는 인건비 부담으로 인해 중소기업과 자영업자들이 경영난을 호소하며 발등에 불이 떨어졌습니다.",
+            "content": "최근 최저임금 상승과 고물가 영향으로 인해 인건비 부담이 한계치에 도달했다는 목소리가 중소기업계와 자영업자들 사이에서 터져 나오고 있습니다. 특히 숙련된 직원을 유지하기 위해 지급해야 하는 실질 월급 수준이 500만 원 선을 위협하면서, 매출 성장이 정체된 상황에서 인건비 비중만 높아지는 수익성 악화 구조가 심화되고 있습니다.\n\n사장님들은 원자재 가격 상승과 임대료 부담에 더해진 인건비 쇼크로 인해 '차라리 문을 닫는 게 낫다'는 극단적인 선택까지 고려하고 있는 실정입니다. 일부 업종에서는 인건비를 감당하지 못해 키오스크나 서빙 로봇 도입 등 무인화에 속도를 내고 있으며, 이는 결과적으로 취약 계층의 일자리 감소로 이어지는 악순환을 초래하고 있습니다.\n\n전문가들은 급격한 임금 인상이 기업의 지불 능력을 초과할 경우 오히려 고용 시장의 경직성을 초래할 수 있다고 경고합니다. 경영계는 업종별 최저임금 차등 적용 등 현실적인 대안 마련을 강력히 요구하고 있으나, 노동계와의 입장 차가 커 향후 노사정 갈등의 핵심 쟁점이 될 것으로 보입니다.",
+            "image_prompt": "Worried business owner, calculator, stack of bills, restaurant interior, moody lighting",
+            "published_at": "2026-10-05 01:24:07",
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "안산 펫페어, 반려동물 경제로 도시 다각화 발전 이끌어",
+            "source": "인민망",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJbmhrX29qVVNUbTNkU1ZpSWJnTVZaTTdLMDJyNU5XQk41WTU4Vi01dTFiZTZoS0doLTZlZlMtajBrZ1RTRjJuLXhYbE0xME1ycmE5NGlhUklZVWREZUt3MkdHbXRFR3RJVE5J?oc=5",
+            "category": "시장",
+            "summary": "반려동물 인구 1,500만 시대를 맞아 '펫코노미'가 지역 경제의 새로운 활력소로 급부상하고 있습니다.",
+            "content": "안산시에서 열린 펫페어가 수많은 관람객을 동원하며 성황리에 마무리된 가운데, 반려동물 관련 산업인 '펫코노미(Petconomy)'가 지역 경제 발전의 새로운 모델로 주목받고 있습니다. 단순한 용품 판매를 넘어 의료, 미용, 숙박, IT 기술이 접목된 펫테크까지 산업의 외연이 급격히 확장되면서 도시의 새로운 성장 동력이 되고 있습니다.\n\n최근에는 한 마리에 수억 원을 호가하는 귀한 반려동물이나 프리미엄 펫 푸드 등 고부가가치 시장이 형성되면서 관련 소비 규모가 매년 두 자릿수 성장을 기록하고 있습니다. 1인 가구의 증가와 인구 구조 변화에 따라 반려동물을 가족의 일원으로 생각하는 '펫 휴머니제이션' 현상이 뚜렷해진 결과입니다.\n\n지자체들은 이러한 흐름에 발맞춰 반려동물 친화 공간을 조성하고 관련 전시회를 유치하는 등 '반려동물 경제 수도'를 선점하기 위한 경쟁에 뛰어들고 있습니다. 전문가들은 반려동물 산업이 일자리 창출 효과가 크고 전후방 연쇄 효과가 뛰어난 만큼, 체계적인 산업 육성 지원책이 뒷받침되어야 한다고 조언합니다.",
+            "image_prompt": "Pet fair event, diverse dogs, happy people, vibrant booth, sunny day",
+            "published_at": "2026-10-05 01:24:07",
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "“가장 싼 걸로 갈아타줘”…AI 에이전트와 ‘귀찮음 경제’의 종말",
+            "source": "동아일보",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Yb1EzZTZyMDZYT01IZkxjc0U0cUhSUEhaWnEzMkgzWG01THJ2eEVOOVZlM0Y3OHczOV9rQUVjTzE5QXRZV29ObGxoR0s3dFpUbzdCLVFPZTZxTEoxc0xaV1pMQVhwMjlIcE1kQVJSNGFhak1ZSnfSAWZBVV95cUxPejVqUmJSOExmTkZnWDRlS2RxdUF2Y2k2bl9TWUlaWklXbnZ1UUdPVmVHdjRUOW9PT0dXbjU5SjA4b0xTWjQ3NGc4bE1pVDdMNGY4WlpGc3otR2YzT1gtcEtTWEx6U1E?oc=5",
+            "category": "테크",
+            "summary": "AI가 인간의 귀찮은 업무를 대신 수행하는 'AI 에이전트' 시대가 열리며 새로운 소비 패러다임을 예고하고 있습니다.",
+            "content": "인공지능(AI) 기술이 단순한 정보 검색이나 답변 생성의 단계를 넘어, 사용자를 대신해 복잡한 과업을 직접 수행하는 'AI 에이전트'로 진화하고 있습니다. 이는 이른바 '귀찮음 경제(Inconvenience Economy)'의 종말을 예고하며, 소비자들이 최저가 비교, 예약, 변경 등 번거로운 과정에서 해방되는 새로운 시대를 열고 있습니다.\n\nAI 에이전트는 사용자의 성향과 과거 패턴을 학습하여 최적의 선택을 제안하고 실행합니다. 예를 들어 스마트폰 앱 하나로 보험 상품을 비교해 가장 유리한 것으로 자동 갱신하거나, 최저가 항공권을 모니터링하다가 적절한 시점에 자동으로 구매를 완료하는 식입니다. 이는 기업 입장에서 '충성 고객'을 확보하기가 더 어려워짐을 의미하며, 기술적 우위와 가격 경쟁력이 생존의 핵심이 될 것입니다.\n\n또한 이러한 변화는 플랫폼 산업 전반에 거대한 지각변동을 일으키고 있습니다. 기존의 광고 기반 비즈니스 모델은 사용자가 직접 화면을 보며 클릭하는 행위에 의존했으나, AI가 이를 대행하게 되면 광고 노출의 효율이 떨어지기 때문입니다. 이에 따라 기업들은 AI 에이전트와 소통하기 위한 새로운 마케팅 엔진과 API 체계를 구축하는 데 집중하고 있습니다.\n\n앞으로 AI 에이전트는 지역 경제와 결합하여 소상공인들에게도 새로운 기회를 제공할 전망입니다. 복잡한 디지털 마케팅을 AI가 대신 처리해줌으로써 지역 상권의 효율성이 증대될 수 있다는 분석이 나옵니다. 기술이 인간의 '귀찮음'을 해결해주는 만큼, 미래의 경제 활동은 더욱 본질적인 가치 중심의 경쟁으로 변화할 것입니다.",
+            "image_prompt": "AI assistant, automated shopping, futuristic robot hand, digital efficiency, neon violet light",
+            "published_at": "2026-10-04 20:45:27",
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "유승민 \"트럼프 대통령, 韓 경제·안보에 큰 부담\"",
+            "source": "v.daum.net",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10eTdOMEpRV2hxY1BjTHhqYjNjcnMxd1FKMHlJR19rOGhBeTViMGFQVzhqZmtObDJOU1l4eDdXWTlweGJvUW1keTBkc2R2czg?oc=5",
+            "category": "국제정세",
+            "summary": "트럼프의 재선 가능성이 높아지면서 한국의 수출 보조금 및 방위비 분담금 등 안보와 경제 전반에 대한 우려가 커지고 있습니다.",
+            "content": "미국 대선이 다가오면서 도널드 트럼프 전 대통령의 재집권 가능성이 한국 경제와 안보에 커다란 리스크로 부상하고 있습니다. 유승민 전 의원을 비롯한 많은 전문가들은 '트럼프 리스크'가 한국이 직면한 가장 현실적이고 강력한 대외 위협이 될 수 있다고 경고하며 철저한 대비를 촉구하고 있습니다.\n\n경제적인 측면에서 트럼프는 '자국 우선주의'와 '보호무역주의'를 더욱 강화할 것으로 보입니다. 특히 바이든 정부에서 제공해온 인플레이션감축법(IRA)이나 반도체법에 따른 보조금 혜택이 대폭 축소되거나 폐지될 가능성이 제기됩니다. 이는 미국 내 대규모 투자를 진행 중인 한국의 배터리 및 반도체 기업들에게 치명적인 타격이 될 수 있으며, 한국의 대미 수출 전략을 원점에서 재검토해야 하는 상황을 만들 수 있습니다.\n\n안보 분야 역시 큰 도전입니다. 트럼프는 과거 임기 당시에도 주한미군 방위비 분담금의 급격한 증액을 요구했으며, 최근에는 동맹국들에 대한 방위 의무를 거래의 관점에서 접근하고 있습니다. 이는 한미 동맹의 근간을 흔들 수 있는 요소이며, 동북아 지정학적 안정성에 커다란 불확실성을 초래할 수 있는 대목입니다.\n\n결국 '트럼프 2.0' 시대가 현실화될 경우 한국은 경제와 안보라는 두 마리 토끼를 모두 지키기 위해 전례 없는 외교적 시험대에 서게 될 것입니다. 이에 대비해 정부와 기업은 시나리오별 대응책을 마련하고, 미국 내 다양한 정치 채널과의 소통을 강화하는 등 선제적인 리스크 관리가 시급한 시점입니다.",
+            "image_prompt": "Donald Trump, US and Korea flags, international trade tension, geopolitical risks, dark cinematic lighting",
+            "published_at": "2026-10-04 20:45:27",
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "\"합격하면 바로 자퇴합니다\"…서울대생도 줄선다는 '이곳'",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NZW5kckVMSDZ0RGpTTUZTY1M2ZnFSTGRKZG1FRlgwaE4xWkNtWW1XYXN2TXYxRnF4U1ZXX2FCUjlvVEEtMlVWdE1aRzJqSkZNNHc0VllVVF9tUQ?oc=5",
+            "category": "사회경제",
+            "summary": "이공계 인재들의 의대 쏠림 현상이 심화되면서 서울대 등 상위권 대학 이공계 학생들의 중도 이탈이 심각한 사회 문제로 부상했습니다.",
+            "content": "대한민국 최고의 수재들이 모인 서울대학교 내에서도 이공계 학과를 다니던 학생들이 '의대 편입'이나 '재입학'을 위해 자퇴를 선택하는 비중이 역대 최고 수준을 기록하고 있습니다. 이는 단순한 개인의 선택을 넘어, 국가의 미래 산업 경쟁력을 책임질 과학기술 인재들이 전문직의 안정성만을 쫓는 '인재 불균형' 현상을 적나라하게 보여줍니다.\n\n이러한 현상의 배경에는 이공계 직군에 대한 열악한 처우와 불안정한 고용 환경이 자리 잡고 있습니다. 대기업에 취업하더라도 의사라는 전문직이 보장하는 정년 없는 고소득과 사회적 지위를 넘어서기 어렵다는 인식이 팽배해진 것입니다. 특히 최근 반도체 등 첨단 산업 육성이 국가적 과제로 떠오르고 있음에도 불구하고, 실제 현장의 우수 인력 공급은 갈수록 어려워지고 있습니다.\n\n정부와 학계는 이공계 인재 유출을 막기 위해 장학금 확대, 연구 환경 개선 등 다양한 당근책을 내놓고 있지만 '의대 열풍'을 잠재우기엔 역부족이라는 평가입니다. 전문가들은 원천 기술을 개발하는 과학자들이 자부심을 느끼고 경제적으로도 충분한 보상을 받을 수 있는 근본적인 생태계 조성이 필요하다고 입을 모읍니다.\n\n최첨단 기술 전쟁 시대에 인재가 곧 국력인 만큼, 이공계 기피 현상을 방치할 경우 국가 성장 동력이 상실될 수 있다는 경고의 목소리가 커지고 있습니다. 교육과 산업계를 잇는 구조적 개혁이 없다면 서울대생들의 의대 행렬은 멈추지 않을 것으로 보입니다.",
+            "image_prompt": "Elite education, medical school craze, university gate, science vs medicine choice, cinematic light",
+            "published_at": "2026-10-04 20:45:27",
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "\"집 보러 오는 사람 없다\"…美 주담대 7.28%, 세계 경제에도 부담",
             "source": "조선일보",
