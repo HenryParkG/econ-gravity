@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-08 13:17:25",
+    "last_updated": "2026-11-08 21:42:37",
     "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요.",
     "indices": [
         {
@@ -40,43 +40,43 @@
     ],
     "items": [
         {
+            "title": "'블루 웨이브 쇼크'에 휘청인 코스피…반등 열쇠는 [주간전망] - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c29HUVZ3dWd3SkcteTk3cUMtWXBTc1QwWnJWa0xsT1EzUlRrZ1FRdlExTUpUMUJacHNxZkFkc1p4N28yVVpiR0VWNVd5a0JlVjJ6THFLNmFtdw?oc=5",
+            "source": "한국경제",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-08 21:42:37",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
             "title": "[속보]국민 55.9% “李정부 경제 잘못하고 있다”, 38.5% “잘하고 있다”-리얼미터 - 문화일보",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3Z2w2M3M3VUo0a19Ba3dOeVlrZHAxQ2tXb25JWmV1ZDJYc1BlYzJuU1hVeW9kQkVmdlJjZzBpVHFfWEo5WUVyWVRSRTBrRENN?oc=5",
             "source": "문화일보",
             "summary": "내용 요약을 불러올 수 없습니다.",
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-08 13:17:25",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "[포토] 아시아경제, 2026 부산 헤리티지 런 개최 - 아시아경제",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIX05VUGVZRGFBNTZ6UEpaaDh2RUNJNFQ3dDZoTEhpRDh4d0x2U1dXTDAyZkJ6SlF6Z1Y5Tk1uZGVFN3llT3dlYXQ1ODlRRV9CZFhwQ2E5ZzJYeXExNmdyWA?oc=5",
-            "source": "아시아경제",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-08 13:17:25",
+            "published_at": "2026-11-08 21:42:37",
             "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
-            "title": "트럼프 남은 임기 2년...우리의 안보·경제 향방은? - YTN",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zNEZkbG1GdllWMmhGbkdBaUpMWDR2Vm9WaUpOM293RDFPSlZFcV9NVldrM0swWDVlOFo0RGhIWl9Id3ZvVGNtbWNBNnZYbEh1NVlxekMxZEV0enl6TUE?oc=5",
-            "source": "YTN",
+            "title": "“삼전닉스 적정 주가는?”…현금 확보가 필요한 이유 [경제한방] - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvUzdKcERCRnVLeHJTWXl2Nlh2WTlQbjhKa3dSX1dienZKMWZsUHljQ1FlSi1GbVE1clZvM1VFTkdHV2VXc1RGTEhFVm12aTlGS0paR2tEZXRMeW8?oc=5",
+            "source": "KBS 뉴스",
             "summary": "내용 요약을 불러올 수 없습니다.",
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-08 13:17:25",
+            "published_at": "2026-11-08 21:42:37",
             "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
         },
         {
-            "title": "국힘, 코스피 급락에 \"李대통령, '지수 정치' 설계한 경제 라인 문책해야\" - 뉴시스",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PeFVmY1JUNjVhcHZTRGp5bnZTRWJNdHBVVllXb09mblhzUTlNdlZSaU5NREZoajdHbFR0SmFfc1JhR0lBVkZJWFdkWlluN3hhXzNQMkNYeFc2cUZUV1VORdIBeEFVX3lxTE5hWmRxSDRFUEVLQ280cWFJbzFuXzByNWVrOXJ1UndfMkJVVGkzSUx4cmJJWjBRZGk2NXF4QlVwU0oyZ002VFA0Z25YNi13bW5JRlVRY3NnTXRQY2ljZm03Q0o0Zm1zZmlhNDdOSmw2a2g0c0xLd3VUaw?oc=5",
-            "source": "뉴시스",
+            "title": "\"종전\" \"대규모 공격\" \"경제압박\"... 백악관, 이란전 두고 갈라졌다 - 조선일보",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXB4WWN0YnhTdkJRQzVjZGtaanFnYVlEckkwXzRWN3FfNWN1TW9aQmRwS3NycDhUNW12S0VjZ2dpaGNFSk9ZNnpBZGNlRjlBNlhMRV9hc2pPdkV5bUFpUmliWnRQT3ZfWEw2N0VGbmV5X1RqMGxwRTFSejZNTFdpcmRtZ1B6S2l1bVVQNVVaSFJ3ZjVQTjJxUm5qZF9Ndw?oc=5",
+            "source": "조선일보",
             "summary": "내용 요약을 불러올 수 없습니다.",
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-08 13:17:25",
+            "published_at": "2026-11-08 21:42:37",
             "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
         },
         {
@@ -86,8 +86,38 @@
             "summary": "내용 요약을 불러올 수 없습니다.",
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-08 13:17:25",
+            "published_at": "2026-11-08 21:42:37",
             "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "[포토] 아시아경제, 2026 부산 헤리티지 런 개최 - 아시아경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIX05VUGVZRGFBNTZ6UEpaaDh2RUNJNFQ3dDZoTEhpRDh4d0x2U1dXTDAyZkJ6SlF6Z1Y5Tk1uZGVFN3llT3dlYXQ1ODlRRV9CZFhwQ2E5ZzJYeXExNmdyWA?oc=5",
+            "source": "아시아경제",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-08 13:17:25",
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "트럼프 남은 임기 2년...우리의 안보·경제 향방은? - YTN",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zNEZkbG1GdllWMmhGbkdBaUpMWDR2Vm9WaUpOM293RDFPSlZFcV9NVldrM0swWDVlOFo0RGhIWl9Id3ZvVGNtbWNBNnZYbEh1NVlxekMxZEV0enl6TUE?oc=5",
+            "source": "YTN",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-08 13:17:25",
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "국힘, 코스피 급락에 \"李대통령, '지수 정치' 설계한 경제 라인 문책해야\" - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PeFVmY1JUNjVhcHZTRGp5bnZTRWJNdHBVVllXb09mblhzUTlNdlZSaU5NREZoajdHbFR0SmFfc1JhR0lBVkZJWFdkWlluN3hhXzNQMkNYeFc2cUZUV1VORdIBeEFVX3lxTE5hWmRxSDRFUEVLQ280cWFJbzFuXzByNWVrOXJ1UndfMkJVVGkzSUx4cmJJWjBRZGk2NXF4QlVwU0oyZ002VFA0Z25YNi13bW5JRlVRY3NnTXRQY2ljZm03Q0o0Zm1zZmlhNDdOSmw2a2g0c0xLd3VUaw?oc=5",
+            "source": "뉴시스",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-08 13:17:25",
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이",
@@ -97,7 +127,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-07 21:24:07",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"넷플릭스에선 대박 나는데\"…한국 드라마 업계의 비명 [김예랑의 K컬처인사이드] - 한국경제",
@@ -107,7 +137,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-07 21:24:07",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“주식도 코인처럼”…내 자산 어디까지 쪼개질까? [경제한방] - KBS 뉴스",
@@ -117,7 +147,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-07 21:24:07",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제뭔데]‘입동’보다 먼저 온 주식시장 한파, 예금 4%라는데 갈아타야 하나요? - 경향신문",
@@ -127,7 +157,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-07 21:24:07",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "사회연대경제기업들, 서울 청계광장간다…직거래장터 등[전남광주소식] - 뉴시스",
@@ -137,7 +167,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-07 13:30:58",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[11월 첫째 주 세계경제동향 브리핑] 코스피·코스닥 11%대 동반 폭락…美 증시도 급락 - 기호일보",
@@ -147,7 +177,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-07 13:30:58",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"같은 평수 받으려면 9억?\"…은마아파트 집주인들 '날벼락' - 한국경제",
@@ -157,7 +187,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-07 13:30:58",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"AI 데이터센터 막으면 미국 경제 멈춘다\"···월가 거물들, 민주당에 경고 - 뉴스웨이",
@@ -167,7 +197,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-06 22:42:07",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "사회연대경제연계전문위원회 현장간담회 개최 - 대한민국 정책브리핑",
@@ -177,7 +207,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-06 22:42:07",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "미 선거에 흔들린 반도체…복잡해진 우리 경제 셈법 - KBS 뉴스",
@@ -187,7 +217,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-06 22:42:07",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제읽기] 서킷브레이커·장중 5천선 붕괴…'검은 금요일' - 연합뉴스",
@@ -197,7 +227,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-06 22:42:07",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한국동서발전·고양시, 재생에너지 확대·지역경제 활성화 맞손 - 울산종합일보",
@@ -207,7 +237,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-06 13:58:26",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "李대통령 \"동티모르와 녹색경제·개발협력 확대…미래 동반자로 도약\" - 연합인포맥스",
@@ -217,7 +247,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-06 13:58:26",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제부총리 이형일 \"우리 증시 과잉반응 막도록 필요한 조치 선제 강구\" - 비즈니스포스트",
@@ -227,7 +257,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-06 13:58:26",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제·금융당국 \"미국 중간선거 영향 지속 점검...변동성 철저 대비\"",
@@ -238,7 +268,7 @@
             "content": "기획재정부와 한국은행, 금융위원회 등 경제·금융당국은 긴급 거시경제금융회의를 개최하고 미국 중간선거가 국내외 금융시장에 미칠 영향을 정밀하게 점검하기 시작했습니다. 당국은 선거 결과에 따라 미국의 통상 정책과 금리 경로가 변화할 수 있는 만큼, 시장의 변동성이 과도하게 확대될 가능성에 대해 우려를 표명했습니다.\n\n정부는 특히 원/달러 환율의 움직임과 외국인 자금 유출입 상황을 실시간으로 확인하며 필요시 시장 안정 조치를 즉각 시행할 방침입니다. 현재 글로벌 시장은 미 의회의 권력 지형 변화가 미국의 재정 지출과 인플레이션 억제 정책에 어떤 변수를 가져올지 주목하고 있는 상황입니다.\n\n또한, 우리 당국은 선거 이후에도 불확실성이 지속될 수 있다는 점을 강조하며, 수출 기업들이 겪을 수 있는 통상 환경의 변화에 대해서도 범정부 차원의 대응을 이어가겠다고 밝혔습니다. 금융권에는 충분한 유동성을 확보하고 리스크 관리에 만전을 기할 것을 당부했습니다.\n\n이번 조치는 대외 의존도가 높은 한국 경제의 특성상 미국 정치권의 변화가 실물 경제로 전이되는 것을 차단하기 위한 선제적 방어 기제로 풀이됩니다. 정부는 관계 기관 간의 긴밀한 공조를 통해 시장 불안 심리를 최소화하는 데 주력할 계획입니다.",
             "image_prompt": "Global finance, Stock market monitoring, Blue neon graph, Economic stability, Professional",
             "published_at": "2026-11-05 22:56:55",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[단독] 정부, 美국채 매입해 외환보유액 대폭 늘린다",
@@ -249,7 +279,7 @@
             "content": "대한민국 정부가 대외 충격에 대한 방어력을 높이기 위해 미국 국채를 대거 매입하여 외환보유액을 확충하는 전략을 수립했습니다. 이는 최근 글로벌 금융시장의 불확실성이 커지는 가운데, 가장 안전한 자산으로 꼽히는 미 국채 비중을 늘려 국가 신용도를 공고히 하겠다는 의지로 풀이됩니다.\n\n외환당국은 현재 보유 중인 외환 자산의 포트폴리오를 재조정하며, 유동성이 높고 수익성과 안정성을 동시에 확보할 수 있는 미 국채 매입 규모를 단계적으로 확대할 예정입니다. 이는 환율 변동성이 커질 때 시장을 안정시킬 수 있는 실질적인 '실탄'을 확보하는 의미가 있습니다.\n\n경제 전문가들은 이러한 조치가 한국 경제의 펀더멘털을 강화하는 데 긍정적인 역할을 할 것으로 보고 있습니다. 특히 외국인 투자자들에게 한국 시장이 대외 변수에도 견딜 수 있는 충분한 준비가 되어 있다는 시그널을 전달함으로써 자본 유출을 억제하는 효과를 기대할 수 있습니다.\n\n다만, 미 국채 매입에 따른 기회비용과 금리 변동에 따른 자산 가치 변화 등은 세밀하게 관리해야 할 과제로 남아 있습니다. 정부는 시장 상황을 면밀히 살펴가며 매입 시기와 규모를 조절하여 외환 운용의 효율성을 극대화할 방침입니다.",
             "image_prompt": "US Treasury Bonds, Gold bars and Dollars, Financial security, Vault, Banking",
             "published_at": "2026-11-05 22:56:55",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥?",
@@ -260,7 +290,7 @@
             "content": "미국 중간선거 결과에 따라 민주당이 의회를 장악하는 '블루웨이브'가 현실화될 경우, 국내 반도체 업계에 상당한 파장이 예상됩니다. 현재 조 바이든 행정부가 추진해 온 칩스법(CHIPS Act) 등 반도체 지원 정책의 세부 실행 방안이 정치적 상황에 따라 조정될 가능성이 제기되고 있기 때문입니다.\n\n특히 삼성전자와 SK하이닉스 등 미국 현지 투자를 진행 중인 한국 기업들은 보조금 수령 조건이나 사후 규제가 강화될 가능성에 촉각을 곤두세우고 있습니다. 민주당의 정책 기조가 자국 우선주의와 노동 및 친환경 요건을 강조하는 방향으로 흐를 경우 우리 기업들의 비용 부담이 늘어날 수 있다는 분석입니다.\n\n전문가들은 미국 내 정치 지형 변화가 공급망 재편 속도에도 영향을 미칠 것으로 보고 있습니다. 대중국 규제의 강도가 유지되거나 오히려 강화될 경우, 중국 내 생산 비중이 있는 한국 반도체 기업들은 운영 효율성 저하와 전략 수정이라는 어려운 과제에 직면하게 됩니다.\n\n이에 따라 국내 산업계와 정부는 미국 정치권과의 네트워크를 강화하고, 시나리오별 대응 전략을 마련하는 등 분주하게 움직이고 있습니다. K-반도체가 글로벌 패권 경쟁 속에서 우위를 유지하기 위해서는 정교한 통상 외교와 기술력 확보가 동시에 요구되는 시점입니다.",
             "image_prompt": "Semiconductor wafer, Blue wave illustration, US politics, High-tech factory, Risk management",
             "published_at": "2026-11-05 22:56:55",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "최태원 \"AI 시대 한국 경제 해법은 신자본주의·한일 경제연대\"",
@@ -271,7 +301,7 @@
             "content": "최태원 SK그룹 회장은 최근 열린 국제 포럼에서 인공지능(AI) 기술의 급격한 발전이 가져올 경제적 변화에 대응하기 위해 한국과 일본이 긴밀하게 협력해야 한다고 강조했습니다. 최 회장은 양국이 가진 제조 역량과 기술력을 결합한다면 글로벌 AI 공급망에서 강력한 시너지를 낼 수 있다고 진단했습니다.\n\n특히 그는 단순한 경제적 이익 추구를 넘어 사회적 문제를 해결하고 가치를 창출하는 '신자본주의' 개념을 제시했습니다. AI 기술이 일자리 변화나 불평등 심화와 같은 부작용을 낳을 수 있는 만큼, 기업이 주도적으로 사회 시스템을 보완하고 지속 가능한 성장을 도모해야 한다는 논리입니다.\n\n한일 경제연대에 대해서는 에너지, 반도체, 탄소 중립 등 공동의 과제에서 협력 체계를 구축할 것을 제안했습니다. 이는 미국과 중국의 패권 경쟁 사이에서 한국과 일본이 독자적인 경쟁력을 확보하고 경제 안보를 강화하기 위한 전략적 선택으로 풀이됩니다.\n\n최 회장의 이러한 발언은 국내 재계에 큰 반향을 일으키고 있습니다. 단순한 개별 기업의 성장을 넘어 국가 간 연대와 자본주의의 근본적인 체질 개선을 통해 AI라는 거대한 파도를 넘어야 한다는 거시적인 안목을 보여주었다는 평가입니다.",
             "image_prompt": "AI brain, Korea-Japan cooperation, Strategic partnership, Modern city office, Digital network",
             "published_at": "2026-11-05 22:56:55",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“호르무즈 60일 봉쇄 땐 한국경제 453억달러 손실”…‘2026 해양안보 세미나’ 개최",
@@ -282,7 +312,7 @@
             "content": "최근 개최된 해양안보 공동 학술세미나에서 중동 분쟁 격화로 호르무즈 해협이 봉쇄될 경우 한국 경제에 미칠 심각한 영향에 대한 경고가 나왔습니다. 분석에 따르면, 단 60일간의 봉쇄만으로도 한국은 약 453억 달러(한화 약 60조 원)에 달하는 막대한 경제적 손실을 입을 것으로 예측되었습니다.\n\n호르무즈 해협은 전 세계 원유 물동량의 상당 부분이 통과하는 전략적 요충지로, 한국은 원유 도입량의 70% 이상을 이 경로에 의존하고 있습니다. 해협이 차단될 경우 에너지 수급 불균형에 따른 유가 폭등은 물론, 제조업 전반의 생산 차질과 물가 상승으로 이어지는 '도미노 타격'이 불가피합니다.\n\n세미나에 참석한 전문가들은 에너지 안보 차원에서 원유 도입선을 다변화하고, 전략 비축유를 충분히 확보하는 등의 대비책이 시급하다고 지적했습니다. 또한 해상 수송로 안전을 확보하기 위한 국제적 공조와 독자적인 해양 안보 역량 강화의 필요성도 강조되었습니다.\n\n이번 분석 결과는 지정학적 리스크가 더 이상 먼 나라의 이야기가 아니라 우리 민생 경제와 직결된 실존적 위협임을 시사합니다. 정부와 관련 업계는 최악의 시나리오를 가정한 비상 대응 계획(Contingency Plan)을 재점검해야 할 것으로 보입니다.",
             "image_prompt": "Hormuz Strait, Oil tanker ship, Red alert, Global trade map, Energy crisis",
             "published_at": "2026-11-05 22:56:55",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제읽기] 美 ’반도체 급락’…코스피 매도 사이드카 발동",
@@ -293,7 +323,7 @@
             "content": "최근 미국 뉴욕 증시에서 기술주와 반도체 종목들이 일제히 급락하면서 그 여파가 국내 시장으로 고스란히 전해졌습니다. 특히 엔비디아를 비롯한 글로벌 반도체 대장주들의 하락세는 국내 반도체 쌍두마차인 삼성전자와 SK하이닉스에 직격탄을 날렸으며, 이로 인해 코스피 지수가 급락하며 프로그램 매도 호가 일시효력정지(사이드카)가 발동되는 긴박한 상황이 연출되었습니다.\n\n시장 전문가들은 이번 급락의 원인으로 글로벌 경기 침체 우려와 함께 그동안 가파르게 상승했던 AI 및 반도체 섹터에 대한 차익 실현 욕구가 강해진 점을 꼽고 있습니다. 투자자들은 기술주의 고평가 논란 속에서 실적 발표 시즌을 앞두고 극도로 예민한 반응을 보이고 있으며, 이러한 변동성은 당분간 지속될 가능성이 높다는 분석입니다.\n\n반면, 시장 전체가 위축된 상황에서도 경기 방어적 성격을 띤 종목들은 오히려 신고가를 경신하는 등 대조적인 모습을 보였습니다. 투자자들이 불확실성을 피하기 위해 안정적인 수익을 기대할 수 있는 필수 소비재나 금융주 등으로 자금을 이동시키는 순환매 장세가 나타나고 있는 것입니다.\n\n결국 현재의 시장은 대외 변수에 매우 취약한 상태이며, 미국 연준의 금리 결정 방향과 대선 결과 등 향후 발표될 굵직한 경제 지표들에 따라 향방이 결정될 것으로 보입니다. 개인 투자자들에게는 공격적인 매수보다는 리스크 관리에 집중하며 보수적인 관점으로 접근할 것이 권고되는 시기입니다.",
             "image_prompt": "Stock market crash, red candles chart, volatile financial data, professional trading terminal",
             "published_at": "2026-11-05 13:58:59",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[단독] “취재정보로 매매해 45억 부당이득”…한국경제신문 조사 마무리",
@@ -304,7 +334,7 @@
             "content": "최근 금융당국과 검찰은 한국경제신문 소속 기자가 미공개 취재 정보를 이용해 주식 매매를 진행, 약 45억 원에 달하는 부당 이득을 취했다는 혐의에 대해 조사를 마무리했습니다. 해당 기자는 기사화되기 전 기업의 합병이나 대규모 투자 정보를 미리 입수하여 주식을 선취매한 뒤, 기사가 보도되어 주가가 오르면 매도하는 방식을 취한 것으로 알려졌습니다.\n\n이번 사건은 시장의 파수꾼 역할을 해야 할 언론인이 오히려 자신의 지위를 이용해 시장 질서를 교란했다는 점에서 큰 파장을 일으키고 있습니다. 자본시장의 투명성과 공정성을 훼손한 심각한 범죄 행위로 간주되며, 해당 매체는 물론 언론계 전체의 신뢰도에 치명적인 타격을 입혔습니다.\n\n금융감독원은 이번 사례가 빙산의 일각일 수 있다는 가능성을 열어두고, 유사한 사례가 더 있는지 전방위적인 모니터링을 강화할 계획입니다. 또한 언론사 내부의 윤리 규정 준수 여부와 정보 관리 체계에 대한 근본적인 재검토가 필요하다는 목소리가 커지고 있습니다.\n\n재판 결과에 따라 해당 기자는 강력한 형사 처벌과 함께 부당 이득의 몇 배에 달하는 과징금을 부과받을 것으로 보입니다. 이번 사건을 계기로 주식 시장 내 미공개 정보를 이용한 불법 행위에 대한 처벌 수위를 대폭 강화하고, 언론인의 직업 윤리를 바로세울 수 있는 제도적 장치가 마련되어야 한다는 지적이 잇따르고 있습니다.",
             "image_prompt": "Judicial scales of justice, newspaper and pen, stock ticker background, financial crime concept",
             "published_at": "2026-11-05 13:58:59",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한·싱가포르·뉴질랜드, 그린경제협정 협상 진전…기후통상 공동 대응",
@@ -315,7 +345,7 @@
             "content": "한국과 싱가포르, 뉴질랜드 3국이 기후위기 대응과 친환경 산업 육성을 골자로 하는 '그린경제협정' 협상에서 유의미한 진전을 이뤄냈습니다. 이번 협정은 탄소 배출 저감 기술의 공동 개발, 신재생 에너지 교역 확대, 그리고 친환경 제품에 대한 표준 일원화 등을 주요 내용으로 담고 있어 미래 통상 환경의 새로운 이정표가 될 전망입니다.\n\n최근 전 세계적으로 '탄소국경세'와 같은 기후 규제가 강화되는 가운데, 이번 3자 협력은 한국 기업들이 해외 친환경 시장으로 진출하는 데 중요한 발판이 될 것으로 기대됩니다. 특히 수소 경제, 전기차 배터리, 친환경 건축 자재 등 그린 테크 분야에서 강점을 가진 국내 기업들이 상대국 시장에서 보다 유리한 조건으로 사업을 전개할 수 있는 토대가 마련될 것입니다.\n\n정부는 이번 협정을 통해 단순한 무역 확대를 넘어, 글로벌 공급망 내에서 '그린 프리미엄'을 확보하겠다는 전략입니다. 친환경 기술 표준을 선점함으로써 향후 다가올 기후 통상 시대에 주도권을 잡겠다는 의도입니다. 싱가포르의 금융 인프라와 뉴질랜드의 풍부한 천연자원 및 환경 기술이 한국의 제조 역량과 결합되어 큰 시너지를 낼 것으로 보입니다.\n\n전문가들은 이러한 다자간 협력이 보호무역주의가 심화되는 글로벌 경제 환경에서 훌륭한 탈출구가 될 수 있다고 평가합니다. 앞으로 정부는 실무 협상을 신속히 마무리하고 민간 기업들이 실제적인 혜택을 체감할 수 있도록 지원 체계를 구체화할 예정입니다.",
             "image_prompt": "Green ecology and technology, digital earth with leaf, clean energy icons, global cooperation",
             "published_at": "2026-11-05 13:58:59",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제포커스] AI를 믿어도 되나",
@@ -326,7 +356,7 @@
             "content": "인공지능(AI)이 산업 전반의 혁신을 주도하며 'AI 만능주의'에 가까운 열풍이 불고 있지만, 최근 들어 그 신뢰성에 의문을 제기하는 목소리도 커지고 있습니다. AI가 내놓는 결과물의 오류인 '할루시네이션(환각)' 현상이 여전히 해결되지 않고 있으며, 이를 비즈니스 의사결정에 100% 활용하기에는 리스크가 너무 크다는 지적입니다.\n\n특히 금융 거래나 의료 진단, 법률 자문 등 정밀함이 요구되는 경제 활동 영역에서 AI의 실수는 막대한 경제적 손실로 이어질 수 있습니다. 기업들은 막대한 비용을 들여 AI 시스템을 도입하고 있지만, 실제 투입 대비 효율성(ROI)이 기대만큼 나오지 않는다는 회의론도 고개를 들고 있습니다. 단순 반복 업무를 대체하는 데는 효과적이지만, 창의적 전략 수립이나 책임 있는 판단에는 한계가 분명하다는 분석입니다.\n\n또한 데이터 편향성으로 인한 불공정성 문제나 저작권 침해 등 법적·윤리적 쟁점들도 AI 확산의 걸림돌로 작용하고 있습니다. AI가 학습하는 데이터 자체가 왜곡되어 있을 경우, 그 결과물은 사회적 갈등을 유발하거나 특정 집단에 경제적 불이익을 줄 수 있기 때문입니다. 이는 기술적 완성도만큼이나 사회적 합의와 규제 프레임워크가 중요하다는 사실을 시사합니다.\n\n결국 AI는 인간을 대체하는 '절대 지능'이 아니라 인간의 판단을 돕는 '강력한 도구'로서 정체성을 재확립해야 합니다. AI의 결과물을 검증할 수 있는 인간의 역량을 키우는 동시에, 기술의 한계를 명확히 인지하고 활용하는 'AI 리터러시'가 미래 경제 주체들에게 필수적인 덕목이 될 것입니다.",
             "image_prompt": "AI robot thinking, digital uncertainty, blurred binary code, futuristic yet cautious atmosphere",
             "published_at": "2026-11-05 13:58:59",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제직필]불평등 해소, 쓸돈은 있으나 의지가 없다 - 경향신문",
@@ -336,7 +366,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-04 22:44:41",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "현실화된 '블루 쓰나미'…배터리 '맑음'·자동차 '흐림' 반도체는? - 한국경제",
@@ -346,7 +376,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-04 22:44:41",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[단독] “취재정보로 매매해 45억 부당이득”…한국경제신문 조사 마무리 - KBS 뉴스",
@@ -356,7 +386,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-04 22:44:41",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[미 중간선거]결국 ‘경제’가 표심 움직였다···미국인 60% “생활비 부담, 트럼프 때문” - 경향신문",
@@ -366,7 +396,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-04 22:44:41",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[중간선거] 유권자 출구 조사 “중요 현안은 경제…트럼프 반대 위해 투표 43%” - KBS 뉴스",
@@ -376,7 +406,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-04 22:44:41",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[중간선거] 유권자 출구 조사 “중요 현안은 경제…트럼프 반대 위해 투표 43%”",
@@ -387,7 +417,7 @@
             "content": "미국 중간선거의 향방을 가를 핵심 키워드는 단연 '경제'였습니다. 주요 외신과 출구 조사 결과에 따르면, 투표에 참여한 미국 유권자들의 상당수가 현재의 인플레이션 상황과 가계 경제 부담을 가장 큰 고민거리로 꼽으며 표심을 결정한 것으로 나타났습니다. 이는 바이든 정부의 경제 정책에 대한 중간 평가 성격이 짙음을 시사합니다.\n\n조사 결과, 유권자들은 치솟는 물가와 금리 인상으로 인한 생활비 부담에 민감하게 반응하고 있었습니다. 특히 인플레이션 해결이 최우선 과제라고 답한 비율이 높았으며, 이는 야당인 공화당이 선거 캠페인 기간 동안 '바이든표 인플레이션'을 집중 공격했던 전략이 일정 부분 유효했음을 보여줍니다.\n\n정치적인 역동성도 뚜렷했습니다. 도널드 트럼프 전 대통령에 대한 지지 혹은 반대가 투표 결정의 주요 동기가 되었다고 답한 유권자가 40%를 상회했습니다. 이는 단순한 경제 이슈를 넘어 미국의 정치적 양극화가 투표 행위로 이어졌음을 의미하며, 향후 미 대선의 전초전으로서 이번 선거의 중요성을 뒷받침합니다.\n\n결국 이번 선거 결과는 향후 미국의 통상 정책 및 금리 기조에 적지 않은 영향을 미칠 것으로 보입니다. 공화당과 민주당 중 어느 쪽이 의회 주도권을 잡느냐에 따라 우크라이나 지원, 기후 변화 대응 예산, 그리고 대중국 기술 규제 등의 경제적 프레임워크가 재편될 가능성이 높기 때문입니다.",
             "image_prompt": "US Midterm election, ballot box, US flag background, inflation chart, cinematic lighting",
             "published_at": "2026-11-04 13:44:15",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "상승 출발했던 코스피 하락 전환…美중간선거 주목",
@@ -398,7 +428,7 @@
             "content": "코스피 지수가 미국 중간선거라는 초대형 이벤트를 앞두고 짙은 관망세 속에 하락 전환하며 변동성을 키우고 있습니다. 장 초반에는 뉴욕 증시의 훈풍을 이어받아 상승세를 타는 듯했으나, 선거 결과가 가져올 불확실성에 대비하려는 기관과 외국인의 매도세가 유입되면서 결국 약세로 돌아섰습니다.\n\n시장 전문가들은 과거 사례를 볼 때 미국 중간선거 이후 증시가 랠리를 보였던 '중간선거 공식'이 이번에도 통할지 주목하고 있습니다. 통상적으로 선거 이후에는 정책적 불확실성이 해소되고 정부의 경기 부양 노력이 이어지면서 증시에 긍정적인 영향을 미쳐왔기 때문입니다. 하지만 이번에는 기록적인 고물가와 고금리 상황이 맞물려 있어 과거와는 다른 양상을 보일 수 있다는 신중론도 만만치 않습니다.\n\n특히 한국 증시는 미국의 무역 정책과 기술 규제에 민감하게 반응하는 구조를 가지고 있습니다. 선거 결과에 따라 인플레이션 감축법(IRA)이나 반도체 지원법 등의 세부 실행 방향이 달라질 수 있어, 자동차 및 반도체 등 국내 주력 산업 종목들이 이번 결과에 촉각을 곤두세우고 있습니다.\n\n향후 코스피는 선거 결과가 확정된 이후 미국의 10월 소비자물가지수(CPI) 발표까지 확인하며 방향성을 탐색할 것으로 전망됩니다. 투자자들은 당분간 공격적인 매수보다는 환율 움직임과 주요국의 통화 정책 기조 변화를 면밀히 살피며 대응할 필요가 있는 시점입니다.",
             "image_prompt": "Stock market trading floor, KOSPI screen, fluctuating line graph, professional financial concept",
             "published_at": "2026-11-04 13:44:15",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "한·미 동맹, 안보와 경제의 결합 이익을 키워야",
@@ -409,7 +439,7 @@
             "content": "과거 군사 안보에 국한되었던 한미 동맹이 이제는 반도체, 배터리, 공급망 등 경제 전반을 아우르는 '포괄적 전략 동맹'으로 빠르게 진화하고 있습니다. 지정학적 위기가 고조되는 글로벌 환경 속에서 안보와 경제는 더 이상 분리될 수 없는 핵심 가치가 되었으며, 이를 통해 양국이 얻을 수 있는 결합 이익을 극대화해야 한다는 목소리가 높습니다.\n\n최근의 글로벌 공급망 재편은 한국에게 위기이자 기회로 다가오고 있습니다. 미국이 추진하는 '프렌드 쇼어링(Friend-shoring)' 정책의 핵심 파트너로서 한국은 안정적인 공급망을 확보하는 동시에 기술력을 바탕으로 시장 지배력을 강화할 수 있는 발판을 마련했습니다. 이는 단순한 교역을 넘어 기술 표준 공유와 공동 연구 개발로 이어지고 있습니다.\n\n하지만 동시에 해결해야 할 과제도 산적해 있습니다. 미국의 인플레이션 감축법(IRA) 등 자국 우선주의 정책이 국내 기업들에게 단기적인 타격을 줄 수 있다는 우려가 제기되고 있기 때문입니다. 이에 따라 우리 정부는 안보 동맹의 굳건함을 바탕으로 경제적 실익을 챙길 수 있는 정교한 외교적 협상력을 발휘해야 하는 상황에 놓여 있습니다.\n\n결국 미래의 한미 관계는 안보적 신뢰를 바탕으로 경제적 부가가치를 창출하는 선순환 구조를 만드는 데 달려 있습니다. 에너지 안보, 핵심 광물 확보, 신기술 협력 등 다양한 분야에서 양국의 이해관계를 일치시키는 전략적 접근이 우리 경제의 지속 가능한 성장을 담보할 것입니다.",
             "image_prompt": "South Korea and US flags together, high-tech semiconductor wafer, shaking hands, global supply chain map",
             "published_at": "2026-11-04 13:44:15",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "中경제엔 양날의 검⋯관세 완화 기대 vs 기술규제 강화 우려 [美 중간선거]",
@@ -420,7 +450,7 @@
             "content": "미국 중간선거 결과는 세계 경제의 또 다른 축인 중국에게도 큰 변곡점이 될 전망입니다. 공화당과 민주당 중 누가 승리하느냐에 따라 대중국 관세 정책과 기술 규제의 강도가 달라질 수 있어 중국 정부와 기업들은 선거 결과에 촉각을 곤두세우고 있습니다.\n\n공화당이 의회를 장악할 경우, 바이든 행정부의 과도한 재정 지출을 억제하면서 인플레이션을 잡기 위해 중국산 수입품에 대한 관세 완화를 압박할 가능성이 제기됩니다. 이는 대미 수출 비중이 높은 중국 경제에 가시적인 활로가 될 수 있습니다. 반면, 공화당은 대중국 기술 유출에 대해서는 민주당보다 더 강경한 태도를 보여온 만큼 첨단 산업 분야의 규제는 오히려 강화될 우려가 있습니다.\n\n민주당이 승기를 잡는다면 현재의 '다자간 동맹을 통한 중국 압박' 기조가 유지될 것으로 보입니다. 이는 중국의 반도체 굴기나 AI 산업 발전에 지속적인 제동을 거는 요인이 될 것입니다. 하지만 기후 변화 대응이나 보건 협력 등 특정 분야에서는 미중 간의 대화 창구가 유지되면서 극단적인 충돌은 피할 수 있다는 관측도 나옵니다.\n\n종합해보면 미국 중간선거 이후에도 미중 간의 패권 경쟁은 본질적으로 지속될 가능성이 높습니다. 다만 그 수단이 '관세'라는 전통적 방식에서 '기술 표준과 공급망 차단'이라는 정교한 방식으로 고도화될 것이라는 분석이 지배적입니다. 우리 기업들은 이러한 미중 관계의 변화를 예의주시하며 유연한 글로벌 전략을 수립해야 합니다.",
             "image_prompt": "US and China flags back to back, cargo ship in sunset, computer chips, dark blue and red theme",
             "published_at": "2026-11-04 13:44:15",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "의령 리치리치페스티벌 43만명 방문…경제효과 228억 추산",
@@ -431,7 +461,7 @@
             "content": "경남 의령군의 '리치리치페스티벌'이 지역 축제의 성공 모델로 급부상하며 놀라운 경제적 성과를 거두었습니다. 축제 기간 동안 무려 43만 명에 달하는 관광객이 방문한 것으로 집계되었으며, 이로 인해 발생한 지역 경제 파급 효과는 약 228억 원에 달하는 것으로 추산됩니다. 이는 소규모 지자체가 차별화된 콘텐츠로 거둔 쾌거입니다.\n\n이번 축제는 '부자 기운'이라는 독특한 테마를 내세워 방문객들의 호기심을 자극했습니다. 의령 출신의 기업가 정신과 지역의 역사적 자산을 결합하여 즐길 거리를 제공한 것이 주효했습니다. 단순히 먹고 마시는 축제를 넘어, 지역의 긍정적인 가치를 공유하고 이를 브랜드화하는 데 성공했다는 평가를 받고 있습니다.\n\n특히 축제의 성공은 지역 소상공인들에게 직접적인 혜택으로 돌아갔습니다. 식당, 숙박업소, 전통시장 등에 활기가 돌며 내수 경기를 자극했으며, 의령의 특산물 판매량도 급증했습니다. 이는 지역 소멸 위기를 겪고 있는 지자체들에게 문화 관광 산업이 강력한 돌파구가 될 수 있음을 시사합니다.\n\n의령군은 이번 축제의 성과를 바탕으로 관광 인프라를 더욱 확충하고, 일회성 행사가 아닌 지속 가능한 지역 대표 브랜드로 육성할 계획입니다. 지역 자원을 활용한 특색 있는 축제가 침체된 지방 경제에 실질적인 활력을 불어넣는 촉매제 역할을 하고 있습니다.",
             "image_prompt": "Colorful festival scene, golden decorations, happy crowd, traditional Korean village atmosphere",
             "published_at": "2026-11-04 13:44:15",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[미래경제포럼] 최태원 \"AI·반도체 협력…한일경제연대로 1조달러 시너지\"",
@@ -442,7 +472,7 @@
             "content": "최태원 SK그룹 회장은 '연합뉴스 미래경제포럼' 기조연설을 통해 한국과 일본의 경제 연대가 선택이 아닌 생존을 위한 필수 전략임을 역설했습니다. 최 회장은 양국이 직면한 저출산, 고령화, 저성장 문제를 해결하기 위해 에너지와 공급망 분야에서 긴밀히 협력해야 한다고 제안했습니다.\n\n특히 AI와 반도체 산업에서의 협력을 강조하며, 한일 양국이 하나의 시장처럼 움직일 때 약 1조 달러 규모의 거대한 경제적 시너지를 낼 수 있다고 분석했습니다. 이는 미국과 중국 중심의 글로벌 패권 경쟁 속에서 양국이 공동 대응을 통해 자생력을 확보하려는 의지로 풀이됩니다.\n\n또한 최 회장은 LNG 등 에너지 자원의 공동 구매나 공급망 공유를 통해 비용을 절감하고 효율성을 극대화하는 구체적인 방안을 제시했습니다. 이러한 연대는 단순한 교류를 넘어 아시아 경제권의 새로운 성장 동력이 될 것으로 기대됩니다.\n\n이번 포럼에서는 한일 양국의 주요 인사들이 참석하여 경제 안보와 미래 기술 분야에서의 파트너십 강화에 뜻을 모았습니다. 이는 향후 양국 기업 간의 합작 투자나 공동 R&D 프로젝트 활성화로 이어질 전망입니다.",
             "image_prompt": "South Korea and Japan cooperation, semiconductor chips, AI technology network, futuristic business handshake, 1 trillion dollar synergy",
             "published_at": "2026-11-03 22:34:37",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "BofA \"AI주 매도 지속, 경제에 가장 큰 위험 요소\"",
@@ -453,7 +483,7 @@
             "content": "글로벌 투자은행 뱅크오브아메리카(BofA)는 최근 보고서를 통해 AI 거품론과 수익성 의구심으로 인한 관련 주식의 매도세가 시장 전체의 하방 압력을 가하고 있다고 진단했습니다. 투자자들이 막대한 자금이 투입된 AI 사업에서 실제 이익이 창출되는 시점에 대해 회의적인 시각을 갖기 시작했다는 분석입니다.\n\n보고서에 따르면 빅테크 기업들의 AI 투자는 계속 늘고 있지만, 이에 상응하는 매출 성장이 뒷받침되지 않을 경우 주가 급락은 물론 실물 경제 전반에 심리적 위축을 불러올 수 있습니다. 특히 코스피를 비롯한 글로벌 증시가 AI 관련주에 대한 의존도가 높았던 만큼, 이들 종목의 변동성은 시장 전체의 리스크로 확산될 가능성이 큽니다.\n\n전문가들은 이러한 현상이 단순한 조정인지 혹은 장기적인 하락장의 시작인지에 대해 엇갈린 전망을 내놓고 있습니다. 하지만 공통적으로는 AI 기술의 실제 상용화 속도와 실적 지표가 향후 시장의 방향성을 결정짓는 핵심 열쇠가 될 것이라고 보고 있습니다.\n\n미국 중간선거 등 정치적 불확실성까지 겹치면서 투자자들의 관망세는 짙어지고 있습니다. AI 산업이 '기대감'의 단계를 지나 '실현'의 단계로 넘어가는 과정에서 겪는 진통이 금융 시장의 최대 변수로 부상하고 있습니다.",
             "image_prompt": "Artificial Intelligence stock market crash, bearish graph, digital brain with dollar signs, financial risk warning, professional trading screen",
             "published_at": "2026-11-03 22:34:37",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "中, 경기 부진에도 당 통제 강화… 시진핑 \"경제에 해가 아니라 도움\"",
@@ -464,7 +494,7 @@
             "content": "시진핑 중국 국가주석이 경제 부진 속에서도 공산당의 지도력을 강화하는 것이 오히려 경제 발전에 도움이 된다는 주장을 펼치며 통제 중심의 경제 기조를 고수하고 있습니다. 이는 시장 자율성을 중시하는 서구권의 경제 논리와 정면으로 배치되는 행보여서 주목됩니다.\n\n중국 정부는 최근 부동산 시장 침체와 내수 부진으로 어려움을 겪고 있음에도 불구하고, 민간 기업들에 대한 당의 감독을 강화하고 국가 전략 산업에 자원을 집중하는 정책을 펴고 있습니다. 시 주석은 당의 중앙 집중식 통제가 장기적인 안정을 보장하고 외부 충격으로부터 경제를 보호할 것이라고 강조했습니다.\n\n하지만 글로벌 투자자들은 이러한 통제 강화가 혁신을 저해하고 민간 경제의 활력을 떨어뜨릴 수 있다는 우려를 나타내고 있습니다. 외국인 자본의 유출이 가속화되는 배경 중 하나로 중국의 불투명한 정책 결정 과정과 당의 과도한 개입이 꼽히고 있는 상황입니다.\n\n중국 경제가 과거와 같은 고성장을 구가하기 어려운 '뉴 노멀' 시대에 진입한 가운데, 당의 통제 강화가 경제 회복의 발판이 될지 아니면 성장의 발목을 잡는 요소가 될지에 대해 국제 사회의 관심이 집중되고 있습니다.",
             "image_prompt": "China Great Hall of the People, Xi Jinping silhouette, red party flag, central controlled economy concept, Beijing cityscape",
             "published_at": "2026-11-03 22:34:37",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[간추린경제] 1. '빌라' 규제 푼다 2. 물가 두 달째 2%대 상승‥석유류·외식비 ↑",
@@ -475,7 +505,7 @@
             "content": "국내 경제 정책 면에서는 주거 안정과 고물가 대응이라는 두 가지 과제가 동시에 진행되고 있습니다. 정부는 아파트 쏠림 현상을 완화하고 서민 주거 선택지를 넓히기 위해 빌라 등 비아파트에 대한 규제를 대폭 완화하기로 했습니다. 이는 전세 사기 등으로 위축된 빌라 시장을 정상화하려는 조치입니다.\n\n반면 소비자 물가는 두 달 연속 2%대 상승률을 기록하며 서민들의 가계 부담을 가중시키고 있습니다. 특히 지정학적 리스크로 인한 석유류 가격 상승과 가공식품, 외식비 등 먹거리 물가가 고공행진을 이어가고 있어 체감 물가는 수치보다 훨씬 높은 수준입니다.\n\n한국은행과 정부는 하반기 물가 안정을 기대하고 있으나, 환율 변동성과 국제 유가 추이 등 대외 변수가 여전히 불안정한 상태입니다. 물가 상승세가 둔화되지 않을 경우 내수 소비 위축이 가속화될 수 있다는 우려도 나옵니다.\n\n정부는 민생 안정을 최우선 과제로 삼고 할당관세 적용 등 가격 억제책을 펴고 있으나, 근본적인 공급망 차질과 원가 상승 요인을 통제하기에는 한계가 있다는 지적도 제기되고 있습니다.",
             "image_prompt": "Korean villa building, oil gas station pump, dining out food expense, inflation arrows, consumer price pressure",
             "published_at": "2026-11-03 22:34:37",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "여야 예산안 기조 밝혀…민주 “민생경제 예산 증액”국힘 “30조 삭감 칼질”",
@@ -486,7 +516,7 @@
             "content": "대한민국 국회에서는 내년도 나라 살림을 결정할 예산안 심사를 앞두고 여야의 날 선 공방이 이어지고 있습니다. 더불어민주당은 경기 침체 극복과 취약계층 지원을 위해 민생 경제 관련 예산을 대폭 증액해야 한다고 주장하며 '공세적 재정'의 필요성을 강조했습니다.\n\n이에 맞서 국민의힘은 건전 재정 기조를 유지하면서 불필요한 예산 30조 원 가량을 과감히 삭감하겠다는 입장입니다. 국가 채무 증가를 억제하고 꼭 필요한 곳에만 효율적으로 재원을 배분해야 한다는 '재정 다이어트' 전략을 내세우고 있습니다.\n\n특히 연구개발(R&D) 예산 복원과 지역사랑상품권 발행, 에너지 지원금 등을 둘러싸고 양측의 견해차가 극명하여 예산안 처리 과정에서 상당한 난항이 예상됩니다. 이는 단순히 예산 배분의 문제를 넘어 차기 선거를 앞둔 주도권 다툼의 성격도 띠고 있습니다.\n\n예산안의 최종 향방은 향후 국내 경기 부양 정책과 복지 수준에 직접적인 영향을 미칠 것으로 보입니다. 여야의 협상 결과에 따라 가계 부채 대응이나 소상공인 지원 규모 등이 결정될 예정이어서 시장의 이목이 집중되고 있습니다.",
             "image_prompt": "National Assembly of Korea building, budget balance scale, fiscal documents, political debate, economic growth vs stability",
             "published_at": "2026-11-03 22:34:37",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "UBS \"美 중간선거보다 경제·AI 투자가 증시 향방 좌우\"",
@@ -497,7 +527,7 @@
             "content": "최근 글로벌 금융시장의 시선이 미국의 중간선거 결과에 쏠려 있는 가운데, 세계적인 투자은행 UBS는 정치적 이벤트보다는 경제 데이터와 인공지능(AI) 분야의 투자 지속 여부가 증시 향방을 결정할 것이라는 분석을 내놓았습니다. 정치적 불확실성이 단기적인 변동성을 초래할 수는 있지만, 장기적으로는 기업의 실적과 거시경제 지표가 더 큰 영향력을 발휘한다는 취지입니다.\n\n특히 투자자들이 주목해야 할 지점은 AI 산업에 대한 막대한 투자가 실제 수익으로 연결될 수 있는지에 대한 여부입니다. 최근 기술주들의 주가 조정은 AI 수익성에 대한 의구심에서 비롯된 만큼, 대형 테크 기업들의 실적 발표와 향후 가이던스가 시장의 신뢰를 회복하는 데 핵심적인 역할을 할 것으로 보입니다.\n\n또한, 미국의 금리 경로와 인플레이션 수치 등 전통적인 거시경제 지표들도 여전히 강력한 변수로 작용하고 있습니다. UBS는 정치적인 결과에 일희일비하기보다는 경제의 체력과 기술 혁신의 속도를 면밀히 관찰하며 포트폴리오를 재정비할 것을 권고하고 있습니다.\n\n결론적으로 시장은 정치적 수사보다는 실질적인 데이터에 더 민감하게 반응하고 있습니다. AI 거품론과 경제 연착륙 사이의 줄타기가 이어지는 상황에서, 투자자들은 업종별 차별화 전략을 통해 변동성에 대비해야 할 시점입니다.",
             "image_prompt": "Stock market analysis, AI technology investment, financial data charts, US Capitol silhouette, professional finance",
             "published_at": "2026-11-03 14:14:00",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“주가 내리고 이자 부담은 껑충”…성장률 올랐다는데 내 지갑은 ‘꽁꽁’",
@@ -508,7 +538,7 @@
             "content": "정부와 한국은행이 발표하는 거시경제 지표상으로는 완만한 회복세나 성장이 포착되고 있지만, 서민들이 체감하는 생활 경제는 여전히 한겨울입니다. 가장 큰 원인은 지속되는 고금리 기조입니다. 가계 대출 금리가 높은 수준을 유지하면서 매달 지불해야 하는 이자 비용이 급격히 늘어났고, 이는 곧 가처분 소득의 감소로 이어져 소비 위축을 불러오고 있습니다.\n\n주식 시장의 부진 또한 자산 효과를 떨어뜨리는 주범입니다. 특히 국내 증시가 코인이나 미 증시 대비 상대적으로 약세를 보이면서 '개미 투자자'들의 손실이 커지고 있습니다. 지갑이 얇아진 국민들은 외식비를 줄이고 생필품 구매를 망설이는 등 전형적인 불황형 소비 행태를 보이고 있어 자영업자들의 고충도 깊어지는 상황입니다.\n\n지표와 체감 경기 사이의 괴리는 통계의 함정 때문이기도 합니다. 수출 대기업 위주의 성장이 경제 전체 수치를 끌어올리고 있지만, 그 온기가 중소기업이나 일반 가계까지 골고루 퍼지지 못하고 있는 것입니다. 이른바 '낙수 효과'가 제대로 작동하지 않으면서 부의 양극화와 내수 침체가 심화되는 양상입니다.\n\n전문가들은 단순한 양적 성장에 취할 것이 아니라, 고금리 피해 계층에 대한 핀셋 지원과 가계 부채 관리 대책이 시급하다고 조언합니다. 국민들의 실질 구매력을 회복시키지 못하는 성장은 지속 가능하지 않으며, 오히려 사회적 불만과 경제적 불안정성을 키울 수 있다는 경고입니다.",
             "image_prompt": "Empty wallet, rising interest rate arrows, falling stock graph, depressed consumer, realistic lifestyle lighting",
             "published_at": "2026-11-03 14:14:00",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "佛국채보다 회사채 더 믿는다… 유로존 2위 경제대국의 추락",
@@ -519,7 +549,7 @@
             "content": "유럽 경제의 두 축 중 하나인 프랑스가 심각한 재정 위기 조짐을 보이며 유로존 전체에 긴장감을 불어넣고 있습니다. 최근 금융시장에서는 프랑스 국채 금리가 우량 기업들의 회사채 금리보다 높게 형성되는 이례적인 상황이 포착되었습니다. 이는 투자자들이 프랑스 정부의 채무 상환 능력보다 민간 기업의 건전성을 더 높게 평가하고 있다는 충격적인 방증입니다.\n\n프랑스의 재정 악화는 방만한 복지 지출과 경기 부양책이 맞물린 결과로 풀이됩니다. 유럽연합(EU)의 재정 준칙을 위반할 정도로 적자 폭이 커지면서 국제 신용평가사들의 경고등이 켜졌고, 이는 국채 매도세로 이어졌습니다. 정부의 리더십이 흔들리는 상황에서 정치적 불안정성까지 가미되어 시장의 불신은 더욱 깊어지고 있습니다.\n\n이러한 프랑스의 위기는 단순한 일국 차원의 문제를 넘어 유로존 전체의 금융 불안으로 전이될 위험이 있습니다. 프랑스는 유로존 내 2위의 경제 대국으로, 프랑스 국채 시장의 흔들림은 인접 국가들의 국채 금리 상승과 유로화 가치 하락을 촉발할 수 있기 때문입니다. 과거 남유럽 재정 위기와 같은 시나리오가 반복될 수 있다는 우려도 나옵니다.\n\n프랑스 정부는 긴축 재정을 통해 시장의 신뢰를 회복하겠다고 선언했지만, 강력한 노조의 반발과 정치권의 분열로 인해 실행 여부는 미지수입니다. 글로벌 투자자들은 프랑스가 재정 건전성을 확보할 수 있을지, 아니면 유로존의 새로운 약점으로 전락할지를 예의주시하며 리스크 관리에 돌입했습니다.",
             "image_prompt": "Eiffel Tower silhouette, falling Euro symbol, financial crisis, debt document with red seals, dramatic lighting",
             "published_at": "2026-11-03 14:14:00",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "김포시, '평화경제특구 유치' 주민 공감대 확보 주력",
@@ -530,36 +560,6 @@
             "content": "경기도 김포시가 남북 접경 지역이라는 지리적 특성을 활용해 '평화경제특구'를 유치하겠다는 야심찬 계획을 가속화하고 있습니다. 평화경제특구로 지정될 경우, 기업들에 대한 세제 혜택과 규제 완화가 이뤄져 대규모 자본 유입과 일자리 창출이 가능해집니다. 이는 김포시가 단순한 베드타운을 넘어 자족 기능을 갖춘 경제 중심지로 거듭나는 결정적 계기가 될 것으로 보입니다.\n\n김포시는 특구 유치의 당위성을 확보하고 사업 추진의 동력을 얻기 위해 주민들을 대상으로 한 공감대 형성에 총력을 기울이고 있습니다. 설명회와 공청회를 통해 주민들에게 특구 지정 시 발생할 수 있는 긍정적인 파급 효과를 설명하고, 지역 사회의 의견을 적극적으로 수렴하여 유치 전략에 반영한다는 방침입니다.\n\n특히 김포시는 평화경제특구가 남북 관계 개선의 마중물 역할을 함과 동시에 서해안 경제 벨트의 핵심 거점이 될 수 있음을 강조하고 있습니다. 물류와 첨단 산업이 결합된 형태의 특구를 조성함으로써 지역 내 중소기업들과의 시너지를 극대화하고, 수도권의 새로운 성장 엔진으로 자리매김하겠다는 청사진을 제시했습니다.\n\n하지만 타 지자체와의 유치 경쟁이 치열한 만큼, 김포시만의 차별화된 전략과 중앙 정부를 설득할 수 있는 구체적인 사업 계획이 필수적입니다. 주민들의 열렬한 지지와 체계적인 행정 준비가 뒷받침된다면, 김포시는 이번 특구 유치를 통해 한 단계 더 높은 경제적 도약을 실현할 수 있을 것으로 기대됩니다.",
             "image_prompt": "City development plan, peace bridge symbol, urban industrial map, community meeting, bright hopeful colors",
             "published_at": "2026-11-03 14:14:00",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\" - AI타임스",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EXzItczc0b1V4cGF0SW9hVXprXzhWY1NTQlZqWEhUVFJoMk5sOXpReWFzaWIwclJncnhNa0R0NlVOYWVKcUhlTXJOZTlZdmJSOHNFNnhPQXlfaVNQSmU2LVJ3SjljSXJlTkE?oc=5",
-            "source": "AI타임스",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-02 23:43:20",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "＂코로나 이후 최악＂…＇경제 허리＇ 먼저 무너졌다 - 한국경제TV",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82ckRzczAzb1N2VzZiS0t6NTlnaHI4ZnJPeVJMSE54elNOWHZXamZxaV83VzRQTkF3b1AwRmY4YUNESHNFMFpYZUJ0SmtGOGk2S014QU84RlBjNlRXdVl5enJzVGFoU1Y4UVBfbGNwS2ZfN2tDS2NR?oc=5",
-            "source": "한국경제TV",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-02 23:43:20",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "부산진해경제자유구역청, 홍콩 투자유치 후속 교류…4명 대표단 방문 - 뉴스타운",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41U0ZvLVpuREhSZVE4VVBiUW1ESFRPQ3JRUVNoTWd4eUJ3YnZVZktQS3VmcTZGUEtPQXlJZThGYi1SNjVZaUcySFN5NUUtTV9iX2hCSUp5UnBlamFER2ptSWNJSUdBZzZROTg3eWZ3?oc=5",
-            "source": "뉴스타운",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-02 23:43:20",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
