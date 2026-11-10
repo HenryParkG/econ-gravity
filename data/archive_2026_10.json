@@ -1,6 +1,116 @@
 {
-    "last_updated": "2026-11-10 00:04:14",
+    "last_updated": "2026-11-10 14:51:24",
     "items": [
+        {
+            "title": "경제 정책 ‘부정 평가’ 47%로 급증… 민심 이반 가속화",
+            "source": "한겨레",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFPAZlh3OGxFM2l3OG5EVzlBUmZVWGUtcUxGV3lBUVpBd095S1VuZlBxbzVvRS03Q2FZRWpURk9ld0JTMWlrMXBHVW1tQTEtSnpOWGR1aTdYZ0lNMGtoRGNEOE90M001YnpyelZVbHA2OEJjMi1a?oc=5",
+            "category": "정책",
+            "summary": "정부 경제 정책에 대한 부정 여론이 47%를 기록하며 긍정 평가를 처음으로 추월했습니다.",
+            "content": "최근 여론조사 결과에 따르면 현 정부의 경제 정책에 대해 '잘못하고 있다'는 부정적인 평가가 47%에 달하며 '잘하고 있다'는 긍정 평가(35%)를 크게 앞질렀습니다. 이는 고물가와 고금리가 지속되면서 서민들의 실질 소득이 감소하고 내수 부진이 장기화된 데 따른 결과로 분석됩니다.\n\n특히 중도층뿐만 아니라 보수 지지층 내에서도 경제 성과에 대한 의구심이 커지고 있어 정부의 국정 운영 동력에 비상등이 켜졌습니다. 응답자들은 주로 물가 안정 실패와 민생 대책 부족을 부정 평가의 주요 원인으로 꼽았으며, 이는 정치권 전반의 지지율 하락으로도 이어지고 있습니다.\n\n전문가들은 정부가 단순한 지표 관리에서 벗어나 체감 경기를 개선할 수 있는 보다 실질적인 지원책을 내놓아야 한다고 지적합니다. 향후 발표될 추가 경정 예산 편성 여부나 금리 정책 기조 변화가 민심 회복의 관건이 될 것으로 보입니다.",
+            "image_prompt": "Public opinion, falling graph, economic dissatisfaction, blue and red contrast, professional",
+            "published_at": "2026-10-11 01:55:16",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "원·엔 환율 18년 만에 최저… '슈퍼 엔저'에 일본행 가속",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Yam00b0w4QzJ5UGFjNk9aYURNUTlyZjRMWTY3elJ4OVpjbXV6YV96U0wzNG9zYzNvNHUyRW8wMFFxLWZ2VTR3Zms3Zmk0ZUFGZUtvb2NhTTVVZ9IBX0FVX3lxTE1lekItT1paLXJ2LWpsX2JaejZ0TVl4NjREUnV1NUxrVFNmMWhNLTJnMU5NbXRPaVNoeUplUlBIUFhPWEV6bGZjTjJ4MTlWOU5HRS1mVXV3aXZhOXZZVnJV?oc=5",
+            "category": "금융",
+            "summary": "원·엔 환율이 18년 만에 최저 수준으로 떨어지며 일본 여행 및 엔화 투자가 급증하고 있습니다.",
+            "content": "원화 대비 엔화 가치가 기록적인 수준으로 하락하며 원·엔 환율이 18년 만에 최저치를 경신했습니다. 이는 일본의 저금리 기조 유지와 원화의 상대적 강세가 맞물린 결과로, '역대급 엔저' 현상이 국내 경제 활동에 큰 변화를 일으키고 있습니다.\n\n낮은 환율을 활용해 일본으로 떠나는 여행객이 급증하고 있으며, 엔화 자산을 매수하려는 '엔테크' 열풍도 식지 않고 있습니다. 반면 일본과 수출 시장에서 경합하는 국내 기업들은 가격 경쟁력 약화로 인해 수익성 악화를 우려하며 시장 상황을 예의주시하고 있는 상황입니다.\n\n금융권에서는 일본 은행(BOJ)의 정책 변화 속도가 예상보다 더디고 달러화 대비 원화의 움직임이 안정세를 보이면서 이러한 흐름이 당분간 지속될 가능성이 높다고 보고 있습니다. 여행 수지 적자 확대 등 서비스 수지 악화에 대한 우려도 함께 나오고 있습니다.",
+            "image_prompt": "Currency exchange, KRW and JPY, 18-year low chart, Tokyo cityscape, financial digital screen",
+            "published_at": "2026-10-11 01:55:16",
+            "image_url": "https://images.unsplash.com/photo-1580048914979-3c868daee4d7?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "코스피 5%대 하락… 증권가 '진짜 공포' 경고등",
+            "source": "한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QkdqMWxXQ3RjRkxKSXYwbzIwOVFkc2doS18yaUt5bUlHS1J6Wm5VOG9GelhsMXZHTHNCc2RIQm1PZktuMXRld3hwdjUwX0pRMk40dl8xYkhaZw?oc=5",
+            "category": "시장",
+            "summary": "국내 증시가 5% 넘게 하락하며 불안감이 고조되는 가운데, 추가적인 하락 위험에 대한 경고가 잇따르고 있습니다.",
+            "content": "최근 일주일간 코스피 지수가 5% 이상 하락하며 국내 증시의 변동성이 극에 달하고 있습니다. 미국 증시가 비교적 견조한 흐름을 보이는 것과 대조적으로 국내 시장은 지정학적 리스크와 외국인 자금 유출로 인해 하락 압력을 강하게 받고 있습니다.\n\n특히 증권가 일각에서는 현재의 하락이 단순한 조정이 아닌 경제 펀더멘털의 악화를 반영하는 '진짜 공포'의 시작일 수 있다는 경고를 내놓고 있습니다. 반도체 업황에 대한 불확실성과 수출 증가세 둔화 우려가 투자 심리를 급격히 위축시키고 있다는 분석입니다.\n\n투자자들은 안전 자산으로의 이동을 고려해야 한다는 조언이 나오고 있으며, 향후 발표될 기업들의 3분기 실적 발표가 증시의 향방을 결정할 주요 지지선 역할을 할 것으로 예상됩니다.",
+            "image_prompt": "Stock market crash, red candles, investor anxiety, dark background, cinematic lighting",
+            "published_at": "2026-10-11 01:55:16",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "러시아-북한, 경제 및 과학기술 협력 강화… 전략적 밀착",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOdGE2TVhTX0h4OC1GeEhQZlc2U3ZPM0Z0bS1Wb0FlMW5MbmpZQ2VYbnJGUDZWVUVtel9RV04tZVN6RUtWSGw3RmFVZVBKNWZ3ZGZEUWNWRGNpQzDSAWBBVV95cUxOdlEzcFFrazRsT1JfN3J0NkRJVVVUVEkyUmR0dmxiNHJzeGR5dGlHUVFFRHR3ZDNsem0tblRZNG1oMmFqYnFucmVvejBtaHE3SS1pbUs5YzQzc05lbWNwRE4?oc=5",
+            "category": "국제",
+            "summary": "주북 러시아 대사가 북한을 중요 파트너로 규정하며 경제와 과학기술 분야의 협력 강화를 공식화했습니다.",
+            "content": "마체고라 주북 러시아 대사는 최근 북한이 러시아의 핵심적인 전략적 파트너임을 재확인하며, 양국 간 경제 및 과학기술 분야에서의 협력을 대폭 강화할 방침이라고 밝혔습니다. 이는 국제 사회의 제재 압박 속에서도 양국이 실질적인 경제 블록을 형성하겠다는 의지로 풀이됩니다.\n\n구체적으로는 농업, 에너지, 첨단 기술 분야에서의 인적·물적 교류가 확대될 것으로 보이며, 이는 동북아시아의 지정학적 구도에도 큰 영향을 미칠 전망입니다. 특히 과학기술 협력은 단순히 경제적 이익을 넘어 군사적 전용 가능성에 대한 국제적인 우려도 낳고 있습니다.\n\n정부는 이러한 북·러 간의 밀착 행보가 한반도 안보와 경제에 미칠 파장을 정밀 분석하고 있으며, 국제 사회와의 공조를 통해 대응 방안을 모색하고 있는 것으로 알려졌습니다.",
+            "image_prompt": "Diplomatic cooperation, Russia and North Korea flags, technology circuit, world map connection, professional",
+            "published_at": "2026-10-11 01:55:16",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "다음 주 IMF 한국 성장률 수정 전망 발표… 고용 지표 주목",
+            "source": "매일경제 마켓",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmakpwWjhZRDNHX3RWN2d4dC1QWmhLYm56Mi05RUpmWTlSeVVCVVJCeVk1X3l1elNSUjUtNndTTEl5d0pkYTNZRmFaN2dhMHd3cUE?oc=5",
+            "category": "지표",
+            "summary": "국제통화기금(IMF)이 한국의 경제성장률 전망치를 수정 발표할 예정이며, 고용 시장 지표도 함께 공개됩니다.",
+            "content": "국제통화기금(IMF)이 다음 주 한국 경제의 성장률 전망 수정치를 발표할 예정인 가운데, 시장의 이목이 집중되고 있습니다. 최근 글로벌 경기 둔화 우려와 국내 내수 부진이 겹치면서 기존 성장률 목표치를 달성할 수 있을지가 주요 관전 포인트입니다.\n\n같은 주에 발표될 취업자 수 등 고용 동향 지표 역시 향후 경기 판단의 중요한 근거가 될 것으로 보입니다. 현재 반도체를 중심으로 한 수출은 양호하지만, 자영업자와 서비스업을 중심으로 고용 여건이 악화되고 있어 지표 결과에 따라 경기 침체 논란이 가중될 수 있습니다.\n\n전문가들은 IMF가 전망치를 하향 조정할 경우 정부의 하반기 경제 정책 운용 기조에 큰 변화가 불가피할 것으로 내다보고 있습니다. 금리 인하 압박 또한 거세질 것으로 예상되어 한국은행의 고심도 깊어질 전망입니다.",
+            "image_prompt": "IMF building, economic forecast, employment statistics, professional growth chart, blue tone",
+            "published_at": "2026-10-11 01:55:16",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "원·엔 환율 18년 만에 최저치 기록, 원화 강세와 일본 여행 붐",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Yam00b0w4QzJ5UGFjNk9aYURNUTlyZjRMWTY3elJ4OVpjbXV6YV96U0wzNG9zYzNvNHUyRW8wMFFxLWZ2VTR3Zms3Zmk0ZUFGZUtvb2NhTTVVZ9IBX0FVX3lxTE1lekItT1paLXJ2LWpsX2JaejZ0TVl4NjREUnV1NUxrVFNmMWhNLTJnMU5NbXRPaVNoeUplUlBIUFhPWEV6bGZjTjJ4MTlWOU5HRS1mVXV3aXZhOXZZVnJV?oc=5",
+            "category": "금융",
+            "summary": "원·엔 환율이 18년 만에 최저 수준으로 떨어지며 일본 여행 수요 폭증과 환율 변동이 경제에 미칠 영향에 관심이 쏠리고 있습니다.",
+            "content": "최근 외환 시장에서 원·엔 환율이 장중 800원대 중반까지 떨어지며 약 18년 만에 최저치를 기록하고 있습니다. 이러한 이례적인 원화 강세 현상은 일본의 저금리 기조 유지와 한국의 상대적인 금리 수준 및 경제 펀더멘털 차이에서 기인한 것으로 분석됩니다.\n\n엔저 현상이 지속됨에 따라 일본 여행을 계획하는 '엔저 특수' 수요가 폭발적으로 증가하고 있습니다. 특히 주말을 이용한 단기 여행객들이 급증하며 여행 및 유통 업계는 활기를 띠고 있으나, 일본 시장에서 경쟁하는 국내 수출 기업들에게는 가격 경쟁력 하락이라는 부정적인 신호로 작용할 수 있습니다.\n\n전문가들은 이러한 원화 강세가 언제까지 지속될지에 대해 엇갈린 전망을 내놓고 있습니다. 일본 은행(BOJ)의 정책 변화 가능성과 미국의 통화 정책 방향에 따라 환율은 언제든 요동칠 수 있으므로, 환전 및 투자 결정 시 세심한 주의가 필요합니다.\n\n장기적으로는 엔저가 우리 경제 전반에 미칠 영향을 면밀히 모니터링해야 합니다. 수입 단가 하락으로 인한 물가 안정 효과와 수출 경쟁력 약화라는 양날의 검을 어떻게 관리하느냐가 정부와 금융 당국의 주요 과제가 될 것입니다.",
+            "image_prompt": "Won and Yen bills, Japanese shrine background, currency exchange, financial chart downward, travel suitcase.",
+            "published_at": "2026-10-10 20:52:04",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "정부 경제 정책 지지율 역전, 부정 평가 47%로 최고치",
+            "source": "뉴데일리/한겨레",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TMk9uY2pZXzFsQmpsOGUtQ1ZxTzFSRFAxYWJraUlfd0U1TXJOQVFod0J3YVVoVzRXdTNwcHF2N2tLaFQ1bXYzN2RfOENIa0RFNXBoMjRrQllMMWFfUUVyeEVoVVB3YnA4X2tTSEtjRmhZVjgza1VQbzRJa9IBgAFBVV95cUxQaG1Zejg4ZjVVVFVNbkVsUHI0RDJkRjRHUlhJam50VlpseVZHWXV0UUJFTXZPbm5VSmlkeWNaaWI2VFhIM1Zmei03YWVIcUtfZmVjMDIwZ0RmMTcwTVV0T09sY2x2a2R3ck9hc2hzY1FtU0FscjhMQUFSX29JM2RTRA?oc=5",
+            "category": "정책",
+            "summary": "현 정부의 경제 정책에 대한 부정적 여론이 처음으로 긍정 평가를 역전하며 지지율 하락세를 보이고 있습니다.",
+            "content": "최근 여론조사 결과에 따르면 현 정부의 경제 정책에 대해 '잘못하고 있다'는 부정 평가가 47%에 달하며 '잘하고 있다'는 긍정 평가를 앞질렀습니다. 이는 정부 출범 이후 처음으로 나타난 골든크로스로, 민생 경제의 어려움이 여론에 반영된 것으로 풀이됩니다.\n\n국민들이 느끼는 가장 큰 불만 요인은 잡히지 않는 물가와 실질 소득의 감소로 보입니다. 고물가와 고금리 상황이 장기화되면서 서민 경제의 가계 부담이 한계치에 도달했다는 분석이 지배적입니다. 또한, 국가 부채 비율 및 재정 건전성 논란도 여론 악화에 일조했습니다.\n\n정부는 이에 대해 경제 성장에 따른 부채 감당 능력이 개선되고 있다는 보도 설명자료를 내며 방어에 나섰으나, 돌아선 민심을 회복하기에는 역부족인 모습입니다. 특히 여권 내에서도 민생 경제 회복을 위한 획기적인 대책 마련이 필요하다는 목소리가 커지고 있습니다.\n\n향후 정부는 하반기 경제 운용 방향에서 물가 안정과 내수 활성화에 총력을 기울여야 할 것으로 보입니다. 여론의 부정적 인식을 반전시키지 못할 경우 국정 동력 자체가 약화될 수 있다는 우려가 나오고 있습니다.",
+            "image_prompt": "Public opinion poll graph, government building, disappointed citizens, economic statistics document, downward arrow.",
+            "published_at": "2026-10-10 20:52:04",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "증시 덮칠 '진짜 공포', 고물가 속 기준금리 추가 인상 우려",
+            "source": "한국경제/더스쿠프",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QkdqMWxXQ3RjRkxKSXYwbzIwOVFkc2doS18yaUt5bUlHS1J6Wm5VOG9GelhsMXZHTHNCc2RIQm1PZktuMXRld3hwdjUwX0pRMk40dl8xYkhaZw?oc=5",
+            "category": "시장",
+            "summary": "표면적인 주가 등락보다 더 무서운 '실질적 경기 침체' 공포가 증시를 압박하고 있으며, 금리 인상 가능성이 상존하고 있습니다.",
+            "content": "최근 국내외 증시 변동성이 커지는 가운데, 증권가에서는 단순한 지수 하락보다 더 깊은 곳에 있는 '실질적 공포'에 주목해야 한다고 경고합니다. 이는 인플레이션이 기대만큼 빠르게 잡히지 않으면서 발생하는 스테그플레이션(경기 침체 속 물가 상승)의 징조를 의미합니다.\n\n특히 한국은행과 미국 연방준비제도(Fed)의 10월 금리 결정이 초미의 관심사입니다. 잡히지 않는 물가를 잡기 위해 기준금리를 추가로 인상할 가능성이 제기되면서, 시장은 긴축 모드 지속에 따른 유동성 위축을 우려하고 있습니다. KOSPI가 최근 5%대 하락을 보인 것도 이러한 심리가 반영된 결과입니다.\n\n기업들의 실적 전망도 낙관적이지 않습니다. 고금리 환경에서 이자 부담이 늘어난 기업들의 투자 위축과 소비심리 저하는 결국 기업 이익 감소로 이어지며 증시 하방 압력을 가중시키고 있습니다. 투자자들 사이에서는 '지금이 바닥이 아닐 수 있다'는 신중론이 확산되고 있습니다.\n\n전문가들은 당분간 변동성 장세가 지속될 것으로 보며, 실적 중심의 방어주 위주로 포트폴리오를 재편할 것을 권고합니다. 또한 다음 주 발표될 주요 경제 지표들을 확인하며 리스크 관리에 만전을 기해야 할 시점입니다.",
+            "image_prompt": "Stock market trading floor, panic selling, interest rate percentage icon, red neon graph, financial crisis shadow.",
+            "published_at": "2026-10-10 20:52:04",
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "IMF 한국 성장률 전망 수정치 발표 및 다음 주 고용 지표 주목",
+            "source": "연합뉴스/매일경제",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lS0hjTHRibGxTR0VYU25iTE9qS0xpclRTMW5EZ3o3NlM3dV9DZVF6YnZxYWpwWHRNSUxoTko4Tll1Ukktc1Bic1hBdmJLczNCTklVMzFBdV9aRHV1SVUwadIBYEFVX3lxTE9lS0hjTHRibGxTR0VYU25iTE9qS0xpclRTMW5EZ3o3NlM3dV9DZVF6YnZxYWpwWHRNSUxoTko4Tll1Ukktc1Bic1hBdmJLczNCTklVMzFBdV9aRHV1SVUwaQ?oc=5",
+            "category": "거시",
+            "summary": "국제통화기금(IMF)이 한국의 경제 성장률 전망치를 조정할 예정인 가운데, 고용 시장의 변화 수치에 시장의 이목이 집중됩니다.",
+            "content": "국제통화기금(IMF)이 다음 주 한국의 경제 성장률 전망 수정치를 발표할 예정입니다. 글로벌 경기 둔화와 반도체 업황의 불확실성이 여전한 가운데, IMF가 한국의 성장 엔진이 제대로 작동하고 있는지 어떤 진단을 내릴지가 향후 정부 정책 방향의 가늠자가 될 것으로 보입니다.\n\n이와 동시에 통계청은 9월 고용동향을 발표합니다. 취업자 수 증가폭이 얼마나 유지될지, 혹은 내수 부진의 영향으로 고용 시장이 위축되었을지가 관전 포인트입니다. 고용은 내수 소비와 직결되는 만큼, 고용 지표가 악화될 경우 경기 침체에 대한 우려는 더욱 증폭될 수 있습니다.\n\n성장률 전망치가 하향 조정될 경우 외인 투자자들의 자금 유출 가능성도 배제할 수 없습니다. 따라서 이번 발표는 단순한 수치 변화를 넘어 한국 경제에 대한 대외 신인도와 직결되는 중대한 이벤트로 평가받고 있습니다.\n\n정부와 한국은행은 이러한 대외 기관의 평가와 지표를 바탕으로 연말 경기 부양책이나 통화 정책의 강도를 조절할 것으로 예상됩니다. 지표 결과에 따라 시장의 변동성이 확대될 수 있으므로 선제적인 대응이 필요합니다.",
+            "image_prompt": "IMF building, South Korea flag, economic growth chart, job seekers at a fair, business statistics.",
+            "published_at": "2026-10-10 20:52:04",
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "정부, CPTPP 가입 검토 공식화하며 글로벌 경제 영토 확장 모색",
+            "source": "한국무역협회-KITA.NET",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamFCclhWNTBlMUk4NElPNWJUTnRsYUhSRkVWeURRTTM0SDR3MnNNYnZyVC1HVFV6ZTlqNG1wNXpYaGMxUFA0R2Y4QS14V2Y5SC1YWkZEWmQtTGt0VGwwSllwQjdrcjFOX0pQQWRZTllFeUNJODhOYnRpMG51R2FSeXJac3hzMUt2Qmx4MA?oc=5",
+            "category": "무역",
+            "summary": "정부가 메가 FTA인 환태평양경제동반자협정(CPTPP) 가입을 위한 본격적인 검토를 공식화하며 통상 전략을 강화하고 있습니다.",
+            "content": "정부가 환태평양경제동반자협정(CPTPP) 가입 검토를 공식화하며 통상 강국으로서의 입지를 다지기 위한 행보를 가속화하고 있습니다. CPTPP는 일본, 호주, 캐나다 등 11개국이 참여하는 거대 경제 블록으로, 가입 시 우리나라의 수출 시장 다변화에 큰 도움이 될 것으로 기대됩니다.\n\n하지만 농수산물 시장 개방에 따른 국내 농어민들의 반발과 환경·노동 기준 준수 등 해결해야 할 과제도 만만치 않습니다. 정부는 가입에 따른 득실을 면밀히 분석하고 이해관계자들과의 충분한 소통을 거쳐 사회적 합의를 끌어내겠다는 방침입니다.\n\n글로벌 공급망이 재편되고 보호무역주의가 강화되는 상황에서 CPTPP 가입은 우리나라가 아시아-태평양 지역의 경제 통합 흐름에서 소외되지 않기 위한 전략적 선택으로 보입니다. 특히 일본과의 경제 협력 강화 측면에서도 중요한 의미를 갖습니다.\n\n향후 가입 절차가 본격화되면 국내 산업 전반에 걸친 구조 개편이 뒤따를 것으로 보입니다. 정부는 피해가 예상되는 업종에 대한 지원책을 마련하는 한편, 신산업 분야의 진출 기회를 극대화할 수 있는 전략을 수립해야 할 것입니다.",
+            "image_prompt": "Global trade map, cargo container ship, international flags, handshake symbol, economic integration concept.",
+            "published_at": "2026-10-10 20:52:04",
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "원·엔 환율 18년만에 최저, 원화 강세와 엔저의 배경",
             "source": "경향신문",
