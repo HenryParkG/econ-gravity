@@ -1,44 +1,94 @@
 {
-    "last_updated": "2026-11-16 13:38:12",
+    "last_updated": "2026-11-16 23:40:31",
     "briefing": "AI 브리핑을 생성하는 중 오류가 발생했습니다. API 설정을 확인해 주세요.",
     "indices": [
         {
             "name": "KOSPI",
-            "value": "5,132.65",
-            "change": "▼ 2.98%",
+            "value": "5,100.50",
+            "change": "▼ 3.59%",
             "is_up": false,
             "is_down": true
         },
         {
             "name": "KOSDAQ",
-            "value": "674.04",
-            "change": "▼ 3.66%",
+            "value": "665.65",
+            "change": "▼ 4.86%",
             "is_up": false,
             "is_down": true
         },
         {
             "name": "USD/KRW",
-            "value": "1,335.68",
-            "change": "▲ 0.14%",
+            "value": "1,334.98",
+            "change": "▲ 0.09%",
             "is_up": true,
             "is_down": false
         },
         {
             "name": "NASDAQ",
-            "value": "25,136.27",
-            "change": "▼ 0.91%",
+            "value": "24,780.41",
+            "change": "▼ 1.42%",
             "is_up": false,
             "is_down": true
         },
         {
             "name": "S&P 500",
-            "value": "7,561.67",
-            "change": "▼ 0.40%",
+            "value": "7,493.95",
+            "change": "▼ 0.90%",
             "is_up": false,
             "is_down": true
         }
     ],
     "items": [
+        {
+            "title": "시진핑, APEC 앞두고 광둥 시찰…경제통합·기술 자립 강조 - 동아일보",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zblFWN2RjU0oxU0Z6akVrVlIxeWxLeWIwVHgtZlpiTHBiS1VBQU5tUUlER2I0My1tRURLWEYzOGpFWDhQTVpFOUpDX0VrSlRuQzd1QnlGX01TM0NlVExNTmZJejQxYW1ZdU5NRUZYSGNSeEnSAWZBVV95cUxQN1lOMHZkblBRWTltLXVlbWF6NzZtbjk0ZmF5WjZ1SkFJZVpTeGRjcEc4ZV9xcHZvQTNDZGI5Q0l6anZCbV9OZWRjWEdobWNvRkRwTk9vaWxBWVgtS3ZOeUdzWmEtakE?oc=5",
+            "source": "동아일보",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-16 23:40:31",
+            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "강원도, 경제·환경·사회 균형발전 정책모델 모색 - 뉴시스",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwV1RyT0VVMDg2Snh5RXFEaHFHenRuRlhCb25zWm5LTDlGbHN4Nk05UTNoT1Jrb3V0TVdLRkpCWGo3bU1Gd3V1TXlrSDlvUzVnNEZBZnFoSkVKVFlCRXpLUNIBeEFVX3lxTE0tNUJaWHg0VVFQVzdJZHBhTnZCbXBwSzEtQ2o1Sk52UHBfZGRKZ1AzQ2JyYTRPRUNkS1BnRXE5MlZlaHg3RzNaYThsVVBWWndfQ05UN2UwR1VKVzVNN2F6SmtIVUJ0WWl6Slg5dlA0RTJnUjZ2OTF4Zg?oc=5",
+            "source": "뉴시스",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-16 23:40:31",
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "골드만삭스·모건스탠리,\"내년에도 AI주도 강세장\", 한국 기술주는?\" - 한국경제",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvX0V5bWx2Tjh6aU5VRWxNXzRGaVJjY3hDbV9lSjhYZUx1YWNMM2xUNUFHSUpFVlJnT3hDajRiT0pmeUYzNzJLQzFlbDF5V0s4RjFyb3oxUFlFZw?oc=5",
+            "source": "한국경제",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-16 23:40:31",
+            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "‘1년 내내 축제 중’…주민 참여·경제 효과는 과제 - KBS 뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVjNNYjhKa0RiNEpZX0trSVVBM0tMMWtUaXN1bXlBby1jdEJsaVA0NUpCLUNrcmd2VkQ3U1RoWXY5eEpXRUZHWVhrdE5jZHMyY1o3VW1aUmJCc28?oc=5",
+            "source": "KBS 뉴스",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-16 23:40:31",
+            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "국경절 연휴에도 소비 둔화…中 4분기 첫 경제지표, 시장 기대 밑돌아 - 머니투데이 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VXpHbjdlMjU2NmttS01KSGJOYzF6YlZQVEdfY0dBNy1uSlJiSXNnNkk1T1pUX1g2MVdIaTNGWkFpXzFRVV9Yb2JnaE1nVm1LT2hCekNNMTk1MHJMbUU5bThjYk5Qd3NO0gFuQVVfeXFMTS02SU9ZUl9KNjNHamFHVlAydjA2SkxnTHplNmg5V19kZ1J6UkxDczV5YWVKTTZSWDJ5aHVjOW85ZGl2VjNSYzFqbnF1bGtVdzJjM3JPY2hlUmtDTUNuQmN6S3l3TVNlQ3hGcFNaT2c?oc=5",
+            "source": "머니투데이",
+            "summary": "내용 요약을 불러올 수 없습니다.",
+            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
+            "image_prompt": "Global Economy Technology",
+            "published_at": "2026-11-16 23:40:31",
+            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "[경제읽기] 세무사 수석 부정행위 파장…수능도 감독 비상 - 연합뉴스TV",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FX3RjMnRqZm9iWmJqQUZpclRadjhBV19jQnZBaXdJRVotbmozTFU4VUdBRDVwd3djYWZORmRkODBxN212RHlSVHZ0TWdiMG42bmZURGFLUDlmVU1idVBRUEVqRFpRZjg?oc=5",
@@ -47,7 +97,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-16 13:38:12",
-            "image_url": "https://images.unsplash.com/photo-1611974714028-ac8a49f70659?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경북교육청 유아 경제교육 워크북 전국 최초 보급 - 경북매일",
@@ -57,7 +107,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-16 13:38:12",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"공장에 투입했더니 이럴 수가\"…中 로봇 줄줄이 '굴욕' [차이나 워치] - 한국경제",
@@ -67,7 +117,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-16 13:38:12",
-            "image_url": "https://images.unsplash.com/photo-1579532507581-c9817e27ca0f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "하남 미사, 5성급 호텔로 도시경제 판 바꾼다 - 하남일보",
@@ -77,17 +127,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-16 13:38:12",
-            "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "‘1년 내내 축제 중’…주민 참여·경제 효과는 과제 - KBS 뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVjNNYjhKa0RiNEpZX0trSVVBM0tMMWtUaXN1bXlBby1jdEJsaVA0NUpCLUNrcmd2VkQ3U1RoWXY5eEpXRUZHWVhrdE5jZHMyY1o3VW1aUmJCc28?oc=5",
-            "source": "KBS 뉴스",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-16 13:38:12",
-            "image_url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이형일 부총리, 경제현안간담회서 물가 관리 방안 논의 - 연합뉴스",
@@ -97,7 +137,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 22:24:25",
-            "image_url": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경제현안간담회 개최 - 서울Pn",
@@ -107,7 +147,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 22:24:25",
-            "image_url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "휴일에 머리 맞댄 경제팀…\"물가 관리방안 논의\" - 마켓인",
@@ -117,7 +157,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 22:24:25",
-            "image_url": "https://images.unsplash.com/photo-1535320903710-d9cf98bbb531?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"프랑스·독일마저 무너진다\"…유럽 경제 발목 잡은 '규제의 덫' - 뉴시스",
@@ -127,7 +167,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 22:24:25",
-            "image_url": "https://images.unsplash.com/photo-1526304640152-d4619684e484?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“전격 사임” 젠슨황…혼란 속 눈여겨 볼 진짜 신호는? [경제한방] - KBS 뉴스",
@@ -137,7 +177,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 22:24:25",
-            "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"AI붐 꺼지면 세계경제 휘청\"…글로벌 수출 증가분 최대 80% 편중 - 연합뉴스",
@@ -147,7 +187,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 13:41:41",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"남북통일 아니면 답 없다\"…'벼랑 끝' 비명 터진 업계 - 한국경제",
@@ -157,7 +197,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 13:41:41",
-            "image_url": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "친청, '최민희 감찰'에 최고위 대신 기자회견…빛바랜 李 '경제' 행보 - 전자신문",
@@ -167,7 +207,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 13:41:41",
-            "image_url": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“세수 남으면 빚 갚든지…기금 왜 만드나” 前 경제수장의 쓴소리 - 중앙일보",
@@ -177,7 +217,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-15 13:41:41",
-            "image_url": "https://images.unsplash.com/photo-1554224155-273a743008a3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\" - 한국경제",
@@ -187,7 +227,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-14 21:55:59",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "외교2차관, 내일 방미…한미 경제안보 협력 논의 - 연합뉴스TV",
@@ -197,7 +237,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-14 21:55:59",
-            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니 - 매일경제",
@@ -207,7 +247,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-14 13:49:28",
-            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[서중해의 경제망원경] (70) 분노의 정치, 그 이면엔 경제적 불만 - 주간경향",
@@ -217,7 +257,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-14 13:49:28",
-            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[단독] 美경제석학 로고프 “ AI거품 극적으로 붕괴할것…그래도 한국은 승자” - 매일경제",
@@ -227,7 +267,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-13 22:53:10",
-            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제뭔데]‘젠슨황 스캔들’, 월가 공매도 보고서는 6개월 전 경고했다? - 경향신문",
@@ -237,7 +277,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-13 22:53:10",
-            "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"우상이 떠났다\" 눈물 흘린 직원들…엔비디아 '초상집' 됐다 [영상] - 한국경제",
@@ -247,7 +287,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-13 22:53:10",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "젠슨황 놓고 ‘경제 투톱’ 정면 충돌…결국 트럼프에 폭탄 투하? - 중앙일보",
@@ -257,7 +297,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-13 22:53:10",
-            "image_url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "최태원 SK 회장 \"한일 경제연대 상설 협력 '빅텐트' 준비\" - 머니투데이 - 머니투데이",
@@ -267,7 +307,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-13 13:56:35",
-            "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "AI가 떠받치는 미국 경제…트럼프 ‘엔비디아 리스크’ 외면 - 경향신문",
@@ -277,7 +317,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-13 13:56:35",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제읽기] 젠슨황 결국 불명예 퇴진…AI 반도체 사업 영향은 - 연합뉴스TV",
@@ -287,7 +327,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-13 13:56:35",
-            "image_url": "https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "‘덕후들의 장터’ 뉴욕… 1220억원 경제를 깨웠다 - 조선일보",
@@ -297,7 +337,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-12 23:34:06",
-            "image_url": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"엔비디아 이사회, 젠슨 황 해임 준비\"…시간외 주가 8% 급락 - 한국경제",
@@ -307,7 +347,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-12 23:34:06",
-            "image_url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제읽기] 엔비디아 이사회, 젠슨황 거취 논의…후임은 누구? - 연합뉴스TV",
@@ -317,7 +357,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-12 14:39:40",
-            "image_url": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "이러면 정말 '말짱 황'인데…불륜 의혹 또 터졌다 - 한국경제",
@@ -327,7 +367,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-12 14:39:40",
-            "image_url": "https://images.unsplash.com/photo-1494412574643-35d324698420?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "젠슨황 놓고 ‘경제 투톱’ 정면 충돌…결국 트럼프에 폭탄 투하? - 미주중앙일보",
@@ -337,7 +377,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-12 14:39:40",
-            "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "“민생경제회복 집중, 미래성장동력 확보”···대전시, 8조원대 내년 예산안 편성 - 경향신문",
@@ -347,7 +387,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-12 14:39:40",
-            "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "화성시의회, 완주·전주서 지역경제 해법 ‘골몰’ - 브릿지경제",
@@ -357,7 +397,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-12 14:39:40",
-            "image_url": "https://images.unsplash.com/photo-1478131313025-a1c1d7cc90b8?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡] - 한국경제",
@@ -367,7 +407,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 22:30:22",
-            "image_url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "문경미래발전연구소 “새재 케이블카 경제가치 축소 분석” - 경북일보",
@@ -377,7 +417,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 22:30:22",
-            "image_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[보도설명자료][11.11.수 한국경제] 18억 집 있는 노인도 받는 기초연금 관련 - 대한민국 정책브리핑",
@@ -387,7 +427,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 22:30:22",
-            "image_url": "https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "양주 사회연대경제기업 21곳…경기도 예산 삭감 반발 - 인천일보",
@@ -397,7 +437,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 22:30:22",
-            "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[오건영의 경제읽기미국 국채 금리가 하락한 이유 - 경향신문",
@@ -407,7 +447,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 22:30:22",
-            "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "반도체 호황은 ‘위장된 저주’였나, 5년 후 한국 경제 거대 위기 올 수도 - 조선일보",
@@ -417,7 +457,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 13:35:15",
-            "image_url": "https://images.unsplash.com/photo-1565514020176-dbf2277cc166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "[경제읽기] ’젠슨황 스캔들’ 일파만파…해임 가능성·후계구도는 - 연합뉴스TV",
@@ -427,7 +467,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 13:35:15",
-            "image_url": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "경남창조경제혁신센터 ‘2026 IBK 창공플러스 in 경남’ 성료 - 경남도민일보",
@@ -437,7 +477,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 13:35:15",
-            "image_url": "https://images.unsplash.com/photo-1621370216442-de7e83464166?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"지역경제 버팀목 소상공인 격려\"... 옹진군, 제7회 경영대상 시상식 성황리 개최 - 녹색경제신문",
@@ -447,7 +487,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-11 13:35:15",
-            "image_url": "https://images.unsplash.com/photo-1516245834210-c4c14278733f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "반도체만 웃는 경제…서민 체감 경기는 ’한숨’ - 연합뉴스TV",
@@ -457,7 +497,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-10 23:16:09",
-            "image_url": "https://images.unsplash.com/photo-1550565118-c974fb6255f0?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "금융연 \"내년 한국경제 3.1% 성장…반도체 호황에 내수 회복\" - 연합뉴스",
@@ -467,7 +507,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-10 23:16:09",
-            "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "\"반도체 성장, 민생경제로도 확산…물가 상방 위험 유의\" - 연합인포맥스",
@@ -477,7 +517,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-10 23:16:09",
-            "image_url": "https://images.unsplash.com/photo-1531297461136-820727183187?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
@@ -487,7 +527,7 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-10 23:16:09",
-            "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1024&auto=format&fit=crop"
+            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
         },
         {
             "title": "'고소득' 의사 부부, 병원 나란히 퇴사 알고보니…기막힌 꼼수 - 한국경제",
@@ -497,46 +537,6 @@
             "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
             "image_prompt": "Global Economy Technology",
             "published_at": "2026-11-10 23:16:09",
-            "image_url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "[경제야 놀자]토지세는 정의로운 세금인가? - 생글생글",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEV2VsOFZzT1daVVdRc2I0MnRvX01MYV80TVoxU3lSazkzLU1CNjBPU2g2QlpRSk54ck9vWDFaeUJBMGMxc1RHNUE2S21EUnRCLWhyaEtkMERGNjg?oc=5",
-            "source": "생글생글",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-10 14:51:24",
-            "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "서울대학교 미래경제연구센터, 기업 존재 이유 주제 ‘제3차 월례포럼’ 개최 - 아시아경제",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aRV9hRldnOUJ2ZWtUSWxVeElOLWdXOG1ySTQ2alllSHhkMU03bkpzaTNmVlprUGZiQUJvamwxdXRSNFZLSzRvRURoSEE2RUpKbXotZG5uV05ONHVQbDFSRw?oc=5",
-            "source": "아시아경제",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-10 14:51:24",
-            "image_url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "[경제읽기] 코스피 매수 사이드카…젠슨 황 논란 일파만파 - 연합뉴스TV",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tdXdzTUdUdkJ3MDQ3UVZnSXFVcjRFSFllRVpweFZPbU1oOElLNHd2WjVHQlVjZFAxVDF0Y0tCdmQ4blFDX0ozRTRmVXZxU1JyZHVnZw?oc=5",
-            "source": "연합뉴스TV",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-10 14:51:24",
-            "image_url": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1024&auto=format&fit=crop"
-        },
-        {
-            "title": "“중국은 뛰는데 우리는…” 산업장관만 절박한 한국 경제 - 중앙일보",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKREc0RVZqQVNTSmppdDFIQ1dyUGl2UW5vdTJOMk04OUFaaUkySTdHMGtWcnVtUVlqa1A2a3hWUjhIcGluRS1GUTcyM21sczlVN3BvZi1B?oc=5",
-            "source": "중앙일보",
-            "summary": "내용 요약을 불러올 수 없습니다.",
-            "content": "### AI 리포트 생성 오류\n\n오류 상세: All attempted AI models failed or were overloaded after multiple retries.",
-            "image_prompt": "Global Economy Technology",
-            "published_at": "2026-11-10 14:51:24",
             "image_url": "https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1024&auto=format&fit=crop"
         }
     ]
