@@ -1,6 +1,50 @@
 {
-    "last_updated": "2026-11-19 14:48:22",
+    "last_updated": "2026-11-20 00:11:56",
     "items": [
+        {
+            "title": "[단독] 삼성전자, ‘차세대 HBM’ TSMC와 함께 만든다",
+            "source": "서울경제",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3WldhTWZaaEVTWHNENi1FYXF3OERPQmN2ekIxMjhZd044R0dldVNDNkQzZ05lU3IxY253aGVXMV82U0xfT0dtM1lEV1duLU1PMmfSAVNBVV95cUxOUUpRSU10YXg2LXh0MDRsMEt0WGtveGNqVXJOSmJ2c3N5NHpXYTZvM0Z3TTAxZ2xmT01NRXdTRHlVVjhzTUxURFYtalpYWEFlcW9RUQ?oc=5",
+            "category": "테크",
+            "summary": "삼성전자가 차세대 고대역폭메모리(HBM) 생산을 위해 경쟁사인 TSMC와 손을 잡습니다.",
+            "content": "삼성전자가 차세대 고대역폭메모리인 HBM4(6세대) 개발 및 생산을 위해 세계 최대 파운드리 업체인 대만 TSMC와 파트너십을 체결했습니다. 이는 그동안 메모리부터 파운드리까지 독자적으로 수행하던 삼성전자의 '원스톱 솔루션' 전략에서 벗어난 파격적인 행보로 풀이됩니다.\n\n최근 AI 반도체 시장의 주도권을 쥐고 있는 엔비디아 등 고객사들이 더욱 고도화된 성능을 요구함에 따라, 삼성전자는 자사의 메모리 기술력에 TSMC의 정교한 파운드리 공정을 결합하기로 결정했습니다. 특히 HBM의 핵심인 로직 다이(Logic Die) 생산에서 TSMC의 공정을 활용함으로써 성능과 전력 효율을 극대화할 계획입니다.\n\n업계에서는 이번 협력을 '적과의 동침'이자 생존을 위한 필연적 선택으로 보고 있습니다. HBM 시장에서 SK하이닉스에 밀리고 있는 삼성전자가 글로벌 생태계와의 협업을 통해 반전의 기회를 모색하는 것으로 보입니다. 이번 협력이 가시화될 경우 글로벌 AI 반도체 공급망에 큰 지각변동이 예상됩니다.",
+            "image_prompt": "Semiconductor chip, Samsung and TSMC collaboration, HBM4 technology, futuristic AI hardware, neon blue circuitry",
+            "published_at": "2026-10-20 12:16:47",
+            "image_url": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "李대통령 \"韓 경제 기초체력 극적 반전…40여년만 반가운 소식\"",
+            "source": "연합뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fY3dQOXl6cndUTW1FSGl2QnhhTzlJanMwMTY1bW9zS3l1VmRRU21fV3lucVI2b3NNbjQxZTNsV0k4UVloMFN5NDNIa3lpT1l5Rk5rQl9jU1NFTFXSAWBBVV95cUxQMi14eXFIR1psck55Z05WM2NXZ2M3cUMzal9oX2J6S1hMSkxSZElUNUZ0Mm5semVweTZHb3ppTHo0TDBjQ0ZtV0VIalJGUXY3Zk9KVVAyMUFRSDFLUWJ6d2Y?oc=5",
+            "category": "정책",
+            "summary": "잠재성장률이 2년 연속 반등하며 한국 경제의 펀더멘털 회복 신호가 감지되었습니다.",
+            "content": "정부는 최근 한국 경제의 잠재성장률이 2년 연속으로 반등한 것에 대해 경제의 기초체력이 살아나고 있다는 긍정적인 평가를 내놓았습니다. 이는 약 40여 년 만에 나타난 고무적인 현상으로, 하락 일변도였던 한국 경제의 성장 잠재력이 바닥을 다지고 올라오고 있음을 시사합니다.\n\n대통령은 이번 지표 반전이 규제 혁신과 수출 회복, 그리고 민간 주도의 경제 정책이 거둔 성과라고 강조했습니다. 특히 고금리와 글로벌 공급망 위기 속에서도 한국 기업들의 경쟁력이 유지되면서 경제 전반의 효율성이 개선된 것이 주요 원인으로 분석됩니다.\n\n다만 이러한 지표상의 반등이 일반 국민들이 체감하는 경기 회복으로 이어지기까지는 시간이 더 필요하다는 지적도 나옵니다. 정부는 이번 반등 흐름을 장기적인 성장 동력으로 굳히기 위해 구조 개혁과 신산업 육성에 더욱 박차를 가할 계획임을 밝혔습니다.",
+            "image_prompt": "Economic growth graph, upward trend arrow, South Korea flag background, modern Seoul skyline, professional atmosphere",
+            "published_at": "2026-10-20 12:16:47",
+            "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "트럼프 지지율 33% ‘최저’…경제 신뢰도, 12년 만에 민주당에 역전",
+            "source": "경향신문",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbFJTVDlCOWdpUHlIYWJqZjFZSFZ3bzZOUjNjaHZIQmU0dU9pWXNmTERxM2NHUm1zS3lwYy1WMzVEUU5EbFByMGl1YlBBcUVHX1lnSzc0ejEwZ9IBX0FVX3lxTE14XzNubU9uRWxNYnUtVUFZcjY3em4xenY0d0NDbVItaGhEUFhoQ2VWZ0VtZnBFNDBkTmhqb3pVRFIwY0pZOVlQd0pmNmNNeGdvQzlRN00yS3JuOEhqdjhB?oc=5",
+            "category": "글로벌",
+            "summary": "미국 대선을 앞두고 트럼프 전 대통령의 경제 정책에 대한 신뢰도가 급감하며 지지율이 최저치를 기록했습니다.",
+            "content": "미국 중간선거와 대선을 앞둔 상황에서 도널드 트럼프 전 대통령의 지지율이 33%라는 역대 최저 수준으로 떨어졌습니다. 특히 주목할 만한 점은 트럼프의 최대 강점으로 꼽혔던 '경제 정책'에 대한 신뢰도가 12년 만에 민주당에 역전당했다는 사실입니다.\n\n유권자들은 트럼프 전 대통령의 과격한 관세 정책과 보호무역주의가 오히려 미국의 물가 상승을 부추기고 경제적 불안정성을 높일 수 있다는 우려를 나타내고 있습니다. 반면, 현 정부의 인플레이션 대응과 고용 지표 유지 노력이 상대적으로 긍정적인 평가를 받기 시작한 것으로 보입니다.\n\n이러한 민심의 변화는 향후 미국 대선 가도에 큰 변수가 될 전망입니다. 경제 문제가 대선의 핵심 의제인 만큼, 공화당 내에서도 경제 메시지의 전면적인 수정이 필요하다는 목소리가 나오고 있습니다. 한국을 포함한 글로벌 시장 또한 미국의 정책 변화 가능성에 촉각을 곤두세우고 있습니다.",
+            "image_prompt": "US Presidential election, polling statistics, ballot box, financial chart, democratic vs republican colors",
+            "published_at": "2026-10-20 12:16:47",
+            "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1024&auto=format&fit=crop"
+        },
+        {
+            "title": "중러 \"핵에너지·우주항공 협력 강화…디지털경제로 확대\"",
+            "source": "뉴스1",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjdXhudkpzVVQ2V2tja0dGOU5vWjRsUkJEQUVKQkpENGJDbHFUZVJwTmJISkdseUxiTlhrekhEMjRiVzF2Z0lnUnBBM3FQMUpZXzBCZVhVeGpINGRTV1E?oc=5",
+            "category": "금융",
+            "summary": "중국과 러시아가 에너지와 우주 산업을 넘어 디지털 경제 분야까지 협력을 대폭 강화하기로 했습니다.",
+            "content": "중국과 러시아가 서방의 경제 제재에 맞서 전략적 동맹 관계를 더욱 공고히 하고 있습니다. 양국은 핵에너지 발전과 우주항공 기술 협력을 심화하기로 합의했으며, 이를 인공지능(AI)과 빅데이터를 포함한 디지털 경제 전반으로 확대하기로 했습니다.\n\n이번 협력은 단순히 자원 거래를 넘어 첨단 기술 생태계를 공동으로 구축하겠다는 의지로 풀이됩니다. 특히 결제 시스템의 디지털화와 독자적인 기술 표준 마련을 통해 달러 패권에서 벗어난 독자적인 경제권 형성을 가속화할 것으로 보입니다.\n\n국제 사회는 이러한 중·러의 밀착이 글로벌 공급망 파편화를 심화시킬 것으로 우려하고 있습니다. 특히 우주 및 디지털 기술의 군사적 전용 가능성 때문에 안보적 긴장감도 높아지는 상황입니다. 양국의 기술 동맹이 글로벌 경제 질서에 어떤 장기적인 영향을 미칠지 귀추가 주목됩니다.",
+            "image_prompt": "China Russia strategic alliance, satellite in space, digital network nodes, nuclear energy symbol, global geopolitics",
+            "published_at": "2026-10-20 12:16:47",
+            "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1024&auto=format&fit=crop"
+        },
         {
             "title": "[단독] 장사 접은 자영업자들, 빚만 21조 남았다 - 매일경제",
             "source": "매일경제",
